@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="@sergecpp_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7019768dad371f607dcc67e5e8502f5e</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="@sergecpp_mailinglists.json" source="original">
+    <mtime>1725567804</mtime>
+    <size>321</size>
+    <md5>dbdeaaea9a0e0ac4c7e642aecfda977e</md5>
+    <crc32>a83715c8</crc32>
+    <sha1>f9d2f2fd4f2d5fc5a2d4246f2dd0f5ea66c046e3</sha1>
+    <format>Mailing Lists JSON</format>
+    <private>true</private>
+  </file>
+  <file name="@sergecpp_meta.sqlite" source="original">
+    <mtime>1562002555</mtime>
+    <size>6144</size>
+    <format>Metadata</format>
+    <md5>059352bed59d8674c3439aa6f8609a05</md5>
+    <crc32>5f869f2a</crc32>
+    <sha1>a89eabba900d146c0599c7539ab0b788cf70d7fb</sha1>
+  </file>
+  <file name="@sergecpp_meta.xml" source="original">
+    <mtime>1736831302</mtime>
+    <size>780</size>
+    <format>Metadata</format>
+    <md5>4693a6539920bd2c7601ca95f0d0ffd9</md5>
+    <crc32>655f1f28</crc32>
+    <sha1>87b8008f4b3ee2e03051ff4885ef8175dc5a819b</sha1>
+  </file>
+  <file name="@sergecpp_mylists.json" source="original">
+    <mtime>1709376069</mtime>
+    <size>717</size>
+    <md5>937678504162550f8e4458dd1a4876a7</md5>
+    <crc32>fbe83cd7</crc32>
+    <sha1>6261a88b6083ac99635a2b7b33af72252cd57e1e</sha1>
+    <format>My Lists JSON</format>
+    <private>true</private>
+  </file>
+  <file name="@sergecpp_web-archive.json" source="original">
+    <mtime>1728547520</mtime>
+    <size>1133885</size>
+    <format>Web Archive JSON</format>
+    <md5>cfcf1a5db4954584c4d4d679a246b936</md5>
+    <crc32>d5f7f7ad</crc32>
+    <sha1>20a86af7c0250995c8785865ad0387c5c1feb8e2</sha1>
+  </file>
+  <file name="S_cpp150.jpg" source="original">
+    <mtime>1562002551</mtime>
+    <size>24152</size>
+    <md5>64510eaa498093ba08a96648ba5bd2a1</md5>
+    <crc32>2c32fead</crc32>
+    <sha1>fada66ed867d721f012f3c781dd6a6c5c9b9905f</sha1>
+    <format>Item Image</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1618382614</mtime>
+    <size>13227</size>
+    <md5>81c47d41136f3f17d8563ae62a2bede7</md5>
+    <crc32>d13ba439</crc32>
+    <sha1>a4174da1ff44c4ab1f80903e215d7e2de49212f0</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
