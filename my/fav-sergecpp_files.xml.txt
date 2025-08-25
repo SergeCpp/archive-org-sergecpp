@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1651851973</mtime>
+    <size>13227</size>
+    <md5>81c47d41136f3f17d8563ae62a2bede7</md5>
+    <crc32>d13ba439</crc32>
+    <sha1>a4174da1ff44c4ab1f80903e215d7e2de49212f0</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="fav-sergecpp_archive.torrent" source="metadata">
+    <btih>fbcf750ab8ef7ff4cbbb3c1730c1b65ae0b4e347</btih>
+    <mtime>1702262405</mtime>
+    <size>2961</size>
+    <md5>c57d289e7f8d9e24679f7fb024c5577f</md5>
+    <crc32>70d9f0ec</crc32>
+    <sha1>f03607d63907048df139b2c4d07705cd46e49afe</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="fav-sergecpp_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>252febfcb30e08410c0873db6f1eddce</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="fav-sergecpp_itemimage.jpg" source="original">
+    <mtime>1602737540</mtime>
+    <size>24152</size>
+    <md5>64510eaa498093ba08a96648ba5bd2a1</md5>
+    <crc32>2c32fead</crc32>
+    <sha1>fada66ed867d721f012f3c781dd6a6c5c9b9905f</sha1>
+    <format>Item Image</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="fav-sergecpp_members.json" source="original">
+    <mtime>1702262403</mtime>
+    <size>2164</size>
+    <md5>7b83626b265b0dde005352bc66d7626e</md5>
+    <crc32>789828f1</crc32>
+    <sha1>b5de80fc8eb6d9dcee139e5f1a1f4574570ceabb</sha1>
+    <format>JSON</format>
+  </file>
+  <file name="fav-sergecpp_meta.sqlite" source="original">
+    <mtime>1699600978</mtime>
+    <size>12288</size>
+    <md5>caeb02732b2be3ad2a2fd20cd5ee8903</md5>
+    <crc32>19a9c6db</crc32>
+    <sha1>a63f8eb65f17628c7c6b9512635716c6735f5ada</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="fav-sergecpp_meta.xml" source="original">
+    <mtime>1674789698</mtime>
+    <size>809</size>
+    <format>Metadata</format>
+    <md5>005f0ce37bf09f86ce6839d37d85f27c</md5>
+    <crc32>589408b0</crc32>
+    <sha1>92d41c9319a2e67141a45885a4ad57d81e0766c3</sha1>
+  </file>
+  <file name="flowers-apple-2008-09-29-360x270.jpg" source="original">
+    <mtime>1674788342</mtime>
+    <size>63535</size>
+    <md5>30ac01942eed05bac020406398f6eebb</md5>
+    <crc32>b08f1c6c</crc32>
+    <sha1>f4f99af2ce7d4d9fad45a34b28e7dd887e5c64ac</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="flowers-apple-2008-09-29-360x270_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>flowers-apple-2008-09-29-360x270.jpg</original>
+    <mtime>1674788689</mtime>
+    <size>7775</size>
+    <md5>31cae114ff083cb280035c2368607a9a</md5>
+    <crc32>cf18ddbc</crc32>
+    <sha1>f1a73cf57e004f2e9330c1ce64d3ec91a01c147b</sha1>
+  </file>
+  <file name="flowers-apple-2008-09-29-640x480.jpg" source="original">
+    <mtime>1674788348</mtime>
+    <size>71386</size>
+    <md5>02cc75af9670c1c3d868d7aca89fd4d0</md5>
+    <crc32>79e0fc72</crc32>
+    <sha1>0b4cf0ae33f87af0dca1b6b26ed9a26c4e7e355c</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="flowers-apple-2008-09-29-640x480_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>flowers-apple-2008-09-29-640x480.jpg</original>
+    <mtime>1674788691</mtime>
+    <size>7846</size>
+    <md5>649578f07011cfaed151b35632bf2ba6</md5>
+    <crc32>b45d4476</crc32>
+    <sha1>f212744e46f0822905b77dc796afb377856528be</sha1>
+  </file>
+  <file name="history/files/S_cpp150.jpg.~1~" source="original">
+    <mtime>1562006524</mtime>
+    <size>24152</size>
+    <md5>64510eaa498093ba08a96648ba5bd2a1</md5>
+    <crc32>2c32fead</crc32>
+    <sha1>fada66ed867d721f012f3c781dd6a6c5c9b9905f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+    <old_version>true</old_version>
+  </file>
+</files>
