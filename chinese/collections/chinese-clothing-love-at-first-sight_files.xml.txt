@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1711063061</mtime>
+    <size>19314</size>
+    <md5>b8b581a7fcf6a9686dfa8765269b0b97</md5>
+    <crc32>69d0b508</crc32>
+    <sha1>32adba882caf433b90b90259a50f2fed4f378b3c</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="chinese-clothing-360x225.jpg" source="original">
+    <mtime>1711064171</mtime>
+    <size>59854</size>
+    <md5>5fea1590a88335801aee54c4bea23a0d</md5>
+    <crc32>259db591</crc32>
+    <sha1>4a8fcaf741aa0ea1a43b9f41dae56205655a8f0d</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="chinese-clothing-360x225_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>chinese-clothing-360x225.jpg</original>
+    <mtime>1711064348</mtime>
+    <size>8100</size>
+    <md5>4a5af84474a6b726a0791cf47e4d9840</md5>
+    <crc32>a904079b</crc32>
+    <sha1>ccfb3eaba7b29f2ba41b55cf8c30883762653a72</sha1>
+  </file>
+  <file name="chinese-clothing-600x600.jpg" source="original">
+    <mtime>1711064226</mtime>
+    <size>170036</size>
+    <md5>18722dff88cd49c05f85618412c5a1d9</md5>
+    <crc32>c0134d2e</crc32>
+    <sha1>4e4e34e39e8258ba467775635c8d7c3ddf044746</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="chinese-clothing-600x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>chinese-clothing-600x600.jpg</original>
+    <mtime>1711064351</mtime>
+    <size>10005</size>
+    <md5>13254f4b612a856227331b9a7c5bf938</md5>
+    <crc32>58f015f6</crc32>
+    <sha1>53a8c27f7eb8134c3c82fb654e6711f785663b09</sha1>
+  </file>
+  <file name="chinese-clothing-960x600.png" source="original">
+    <mtime>1711064292</mtime>
+    <size>893411</size>
+    <md5>fc305f36b189f72cdcf4068697ed6658</md5>
+    <crc32>51579781</crc32>
+    <sha1>824e91eb8b2fbb2af828fc90d781023d0584a7f3</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="chinese-clothing-960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>chinese-clothing-960x600.png</original>
+    <mtime>1711064344</mtime>
+    <size>7929</size>
+    <md5>f4c0f29dd110177f10bd950f12d53fb3</md5>
+    <crc32>01b1da41</crc32>
+    <sha1>9b6e89601797074632466ec9af6686557ee80fa0</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight_archive.torrent" source="metadata">
+    <btih>e5eb2a3eb5ed38ebc42f5b439442640d3898e36f</btih>
+    <mtime>1735432152</mtime>
+    <size>3382</size>
+    <md5>a250cc4f60a10fc9d649a9fb8b8723d4</md5>
+    <crc32>83b4db8f</crc32>
+    <sha1>81b3826747c8cebbe185509e16e3166a9d7a4dd5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>92cbf68451716a71c8a608b852a679a4</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight_itemimage.jpg" source="original">
+    <mtime>1711063045</mtime>
+    <size>170036</size>
+    <md5>18722dff88cd49c05f85618412c5a1d9</md5>
+    <crc32>c0134d2e</crc32>
+    <sha1>4e4e34e39e8258ba467775635c8d7c3ddf044746</sha1>
+    <format>Item Image</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight_meta.sqlite" source="original">
+    <mtime>1711064306</mtime>
+    <size>28672</size>
+    <md5>d0ccb4b760f86c815963b0e37af9c9a2</md5>
+    <crc32>585a5900</crc32>
+    <sha1>643d442c22cf896454a5e634ffc70b98cfc72303</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight_meta.xml" source="original">
+    <mtime>1735432151</mtime>
+    <size>4220</size>
+    <md5>54313f28e123f4eb233f2f167ac667c5</md5>
+    <crc32>b11c49af</crc32>
+    <sha1>30c79b86135461ec93d53a7e63796eefd5a7f938</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="start-text.txt" source="original">
+    <mtime>1663278782</mtime>
+    <size>17</size>
+    <md5>b0a469a0a7e00a4ddd3011c29de2b82b</md5>
+    <crc32>a3fe3518</crc32>
+    <sha1>7443573a99ce0854bd33385cafdaf610e6fdc18b</sha1>
+    <format>Text</format>
+  </file>
+</files>

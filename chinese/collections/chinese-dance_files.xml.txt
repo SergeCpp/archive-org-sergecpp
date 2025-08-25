@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1728246600</mtime>
+    <size>18393</size>
+    <md5>52e88b5ee9c9f3af3946de39be63a6cb</md5>
+    <crc32>fe0d385b</crc32>
+    <sha1>52929e16b6fd9ab86d2ddf8f1c0801b2559f5e5a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="chinese-dance-1900x1900.png" source="original">
+    <mtime>1728233864</mtime>
+    <size>3949089</size>
+    <md5>518401c86d14ce208feb198b33d512e7</md5>
+    <crc32>fbbed4aa</crc32>
+    <sha1>719b17cf4092abd0defb48566bb780d966403c2d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="chinese-dance-1900x1900_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>chinese-dance-1900x1900.png</original>
+    <mtime>1728234377</mtime>
+    <size>9488</size>
+    <md5>bbfeed6067f5e89143be03702ba06dfe</md5>
+    <crc32>3fcdd617</crc32>
+    <sha1>55c056988ed883f6717052cf3cfa773d674c2d21</sha1>
+  </file>
+  <file name="chinese-dance-3040x1900.png" source="original">
+    <mtime>1728240556</mtime>
+    <size>6039545</size>
+    <md5>6cddffcd038b8c148cf7c938ed34c60a</md5>
+    <crc32>3aac5d55</crc32>
+    <sha1>7047b8437376fffd2e9ed80d16fc3204807bc816</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="chinese-dance-3040x1900_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>chinese-dance-3040x1900.png</original>
+    <mtime>1728240733</mtime>
+    <size>7690</size>
+    <md5>56d93c7e2fce94332f2712406c71ae97</md5>
+    <crc32>97b6f151</crc32>
+    <sha1>03637951c75fec9076f6034a52c125289a937b3f</sha1>
+  </file>
+  <file name="chinese-dance-360x225.jpg" source="original">
+    <mtime>1728245630</mtime>
+    <size>75441</size>
+    <md5>620e74aee6143090e888e65b3304b8e4</md5>
+    <crc32>8184a8fa</crc32>
+    <sha1>87555c8f743d82340cf014792e1d1aa249cbb033</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="chinese-dance-360x225_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>chinese-dance-360x225.jpg</original>
+    <mtime>1728245698</mtime>
+    <size>7893</size>
+    <md5>3e27ce537e73c6bad4979f2fcac93fb6</md5>
+    <crc32>ccab7463</crc32>
+    <sha1>5cfcbffd34161307a5d001c279025e77c3289da5</sha1>
+  </file>
+  <file name="chinese-dance-950x950.jpg" source="original">
+    <mtime>1728247007</mtime>
+    <size>468260</size>
+    <md5>d1ec0692d633cf19d91bff74774ff6e1</md5>
+    <crc32>515aa3da</crc32>
+    <sha1>c9bdf68161a293c6139a936eed31257b866094ba</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="chinese-dance-950x950_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>chinese-dance-950x950.jpg</original>
+    <mtime>1728247063</mtime>
+    <size>9764</size>
+    <md5>c8bcf4b5f3321e80f750be1f9e21c841</md5>
+    <crc32>fbecee62</crc32>
+    <sha1>8fadfff15e064639cec84423e16fc694f14ef88a</sha1>
+  </file>
+  <file name="chinese-dance_archive.torrent" source="metadata">
+    <btih>9ebc03c66b8e114999b64944f07085e425d00d62</btih>
+    <mtime>1742387016</mtime>
+    <size>5383</size>
+    <md5>4bcb2f1af2081a8ceff7dd84414a76fa</md5>
+    <crc32>31af495a</crc32>
+    <sha1>94a654d5df182e84e2c5a115b1422482fef990a5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="chinese-dance_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>10f50a133f5748e24ec8f5820b7001f6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="chinese-dance_itemimage.jpg" source="original">
+    <mtime>1728246595</mtime>
+    <size>468260</size>
+    <md5>d1ec0692d633cf19d91bff74774ff6e1</md5>
+    <crc32>515aa3da</crc32>
+    <sha1>c9bdf68161a293c6139a936eed31257b866094ba</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="chinese-dance_meta.sqlite" source="original">
+    <mtime>1728247011</mtime>
+    <size>36864</size>
+    <md5>ede1369b50f5ebd32657c08001c565ad</md5>
+    <crc32>483b3603</crc32>
+    <sha1>5acc2e5a69b5220117e058be2183f130b935b6c9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="chinese-dance_meta.xml" source="original">
+    <mtime>1742387014</mtime>
+    <size>31607</size>
+    <md5>2b4fc10e533a8c24f0c74416afa88c4c</md5>
+    <crc32>ac64bac1</crc32>
+    <sha1>3bd036c77c41d38cde1d90cd9a543bbbb76f1a92</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="flowers-and-the-moon-180x180.jpg" source="original">
+    <mtime>1695827276</mtime>
+    <size>33803</size>
+    <md5>6fe108d54b2e8e5a3edb46473446c413</md5>
+    <crc32>db8ca21a</crc32>
+    <sha1>5e502b56821bbc993fe54b089927b6e00900f19b</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="flowers-and-the-moon-180x180_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>flowers-and-the-moon-180x180.jpg</original>
+    <mtime>1695827780</mtime>
+    <size>10406</size>
+    <md5>a75c36570899b47a471bec9a1b92b0bd</md5>
+    <crc32>435981bb</crc32>
+    <sha1>56dd9ee7daaaa2222b3aa824401cca103ba9fa3e</sha1>
+  </file>
+  <file name="flowers-and-the-moon-720x720.jpg" source="original">
+    <mtime>1695827289</mtime>
+    <size>277442</size>
+    <md5>c498e8241799ee54f1bcb892ba3c9d2e</md5>
+    <crc32>abe43f8a</crc32>
+    <sha1>5c4e43c1a0cd1663e37f084a10c52326f14fb77a</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="flowers-and-the-moon-720x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>flowers-and-the-moon-720x720.jpg</original>
+    <mtime>1695827783</mtime>
+    <size>10584</size>
+    <md5>b00a76cdd38b99a94c6a4473332c48db</md5>
+    <crc32>2235333e</crc32>
+    <sha1>760c5fd79177dc839fa79190fe5695888483b86a</sha1>
+  </file>
+  <file name="ronin-pipa-180x180.jpg" source="original">
+    <mtime>1695827292</mtime>
+    <size>25078</size>
+    <md5>2dd932aa75b1d22c929e77f9c1c066d5</md5>
+    <crc32>c162303f</crc32>
+    <sha1>9f8274c759fb4728d2a2ff87f0bf582f94f7fb92</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ronin-pipa-180x180_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>ronin-pipa-180x180.jpg</original>
+    <mtime>1695827786</mtime>
+    <size>9428</size>
+    <md5>e740015f6351829246af90679949c0dc</md5>
+    <crc32>b1ad1eb2</crc32>
+    <sha1>9ff5a02f37dc9e71a1e0535697936ec21b958cad</sha1>
+  </file>
+  <file name="ronin-pipa-720x720.jpg" source="original">
+    <mtime>1695827300</mtime>
+    <size>197907</size>
+    <md5>3b5be0521fc61381d5155d07423ed571</md5>
+    <crc32>1f9a30c8</crc32>
+    <sha1>1e87958973568d3c6069745f40db32b4cba88405</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ronin-pipa-720x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>ronin-pipa-720x720.jpg</original>
+    <mtime>1695827788</mtime>
+    <size>9919</size>
+    <md5>b012905f587188773c7f6ca9f922e795</md5>
+    <crc32>9c733f55</crc32>
+    <sha1>a18ad7526086808dadf52001b8cd957bd27e876f</sha1>
+  </file>
+  <file name="start-text.txt" source="original">
+    <mtime>1662387212</mtime>
+    <size>17</size>
+    <md5>b0a469a0a7e00a4ddd3011c29de2b82b</md5>
+    <crc32>a3fe3518</crc32>
+    <sha1>7443573a99ce0854bd33385cafdaf610e6fdc18b</sha1>
+    <format>Text</format>
+  </file>
+</files>
