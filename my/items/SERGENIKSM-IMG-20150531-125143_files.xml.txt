@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="IMG_20150531_125143.jpg" source="original">
+    <mtime>1526898331</mtime>
+    <size>958631</size>
+    <md5>8be00bec3640ec73fad6d08efe7b098a</md5>
+    <crc32>99010aff</crc32>
+    <sha1>a99fbd8f51b3078242dc4f23f84be1a8bda76220</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="IMG_20150531_125143_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>IMG_20150531_125143.jpg</original>
+    <mtime>1526900187</mtime>
+    <size>3933</size>
+    <md5>e3d7d6d721da00b29583253d4af455bd</md5>
+    <crc32>f6187134</crc32>
+    <sha1>040a45bd096d92f4d6e5c7f0fa08a198296e8d5d</sha1>
+  </file>
+  <file name="SERGENIKSM-IMG-20150531-125143_archive.torrent" source="metadata">
+    <btih>d30fe23293e4680323f48296e7f682038f2c02fe</btih>
+    <mtime>1662871305</mtime>
+    <size>2157</size>
+    <md5>b1fa9e456d73826c9ec9f547dd9c050a</md5>
+    <crc32>15ee7836</crc32>
+    <sha1>8acf4879d51d650ce411a07695ee5c9ceab4be36</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="SERGENIKSM-IMG-20150531-125143_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9aa17c1aa0e8c99dd41986ef7cfbcb89</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="SERGENIKSM-IMG-20150531-125143_meta.sqlite" source="original">
+    <mtime>1526898419</mtime>
+    <size>11264</size>
+    <md5>260767dde5d43460c00150ed5dd7d024</md5>
+    <crc32>cf0d8b52</crc32>
+    <sha1>5c73b890577b7bae4263105fbdd737e3f879a43d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="SERGENIKSM-IMG-20150531-125143_meta.xml" source="original">
+    <mtime>1662871304</mtime>
+    <size>1032</size>
+    <format>Metadata</format>
+    <md5>000d822b2ff61d8250a0c4a6189d5429</md5>
+    <crc32>7047c850</crc32>
+    <sha1>dcdb18d111c95c3ee5106ce14d4d8daf509716db</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1613666906</mtime>
+    <size>19569</size>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+    <md5>e8a03db0c03e992dd98fa53d85093fcf</md5>
+    <crc32>a1565daf</crc32>
+    <sha1>4273240e720d4a38a1d2e58b536cb03ba279322e</sha1>
+  </file>
+</files>
