@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Zhao Fangjing. Accustomed to Liking.mp3" source="original">
+    <mtime>1720247670</mtime>
+    <size>6001389</size>
+    <md5>af37bd0675e35270331d71f5fd04ef8b</md5>
+    <crc32>ed00ce01</crc32>
+    <sha1>ca4b7fe1704ea399e1534a4a6c88ca14b774a12d</sha1>
+    <format>VBR MP3</format>
+    <length>250.03</length>
+    <track>01</track>
+  </file>
+  <file name="Zhao Fangjing. Accustomed to Liking.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Accustomed to Liking.mp3</original>
+    <mtime>1720248143</mtime>
+    <size>43336</size>
+    <md5>5bf23309a02e11aa31f90b791aaa3cca</md5>
+    <crc32>f443b92e</crc32>
+    <sha1>b16d2f861917f444b7c890cbd20f6f73c05e72ca</sha1>
+  </file>
+  <file name="Zhao Fangjing. Accustomed to Liking_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Accustomed to Liking.mp3</original>
+    <mtime>1720250682</mtime>
+    <size>333477</size>
+    <md5>8131339829dd21fe58fcd1d81837c8fb</md5>
+    <crc32>81ccb4e6</crc32>
+    <sha1>890870d8d9e556cac45cf07f15dc8cea868c8421</sha1>
+  </file>
+  <file name="Zhao Fangjing. Alley.mp3" source="original">
+    <mtime>1660204727</mtime>
+    <size>4777485</size>
+    <md5>ab1aaa0dc986a9d99ce44df158644f61</md5>
+    <crc32>a1c32d32</crc32>
+    <sha1>c5b7605e5b10929ee2c3d9152168145a293dfe67</sha1>
+    <format>VBR MP3</format>
+    <length>238.85</length>
+    <track>01</track>
+  </file>
+  <file name="Zhao Fangjing. Alley.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Alley.mp3</original>
+    <mtime>1660205915</mtime>
+    <size>34479</size>
+    <md5>769b9833b93b48bdf1d6e0b14d0715dd</md5>
+    <crc32>c8906b3d</crc32>
+    <sha1>7a35888e994a53bd3fa64ca51e7f7d33793f5894</sha1>
+  </file>
+  <file name="Zhao Fangjing. Alley_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Alley.mp3</original>
+    <mtime>1660206667</mtime>
+    <size>321675</size>
+    <md5>6f9daeec500698e2b81b7ec6d458ddbe</md5>
+    <crc32>38ef82da</crc32>
+    <sha1>f36ad70b7e0c40454fd19b43e49c18d2501acb5e</sha1>
+  </file>
+  <file name="Zhao Fangjing. Ant.mp3" source="original">
+    <mtime>1720247712</mtime>
+    <size>5041773</size>
+    <md5>ab24a2a4877a05a64f48040ac240d3c2</md5>
+    <crc32>b5121902</crc32>
+    <sha1>aa17861bfed1d459348a96083458f03321509292</sha1>
+    <format>VBR MP3</format>
+    <length>210.05</length>
+    <track>03</track>
+  </file>
+  <file name="Zhao Fangjing. Ant.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Ant.mp3</original>
+    <mtime>1720248468</mtime>
+    <size>38078</size>
+    <md5>740c3a7e17e240542a6116848cfa62bc</md5>
+    <crc32>15d6bde7</crc32>
+    <sha1>64c4d9fa8acc8a0c9ca38ea6af395e476cf66971</sha1>
+  </file>
+  <file name="Zhao Fangjing. Ant_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Ant.mp3</original>
+    <mtime>1720250932</mtime>
+    <size>325536</size>
+    <md5>84e429961e7c53e7fd0991d7af0b3cfd</md5>
+    <crc32>16623af1</crc32>
+    <sha1>e6a419ac2c54230afbbdf5e0d9cfd58c602c0d5a</sha1>
+  </file>
+  <file name="Zhao Fangjing. Blue.mp3" source="original">
+    <mtime>1719771316</mtime>
+    <size>4359213</size>
+    <md5>8df649b8d3e9b2b2d87d41b9b4226d04</md5>
+    <crc32>9c908c5d</crc32>
+    <sha1>0865708575a5808bcecd5d8657c7d8687e9f74a5</sha1>
+    <format>VBR MP3</format>
+    <length>181.61</length>
+    <track>02</track>
+  </file>
+  <file name="Zhao Fangjing. Blue.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Blue.mp3</original>
+    <mtime>1719772557</mtime>
+    <size>39689</size>
+    <md5>b520b72e8932b73574975b2cf347dec0</md5>
+    <crc32>06241910</crc32>
+    <sha1>0330e892c36f6b46eecf5cf588406e991d948c13</sha1>
+  </file>
+  <file name="Zhao Fangjing. Blue_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Blue.mp3</original>
+    <mtime>1719772863</mtime>
+    <size>317276</size>
+    <md5>e729aacb6834ddd9b04a095c7203f8d0</md5>
+    <crc32>0096a898</crc32>
+    <sha1>8eb191d1957fbb1025246b6cb20209db4395c853</sha1>
+  </file>
+  <file name="Zhao Fangjing. Butterfly Kiss.mp3" source="original">
+    <mtime>1660204762</mtime>
+    <size>4947885</size>
+    <md5>8fef0cb5e571628ee41edf057eec34a7</md5>
+    <crc32>72bab474</crc32>
+    <sha1>ff51b9c5ac0125692f1188a03580685b261a1c03</sha1>
+    <format>VBR MP3</format>
+    <length>247.37</length>
+    <track>02</track>
+  </file>
+  <file name="Zhao Fangjing. Butterfly Kiss.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Butterfly Kiss.mp3</original>
+    <mtime>1660205539</mtime>
+    <size>38753</size>
+    <md5>d0cfd5c055b637649dfe51620b99c6e6</md5>
+    <crc32>b6dba17e</crc32>
+    <sha1>566abb78fea7b464fb005ef78beb2655e37e9f79</sha1>
+  </file>
+  <file name="Zhao Fangjing. Butterfly Kiss_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Butterfly Kiss.mp3</original>
+    <mtime>1660206494</mtime>
+    <size>314406</size>
+    <md5>349572a93e003aa5a6a7d7297124ad77</md5>
+    <crc32>534eaa80</crc32>
+    <sha1>39ae4f2118038abf8d0d1ff68f8f10750b4a1a99</sha1>
+  </file>
+  <file name="Zhao Fangjing. Cannot Come Back My Love.mp3" source="original">
+    <mtime>1720247743</mtime>
+    <size>4658292</size>
+    <md5>19b7aba30b85a2a29a853490affc55b9</md5>
+    <crc32>abc8b901</crc32>
+    <sha1>e5e263745d9a65332465b1125c4c626990b67d4b</sha1>
+    <format>VBR MP3</format>
+    <length>194.06</length>
+    <track>06</track>
+  </file>
+  <file name="Zhao Fangjing. Cannot Come Back My Love.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Cannot Come Back My Love.mp3</original>
+    <mtime>1720249155</mtime>
+    <size>36841</size>
+    <md5>35faab13bfd64895f62c9ca6910e3b6d</md5>
+    <crc32>27c6422f</crc32>
+    <sha1>36925dc9835151b4d4ea81647366d20375b00507</sha1>
+  </file>
+  <file name="Zhao Fangjing. Cannot Come Back My Love_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Cannot Come Back My Love.mp3</original>
+    <mtime>1720251339</mtime>
+    <size>319883</size>
+    <md5>d5b0dd3006bd21438909e105b4c34783</md5>
+    <crc32>6819257a</crc32>
+    <sha1>61d49ae044c2436172891f4f5cb092dd394c7021</sha1>
+  </file>
+  <file name="Zhao Fangjing. Forest Bath.mp3" source="original">
+    <mtime>1660204778</mtime>
+    <size>5052525</size>
+    <md5>28176d7a71097e647c8cb09c1919929b</md5>
+    <crc32>4312c1df</crc32>
+    <sha1>eb055facbcff602acd2bcdfe4c0bbf4769b3b5bb</sha1>
+    <format>VBR MP3</format>
+    <length>252.6</length>
+    <track>03</track>
+  </file>
+  <file name="Zhao Fangjing. Forest Bath.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Forest Bath.mp3</original>
+    <mtime>1660205656</mtime>
+    <size>38143</size>
+    <md5>5360ccde786869e88e7b2926c451457a</md5>
+    <crc32>55e08c45</crc32>
+    <sha1>5168d3c0e34e283171453fe93adbe769f64caf91</sha1>
+  </file>
+  <file name="Zhao Fangjing. Forest Bath_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Forest Bath.mp3</original>
+    <mtime>1660206457</mtime>
+    <size>312159</size>
+    <md5>e64aa1390b5925746736663d8c370dc6</md5>
+    <crc32>468d1c5a</crc32>
+    <sha1>d4148054980eb749d0c8cc3ed1b1b198e6d5062c</sha1>
+  </file>
+  <file name="Zhao Fangjing. Garden Dream.mp3" source="original">
+    <mtime>1720247783</mtime>
+    <size>4909694</size>
+    <md5>43e203b26b9e309b10c8bbdfc756cd1c</md5>
+    <crc32>4052cc61</crc32>
+    <sha1>30a129dc13c6c07e82ad54caed1691bc429f1c83</sha1>
+    <format>VBR MP3</format>
+    <length>204.54</length>
+    <track>08</track>
+  </file>
+  <file name="Zhao Fangjing. Garden Dream.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Garden Dream.mp3</original>
+    <mtime>1720249423</mtime>
+    <size>36750</size>
+    <md5>7857b7edbaa4efc4c49933ff8e0440f4</md5>
+    <crc32>c2015c92</crc32>
+    <sha1>1a158707d6fb6a3a42b91e98b955ae11185408c8</sha1>
+  </file>
+  <file name="Zhao Fangjing. Garden Dream_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Garden Dream.mp3</original>
+    <mtime>1720251649</mtime>
+    <size>313399</size>
+    <md5>d93b7f34733491c87534b4a8e11e50e8</md5>
+    <crc32>aeac59b7</crc32>
+    <sha1>219cdcccd9cd6158cdbec1e4bae7b2c04265146c</sha1>
+  </file>
+  <file name="Zhao Fangjing. Hua Yishan.mp3" source="original">
+    <mtime>1660204806</mtime>
+    <size>3946125</size>
+    <md5>03b336a014f8b2de6f1b9d04a5fdecf4</md5>
+    <crc32>412d007a</crc32>
+    <sha1>d1802f4ad6f86e7ef9315381183c7e1fbc9bae04</sha1>
+    <format>VBR MP3</format>
+    <length>197.28</length>
+    <track>04</track>
+  </file>
+  <file name="Zhao Fangjing. Hua Yishan.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Hua Yishan.mp3</original>
+    <mtime>1660205601</mtime>
+    <size>39943</size>
+    <md5>71d04c946f25a8e2dcbde274bec578be</md5>
+    <crc32>9b8f2e0e</crc32>
+    <sha1>0f1965f27c1c081980ea3cc1c12251f573719fbc</sha1>
+  </file>
+  <file name="Zhao Fangjing. Hua Yishan_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Hua Yishan.mp3</original>
+    <mtime>1660206645</mtime>
+    <size>317068</size>
+    <md5>acaf61a3de7d0cd35c24337b9fa37fa5</md5>
+    <crc32>7f01bb7b</crc32>
+    <sha1>6b8879c8a87a2e7d1ddf9be6255142b14d5a0776</sha1>
+  </file>
+  <file name="Zhao Fangjing. Ink Acacia.mp3" source="original">
+    <mtime>1660204827</mtime>
+    <size>4644525</size>
+    <md5>20f072260201ea8cde52eb4121b3dfdb</md5>
+    <crc32>2a3a5a9d</crc32>
+    <sha1>c3179eff4f635a8dff1e26bc76e7a551d94f253d</sha1>
+    <format>VBR MP3</format>
+    <length>232.2</length>
+    <track>05</track>
+  </file>
+  <file name="Zhao Fangjing. Ink Acacia.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Ink Acacia.mp3</original>
+    <mtime>1660205777</mtime>
+    <size>36085</size>
+    <md5>1694437808745086c2f62263a1faf65b</md5>
+    <crc32>def70b46</crc32>
+    <sha1>a192d551d4e5da6b57d6ee0be9586665c57e55f6</sha1>
+  </file>
+  <file name="Zhao Fangjing. Ink Acacia_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Ink Acacia.mp3</original>
+    <mtime>1660206423</mtime>
+    <size>321542</size>
+    <md5>1f4d4095e33f3109d8d6398b7dcff766</md5>
+    <crc32>63ea53ae</crc32>
+    <sha1>ebfecef1ddf9e634bf2d360d497003327c8e0318</sha1>
+  </file>
+  <file name="Zhao Fangjing. Intuition.mp3" source="original">
+    <mtime>1660204845</mtime>
+    <size>4279245</size>
+    <md5>77ee40a575154610ada0b0f1e68c75d9</md5>
+    <crc32>782d6f37</crc32>
+    <sha1>389c4f46a2ab46194b06f1fc34d23e0bc6471615</sha1>
+    <format>VBR MP3</format>
+    <length>213.94</length>
+    <track>06</track>
+  </file>
+  <file name="Zhao Fangjing. Intuition.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Intuition.mp3</original>
+    <mtime>1660205510</mtime>
+    <size>42749</size>
+    <md5>f6c8b2b976adad8547944a2b5d4eca9e</md5>
+    <crc32>1080fc9b</crc32>
+    <sha1>f28ad3c45641cc6b59aa16bd7fb77523bc993621</sha1>
+  </file>
+  <file name="Zhao Fangjing. Intuition_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Intuition.mp3</original>
+    <mtime>1660206369</mtime>
+    <size>305731</size>
+    <md5>590b1250f0be5db24c9404599beb659d</md5>
+    <crc32>4ed14357</crc32>
+    <sha1>f2ebf45b29222508c153d8d221bc46c3913b7416</sha1>
+  </file>
+  <file name="Zhao Fangjing. Meet Summer.mp3" source="original">
+    <mtime>1660204863</mtime>
+    <size>3385485</size>
+    <md5>f6f49219ec343b4065f137160d4e3c8f</md5>
+    <crc32>c586b984</crc32>
+    <sha1>2b9d57509a81563bc8c92916f1f30060a1004928</sha1>
+    <format>VBR MP3</format>
+    <length>169.25</length>
+    <track>07</track>
+  </file>
+  <file name="Zhao Fangjing. Meet Summer.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Meet Summer.mp3</original>
+    <mtime>1660205465</mtime>
+    <size>41707</size>
+    <md5>2622d80b6c5d67fceffcf6b27a3ce5ae</md5>
+    <crc32>eebfd6a1</crc32>
+    <sha1>6502b1eaf3a8cf9c33786b084ee57e991ae9b8ad</sha1>
+  </file>
+  <file name="Zhao Fangjing. Meet Summer_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Meet Summer.mp3</original>
+    <mtime>1660206213</mtime>
+    <size>314340</size>
+    <md5>b3674e5e5d91f5bb096766775d176c69</md5>
+    <crc32>37571d81</crc32>
+    <sha1>b0d881ce952f220c6bcac470a8fc1cfca4bd366c</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 1 Mengdong. Ignorant.mp3" source="original">
+    <mtime>1719765298</mtime>
+    <size>5924205</size>
+    <md5>a7b5d8db80d5e18e6703ab5033a66fca</md5>
+    <crc32>b77dd1e5</crc32>
+    <sha1>af648c4c457fc7528e7e9ffac4ad21137ccca8f2</sha1>
+    <format>VBR MP3</format>
+    <length>246.82</length>
+    <track>08</track>
+  </file>
+  <file name="Zhao Fangjing. Mirror 1 Mengdong. Ignorant.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Mirror 1 Mengdong. Ignorant.mp3</original>
+    <mtime>1719766374</mtime>
+    <size>41585</size>
+    <md5>bfe87c650b31acbd3d98a10a9f2bfc26</md5>
+    <crc32>49606dc5</crc32>
+    <sha1>c4de02f5bd9b7f3b6b932810b9164859b8f139ac</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 1 Mengdong. Ignorant_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Mirror 1 Mengdong. Ignorant.mp3</original>
+    <mtime>1719768858</mtime>
+    <size>316650</size>
+    <md5>afa29dfbb0d02cbf5585cb06f44e2946</md5>
+    <crc32>e8738b39</crc32>
+    <sha1>a0bc09bca1a44edee8aa7726a58a8957fcc1ec59</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 2 You Are Just Right.mp3" source="original">
+    <mtime>1719765312</mtime>
+    <size>4964013</size>
+    <md5>b5a6bbc110e38da74ff08df17d53901e</md5>
+    <crc32>b32702aa</crc32>
+    <sha1>9fbdb5460ebe175be6fd84f36e918ba6d1d8f8c4</sha1>
+    <format>VBR MP3</format>
+    <length>206.81</length>
+    <track>09</track>
+  </file>
+  <file name="Zhao Fangjing. Mirror 2 You Are Just Right.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Mirror 2 You Are Just Right.mp3</original>
+    <mtime>1719767122</mtime>
+    <size>41100</size>
+    <md5>5dc3edb8004d892fae4d882a88bbee92</md5>
+    <crc32>3b5d3d80</crc32>
+    <sha1>1c0bba43e48655a94d387871246edc06c414a1c8</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 2 You Are Just Right_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Mirror 2 You Are Just Right.mp3</original>
+    <mtime>1719769292</mtime>
+    <size>316032</size>
+    <md5>b5ec965c2f9bd2d033ce834a599589ec</md5>
+    <crc32>07e5a312</crc32>
+    <sha1>dc42e20e068aa21699c6ae0e4f4398ea0052727b</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 3 I Am Who I Am.mp3" source="original">
+    <mtime>1719765327</mtime>
+    <size>5142573</size>
+    <md5>01a7a040a1621ea9338783cfb0c32662</md5>
+    <crc32>0dca954d</crc32>
+    <sha1>69ad978286b531a6a734c73a24d1af5c9b437e53</sha1>
+    <format>VBR MP3</format>
+    <length>214.25</length>
+    <track>10</track>
+  </file>
+  <file name="Zhao Fangjing. Mirror 3 I Am Who I Am.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Mirror 3 I Am Who I Am.mp3</original>
+    <mtime>1719767436</mtime>
+    <size>39526</size>
+    <md5>f1ecd34201709f2ab6a0dc5041bbdc34</md5>
+    <crc32>0dfb3227</crc32>
+    <sha1>87d11669285f1740d724d1900edb0be637a1db56</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 3 I Am Who I Am_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Mirror 3 I Am Who I Am.mp3</original>
+    <mtime>1719769593</mtime>
+    <size>323598</size>
+    <md5>a2e9b2a27ae56f6fdb1af19f78f3fc62</md5>
+    <crc32>334e8831</crc32>
+    <sha1>d2a58f8898b7de0acbdead667f8c3a573e081e78</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 4 Writing Poems at Dusk.mp3" source="original">
+    <mtime>1719765340</mtime>
+    <size>4728429</size>
+    <md5>d140b732b968623764a9b0b4272d51ec</md5>
+    <crc32>d0c826c2</crc32>
+    <sha1>20b696f2e6541e97002bfc25d0dc2ef74d849546</sha1>
+    <format>VBR MP3</format>
+    <length>196.99</length>
+    <track>11</track>
+  </file>
+  <file name="Zhao Fangjing. Mirror 4 Writing Poems at Dusk.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Mirror 4 Writing Poems at Dusk.mp3</original>
+    <mtime>1719767733</mtime>
+    <size>43402</size>
+    <md5>3638275055ddd9cd96f0bdc283fd4d04</md5>
+    <crc32>c53c7b69</crc32>
+    <sha1>b9afc0f434c04c9bbfe9056a732dca3180cb03fd</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 4 Writing Poems at Dusk_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Mirror 4 Writing Poems at Dusk.mp3</original>
+    <mtime>1719769880</mtime>
+    <size>309600</size>
+    <md5>8131f35409ffe0f45b559c8e28063cd7</md5>
+    <crc32>6b2e04c1</crc32>
+    <sha1>b709ef076095e4bfd1993a739ce75bb13960aa01</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 5 With Beat of Touched Heart (Li Jiasi).mp3" source="original">
+    <mtime>1719765352</mtime>
+    <size>4177197</size>
+    <md5>866d9d3e5cc4d2c359a12ab708ac3503</md5>
+    <crc32>bbaa56cf</crc32>
+    <sha1>bdd5636e84ea6a0989aa93e6363cc2c04a3cb91b</sha1>
+    <format>VBR MP3</format>
+    <length>174.02</length>
+    <track>12</track>
+  </file>
+  <file name="Zhao Fangjing. Mirror 5 With Beat of Touched Heart (Li Jiasi).png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Mirror 5 With Beat of Touched Heart (Li Jiasi).mp3</original>
+    <mtime>1719768332</mtime>
+    <size>40649</size>
+    <md5>4ef524da239ae4c6d0c2afbb5bcdddc8</md5>
+    <crc32>5db78b4b</crc32>
+    <sha1>5cce7a6af92899c2fae92186e385106a91b68e7a</sha1>
+  </file>
+  <file name="Zhao Fangjing. Mirror 5 With Beat of Touched Heart (Li Jiasi)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Mirror 5 With Beat of Touched Heart (Li Jiasi).mp3</original>
+    <mtime>1719770214</mtime>
+    <size>321096</size>
+    <md5>0e8b78877c9aa469fa10b8e3f2b54f16</md5>
+    <crc32>1a5e6e31</crc32>
+    <sha1>eb6ef863cbdc2ff43530b893a4e4741a32e26bb2</sha1>
+  </file>
+  <file name="Zhao Fangjing. Never Heard Of.mp3" source="original">
+    <mtime>1660204878</mtime>
+    <size>3692205</size>
+    <md5>f3c1eaec6134e1bfddcc27ba2d34810d</md5>
+    <crc32>09dc3f17</crc32>
+    <sha1>ada5f887ffb3d83f845984544c2bbc6bc323da79</sha1>
+    <format>VBR MP3</format>
+    <length>184.58</length>
+    <track>08</track>
+  </file>
+  <file name="Zhao Fangjing. Never Heard Of.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Never Heard Of.mp3</original>
+    <mtime>1660205569</mtime>
+    <size>37370</size>
+    <md5>ce71309014e1f47c43ba3457269cf91d</md5>
+    <crc32>051d5609</crc32>
+    <sha1>87425822818a32c6b5a3c07adb03af8228131e41</sha1>
+  </file>
+  <file name="Zhao Fangjing. Never Heard Of_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Never Heard Of.mp3</original>
+    <mtime>1660206268</mtime>
+    <size>316947</size>
+    <md5>661968848a3aeb8255bc129b4e27023f</md5>
+    <crc32>64f046ce</crc32>
+    <sha1>b8a234b7193cc65c848e75e9442ee75bbf3bb80e</sha1>
+  </file>
+  <file name="Zhao Fangjing. On the Road.mp3" source="original">
+    <mtime>1660204896</mtime>
+    <size>4179885</size>
+    <md5>92fd880c4bce21b26abfbf02216ac3fd</md5>
+    <crc32>0d83e282</crc32>
+    <sha1>1922083c224bd070dc1d444b93be8889230e1adc</sha1>
+    <format>VBR MP3</format>
+    <length>208.97</length>
+    <track>09</track>
+  </file>
+  <file name="Zhao Fangjing. On the Road.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. On the Road.mp3</original>
+    <mtime>1660205626</mtime>
+    <size>41394</size>
+    <md5>315ef2cc4c362b21da138e5f491b93b0</md5>
+    <crc32>efb460bf</crc32>
+    <sha1>7039a867dcb1901a8d888d6bb8ca204bfa1c84c4</sha1>
+  </file>
+  <file name="Zhao Fangjing. On the Road_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. On the Road.mp3</original>
+    <mtime>1660206305</mtime>
+    <size>315491</size>
+    <md5>3277f76962e78172eb95e73d006eb451</md5>
+    <crc32>cc05a281</crc32>
+    <sha1>fca899bff8186e5a647ffcd55e954961b4328be1</sha1>
+  </file>
+  <file name="Zhao Fangjing. One Step Away.mp3" source="original">
+    <mtime>1720247814</mtime>
+    <size>5304666</size>
+    <md5>2cebca4abb941fd9c0151b4c57dc99f3</md5>
+    <crc32>862661c7</crc32>
+    <sha1>489c6d9e6d8add68fe006c108194716d62fa57b2</sha1>
+    <format>VBR MP3</format>
+    <length>221</length>
+    <track>19</track>
+  </file>
+  <file name="Zhao Fangjing. One Step Away.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. One Step Away.mp3</original>
+    <mtime>1720249745</mtime>
+    <size>40860</size>
+    <md5>290ed5c073478ca1a9e0f4bea2a005b0</md5>
+    <crc32>088a5fff</crc32>
+    <sha1>6fa1a6474b007f6744879363650333a1f97cba2e</sha1>
+  </file>
+  <file name="Zhao Fangjing. One Step Away_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. One Step Away.mp3</original>
+    <mtime>1720251950</mtime>
+    <size>312294</size>
+    <md5>0e045c02d3b6c85e732746f6e63b4eb7</md5>
+    <crc32>dcb41261</crc32>
+    <sha1>a8fe9208f28d950d899b25f35a0c09e437588f7d</sha1>
+  </file>
+  <file name="Zhao Fangjing. Reader.mp3" source="original">
+    <mtime>1720247854</mtime>
+    <size>5346044</size>
+    <md5>2b683606815b154565cca4ca0fdc2d12</md5>
+    <crc32>d2ef2ef5</crc32>
+    <sha1>84fa7bbf15b5dbe9317edc9f95bf3aba26b51fc3</sha1>
+    <format>VBR MP3</format>
+    <length>222.72</length>
+    <track>21</track>
+  </file>
+  <file name="Zhao Fangjing. Reader.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Reader.mp3</original>
+    <mtime>1720249931</mtime>
+    <size>36146</size>
+    <md5>128b263b6cf3540491ec3382a1a8ab3b</md5>
+    <crc32>52c0c9d3</crc32>
+    <sha1>e51b28a3348fbf6527aff5123e28ecfb3fd484a7</sha1>
+  </file>
+  <file name="Zhao Fangjing. Reader_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Reader.mp3</original>
+    <mtime>1720252317</mtime>
+    <size>318466</size>
+    <md5>b3dc7f21f87e83deeef36f32ceeaaf3d</md5>
+    <crc32>7d669e9e</crc32>
+    <sha1>63fc8d27012e3003eb7eb414cd408ccd6c2f8ca8</sha1>
+  </file>
+  <file name="Zhao Fangjing. Ride the Time to Fly.mp3" source="original">
+    <mtime>1660204912</mtime>
+    <size>3847725</size>
+    <md5>7282e2cd584901a6a423f094844ac9ed</md5>
+    <crc32>1429cabe</crc32>
+    <sha1>a3b490424a1e108a567e42dc69866bce4c10fd40</sha1>
+    <format>VBR MP3</format>
+    <length>192.36</length>
+    <track>10</track>
+  </file>
+  <file name="Zhao Fangjing. Ride the Time to Fly.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Ride the Time to Fly.mp3</original>
+    <mtime>1660206142</mtime>
+    <size>44363</size>
+    <md5>9acea0810680e140fca364ed25751b74</md5>
+    <crc32>47f79d71</crc32>
+    <sha1>96670dc68455988abc48f1ccd0968a88b84050d1</sha1>
+  </file>
+  <file name="Zhao Fangjing. Ride the Time to Fly_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Ride the Time to Fly.mp3</original>
+    <mtime>1660206602</mtime>
+    <size>329853</size>
+    <md5>2c592f5b36bb5b75b760e1ce8b1995e5</md5>
+    <crc32>8d02e9fd</crc32>
+    <sha1>d55e4e3632e8fbefb4c526002caba15904d3c738</sha1>
+  </file>
+  <file name="Zhao Fangjing. Rui Hexian.mp3" source="original">
+    <mtime>1660204936</mtime>
+    <size>5083725</size>
+    <md5>e340eb8c8a9a8286babe05c65b508fd0</md5>
+    <crc32>180ed067</crc32>
+    <sha1>a749c9e1b0c3b246e31f8c67caf9b56b2e7300de</sha1>
+    <format>VBR MP3</format>
+    <length>254.16</length>
+    <track>11</track>
+  </file>
+  <file name="Zhao Fangjing. Rui Hexian.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Rui Hexian.mp3</original>
+    <mtime>1660205714</mtime>
+    <size>39967</size>
+    <md5>f75b20d91a79f975cd5cd93cdcc03e8a</md5>
+    <crc32>76f32327</crc32>
+    <sha1>43e548af02a4a539f9f214687e275b6281c2d1c0</sha1>
+  </file>
+  <file name="Zhao Fangjing. Rui Hexian_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Rui Hexian.mp3</original>
+    <mtime>1660206348</mtime>
+    <size>318857</size>
+    <md5>164c3bfaf19d1026da982e969488dc2e</md5>
+    <crc32>a84e592c</crc32>
+    <sha1>e5c14f36d3f3932399e89e511757c24bf745a893</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST06. Guyu. Grain Rain.mp3" source="original">
+    <mtime>1660204976</mtime>
+    <size>4447245</size>
+    <md5>998e764303302e80a45692f81be3e2b8</md5>
+    <crc32>1508622f</crc32>
+    <sha1>00ceae3047fa5bfadbcf4f910dd55904f9381a99</sha1>
+    <format>VBR MP3</format>
+    <length>222.34</length>
+    <track>13</track>
+  </file>
+  <file name="Zhao Fangjing. ST06. Guyu. Grain Rain.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. ST06. Guyu. Grain Rain.mp3</original>
+    <mtime>1660206000</mtime>
+    <size>37097</size>
+    <md5>618e2b50513fff9fa42ed38dbe4d96b4</md5>
+    <crc32>c2b67d46</crc32>
+    <sha1>fc1ba5afd436b98bc9382d4a86b85246cd36d940</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST06. Guyu. Grain Rain_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. ST06. Guyu. Grain Rain.mp3</original>
+    <mtime>1660206250</mtime>
+    <size>325778</size>
+    <md5>3683631d3fc75300514226b7640688f9</md5>
+    <crc32>6d6486f6</crc32>
+    <sha1>33a1adf426be5b23a1780cd6d46dab2955fa1a3d</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST09. Mangzhong. Grain in Ear.mp3" source="original">
+    <mtime>1660204995</mtime>
+    <size>4321485</size>
+    <md5>fbcb9feb378509e8a6bc355af2f821ce</md5>
+    <crc32>7f4fade9</crc32>
+    <sha1>2ee56d185941f992905d5d19f386e67cd122ad72</sha1>
+    <format>VBR MP3</format>
+    <length>216.05</length>
+    <track>14</track>
+  </file>
+  <file name="Zhao Fangjing. ST09. Mangzhong. Grain in Ear.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. ST09. Mangzhong. Grain in Ear.mp3</original>
+    <mtime>1660205686</mtime>
+    <size>40873</size>
+    <md5>c9000e184aa35c7fe5187966b4961e0d</md5>
+    <crc32>bc3fa150</crc32>
+    <sha1>97ad4fa41825f68455eca1f164723a705150d312</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST09. Mangzhong. Grain in Ear_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. ST09. Mangzhong. Grain in Ear.mp3</original>
+    <mtime>1660206287</mtime>
+    <size>325010</size>
+    <md5>c6c9800e44d63b068db1b6c21b76ae14</md5>
+    <crc32>8e0d6fcc</crc32>
+    <sha1>c77bca4db9b67913ab4a2b014e5e36823240ee05</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST11. Xiaoshu. Minor Heat.mp3" source="original">
+    <mtime>1660205016</mtime>
+    <size>5154765</size>
+    <md5>82aff30eb2ebdb410cbae96bf094f46e</md5>
+    <crc32>b4528e0a</crc32>
+    <sha1>fab092f02c08b290e37ca7c5a4cb97603370ca6c</sha1>
+    <format>VBR MP3</format>
+    <length>257.71</length>
+    <track>15</track>
+  </file>
+  <file name="Zhao Fangjing. ST11. Xiaoshu. Minor Heat.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. ST11. Xiaoshu. Minor Heat.mp3</original>
+    <mtime>1660205944</mtime>
+    <size>37484</size>
+    <md5>96f6fb78c37b3f894534f465575be5a4</md5>
+    <crc32>08ec719e</crc32>
+    <sha1>7658defa7fab32b82d0e1f6e4631b750cbd2e374</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST11. Xiaoshu. Minor Heat_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. ST11. Xiaoshu. Minor Heat.mp3</original>
+    <mtime>1660206162</mtime>
+    <size>317672</size>
+    <md5>9ce1dd76f7b2ae6f5885c1aba4b1cc3a</md5>
+    <crc32>e23ff530</crc32>
+    <sha1>b18dfc93c709045f0d0da3dd3b37797455171901</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST17. Hanlu. Cold Dew.mp3" source="original">
+    <mtime>1660205040</mtime>
+    <size>5296365</size>
+    <md5>61d3a84377fc2746dcd6e71b2ebc4c41</md5>
+    <crc32>fc21b56c</crc32>
+    <sha1>d98e0d4bb3354e16295c19e05a1e4d598caca1a3</sha1>
+    <format>VBR MP3</format>
+    <length>264.79</length>
+    <track>16</track>
+  </file>
+  <file name="Zhao Fangjing. ST17. Hanlu. Cold Dew.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. ST17. Hanlu. Cold Dew.mp3</original>
+    <mtime>1660205974</mtime>
+    <size>37583</size>
+    <md5>3c77b301b772dfb5c5377a0be6e1f219</md5>
+    <crc32>93f619ec</crc32>
+    <sha1>cce7ffdcb1e6cd8c393b622da59be9bb47e28a28</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST17. Hanlu. Cold Dew_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. ST17. Hanlu. Cold Dew.mp3</original>
+    <mtime>1660206230</mtime>
+    <size>327066</size>
+    <md5>aea492558ac73e09a741335066b49c00</md5>
+    <crc32>a5cda5ae</crc32>
+    <sha1>3828a17a79fda1b4b12649c72516aff57bfffda3</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST18. Shuangjiang. Frost Descent.mp3" source="original">
+    <mtime>1660205058</mtime>
+    <size>3345645</size>
+    <md5>06b642635e8ee45cd2da7520b9b90494</md5>
+    <crc32>3a068907</crc32>
+    <sha1>0a83057c4a875c80064ace826df5d5acd5c922bb</sha1>
+    <format>VBR MP3</format>
+    <length>167.26</length>
+    <track>17</track>
+  </file>
+  <file name="Zhao Fangjing. ST18. Shuangjiang. Frost Descent.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. ST18. Shuangjiang. Frost Descent.mp3</original>
+    <mtime>1660205833</mtime>
+    <size>44412</size>
+    <md5>befac56fc92b2023078433dcf0a8f923</md5>
+    <crc32>17586693</crc32>
+    <sha1>747f503f6b03d69c8bf848243bdc3694ae431e4e</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST18. Shuangjiang. Frost Descent_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. ST18. Shuangjiang. Frost Descent.mp3</original>
+    <mtime>1660206198</mtime>
+    <size>325156</size>
+    <md5>344efe3f5ba720657e8d778781d4125f</md5>
+    <crc32>2464b250</crc32>
+    <sha1>e76f8110850bd8c8c1dc927285a28e6864386756</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST19. Lidong. Beginning of Winter.mp3" source="original">
+    <mtime>1660205077</mtime>
+    <size>4163565</size>
+    <md5>f1269e9c06b1e99638838cb139f2a7d6</md5>
+    <crc32>0a9a89d2</crc32>
+    <sha1>c711ba0df3f3c1264c6d068c29773aef9ccecefa</sha1>
+    <format>VBR MP3</format>
+    <length>208.15</length>
+    <track>18</track>
+  </file>
+  <file name="Zhao Fangjing. ST19. Lidong. Beginning of Winter.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. ST19. Lidong. Beginning of Winter.mp3</original>
+    <mtime>1660205426</mtime>
+    <size>43514</size>
+    <md5>148bc1a471417d328919cbb677ae4fd9</md5>
+    <crc32>b6de8ea5</crc32>
+    <sha1>d3c093332672346aba6ca4c5a4d6ad78be9e4808</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST19. Lidong. Beginning of Winter_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. ST19. Lidong. Beginning of Winter.mp3</original>
+    <mtime>1660206180</mtime>
+    <size>325310</size>
+    <md5>31c2892a452c1676c2cfb306070e236b</md5>
+    <crc32>254c58e8</crc32>
+    <sha1>1ed64b3662487f5c9fd343f73e47c099dbdfaf93</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST23. Xiaohan. Minor Cold.mp3" source="original">
+    <mtime>1660205117</mtime>
+    <size>5441325</size>
+    <md5>e1c90931ddf9b59a018c93ae5568999c</md5>
+    <crc32>11126ddc</crc32>
+    <sha1>9c07154c7b527804149dde27e84cf8d31706fa38</sha1>
+    <format>VBR MP3</format>
+    <length>272.04</length>
+    <track>19</track>
+  </file>
+  <file name="Zhao Fangjing. ST23. Xiaohan. Minor Cold.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. ST23. Xiaohan. Minor Cold.mp3</original>
+    <mtime>1660206028</mtime>
+    <size>40455</size>
+    <md5>cb31a8637f800476e0f97ac7bc1638bc</md5>
+    <crc32>71416f73</crc32>
+    <sha1>0d096e4d646173c9c35edd0311d41f9143920d69</sha1>
+  </file>
+  <file name="Zhao Fangjing. ST23. Xiaohan. Minor Cold_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. ST23. Xiaohan. Minor Cold.mp3</original>
+    <mtime>1660206439</mtime>
+    <size>311717</size>
+    <md5>1be13ec420dbec953f899faa00a7ff9b</md5>
+    <crc32>eb64b423</crc32>
+    <sha1>86e4406daecf64b4b19d7e2a9cf59f25396c2f33</sha1>
+  </file>
+  <file name="Zhao Fangjing. Spring Festival (Warmth).mp3" source="original">
+    <mtime>1660204957</mtime>
+    <size>4187565</size>
+    <md5>05ebab8593706afd04c8bbf4bab8f7a7</md5>
+    <crc32>00e6cbc6</crc32>
+    <sha1>8acce6d649df51390df88a2f3a30732040a4a24f</sha1>
+    <format>VBR MP3</format>
+    <length>209.35</length>
+    <track>12</track>
+  </file>
+  <file name="Zhao Fangjing. Spring Festival (Warmth).png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Spring Festival (Warmth).mp3</original>
+    <mtime>1660205859</mtime>
+    <size>34355</size>
+    <md5>dd2cabfb873a017bc22b7448ddb75387</md5>
+    <crc32>7f188db9</crc32>
+    <sha1>ee8a5879336da5b1405aea8dd7224515ecc10e6a</sha1>
+  </file>
+  <file name="Zhao Fangjing. Spring Festival (Warmth)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Spring Festival (Warmth).mp3</original>
+    <mtime>1660206327</mtime>
+    <size>309331</size>
+    <md5>ef379448ee06dad9dc03f91247ee98a6</md5>
+    <crc32>b49075ec</crc32>
+    <sha1>28475656935b7b224309f9aec9e66c23b20b9c75</sha1>
+  </file>
+  <file name="Zhao Fangjing. Swallow Bird Come.mp3" source="original">
+    <mtime>1720247882</mtime>
+    <size>5059629</size>
+    <md5>725475e5eb37dc1c72751b7d5015cc4a</md5>
+    <crc32>68ca5499</crc32>
+    <sha1>798649543ae531b2a2a0c4e4d8e1b275218dc6da</sha1>
+    <format>VBR MP3</format>
+    <length>210.79</length>
+    <track>32</track>
+  </file>
+  <file name="Zhao Fangjing. Swallow Bird Come.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Swallow Bird Come.mp3</original>
+    <mtime>1720250238</mtime>
+    <size>38380</size>
+    <md5>21c35ac0c28808833a34f1373ffd851d</md5>
+    <crc32>4966bb70</crc32>
+    <sha1>d273fbef9a642a73586a733251ad9600d4ffcfd7</sha1>
+  </file>
+  <file name="Zhao Fangjing. Swallow Bird Come_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Swallow Bird Come.mp3</original>
+    <mtime>1720252653</mtime>
+    <size>331641</size>
+    <md5>c39206efa5aa6b5c26ecd3c0421b06fc</md5>
+    <crc32>a09801cf</crc32>
+    <sha1>7d2aabe310b1e2db1452516ffa7abdd7eab3f0ed</sha1>
+  </file>
+  <file name="Zhao Fangjing. The End.mp3" source="original">
+    <mtime>1660205168</mtime>
+    <size>5139885</size>
+    <md5>31b8f2f8f5aee8f743d6c6bd8db1b6d1</md5>
+    <crc32>29035229</crc32>
+    <sha1>64214dcf89d865ad624190f5b7fbec28fbed8773</sha1>
+    <format>VBR MP3</format>
+    <length>256.97</length>
+    <track>20</track>
+  </file>
+  <file name="Zhao Fangjing. The End.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. The End.mp3</original>
+    <mtime>1660206057</mtime>
+    <size>40745</size>
+    <md5>a1d6a85846e6d14ba557376fdf8a436f</md5>
+    <crc32>d6fb0c81</crc32>
+    <sha1>49e679cc7f71224a2d312fbf6187e3b6fcf6d657</sha1>
+  </file>
+  <file name="Zhao Fangjing. The End_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. The End.mp3</original>
+    <mtime>1660206405</mtime>
+    <size>318439</size>
+    <md5>5ff8da6a961b9ca2ab55115633b1d967</md5>
+    <crc32>e215085b</crc32>
+    <sha1>a08cc56bff8885adb5edeef5dc623bee05c096cc</sha1>
+  </file>
+  <file name="Zhao Fangjing. The Only Precious You.mp3" source="original">
+    <mtime>1660205182</mtime>
+    <size>3703245</size>
+    <md5>02f421040ca760094dc309117d4d8a01</md5>
+    <crc32>91d4d48b</crc32>
+    <sha1>61b755c79918b616fe22fcb80135d454cd22c8de</sha1>
+    <format>VBR MP3</format>
+    <length>185.14</length>
+    <track>21</track>
+  </file>
+  <file name="Zhao Fangjing. The Only Precious You.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. The Only Precious You.mp3</original>
+    <mtime>1660206087</mtime>
+    <size>37926</size>
+    <md5>150d3fdb0772b3aeee8242094e54acd8</md5>
+    <crc32>ed9f82e2</crc32>
+    <sha1>6233c7e67e0334361e71d54f30d02a777415d136</sha1>
+  </file>
+  <file name="Zhao Fangjing. The Only Precious You_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. The Only Precious You.mp3</original>
+    <mtime>1660206550</mtime>
+    <size>321693</size>
+    <md5>f4566e705c3c2eff6fab7faac4df8206</md5>
+    <crc32>0e33f2c7</crc32>
+    <sha1>8f014fb81a0513fba2bd245ee4f25633dbd4fa7e</sha1>
+  </file>
+  <file name="Zhao Fangjing. Three Wives and Four Concubines.mp3" source="original">
+    <mtime>1660205198</mtime>
+    <size>4846125</size>
+    <md5>d69411bc9e6e6bfff06275e9986b35ac</md5>
+    <crc32>d3d9ed01</crc32>
+    <sha1>716542ed364494ec947062306614c7a7af388e1a</sha1>
+    <format>VBR MP3</format>
+    <length>242.28</length>
+    <track>22</track>
+  </file>
+  <file name="Zhao Fangjing. Three Wives and Four Concubines.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Three Wives and Four Concubines.mp3</original>
+    <mtime>1660206112</mtime>
+    <size>35961</size>
+    <md5>17e7c37597f9c35208c50362957a0e29</md5>
+    <crc32>26d0256f</crc32>
+    <sha1>c4d3c97be720dab3c3a175a97cfd380cff4f78ab</sha1>
+  </file>
+  <file name="Zhao Fangjing. Three Wives and Four Concubines_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Three Wives and Four Concubines.mp3</original>
+    <mtime>1660206387</mtime>
+    <size>312928</size>
+    <md5>8999f187964d14ab7b5e607b92ddf587</md5>
+    <crc32>19043c31</crc32>
+    <sha1>d5fb2c0ecc3dc4fffe820710d2563dabc0ca51f9</sha1>
+  </file>
+  <file name="Zhao Fangjing. Understatement.mp3" source="original">
+    <mtime>1660205213</mtime>
+    <size>4797165</size>
+    <md5>aa43d4cd151a1c8d6bdab017909c4063</md5>
+    <crc32>84d624d8</crc32>
+    <sha1>46272e181222c08909cf1658316b4f8eca8d54f8</sha1>
+    <format>VBR MP3</format>
+    <length>239.83</length>
+    <track>23</track>
+  </file>
+  <file name="Zhao Fangjing. Understatement.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Understatement.mp3</original>
+    <mtime>1660205889</mtime>
+    <size>41535</size>
+    <md5>6e9a11daa37558237bf6d674b712aeda</md5>
+    <crc32>0dfd892c</crc32>
+    <sha1>a64677e9fb7ecf978c6aa945de0a563abeda334a</sha1>
+  </file>
+  <file name="Zhao Fangjing. Understatement_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Understatement.mp3</original>
+    <mtime>1660206625</mtime>
+    <size>325752</size>
+    <md5>854f280c30575300a6a7edfc60d608e2</md5>
+    <crc32>f6817a6f</crc32>
+    <sha1>a2e73bb3f0c772087b336d78da22b586cf370e79</sha1>
+  </file>
+  <file name="Zhao Fangjing. Unlimited Romance.mp3" source="original">
+    <mtime>1660205234</mtime>
+    <size>4705485</size>
+    <md5>cf2f1ea6ce2ba710876770d918304614</md5>
+    <crc32>5f631177</crc32>
+    <sha1>c7f0c7649f94b16f8375af530a2519bedb77f40c</sha1>
+    <format>VBR MP3</format>
+    <length>235.25</length>
+    <track>24</track>
+  </file>
+  <file name="Zhao Fangjing. Unlimited Romance.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Unlimited Romance.mp3</original>
+    <mtime>1660205804</mtime>
+    <size>40465</size>
+    <md5>a1db33d0f3aec9b506cbcb40157d516c</md5>
+    <crc32>83e67f43</crc32>
+    <sha1>5988ce2ece130c424282b4d2037cbff038d711e8</sha1>
+  </file>
+  <file name="Zhao Fangjing. Unlimited Romance_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Unlimited Romance.mp3</original>
+    <mtime>1660206570</mtime>
+    <size>304893</size>
+    <md5>3a3227dc2bb2c6d5a79432c493e8cc33</md5>
+    <crc32>da9d98d8</crc32>
+    <sha1>3e92db1f01ca8dec73046c58e93db967bbf6b074</sha1>
+  </file>
+  <file name="Zhao Fangjing. Wei Shi.mp3" source="original">
+    <mtime>1660205250</mtime>
+    <size>3995085</size>
+    <md5>43ce98cd56e7735e1e06450bc10d4e19</md5>
+    <crc32>56a92ef5</crc32>
+    <sha1>6ad51efba59da3c890f4a47a0a14c08906a86c6a</sha1>
+    <format>VBR MP3</format>
+    <length>199.73</length>
+    <track>25</track>
+  </file>
+  <file name="Zhao Fangjing. Wei Shi.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Wei Shi.mp3</original>
+    <mtime>1660205380</mtime>
+    <size>41924</size>
+    <md5>b7e73e18773894689882cecc8a3a5485</md5>
+    <crc32>7fa6901c</crc32>
+    <sha1>a9636ac06d698f95999f5cfdc12bb04e7573f78c</sha1>
+  </file>
+  <file name="Zhao Fangjing. Wei Shi_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Wei Shi.mp3</original>
+    <mtime>1660206532</mtime>
+    <size>325696</size>
+    <md5>a6a84a699ba88122d3a4688561997e53</md5>
+    <crc32>10a30a81</crc32>
+    <sha1>c427287ab14fe7de7070cea470abf2cd481de92a</sha1>
+  </file>
+  <file name="Zhao Fangjing. Yin Shi.mp3" source="original">
+    <mtime>1660205265</mtime>
+    <size>4225005</size>
+    <md5>cbc9f01a9bc4055244d1a12cdef4589d</md5>
+    <crc32>b8880de7</crc32>
+    <sha1>b37b20dcf8b59897f335d4c98c9ba6d993780d8f</sha1>
+    <format>VBR MP3</format>
+    <length>211.22</length>
+    <track>26</track>
+  </file>
+  <file name="Zhao Fangjing. Yin Shi.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. Yin Shi.mp3</original>
+    <mtime>1660205744</mtime>
+    <size>37661</size>
+    <md5>2dfe618c7091663f61fb70786faae857</md5>
+    <crc32>ce8607de</crc32>
+    <sha1>aadbaf12923588c7bf1e91c5a859deebc179a003</sha1>
+  </file>
+  <file name="Zhao Fangjing. Yin Shi_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. Yin Shi.mp3</original>
+    <mtime>1660206511</mtime>
+    <size>316831</size>
+    <md5>22bed174a067c0a75775f3a10eff792e</md5>
+    <crc32>dbef0fa6</crc32>
+    <sha1>6f9302d2f70b1751905c9eb0989cf05794483c50</sha1>
+  </file>
+  <file name="Zhao Fangjing. You Shi.mp3" source="original">
+    <mtime>1660205281</mtime>
+    <size>4607565</size>
+    <md5>b540bc3218f11b59a7e381c2e8bc8f4b</md5>
+    <crc32>41e9c793</crc32>
+    <sha1>0af06dc6c5c3e5a37f6e0ceaa4dc5eef611fd9f1</sha1>
+    <format>VBR MP3</format>
+    <length>230.35</length>
+    <track>27</track>
+  </file>
+  <file name="Zhao Fangjing. You Shi.png" source="derivative">
+    <format>PNG</format>
+    <original>Zhao Fangjing. You Shi.mp3</original>
+    <mtime>1660205352</mtime>
+    <size>41253</size>
+    <md5>1abde88cf0fa0372499ead312bc3abe4</md5>
+    <crc32>c4898b04</crc32>
+    <sha1>d8015b48875324af7cd2b24fa8295b0fd4829fc5</sha1>
+  </file>
+  <file name="Zhao Fangjing. You Shi_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Zhao Fangjing. You Shi.mp3</original>
+    <mtime>1660206475</mtime>
+    <size>320355</size>
+    <md5>41110c849e2ef92ec2332128d3205897</md5>
+    <crc32>92388f4b</crc32>
+    <sha1>94012c642060b3f2a5df11ce1e68f0fda49e4c62</sha1>
+  </file>
+  <file name="Zhao Fangjing.jpg" source="original">
+    <mtime>1661935025</mtime>
+    <size>318851</size>
+    <md5>08aab673a66e8d9e57f20fb5edc5ae15</md5>
+    <crc32>ed25a826</crc32>
+    <sha1>bf361474b4d619400d13fd0833c8fce463051d51</sha1>
+    <format>Item Image</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Zhao Fangjing_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Zhao Fangjing.jpg</original>
+    <mtime>1661935054</mtime>
+    <size>7135</size>
+    <md5>3086aaa0dd458a15559fe60c450e93b6</md5>
+    <crc32>d91268c2</crc32>
+    <sha1>8190ab4e3616e952a5d485dbb92f90ebf4aeff19</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1661935030</mtime>
+    <size>10180</size>
+    <md5>8510242203136a9e28caf816314541a4</md5>
+    <crc32>72e422bc</crc32>
+    <sha1>fa4ee7c47a8e0da60bb9d227378f413ade535212</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="zhao-fangjing-songs_archive.torrent" source="metadata">
+    <btih>d39daa6730c68f6b4d5216dc797339c9fb0d1279</btih>
+    <mtime>1742045307</mtime>
+    <size>33156</size>
+    <md5>13eb9c634a0102ecd9d4a36bc3ed0be8</md5>
+    <crc32>7f325d1b</crc32>
+    <sha1>eab21ae6929f15b529feb9789bf0a7f637e731dd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="zhao-fangjing-songs_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6863c20f00efccff34226e70ebbf472b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="zhao-fangjing-songs_meta.sqlite" source="original">
+    <mtime>1720247888</mtime>
+    <size>151552</size>
+    <md5>3264a9524b6688ad9db4b821488dd010</md5>
+    <crc32>f58a2e42</crc32>
+    <sha1>aee25162ce34319bbdd1e8df014c4eb86347c774</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="zhao-fangjing-songs_meta.xml" source="original">
+    <mtime>1742045304</mtime>
+    <size>3224</size>
+    <md5>c6a801a3e79fc3f6966bca9be817f982</md5>
+    <crc32>a5cc0f5a</crc32>
+    <sha1>75d50f0849b7d7cbdc9ff23c0254be339794c0b7</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
