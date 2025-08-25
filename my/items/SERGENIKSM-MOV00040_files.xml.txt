@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="MOV00040_1_Rotated.avi" source="original">
+    <mtime>1525856658</mtime>
+    <size>8960000</size>
+    <md5>22247116d21aa2afb63cba163400390d</md5>
+    <crc32>56e6d429</crc32>
+    <sha1>5ecfe64b2d9fdbefe28ac2e5e463e93e6a5edee3</sha1>
+    <format>Cinepack</format>
+    <length>79.3</length>
+    <height>320</height>
+    <width>240</width>
+  </file>
+  <file name="MOV00040_1_Rotated.mp4" source="derivative">
+    <format>h.264</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856897</mtime>
+    <size>8276196</size>
+    <md5>1c5a6a5f9561f398a80493337ddecec7</md5>
+    <crc32>7747031e</crc32>
+    <sha1>3ff5e69858dd8e82f93b13bf0cd28af0d61b853f</sha1>
+    <length>79.33</length>
+    <height>480</height>
+    <width>360</width>
+  </file>
+  <file name="MOV00040_1_Rotated.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856958</mtime>
+    <size>5849544</size>
+    <md5>7da6f2a22de53f6a95710de22d377f88</md5>
+    <crc32>59ef9a8b</crc32>
+    <sha1>ac090043b0dc1da2cde682fc2d0e3d93d6660b50</sha1>
+    <length>79.31</length>
+    <height>300</height>
+    <width>225</width>
+  </file>
+  <file name="MOV00040_2_ORIG.MP4" source="original">
+    <mtime>1674652251</mtime>
+    <size>3685996</size>
+    <md5>3a674fa5635b0847e6ed84e1a78ded4f</md5>
+    <crc32>b3d67de3</crc32>
+    <sha1>6fda89a8f856edde70fc080b98fc131524ccc908</sha1>
+    <format>MPEG4</format>
+    <length>79.18</length>
+    <width>320</width>
+    <height>240</height>
+  </file>
+  <file name="MOV00040_2_ORIG.mp4" source="derivative">
+    <format>h.264</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652371</mtime>
+    <size>7352918</size>
+    <md5>0b6522be37f5c99a570f21f02a84ab00</md5>
+    <crc32>b89b8793</crc32>
+    <sha1>8592ab8680bd8fd3b3eac5120e34a3613f6433ac</sha1>
+    <length>79.3</length>
+    <width>320</width>
+    <height>240</height>
+  </file>
+  <file name="MOV00040_480x640.JPG" source="original">
+    <mtime>1674656525</mtime>
+    <size>92807</size>
+    <md5>3ad53460e00380b315c5af665a1f8cf2</md5>
+    <crc32>2f363cbb</crc32>
+    <sha1>3f08d4c85af490857909e7fb585b659feabe987e</sha1>
+    <format>Item Image</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="MOV00040_480x640_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>MOV00040_480x640.JPG</original>
+    <mtime>1674656559</mtime>
+    <size>7921</size>
+    <md5>7335e6d84c96e6758528919f62a86357</md5>
+    <crc32>d1e97d72</crc32>
+    <sha1>4a80425073f0b255c918e67c634a23d818a53f69</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_1_Rotated_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1674654017</mtime>
+    <size>12347</size>
+    <md5>81fe1aee2cd40e1f6b0a95425fc9bcf3</md5>
+    <crc32>a753c3ce</crc32>
+    <sha1>71a0c48f9642b089a50b3a586e5bf2f8f901916c</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_1_Rotated_000002.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1674654018</mtime>
+    <size>19766</size>
+    <md5>b3218025bda736a53684d270d2f89850</md5>
+    <crc32>dfb7c67e</crc32>
+    <sha1>cdbda68994c2cfa09e499af6eb825b7407a8ac0e</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_1_Rotated_000003.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1674654018</mtime>
+    <size>20929</size>
+    <md5>9012de08dfb7b93eda2e670d835193e1</md5>
+    <crc32>d1483309</crc32>
+    <sha1>ac41f4a142e74d7a2738c6bad6c93f9fc12dc7f1</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_1_Rotated_000004.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1674654018</mtime>
+    <size>20737</size>
+    <md5>9745607946b327bed1297628e1caea7d</md5>
+    <crc32>bef362c7</crc32>
+    <sha1>36107429300776b7e694639f1d811628f88fcee6</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_1_Rotated_000005.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1674654018</mtime>
+    <size>18236</size>
+    <md5>7d85a8827d5c453634ba7a747d7aeab5</md5>
+    <crc32>7681be1e</crc32>
+    <sha1>78f62c6eee835673f540d34a80b86e7e88468172</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_1_Rotated_000006.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1674654019</mtime>
+    <size>18602</size>
+    <md5>7a2d0e1ba1e8cce8e05f9239b3cf54e9</md5>
+    <crc32>60f5de52</crc32>
+    <sha1>53b5934216b9ec15b64d7feba83e6852be8b7858</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>10001</size>
+    <md5>173cb8f1bd43cd33623f3714a2ac22e3</md5>
+    <crc32>b11f2e00</crc32>
+    <sha1>3978a5cce2f637702b92d3d30245a5590c0b1b25</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>11993</size>
+    <md5>2a6b7ce709f316843861273beb03f96f</md5>
+    <crc32>6d9679f9</crc32>
+    <sha1>66e71356cfee36f39d322a4b824926c65c7997f4</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>16500</size>
+    <md5>9322d84487daa04d124c583a5c856a92</md5>
+    <crc32>9df44800</crc32>
+    <sha1>b1389e4ea117515fab04d247cba84c1d87d5900b</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000024.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>17025</size>
+    <md5>5ee27bc630f20db32072c3fa08c2a2b0</md5>
+    <crc32>c98365fb</crc32>
+    <sha1>eae505bd0f2e49d2b4cf9cbfc39843f695940ed7</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000029.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>16705</size>
+    <md5>79a99f7ebd352f2c9a624430dae82762</md5>
+    <crc32>df78e25b</crc32>
+    <sha1>5c618bf4c3dcc2316359cddbb2da786a30a2db08</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>17110</size>
+    <md5>b1cde852c3052b31bf6add1da336de76</md5>
+    <crc32>0ac44768</crc32>
+    <sha1>469d6974255da9bbdfc507309e6253a191ffa617</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000039.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>16484</size>
+    <md5>b63abd45ce08ea9dd1183a7847b51d71</md5>
+    <crc32>f3047824</crc32>
+    <sha1>6d96c28209e83a304784e4944f55c5a0793f0355</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000044.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654031</mtime>
+    <size>17114</size>
+    <md5>9ab52c6eb94bcdcd9be25f9a961a99e9</md5>
+    <crc32>f97cfbb1</crc32>
+    <sha1>fca5cb5057942f2a8324345eb7a24d9d1eeaa289</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000049.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654032</mtime>
+    <size>17132</size>
+    <md5>d9d4c8c0982a6a625cb6455fcb9fbeca</md5>
+    <crc32>3f70ccdb</crc32>
+    <sha1>fbc7f0e31803e24ac15010623769ecb3cf616d29</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654032</mtime>
+    <size>16785</size>
+    <md5>ea18f660e50b76859eacd314c5ef8a25</md5>
+    <crc32>20c3099b</crc32>
+    <sha1>ff6865bd0814c217b301408512bdfd8111f1075e</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000059.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654032</mtime>
+    <size>16837</size>
+    <md5>86871750b387c8c37507a71e0eca2ab2</md5>
+    <crc32>d24abd8c</crc32>
+    <sha1>798aff1b67923c2da396911f3b522df11a0df2ee</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654032</mtime>
+    <size>16652</size>
+    <md5>d6f6a3f2d7785172c4e65527a2cb8d43</md5>
+    <crc32>b1ee83c7</crc32>
+    <sha1>7f12048d8f4fe40076d6df0d89685fadb5a90b88</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000069.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654032</mtime>
+    <size>16693</size>
+    <md5>8bcb26805b18e147b247197baa5926dd</md5>
+    <crc32>023c41c6</crc32>
+    <sha1>4cf87c1475947447d4f5facfa3158bbd7e1472c6</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_2_ORIG_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674654032</mtime>
+    <size>17271</size>
+    <md5>0730b72b232e4eac8da9a3c3c7bc7532</md5>
+    <crc32>84b4f1c0</crc32>
+    <sha1>d9850ada3df4f5ff7ef3b7b2289ce4b054cb90ad</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>10001</size>
+    <md5>173cb8f1bd43cd33623f3714a2ac22e3</md5>
+    <crc32>b11f2e00</crc32>
+    <sha1>3978a5cce2f637702b92d3d30245a5590c0b1b25</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>11993</size>
+    <md5>2a6b7ce709f316843861273beb03f96f</md5>
+    <crc32>6d9679f9</crc32>
+    <sha1>66e71356cfee36f39d322a4b824926c65c7997f4</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>16500</size>
+    <md5>9322d84487daa04d124c583a5c856a92</md5>
+    <crc32>9df44800</crc32>
+    <sha1>b1389e4ea117515fab04d247cba84c1d87d5900b</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000024.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>17025</size>
+    <md5>5ee27bc630f20db32072c3fa08c2a2b0</md5>
+    <crc32>c98365fb</crc32>
+    <sha1>eae505bd0f2e49d2b4cf9cbfc39843f695940ed7</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000029.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>16705</size>
+    <md5>79a99f7ebd352f2c9a624430dae82762</md5>
+    <crc32>df78e25b</crc32>
+    <sha1>5c618bf4c3dcc2316359cddbb2da786a30a2db08</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>17110</size>
+    <md5>b1cde852c3052b31bf6add1da336de76</md5>
+    <crc32>0ac44768</crc32>
+    <sha1>469d6974255da9bbdfc507309e6253a191ffa617</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000039.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>16484</size>
+    <md5>b63abd45ce08ea9dd1183a7847b51d71</md5>
+    <crc32>f3047824</crc32>
+    <sha1>6d96c28209e83a304784e4944f55c5a0793f0355</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000044.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>17114</size>
+    <md5>9ab52c6eb94bcdcd9be25f9a961a99e9</md5>
+    <crc32>f97cfbb1</crc32>
+    <sha1>fca5cb5057942f2a8324345eb7a24d9d1eeaa289</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000049.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652292</mtime>
+    <size>17132</size>
+    <md5>d9d4c8c0982a6a625cb6455fcb9fbeca</md5>
+    <crc32>3f70ccdb</crc32>
+    <sha1>fbc7f0e31803e24ac15010623769ecb3cf616d29</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652293</mtime>
+    <size>16785</size>
+    <md5>ea18f660e50b76859eacd314c5ef8a25</md5>
+    <crc32>20c3099b</crc32>
+    <sha1>ff6865bd0814c217b301408512bdfd8111f1075e</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000059.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652293</mtime>
+    <size>16837</size>
+    <md5>86871750b387c8c37507a71e0eca2ab2</md5>
+    <crc32>d24abd8c</crc32>
+    <sha1>798aff1b67923c2da396911f3b522df11a0df2ee</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652293</mtime>
+    <size>16652</size>
+    <md5>d6f6a3f2d7785172c4e65527a2cb8d43</md5>
+    <crc32>b1ee83c7</crc32>
+    <sha1>7f12048d8f4fe40076d6df0d89685fadb5a90b88</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000069.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652293</mtime>
+    <size>16693</size>
+    <md5>8bcb26805b18e147b247197baa5926dd</md5>
+    <crc32>023c41c6</crc32>
+    <sha1>4cf87c1475947447d4f5facfa3158bbd7e1472c6</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_ORIG_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_2_ORIG.MP4</original>
+    <mtime>1674652293</mtime>
+    <size>17271</size>
+    <md5>0730b72b232e4eac8da9a3c3c7bc7532</md5>
+    <crc32>84b4f1c0</crc32>
+    <sha1>d9850ada3df4f5ff7ef3b7b2289ce4b054cb90ad</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856788</mtime>
+    <size>5449</size>
+    <md5>86274e5c864c9a71fe6508cd9e1bfc3e</md5>
+    <crc32>9ce0b304</crc32>
+    <sha1>d89204e6ad9ca3c6a857e0f830d2676e381d57bc</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000009.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856788</mtime>
+    <size>5356</size>
+    <md5>663eed8a39b87116f3aaa31c8b1d3889</md5>
+    <crc32>66aadb38</crc32>
+    <sha1>638de9d8a4c4745fea4facb6f14d21442260dff5</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856788</mtime>
+    <size>4595</size>
+    <md5>25a75f646bb1a0eaac1200c8f723e246</md5>
+    <crc32>44bd73db</crc32>
+    <sha1>53f36305fe1a8d90b008aa98b7b39f2887b5dd09</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000019.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856789</mtime>
+    <size>3752</size>
+    <md5>b427f11f17b602d8d3c112aad22358c5</md5>
+    <crc32>321a89b6</crc32>
+    <sha1>01c37846726d50fbb073d630e4e25bdef6d070f1</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000024.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856789</mtime>
+    <size>3162</size>
+    <md5>66f0d9d0fe73e08109d88b42533c68d3</md5>
+    <crc32>9c8ed06e</crc32>
+    <sha1>b5d1c52ffcba872179c11bc139d88edbd84caf50</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000029.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856789</mtime>
+    <size>2822</size>
+    <md5>1046da2043c05189d4468196b5abbdad</md5>
+    <crc32>d8b6c112</crc32>
+    <sha1>6eaca2605227224e52c2a5e2455a1b4a90d0b0de</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856790</mtime>
+    <size>2443</size>
+    <md5>53dc9b58cf11535b1702ff1eaf2c5eee</md5>
+    <crc32>04dfae25</crc32>
+    <sha1>83c2e84966a1efeac43f7a21b95fa64765df6ccd</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000039.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856790</mtime>
+    <size>2230</size>
+    <md5>77d40a20390dc5dcfca348eba9548c55</md5>
+    <crc32>5f6a2746</crc32>
+    <sha1>d52d61ed7127e72d4d8de66801ae69db2c345802</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000044.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856791</mtime>
+    <size>2111</size>
+    <md5>2dc29bb4960f36efef2e83c61e197cb0</md5>
+    <crc32>855143d4</crc32>
+    <sha1>60d3120c38266c5fb148a41d4dd95356e573dfe0</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000049.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856791</mtime>
+    <size>1940</size>
+    <md5>7c80547e0b80a78337604377f4831e7c</md5>
+    <crc32>8978fc26</crc32>
+    <sha1>407afe25eaf0240d506f923f02d85de8d8519c3d</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856791</mtime>
+    <size>1841</size>
+    <md5>7caa78e0000a8ed5ebba4f8f2fed1288</md5>
+    <crc32>76c3abe4</crc32>
+    <sha1>c8ff166edc40ee71014fea66a44dba83fc543ccf</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000059.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856792</mtime>
+    <size>1827</size>
+    <md5>c50a418ca7695aa50c01ede6d54f22b4</md5>
+    <crc32>4d244aa4</crc32>
+    <sha1>f05c0326016eb2a4f5ce65aae9ee72c87de3b687</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856792</mtime>
+    <size>1843</size>
+    <md5>682eb297d3ea87196464056fed50ee8a</md5>
+    <crc32>71152a29</crc32>
+    <sha1>b8535ac399a64abb5480abc5f1ed68cfcf01ba7c</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000069.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856793</mtime>
+    <size>1820</size>
+    <md5>0c1f5501903d146416c0454257442eb3</md5>
+    <crc32>64f07d57</crc32>
+    <sha1>a1dd88d239025eecb44326d56b497dc9ab166b87</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040.thumbs/MOV00040_Rotated_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>MOV00040_1_Rotated.avi</original>
+    <mtime>1525856793</mtime>
+    <size>1807</size>
+    <md5>2db6e29d23fce70c2df1da2aee619408</md5>
+    <crc32>aff05fe7</crc32>
+    <sha1>9e252922957eb3cd648df8653fab011dcbd558b1</sha1>
+  </file>
+  <file name="SERGENIKSM-MOV00040_archive.torrent" source="metadata">
+    <btih>3f192de27532c366f6579c60e555b923d9c2ce86</btih>
+    <mtime>1674656677</mtime>
+    <size>4216</size>
+    <md5>071c07b959b1ac7d50f758df6496dc9a</md5>
+    <crc32>ef539447</crc32>
+    <sha1>f336ea31e01b297af099659c4d02d39012c16f19</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="SERGENIKSM-MOV00040_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9636cd24f797b1222e441033375bd3c6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="SERGENIKSM-MOV00040_meta.sqlite" source="original">
+    <mtime>1674656529</mtime>
+    <size>11264</size>
+    <md5>a9f067e5b076205cacad76c9ff63349b</md5>
+    <crc32>ee54db50</crc32>
+    <sha1>cf43807ca0a66ddd0c3cb5769c1219579c06d472</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="SERGENIKSM-MOV00040_meta.xml" source="original">
+    <mtime>1674654252</mtime>
+    <size>893</size>
+    <format>Metadata</format>
+    <md5>68d7d60e0a2d67dfeb54d06f2d1ee345</md5>
+    <crc32>9274a54b</crc32>
+    <sha1>5abd12800d3de7253a5edf0bacb7c8721265a45d</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1674656677</mtime>
+    <size>16647</size>
+    <md5>1178abf15ba033cdd7f03f1e4e62736c</md5>
+    <crc32>f28854a2</crc32>
+    <sha1>90b4b38a9c63cdc12710b0f94e3a4258e81b679e</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>
