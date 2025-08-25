@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>catbook_final</identifier>
+  <mediatype>texts</mediatype>
+  <creator>Create a Book</creator>
+  <date>2002-09-29</date>
+  <description>&lt;div&gt;Book created by LiveJournal community "Create a Book" in 2002–2003.&lt;/div&gt;&lt;div&gt;In Russian language.&lt;/div&gt;&lt;div&gt;Printed in 2004.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://create-a-book.livejournal.com/profile" rel="nofollow"&gt;https://create-a-book.livejournal.com/profile&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://create-a-book.livejournal.com/88450.html" rel="nofollow"&gt;https://create-a-book.livejournal.com/88450.html&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://catpad.livejournal.com/216447.html" rel="nofollow"&gt;https://catpad.livejournal.com/216447.html&lt;/a&gt;&lt;/div&gt;</description>
+  <language>rus</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>CatBook;КотоКнига</subject>
+  <subject>Create a Book;Community;LiveJournal</subject>
+  <title>CatBook</title>
+  <uploader>SergeCpp@GMail.com</uploader>
+  <publicdate>2022-05-10 11:48:32</publicdate>
+  <addeddate>2022-05-10 11:48:32</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20220510115546[/date][comment]checked for malware[/comment]</curation>
+  <identifier-access>http://archive.org/details/catbook_final</identifier-access>
+  <identifier-ark>ark:/13960/s255vg2bx4j</identifier-ark>
+  <imagecount>162</imagecount>
+  <ppi>600</ppi>
+  <ocr>tesseract 5.0.0-1-g862e</ocr>
+  <ocr_parameters>-l rus</ocr_parameters>
+  <ocr_module_version>0.0.15</ocr_module_version>
+  <ocr_detected_script>Cyrillic</ocr_detected_script>
+  <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+  <ocr_detected_lang>ru</ocr_detected_lang>
+  <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+  <year>2002</year>
+  <collection>booksbylanguage_russian</collection>
+  <collection>booksbylanguage</collection>
+  <foldoutcount>0</foldoutcount>
+  <page_number_confidence>20</page_number_confidence>
+  <page_number_module_version>1.0.5</page_number_module_version>
+</metadata>

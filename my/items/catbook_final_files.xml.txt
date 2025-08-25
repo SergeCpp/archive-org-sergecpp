@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1661458247</mtime>
+    <size>2128</size>
+    <md5>a37a6613705f1a012b972b627a16e73e</md5>
+    <crc32>19fe3e9c</crc32>
+    <sha1>1abb17e309537c099886a59b436a2f0f8227fabf</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="catbook_final.epub" source="derivative">
+    <original>catbook_final_hocr.html</original>
+    <mtime>1701053340</mtime>
+    <size>129446</size>
+    <md5>757b8250eb29b567984b2eddd3eca4a7</md5>
+    <crc32>f0dce1f8</crc32>
+    <sha1>e55a90a573cc2a00ca630a1e7a71b715c7cf9f1c</sha1>
+    <format>EPUB</format>
+  </file>
+  <file name="catbook_final.pdf" source="original">
+    <mtime>1652183270</mtime>
+    <size>9179299</size>
+    <md5>dff887e4dc223fe3613059cb9d163866</md5>
+    <crc32>45e33a80</crc32>
+    <sha1>bb4caeb107601eae26e6f7bf733c65168e5cfdea</sha1>
+    <format>Text PDF</format>
+    <viruscheck>1652183746</viruscheck>
+  </file>
+  <file name="catbook_final_034_1700x1700.png" source="original">
+    <mtime>1721358864</mtime>
+    <size>938210</size>
+    <md5>42ed166d1e9e092d18a654c35eab5392</md5>
+    <crc32>0d061ebb</crc32>
+    <sha1>94348f10e2f6c0f47de05e50b34a17a5da40b3a1</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="catbook_final_034_1700x1700_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>catbook_final_034_1700x1700.png</original>
+    <mtime>1721358958</mtime>
+    <size>11584</size>
+    <md5>59a7ac5043faab276c93bf01d8b03a28</md5>
+    <crc32>76e7a404</crc32>
+    <sha1>3bfb04710fca47228382ec57c98a3fc27a352cf0</sha1>
+  </file>
+  <file name="catbook_final_archive.torrent" source="metadata">
+    <btih>1bdc8ffc5f6a9e826b7d54ee71541cfeffbb0486</btih>
+    <mtime>1721362870</mtime>
+    <size>8098</size>
+    <md5>b1468d38a4401039d3a3c3235a114c74</md5>
+    <crc32>8a4578e6</crc32>
+    <sha1>3ffde58a6e26947ed91c25a5b23b17c62307a7b6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="catbook_final_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.0.0-1-g862e</ocr>
+    <ocr_parameters>-l rus</ocr_parameters>
+    <ocr_module_version>0.0.15</ocr_module_version>
+    <ocr_detected_script>Cyrillic</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>ru</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>catbook_final_jp2.zip</original>
+    <mtime>1652185628</mtime>
+    <size>1070585</size>
+    <md5>a139004c3b86f639bd406cf7de5b43a3</md5>
+    <crc32>8f08bb01</crc32>
+    <sha1>b4393917e50ebec9ae9a3657fee1247819f8bccd</sha1>
+  </file>
+  <file name="catbook_final_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>catbook_final_djvu.xml</original>
+    <mtime>1652185799</mtime>
+    <size>127526</size>
+    <md5>47de30bfe0a8ecc8508a09a3a651309e</md5>
+    <crc32>4ab1dc80</crc32>
+    <sha1>5e577507a0959bed8ccde112180176a4325b0d35</sha1>
+  </file>
+  <file name="catbook_final_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>catbook_final_hocr.html</original>
+    <mtime>1652185720</mtime>
+    <size>1123193</size>
+    <md5>06a9d578a154db6bd29b715897aed677</md5>
+    <crc32>64cb812c</crc32>
+    <sha1>a2884aaee1f89f1683b74ee7b123161c1bcd82d0</sha1>
+  </file>
+  <file name="catbook_final_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a34f7ac71530179695968756e57d4cce</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="catbook_final_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.1.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.15</hocr_char_to_word_hocr_version>
+    <ocr_parameters>-l rus</ocr_parameters>
+    <ocr_module_version>0.0.15</ocr_module_version>
+    <ocr_detected_script>Cyrillic</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>ru</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>catbook_final_chocr.html.gz</original>
+    <mtime>1652185693</mtime>
+    <size>2186790</size>
+    <md5>a6ede499b407b458960c6d26a03d010b</md5>
+    <crc32>942404c2</crc32>
+    <sha1>cb5cf042f38bce738722ddd109481deb07ff3bc5</sha1>
+  </file>
+  <file name="catbook_final_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.0.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.15</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>catbook_final_hocr.html</original>
+    <mtime>1652185734</mtime>
+    <size>1804</size>
+    <md5>a49219f14618182d3862001823252d9e</md5>
+    <crc32>71d3cc26</crc32>
+    <sha1>56243a8dbfa9bad6fb778dff4668a7043076162a</sha1>
+  </file>
+  <file name="catbook_final_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.1.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.15</hocr_fts_text_hocr_version>
+    <word_conf_0_10>180</word_conf_0_10>
+    <word_conf_11_20>49</word_conf_11_20>
+    <word_conf_21_30>60</word_conf_21_30>
+    <word_conf_31_40>97</word_conf_31_40>
+    <word_conf_41_50>87</word_conf_41_50>
+    <word_conf_51_60>80</word_conf_51_60>
+    <word_conf_61_70>86</word_conf_61_70>
+    <word_conf_71_80>155</word_conf_71_80>
+    <word_conf_81_90>568</word_conf_81_90>
+    <word_conf_91_100>10103</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>catbook_final_hocr.html</original>
+    <mtime>1652185767</mtime>
+    <size>39575</size>
+    <md5>212b78af94c562eb5e8a0dd3052c5f84</md5>
+    <crc32>192f7d0d</crc32>
+    <sha1>4de2702c837fac7b66448010a12101cefeb2c435</sha1>
+  </file>
+  <file name="catbook_final_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>catbook_final.pdf</original>
+    <mtime>1652184482</mtime>
+    <size>92522839</size>
+    <md5>08bb8973b35dc2ec1968047bbd9b81f9</md5>
+    <crc32>9cde1be6</crc32>
+    <sha1>eb80165d1b8f9ea6b03d27b059075c9046c700c6</sha1>
+    <filecount>162</filecount>
+  </file>
+  <file name="catbook_final_meta.sqlite" source="original">
+    <mtime>1721358869</mtime>
+    <size>20480</size>
+    <md5>e891bd16b5cc4f0602af242748bb4351</md5>
+    <crc32>a9476d4a</crc32>
+    <sha1>de61cf14e3af34fa69d29784ef950af4e0cf807d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="catbook_final_meta.xml" source="original">
+    <mtime>1721362869</mtime>
+    <size>2179</size>
+    <md5>0672a3013af4279877e4110f7defce3d</md5>
+    <crc32>492a5ac3</crc32>
+    <sha1>a413fc6c74c3c6d71e5b7c0e054763b7a3977271</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="catbook_final_page_numbers.json" source="derivative">
+    <hocr_pagenumber_module_version>1.0.5</hocr_pagenumber_module_version>
+    <hocr_pagenumber_hocr_version>1.1.54</hocr_pagenumber_hocr_version>
+    <hocr_pagenumber_confidence>20</hocr_pagenumber_confidence>
+    <format>Page Numbers JSON</format>
+    <original>catbook_final_hocr.html</original>
+    <mtime>1721359163</mtime>
+    <size>27609</size>
+    <md5>4e0557dd1a765c417cebe37a8f6593dd</md5>
+    <crc32>b2373470</crc32>
+    <sha1>587d2dad543206f6b6d1de73fa24d6c64ef26800</sha1>
+  </file>
+  <file name="catbook_final_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>catbook_final_djvu.xml</original>
+    <mtime>1721359163</mtime>
+    <size>53029</size>
+    <md5>97a80a846b4e1cfb7969ba4bea8f1727</md5>
+    <crc32>6448ec9e</crc32>
+    <sha1>744df33434694b6e3dd5c127d64e7b8a7978fed7</sha1>
+  </file>
+</files>
