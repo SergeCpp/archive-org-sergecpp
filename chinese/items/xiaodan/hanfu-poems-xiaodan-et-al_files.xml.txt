@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Hanfu Poems. Xiaodan et al 1080p.mp4" source="original">
+    <mtime>1663677413</mtime>
+    <size>93903465</size>
+    <md5>77e038f015378f2ee327923973c6a5e3</md5>
+    <crc32>d60b4de8</crc32>
+    <sha1>30c46899b16643f37c4363c07d944c0325d237a6</sha1>
+    <format>MPEG4</format>
+    <length>282.56</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Hanfu Poems. Xiaodan et al 1136x710 Lv GB245.png" source="original">
+    <mtime>1717433572</mtime>
+    <size>1233104</size>
+    <md5>59caf598a72fa0482da7097b6e61457a</md5>
+    <crc32>28fed2fd</crc32>
+    <sha1>373c19618d39c34f8f3574a151314ec64fd32f19</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Hanfu Poems. Xiaodan et al 1136x710 Lv GB245_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hanfu Poems. Xiaodan et al 1136x710 Lv GB245.png</original>
+    <mtime>1717433874</mtime>
+    <size>8480</size>
+    <md5>f8b103948ad76661d733e18a72ad214f</md5>
+    <crc32>c5dbf0b8</crc32>
+    <sha1>a35e583557ee90096d721855fb6ea9018848cb27</sha1>
+  </file>
+  <file name="Hanfu Poems. Xiaodan et al 1146x716.jpg" source="original">
+    <mtime>1663677432</mtime>
+    <size>141980</size>
+    <md5>d32586b43521d93c4b7acbba9539e87b</md5>
+    <crc32>28422212</crc32>
+    <sha1>04c69f0fb96dee82c178d571e32ede741f1a5e93</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Hanfu Poems. Xiaodan et al 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hanfu Poems. Xiaodan et al 1146x716.jpg</original>
+    <mtime>1663677741</mtime>
+    <size>8664</size>
+    <md5>9cafe94479bf0077da3577ab9b086d3a</md5>
+    <crc32>a31049f1</crc32>
+    <sha1>a111f2092fdee4f89650d132b09b2abe9dfb5693</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717436447</mtime>
+    <size>16031</size>
+    <md5>137ac77635aa12b5d9215d87a0de8e07</md5>
+    <crc32>e87b1ea0</crc32>
+    <sha1>e7e593a6a571f6744c259a3da196954cdb7ba2b6</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677530</mtime>
+    <size>42114</size>
+    <md5>c06e61956235757dd92b4c1abd742632</md5>
+    <crc32>09280969</crc32>
+    <sha1>ffaec808c7f8380936959476296c36c0defca7bd</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677553</mtime>
+    <size>77505</size>
+    <md5>77dd01584794c74c5cd1172ca4590767</md5>
+    <crc32>be1429de</crc32>
+    <sha1>9e97337a716790575c283d535a12102cabebf9b6</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677573</mtime>
+    <size>111970</size>
+    <md5>4a9d8f96c97d9682b77a663773667c90</md5>
+    <crc32>f34faad1</crc32>
+    <sha1>59032fdb36a2a656d6717fe87da6a77d82717287</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677596</mtime>
+    <size>122497</size>
+    <md5>7c21700b541ac0430ec7e81b5ac9f6de</md5>
+    <crc32>d8f692f5</crc32>
+    <sha1>b8c4643cb50760c88a78c670f1c4b79d580fda90</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677615</mtime>
+    <size>81275</size>
+    <md5>48991d11ffa410e2a6bb7c2bba11bfbd</md5>
+    <crc32>a0ad7361</crc32>
+    <sha1>e63e478d243eeb11ff663f10b355564ba7514c52</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677636</mtime>
+    <size>40959</size>
+    <md5>2922cac2b6540c9c702705c11bf08203</md5>
+    <crc32>6ac8b9ac</crc32>
+    <sha1>b0555596c4d2ed24c9bfec26420d24984698819d</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677657</mtime>
+    <size>41845</size>
+    <md5>1db467bdb58f22c30397cb139e864f02</md5>
+    <crc32>a794aa36</crc32>
+    <sha1>08463f882465fd7be46bf1babf7e3b90e7f7e635</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677682</mtime>
+    <size>83552</size>
+    <md5>7a9e081884d60f45e1ee39908288867f</md5>
+    <crc32>f830dd74</crc32>
+    <sha1>56edeb84b77eb67628175412b27803d70fe1c04d</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677703</mtime>
+    <size>92574</size>
+    <md5>431ee1259e051d576e1438d16c7664be</md5>
+    <crc32>fb6ef75a</crc32>
+    <sha1>3d7ba7478894436838d6def79a3967480d73d5d1</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al.thumbs/Hanfu Poems. Xiaodan et al 1080p_000280.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hanfu Poems. Xiaodan et al 1080p.mp4</original>
+    <mtime>1663677711</mtime>
+    <size>23173</size>
+    <md5>b9a7097baae4b854406d372eb2d56001</md5>
+    <crc32>a16465b5</crc32>
+    <sha1>d8b93f1c4cac57c34a16aa66fa0f3d6aa11b867a</sha1>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al_archive.torrent" source="metadata">
+    <btih>9d65fbc7200c3e7f8c95cb051a8e50fa4e862cce</btih>
+    <mtime>1735747449</mtime>
+    <size>6383</size>
+    <md5>ffbb48a4f053f7db5b35b6494745dd06</md5>
+    <crc32>570c63fc</crc32>
+    <sha1>87ba89f3611ecbff484980884cc9fbc6c160e39a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>75d23641ce97c0629fe8d98d54417f31</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al_meta.sqlite" source="original">
+    <mtime>1717436524</mtime>
+    <size>36864</size>
+    <md5>c622bce10e81696903cb1d1fa6420915</md5>
+    <crc32>399f0d52</crc32>
+    <sha1>2ea7552d6229846407fead9c4e68bc21008cfa2b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="hanfu-poems-xiaodan-et-al_meta.xml" source="original">
+    <mtime>1735747447</mtime>
+    <size>3170</size>
+    <md5>1862075880ce199595cfd1c239db4007</md5>
+    <crc32>a9bb2fd1</crc32>
+    <sha1>393b12104cd35432ceb0b2726e6a8ac366c9c84d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
