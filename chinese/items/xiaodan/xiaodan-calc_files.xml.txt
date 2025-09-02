@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Calc 1024x640 Lv A10-1p1 RG245.png" source="original">
+    <mtime>1719926354</mtime>
+    <size>1033852</size>
+    <md5>275a5e4810479ce52f6f7dfbcab70f64</md5>
+    <crc32>86970db4</crc32>
+    <sha1>57b5fa7de387dd03e7b9b15b2e94b911d7420eaf</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Calc 1024x640 Lv A10-1p1 RG245_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Calc 1024x640 Lv A10-1p1 RG245.png</original>
+    <mtime>1719926662</mtime>
+    <size>7073</size>
+    <md5>99ad0ffa2e418c20166575e0dd4c90c3</md5>
+    <crc32>07f86efb</crc32>
+    <sha1>ca5a3149e850a0da80807d7c57a6425c60f6078b</sha1>
+  </file>
+  <file name="Xiaodan. Calc 1024x640.png" source="original">
+    <mtime>1719926348</mtime>
+    <size>1019801</size>
+    <md5>aeed4594207bf8aff8981445948bb688</md5>
+    <crc32>5e282122</crc32>
+    <sha1>138cb427d8eaa6a364a962693ddb2c03bce68a6a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Calc 1024x640_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Calc 1024x640.png</original>
+    <mtime>1719926665</mtime>
+    <size>6989</size>
+    <md5>0badcb196d8b765aa6702bf76ee61bd7</md5>
+    <crc32>1bd40bc2</crc32>
+    <sha1>272db0bef7984fd921145476181dba1b53365ef3</sha1>
+  </file>
+  <file name="Xiaodan. Calc 1055x659.png" source="original">
+    <mtime>1712814868</mtime>
+    <size>1072046</size>
+    <md5>07c2435935591ea59e1c1de478851181</md5>
+    <crc32>3287b88b</crc32>
+    <sha1>3701916fa598ddefd2f1db0b329d6bd76735fea6</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Calc 1055x659_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Calc 1055x659.png</original>
+    <mtime>1712814893</mtime>
+    <size>6936</size>
+    <md5>2905dd113e71d72a7304cf757d88002e</md5>
+    <crc32>0de1b24d</crc32>
+    <sha1>a3a7be1680cd160b0b8f8c05d5130de33a5eb62e</sha1>
+  </file>
+  <file name="Xiaodan. Calc 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981428</mtime>
+    <size>49178625</size>
+    <md5>4fba6788bcc1245a6d1f84c20ed7bbf0</md5>
+    <crc32>7e7d2d4c</crc32>
+    <sha1>0eaf03eb71a4d89e9888b056be45264791510afe</sha1>
+    <length>94.23</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Calc 1080p.mp4" source="original">
+    <mtime>1659981264</mtime>
+    <size>49178625</size>
+    <md5>68ef1d3ba11840b778539d644f8f5b6e</md5>
+    <crc32>d044507a</crc32>
+    <sha1>6229779524d5cfbb2506ed71558a194a3efa0dcf</sha1>
+    <format>MPEG4</format>
+    <length>94.23</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719927075</mtime>
+    <size>10958</size>
+    <md5>a461c916036f49b9d2be1441d70c754d</md5>
+    <crc32>581f38c6</crc32>
+    <sha1>677d63d8198640757799a64a86b737997fd39371</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981354</mtime>
+    <size>7443</size>
+    <md5>f3ea1f7262211b1048165443296a06ed</md5>
+    <crc32>c7196925</crc32>
+    <sha1>802e75ab9a18a12d9a3ebe2cb4cbfddcadb5f988</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981357</mtime>
+    <size>38116</size>
+    <md5>f71c403c2f087145e198756b17c25a50</md5>
+    <crc32>f2274fba</crc32>
+    <sha1>394ec1084ee586a98713d35972e67d16a8e9ab79</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000016.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981359</mtime>
+    <size>48057</size>
+    <md5>3b19c45d14e1fc7a9500c206049ffdf6</md5>
+    <crc32>6a59222a</crc32>
+    <sha1>25fbacc4dbcd28ed788c0acbedd8fefcbbe84019</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000021.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981361</mtime>
+    <size>49307</size>
+    <md5>0c86a944cca2bd9a22f7e67cd443cba1</md5>
+    <crc32>15b262eb</crc32>
+    <sha1>42b1069f03cd19507516ae0f2204dd2a776a8406</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000026.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981364</mtime>
+    <size>47115</size>
+    <md5>32af6bb6bb897fa1e6f108433c29e44c</md5>
+    <crc32>52197e03</crc32>
+    <sha1>7cc876269dc99a699b7647a064d6b2e7ea3fe598</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981365</mtime>
+    <size>49055</size>
+    <md5>e1fc00026cbb572705e10e59e844bc14</md5>
+    <crc32>24b3464d</crc32>
+    <sha1>b169c9e9aacaa0497a7b3edcad76de8976bde45c</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000036.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981367</mtime>
+    <size>48601</size>
+    <md5>9e99f8986b2588bf53f070b221912e44</md5>
+    <crc32>9c1eafbf</crc32>
+    <sha1>1d752d6bcc2f7b830b4dc0467ae2169ead751fdc</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000041.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981369</mtime>
+    <size>49457</size>
+    <md5>1294b6e2f333b4235eab4aed820d9cd3</md5>
+    <crc32>d1aee31c</crc32>
+    <sha1>34ae51c4273e32b81099204b79cbfa3c0eebf8ab</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000048.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981372</mtime>
+    <size>45609</size>
+    <md5>63c320a7b1dafd4cf2ca8b4b57b8efe9</md5>
+    <crc32>233cdb68</crc32>
+    <sha1>b528f454f19359d498e01f577d4523733111f95c</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000052.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981374</mtime>
+    <size>46331</size>
+    <md5>f2e3d84a2963debd19b54feb0366cd58</md5>
+    <crc32>baf9196f</crc32>
+    <sha1>6f539f71d5c1dc8f61593c3f8c59ae4277bea19e</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981375</mtime>
+    <size>49609</size>
+    <md5>3d11372053a438f5ed0dbcc470e4c19d</md5>
+    <crc32>a809bfe5</crc32>
+    <sha1>ab0c2cda6467339c64f1182750aeb0e98f010f76</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981379</mtime>
+    <size>48153</size>
+    <md5>00a09e2100583744d13a8abb69bafa4e</md5>
+    <crc32>1c5b6947</crc32>
+    <sha1>2d03573ed093f98d7f498f865da769cb27af7c6d</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000066.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981380</mtime>
+    <size>50152</size>
+    <md5>d1277b84d6f42b93ec426cb17f26e47b</md5>
+    <crc32>7f971d70</crc32>
+    <sha1>a7b27f73258124133a9622a70d7355517159383a</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981382</mtime>
+    <size>54270</size>
+    <md5>d7eebd9e292b2e7ed8abe7d1155346e0</md5>
+    <crc32>23f64d51</crc32>
+    <sha1>a48791ad2250f8421a49dbc04261c17bbdb53acf</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981383</mtime>
+    <size>49753</size>
+    <md5>329d98b6057016ba0c5f67797e460e94</md5>
+    <crc32>368e6edf</crc32>
+    <sha1>06d3ef187dc04fe03043fd17363f0b30ff5b1525</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981385</mtime>
+    <size>47896</size>
+    <md5>45397ec30452b47b09a02b50a19a6f2f</md5>
+    <crc32>fd47a5f3</crc32>
+    <sha1>f8eca57eb49e193b580782c548df24231e25d720</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981387</mtime>
+    <size>42308</size>
+    <md5>587a94afc4f55f3c8d34cb3871a25684</md5>
+    <crc32>6d30563d</crc32>
+    <sha1>2ba8291821a9cfbd82d828544ca2fc8ab69d1e71</sha1>
+  </file>
+  <file name="xiaodan-calc.thumbs/Xiaodan. Calc 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Calc 1080p.mp4</original>
+    <mtime>1659981391</mtime>
+    <size>44931</size>
+    <md5>ceed6ecb9d5e3335e954b475a9cc4267</md5>
+    <crc32>a2519cd7</crc32>
+    <sha1>f691c148cb9d1475820641e80615941dc4abba41</sha1>
+  </file>
+  <file name="xiaodan-calc_archive.torrent" source="metadata">
+    <btih>9f285c71eee929043e1442eb556084b557d441ce</btih>
+    <mtime>1741935572</mtime>
+    <size>7008</size>
+    <md5>793f9ecffca67265653fe2a1df132889</md5>
+    <crc32>b0599bd4</crc32>
+    <sha1>e31ea6c9ff059ef474b8aef30ae613875df96e80</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-calc_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7a2c11bb75ed61ccc7ac0cec4752b19a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-calc_meta.sqlite" source="original">
+    <mtime>1719927276</mtime>
+    <size>32768</size>
+    <md5>d43addaf09c4f6f65689f3082f33b8c7</md5>
+    <crc32>4c51f5e1</crc32>
+    <sha1>c7b4a0b19bfb1e7ce913ac4b329ea8fb2b2ba793</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-calc_meta.xml" source="original">
+    <mtime>1741935570</mtime>
+    <size>2280</size>
+    <md5>26426651e8c371579bc4f030845bbdd5</md5>
+    <crc32>a3d4903f</crc32>
+    <sha1>51d722a4301426ddabb22eb23a1d278e1de4eaf0</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

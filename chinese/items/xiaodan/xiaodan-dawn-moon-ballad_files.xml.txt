@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Dawn Moon Ballad. Article 1 2408x1353.jpg" source="original">
+    <mtime>1703427873</mtime>
+    <size>463027</size>
+    <md5>e3daf4d04b07db816a6de2167372cf46</md5>
+    <crc32>17abd7ee</crc32>
+    <sha1>4a6989e136e37d6dc38ab058ef3c2f64cf49ae26</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Article 1 2408x1353_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. Article 1 2408x1353.jpg</original>
+    <mtime>1703428331</mtime>
+    <size>8827</size>
+    <md5>da94a7ba118977a37da368d3011d45d3</md5>
+    <crc32>7b011bb7</crc32>
+    <sha1>bbf98c8db7077811b8e43fbd3826d2b218840d9d</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Article 2 5000x3300.jpg" source="original">
+    <mtime>1703427903</mtime>
+    <size>7136233</size>
+    <md5>cb16ac2f86676f21b8c77edc4f494b92</md5>
+    <crc32>2661407a</crc32>
+    <sha1>48b15e75195fbd1efdbb97e6d4dc7f062e54d992</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Article 2 5000x3300_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. Article 2 5000x3300.jpg</original>
+    <mtime>1703428338</mtime>
+    <size>12235</size>
+    <md5>de912cc4a7caf7f3da841a673828e1f8</md5>
+    <crc32>46404f8e</crc32>
+    <sha1>6b2e847a9dae38d49404fe554b8e03246a562245</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Article 3 5000x3300.jpg" source="original">
+    <mtime>1703427910</mtime>
+    <size>2075504</size>
+    <md5>a83ff7229aaa713d6c577ec76242687c</md5>
+    <crc32>e8df0819</crc32>
+    <sha1>734a72f434bbfee9fa1ded87d9f26ad3c6c7b384</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Article 3 5000x3300_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. Article 3 5000x3300.jpg</original>
+    <mtime>1703428343</mtime>
+    <size>10934</size>
+    <md5>a74afe29f419ed8950fcdefa9dbdf76c</md5>
+    <crc32>2e9fce3f</crc32>
+    <sha1>e29b9b45e22ec18a5add1523e9bfe0a4bf58c67b</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 1 Song 192k.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Xiaodan. Dawn Moon Ballad. Audio 1 Song 192k.mp3</original>
+    <mtime>1703431217</mtime>
+    <size>27304</size>
+    <md5>6b53035053f8ce1f59eb633bd5de3e35</md5>
+    <crc32>de42bb7c</crc32>
+    <sha1>7cda2d3f8a71212536998019b53c20669e699fa7</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 1 Song 192k.mp3" source="original">
+    <mtime>1703427923</mtime>
+    <size>3935276</size>
+    <md5>7bc777faacaa56ca7238f3ee3b09624c</md5>
+    <crc32>8bbb8e0b</crc32>
+    <sha1>0dba1fdd05ce7aafff29d84552864d869921375d</sha1>
+    <format>VBR MP3</format>
+    <length>163.94</length>
+    <track>01</track>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 1 Song 192k.png" source="derivative">
+    <format>PNG</format>
+    <original>Xiaodan. Dawn Moon Ballad. Audio 1 Song 192k.mp3</original>
+    <mtime>1703428422</mtime>
+    <size>36863</size>
+    <md5>b6f6238008ee1945b10eb3cfdb9e2641</md5>
+    <crc32>eda9e34e</crc32>
+    <sha1>5585c8b7cb9fcaa3acdb42493061f9938bce9df9</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 1 Song 192k_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Xiaodan. Dawn Moon Ballad. Audio 1 Song 192k.mp3</original>
+    <mtime>1703429870</mtime>
+    <size>317413</size>
+    <md5>cfad335dc069c121b68d84144fcf7884</md5>
+    <crc32>d838f0ad</crc32>
+    <sha1>8985c99ed6346eacdcd21eed5af5adeb3d67637c</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 2 Instrumental 192k.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Xiaodan. Dawn Moon Ballad. Audio 2 Instrumental 192k.mp3</original>
+    <mtime>1703431320</mtime>
+    <size>22088</size>
+    <md5>87bdf9993198fae96f7a04b45f8f965b</md5>
+    <crc32>d64c9c42</crc32>
+    <sha1>8b0026c844f43e1e3177b19a318779b2c6a3a64d</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 2 Instrumental 192k.mp3" source="original">
+    <mtime>1703427934</mtime>
+    <size>3958316</size>
+    <md5>8d5e9f7709cb44a0458afdcae8a01214</md5>
+    <crc32>65f68634</crc32>
+    <sha1>6661e7e338957d0704bab10127f2ec595e9b0b35</sha1>
+    <format>VBR MP3</format>
+    <length>164.9</length>
+    <track>02</track>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 2 Instrumental 192k.png" source="derivative">
+    <format>PNG</format>
+    <original>Xiaodan. Dawn Moon Ballad. Audio 2 Instrumental 192k.mp3</original>
+    <mtime>1703428656</mtime>
+    <size>34232</size>
+    <md5>30c3dce43400a8512794a9a265045b5f</md5>
+    <crc32>d7e77c55</crc32>
+    <sha1>518df8f331471f5fb32fa3e835c613774e69b017</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 2 Instrumental 192k_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Xiaodan. Dawn Moon Ballad. Audio 2 Instrumental 192k.mp3</original>
+    <mtime>1703430973</mtime>
+    <size>320929</size>
+    <md5>4ef422c3004b4ac4f09c59a4e5bc5008</md5>
+    <crc32>67dd8a04</crc32>
+    <sha1>3a213e5602bc8e264aa2f246336bbb37a58aec33</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 3 Cover 1440x1440.jpg" source="original">
+    <mtime>1703427946</mtime>
+    <size>398511</size>
+    <md5>8113636b4753b88b1021797b0c8a42f0</md5>
+    <crc32>e7f244aa</crc32>
+    <sha1>81ab8c47a4371ace1660a9d7d0043ce407ffcfef</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Audio 3 Cover 1440x1440_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. Audio 3 Cover 1440x1440.jpg</original>
+    <mtime>1703428350</mtime>
+    <size>10977</size>
+    <md5>065d942282c0e8286e04fa68ade32c3d</md5>
+    <crc32>d383cc76</crc32>
+    <sha1>21cbfacad1c8295bd4e048b4f232cb71f4476213</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 3424x2140 Lv 1p1.png" source="original">
+    <mtime>1719904933</mtime>
+    <size>7658279</size>
+    <md5>f1a3de0803605e8e7dead1999ec78881</md5>
+    <crc32>0f62b09a</crc32>
+    <sha1>eb88d8fe9ee4753827576a4ae504fe28f06f332c</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 3424x2140 Lv 1p1_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 3424x2140 Lv 1p1.png</original>
+    <mtime>1719909002</mtime>
+    <size>8641</size>
+    <md5>92e533a37ef30109ea779d39cd87ce27</md5>
+    <crc32>ed42b6de</crc32>
+    <sha1>310c3ca006232c341dfeb4c467982f2f51a09b98</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 3424x2140.png" source="original">
+    <mtime>1719904957</mtime>
+    <size>7199912</size>
+    <md5>95659f236c0b478ae1abe8c54adb7493</md5>
+    <crc32>c02169c9</crc32>
+    <sha1>c386ffeec3ee7064841a5011645bbc41fa43c4af</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 3424x2140_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 3424x2140.png</original>
+    <mtime>1719909007</mtime>
+    <size>8756</size>
+    <md5>cd01fd5422696ec1c52b9d4b53da40f4</md5>
+    <crc32>31930a75</crc32>
+    <sha1>88740bfe2cc9f16d06a994428520e62c6dff77d5</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 3436x2148.jpg" source="original">
+    <mtime>1703424565</mtime>
+    <size>688067</size>
+    <md5>534065fccaa5f7569bac70142b81125f</md5>
+    <crc32>fa9f1dab</crc32>
+    <sha1>c09af1a202e0aa55339ee8f528418696e4893541</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 3436x2148_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 3436x2148.jpg</original>
+    <mtime>1703426078</mtime>
+    <size>9508</size>
+    <md5>580c8fd38ea2542278580009e6b5c4d2</md5>
+    <crc32>1af31b54</crc32>
+    <sha1>79008eae1c0fbc3def15dae7dcce813398615a84</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 582p 30fps.mp4" source="original">
+    <mtime>1703424548</mtime>
+    <size>33528804</size>
+    <md5>f62bb5a3be937ae396011e5325e5d52c</md5>
+    <crc32>f9b3a187</crc32>
+    <sha1>3fee5db598690e21e6bc29e5124fe93029aeed27</sha1>
+    <format>MPEG4</format>
+    <length>165.01</length>
+    <width>1280</width>
+    <height>582</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 876p 50fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4</original>
+    <mtime>1723382023</mtime>
+    <size>87024319</size>
+    <md5>6bf5ffbbdb193cf69de01b00041062ab</md5>
+    <crc32>8d0302ea</crc32>
+    <sha1>50017274b9307094dc841fe9ad1760c6b8d8ad00</sha1>
+    <length>165.03</length>
+    <width>1920</width>
+    <height>876</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4" source="original">
+    <mtime>1723381755</mtime>
+    <size>87024319</size>
+    <md5>ca8f8c87543c4d8416bc80fd167778a4</md5>
+    <crc32>3c2eebe2</crc32>
+    <sha1>a2db0ecaba6f9b07323de3b2de9bb39d27db1deb</sha1>
+    <format>MPEG4</format>
+    <length>165.03</length>
+    <width>1920</width>
+    <height>876</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv" source="original">
+    <mtime>1703432998</mtime>
+    <size>14988619</size>
+    <md5>e30ee25baa03eb5be502286027ca0e26</md5>
+    <crc32>62c4d63d</crc32>
+    <sha1>51d538a76dbdd0699e5dfa5e3939fed681ff2c09</sha1>
+    <format>Flash Video</format>
+    <length>99.83</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Practice Room 1080p.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433665</mtime>
+    <size>10072127</size>
+    <md5>89500fca2ebefe50f36758540b606544</md5>
+    <crc32>2aba5a63</crc32>
+    <sha1>6fb33b2ad256a886d7aa86fe5885181812637e7f</sha1>
+    <length>99.8</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Practice Room 2431x1519.jpg" source="original">
+    <mtime>1703433005</mtime>
+    <size>265279</size>
+    <md5>7786f199110b7c3e98c34d7f54a7aeed</md5>
+    <crc32>2d948ca8</crc32>
+    <sha1>242251c0c669286b4b5e04959a0eb767735f6106</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Practice Room 2431x1519_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 2431x1519.jpg</original>
+    <mtime>1703434208</mtime>
+    <size>7886</size>
+    <md5>111542e7f432556583219e17507c7787</md5>
+    <crc32>2fceb1f6</crc32>
+    <sha1>c68e0dcce99a96e96a314ae9cdf1b9cf5564bb14</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv" source="original">
+    <mtime>1703433110</mtime>
+    <size>33993983</size>
+    <md5>4a2e07439ebecce1f15fdad3545a597e</md5>
+    <crc32>7cecc5d2</crc32>
+    <sha1>2bb2aefc8e84ee3d283a109ed75644f22099643a</sha1>
+    <format>Flash Video</format>
+    <length>100.36</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433947</mtime>
+    <size>9707594</size>
+    <md5>e111bd38b1e7c4b9d664c429b1aba0ae</md5>
+    <crc32>dd3de125</crc32>
+    <sha1>4e2af5aaa1796c8a5e95714d250041adfb5b9520</sha1>
+    <length>100.33</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Pure Dance 3153x1969.jpg" source="original">
+    <mtime>1703433116</mtime>
+    <size>872062</size>
+    <md5>f4db3a199ec572739592d9f656f71a98</md5>
+    <crc32>bfa96429</crc32>
+    <sha1>1630f54c488126f9dad2b077c16144ce6b55c42e</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Pure Dance 3153x1969_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 3153x1969.jpg</original>
+    <mtime>1703434214</mtime>
+    <size>8247</size>
+    <md5>865c7b2639bde3433424c6bb3aa16dd8</md5>
+    <crc32>0fdc1b2a</crc32>
+    <sha1>5da9b3d863545e774be047b4c7ad2cb3033c416c</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Trailer 1980x1236.jpg" source="original">
+    <mtime>1703433121</mtime>
+    <size>414710</size>
+    <md5>971936a0cc72f9083598b40d919c9f45</md5>
+    <crc32>ce6de555</crc32>
+    <sha1>941cb25df6167b0595b6e01b462994bfd3becc85</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Trailer 1980x1236_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dawn Moon Ballad. Trailer 1980x1236.jpg</original>
+    <mtime>1703434216</mtime>
+    <size>7684</size>
+    <md5>b3b878081e15d223d6dbef56c908d2be</md5>
+    <crc32>f539620d</crc32>
+    <sha1>3c5996f9121f7e7c40ee118aefc10bf3b35c253a</sha1>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Trailer 874p.flv" source="original">
+    <mtime>1703433152</mtime>
+    <size>11804077</size>
+    <md5>7563586b4b14386f85c65e63796e07c4</md5>
+    <crc32>8fcc04a4</crc32>
+    <sha1>2c4d046300d8c556c0d835b3be5545eae7c2da70</sha1>
+    <format>Flash Video</format>
+    <length>32.95</length>
+    <width>1920</width>
+    <height>874</height>
+  </file>
+  <file name="Xiaodan. Dawn Moon Ballad. Trailer 874p.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Xiaodan. Dawn Moon Ballad. Trailer 874p.flv</original>
+    <mtime>1703434102</mtime>
+    <size>3284496</size>
+    <md5>54c07460d8841dec689ab27fe3baedd5</md5>
+    <crc32>9b9fe5c0</crc32>
+    <sha1>58ea6c9074c6f51493060c407a7c4de651064f7d</sha1>
+    <length>32.9</length>
+    <width>1052</width>
+    <height>480</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719910012</mtime>
+    <size>15059</size>
+    <md5>758fa3f391c1605053e9dff31b826f18</md5>
+    <crc32>f15b4d83</crc32>
+    <sha1>b8df110470137f3dacae44a087f003009d99bf27</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 582p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 582p 30fps.mp4</original>
+    <mtime>1703425749</mtime>
+    <size>37660</size>
+    <md5>b5dd7ce5f6666a65445b579b19b8c2a7</md5>
+    <crc32>68c71cf1</crc32>
+    <sha1>5a1019600aa94b0edeab01c667adfe94b8551624</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 582p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 582p 30fps.mp4</original>
+    <mtime>1703425751</mtime>
+    <size>37999</size>
+    <md5>073a97a6a87fd47f6d4ed00632ac26db</md5>
+    <crc32>e3bbb3aa</crc32>
+    <sha1>c01c50d66eb811407164f4b838d4640e608c39dc</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 582p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 582p 30fps.mp4</original>
+    <mtime>1703425753</mtime>
+    <size>23149</size>
+    <md5>b765819ff9e7c90dbec413b93645a10f</md5>
+    <crc32>8281f5f3</crc32>
+    <sha1>ff9ffaf4f15806e19c4780ef8fd7a076216619de</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 582p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 582p 30fps.mp4</original>
+    <mtime>1703425755</mtime>
+    <size>56849</size>
+    <md5>7525b65db59da453808b1d97718e15b0</md5>
+    <crc32>79de64a7</crc32>
+    <sha1>f474ef60f7589ae1f6f360b411704077239be6ec</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 582p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 582p 30fps.mp4</original>
+    <mtime>1703425757</mtime>
+    <size>46933</size>
+    <md5>aab46eb50b5f117e98535b68cdd0ec2b</md5>
+    <crc32>d8bbd2cb</crc32>
+    <sha1>ab6fd2e4f5eee1f66c33ac14a2ba07c8525a9e70</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 582p 30fps_000160.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 582p 30fps.mp4</original>
+    <mtime>1703425758</mtime>
+    <size>55385</size>
+    <md5>c8cb83e941f8b57e1cc4110fce75a4af</md5>
+    <crc32>d0c32eff</crc32>
+    <sha1>d0fc5815ee54ec5d0a355957b73c8a4de25c6b4e</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 876p 50fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4</original>
+    <mtime>1723381882</mtime>
+    <size>37759</size>
+    <md5>6854897bccbd424e5099f1bd8e22ba6c</md5>
+    <crc32>ad9f1877</crc32>
+    <sha1>96dc3ed6e9a036e94a237da52b34047e60bab060</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 876p 50fps_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4</original>
+    <mtime>1723381893</mtime>
+    <size>36868</size>
+    <md5>740b41738ec260472c73942e4eacf524</md5>
+    <crc32>e22fb5a7</crc32>
+    <sha1>c779ed3b864fa3d8361ed2c33c1982035363e0c1</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 876p 50fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4</original>
+    <mtime>1723381905</mtime>
+    <size>43456</size>
+    <md5>387d04d320604da14a411663471cfc31</md5>
+    <crc32>97af86fa</crc32>
+    <sha1>8aed3eb1c3977213549469f160344c2a4ec3bd33</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 876p 50fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4</original>
+    <mtime>1723381916</mtime>
+    <size>34708</size>
+    <md5>3a0067717c470195778cd92fbb3f23ff</md5>
+    <crc32>cf7855e9</crc32>
+    <sha1>496973b5a4214f4b5765384b8d3c5b700d31022a</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 876p 50fps_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4</original>
+    <mtime>1723381929</mtime>
+    <size>55931</size>
+    <md5>bdb3543361882fabad7ae50318a000f4</md5>
+    <crc32>08c226c0</crc32>
+    <sha1>681fd447bbcec0d772bce43d107cd337c2b0a2f0</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. MV 876p 50fps_000163.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. MV 876p 50fps.mp4</original>
+    <mtime>1723381935</mtime>
+    <size>59374</size>
+    <md5>5e14981a8513c56041b9e88ee0c2bc61</md5>
+    <crc32>b34d879b</crc32>
+    <sha1>475dff9683b29cc130d384268fbe4006dd4e7913</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433264</mtime>
+    <size>32326</size>
+    <md5>ebbc265ea845147cab9105cc16504003</md5>
+    <crc32>115e24fa</crc32>
+    <sha1>91c4d35f5cfcd1ce9aefe475ca19ccce2235291f</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433264</mtime>
+    <size>39868</size>
+    <md5>8ea2a8239f24201da067bec7990a83cf</md5>
+    <crc32>7e431733</crc32>
+    <sha1>4c4d97e7e5d0ba074b93a5f687d11bad1d2a4552</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433265</mtime>
+    <size>40432</size>
+    <md5>f6c6aef5a3d9dea80e547ecc6a0b721b</md5>
+    <crc32>3caa94b9</crc32>
+    <sha1>0b7fa0559b157970db0d4dd9230984cd778c6319</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433266</mtime>
+    <size>56377</size>
+    <md5>01969f2b0d931bc8aa6597ca460fedcc</md5>
+    <crc32>5554a129</crc32>
+    <sha1>e4f826336649819195c037c45c7b7b1c90eceef2</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433266</mtime>
+    <size>54271</size>
+    <md5>aa4b131b2ed69c4ed84671468d4e46d3</md5>
+    <crc32>ad07841f</crc32>
+    <sha1>f04b2957bc88d29d887ece840afab7388dc802e9</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433267</mtime>
+    <size>54147</size>
+    <md5>5be676cab7c5319216e35a2779b1f950</md5>
+    <crc32>a547231b</crc32>
+    <sha1>e208bc26fdca87ced5e4709822f8bdc769b5d0d2</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433268</mtime>
+    <size>53101</size>
+    <md5>c343416c6cd125c91b1be912fced5b29</md5>
+    <crc32>61708d5e</crc32>
+    <sha1>f4164bd6c6ede1211e6fd16f1256ff50588909f0</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433268</mtime>
+    <size>56275</size>
+    <md5>28b0d34a38383f294759bf7b3aa1e65a</md5>
+    <crc32>7002204a</crc32>
+    <sha1>7b6468332ac733de7b012e755641fbdfc97cd078</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433269</mtime>
+    <size>54462</size>
+    <md5>0c9a7fe36019a37d93f7aed856980cd0</md5>
+    <crc32>06008608</crc32>
+    <sha1>e76f40a173ee9f6263bcee801f7a787b21347692</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433270</mtime>
+    <size>52554</size>
+    <md5>1a67d33f843b9f41b91e4712dff479be</md5>
+    <crc32>f92f497d</crc32>
+    <sha1>5424052eb26084911e13ac78646d0efbfabf4e8d</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433270</mtime>
+    <size>62405</size>
+    <md5>8db939f34efcba69eb090d115f897a0b</md5>
+    <crc32>3f7d2ab2</crc32>
+    <sha1>206ffe9a2035a2e03ab141a1c301e98c483ff4cf</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433271</mtime>
+    <size>66496</size>
+    <md5>d667ffd5330adc186c939d2b3204df78</md5>
+    <crc32>1eeb6fe1</crc32>
+    <sha1>134929a0199712ed33fa8d0935a38d56e9e6d491</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433271</mtime>
+    <size>65272</size>
+    <md5>cc9ad0130af33ef3d479589348d9cce9</md5>
+    <crc32>537be38e</crc32>
+    <sha1>9ff5e176983162b3823845c665b54e6412308019</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433272</mtime>
+    <size>54574</size>
+    <md5>0e134368c32ed4e5c0a03ecc7a4b8179</md5>
+    <crc32>b67f4e10</crc32>
+    <sha1>81b3d929b36c4d3ecf7149ac9dc8238812437cc0</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433273</mtime>
+    <size>55892</size>
+    <md5>0e06252fbcfa3fa5e242052b74d3903c</md5>
+    <crc32>98102db8</crc32>
+    <sha1>366b0e5cf58f818a6a33ee991e3c50748f4345f8</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433273</mtime>
+    <size>59024</size>
+    <md5>8134ad740e815ca39ed1700a11ab49a3</md5>
+    <crc32>a65e61a8</crc32>
+    <sha1>09e95cb5d22831050fda18943f21ce11386391f7</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433274</mtime>
+    <size>52999</size>
+    <md5>ea63acc3246803cb4722ab1e6bbf3e34</md5>
+    <crc32>ebeded8c</crc32>
+    <sha1>7e8dda65f72ebacedddbd39bfcbabc4fd110baad</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Practice Room 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Practice Room 1080p.flv</original>
+    <mtime>1703433275</mtime>
+    <size>53653</size>
+    <md5>1cbebec65fdf7f55523d1f666e234d2d</md5>
+    <crc32>1dde7901</crc32>
+    <sha1>3aa565e84f26c10e295426904049fe7f178c62fd</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433352</mtime>
+    <size>23648</size>
+    <md5>a4dd061a384f5bcd715bf8debe0f29d1</md5>
+    <crc32>e73f99bb</crc32>
+    <sha1>6524ca6518afda2d5869a60ddc4243d6bc513853</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433353</mtime>
+    <size>74990</size>
+    <md5>846056f2761494390bcc179bacb07beb</md5>
+    <crc32>0f546319</crc32>
+    <sha1>ee66b95af03886432deb1eac438d42f582f263fe</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433353</mtime>
+    <size>42630</size>
+    <md5>104cc5a30aa39f41480b7281abe7aa26</md5>
+    <crc32>4257a2fe</crc32>
+    <sha1>c5be35321f633e1f41582949d94e1cb47740f8c1</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433354</mtime>
+    <size>62762</size>
+    <md5>5271dba814d1736897f5f21f0aa295ce</md5>
+    <crc32>da6d1e95</crc32>
+    <sha1>ed5c14e1ebb4bc54f79b07379f0786699c295d2c</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433355</mtime>
+    <size>40190</size>
+    <md5>d207d6eabd709a19359175b23b6655cb</md5>
+    <crc32>2b07588b</crc32>
+    <sha1>fe8d93be3386ffdbd7cefcf2221cdcb4c1a6973c</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433355</mtime>
+    <size>65686</size>
+    <md5>70aa4fb7f62933e6ae795b4009aed981</md5>
+    <crc32>569f84de</crc32>
+    <sha1>f9986fcca078dc15c07e4db6364c4dfe1cddaf07</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433356</mtime>
+    <size>62457</size>
+    <md5>3d71be4a963bfa0766580e30ab094b14</md5>
+    <crc32>1c03d2b0</crc32>
+    <sha1>781716651ecc4ab83214572d69dc5683b50d2145</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433357</mtime>
+    <size>56420</size>
+    <md5>7e02bbf442eae9111edfb7a7ce0cf05c</md5>
+    <crc32>4c2ae307</crc32>
+    <sha1>2c46a78ea73f892f3016d50f8bb463715ff1ff6f</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433358</mtime>
+    <size>56850</size>
+    <md5>879bfc412fcb0d5eca7bc077eaa6d4df</md5>
+    <crc32>2607190c</crc32>
+    <sha1>f7c7e62a401a0bd7fab9ef71fb93c9198fb12444</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433358</mtime>
+    <size>71217</size>
+    <md5>6d69a3739001f422216a7d74a0255efa</md5>
+    <crc32>170d571c</crc32>
+    <sha1>e84a68da9e5c894f2031dc09a2736e0f8de61ca1</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433359</mtime>
+    <size>44641</size>
+    <md5>a4ebea74d2ddf078e8a0a51aac043532</md5>
+    <crc32>59994be2</crc32>
+    <sha1>461a9ca19b86b8d5fbb5d9f306cb4ee70c441d46</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433360</mtime>
+    <size>30137</size>
+    <md5>27d776a22734bf7ffde91f166b4434fb</md5>
+    <crc32>4d49f2b5</crc32>
+    <sha1>bea9e49574e9aab34752812f827617bdefe88664</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433361</mtime>
+    <size>57285</size>
+    <md5>1ac64790509dde5ae5667a9ae968eec1</md5>
+    <crc32>b7333953</crc32>
+    <sha1>1cbfededc31f209a26d5abf3035a824385b8fcf1</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433361</mtime>
+    <size>66611</size>
+    <md5>055dcc4b08eeea34ed644ce5f9549e8c</md5>
+    <crc32>db83b9e4</crc32>
+    <sha1>6d350b991b65ee8491e9b9e153d760ada8b8c384</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433362</mtime>
+    <size>57798</size>
+    <md5>58d728cb2f5128a62b38d64c0b36c434</md5>
+    <crc32>c368bfce</crc32>
+    <sha1>57b2bd528ced8dc6edd2740793751fb636c1e2fb</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433362</mtime>
+    <size>47631</size>
+    <md5>ac63d57ee6da6633babb29fd1f0936d8</md5>
+    <crc32>db19dde0</crc32>
+    <sha1>33606a95f540aecf28db416d70aeb39a8c1aabfd</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433363</mtime>
+    <size>27482</size>
+    <md5>e655c0f6374a57155c45ef6e0e4171d6</md5>
+    <crc32>f487d8fb</crc32>
+    <sha1>16488734c0c302f778425307867919b0be04bc41</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433364</mtime>
+    <size>33478</size>
+    <md5>9c25dee6ef1959108529e8252979e1d4</md5>
+    <crc32>00a0a31a</crc32>
+    <sha1>8d5bf5f2543d123630ad8e849a76603f33810050</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Pure Dance 1080p_000100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Pure Dance 1080p.flv</original>
+    <mtime>1703433364</mtime>
+    <size>41255</size>
+    <md5>35cb5656485fd78f0735e4a9bb28e6fb</md5>
+    <crc32>b3fce810</crc32>
+    <sha1>9f4b42c4a567548a882b11fdc24ef0f596d268be</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Trailer 874p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Trailer 874p.flv</original>
+    <mtime>1703433442</mtime>
+    <size>32867</size>
+    <md5>4b9c6c139c30b4899d69be3a91900f0f</md5>
+    <crc32>6b6f5e43</crc32>
+    <sha1>7deefa533baf92fd393aa144680e0812505500cc</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Trailer 874p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Trailer 874p.flv</original>
+    <mtime>1703433442</mtime>
+    <size>37971</size>
+    <md5>d568a7de38363701ca2115c137b63668</md5>
+    <crc32>8fb02275</crc32>
+    <sha1>f461afa88fbf75730db040752a44feb2654c8845</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Trailer 874p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Trailer 874p.flv</original>
+    <mtime>1703433443</mtime>
+    <size>43692</size>
+    <md5>1d514d02a31d7d9edaf5117b0de3be3d</md5>
+    <crc32>0fd0782e</crc32>
+    <sha1>453489d7375cb9e391f519c80296c7ae30f6be1b</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Trailer 874p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Trailer 874p.flv</original>
+    <mtime>1703433443</mtime>
+    <size>21853</size>
+    <md5>eac266411ad8787ceaec2b15a21a92aa</md5>
+    <crc32>652abd04</crc32>
+    <sha1>c310b655bb5b709ecec30636e2d3b8975178c714</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad.thumbs/Xiaodan. Dawn Moon Ballad. Trailer 874p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dawn Moon Ballad. Trailer 874p.flv</original>
+    <mtime>1703433444</mtime>
+    <size>77434</size>
+    <md5>ad69a50b5d964f80e8f11a972275dfa8</md5>
+    <crc32>64b58596</crc32>
+    <sha1>25aa038dc7f0577994b24b05e0d74f801d4d0fd4</sha1>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad_archive.torrent" source="metadata">
+    <btih>62fff93f08f954a9e45cb6f7484292a7bd9ecd7c</btih>
+    <mtime>1723384293</mtime>
+    <size>21878</size>
+    <md5>b12d0005f0bee274dda87f504892e51c</md5>
+    <crc32>79647a57</crc32>
+    <sha1>8b811940979bc49751acdeeb8736cb4b4ab20fb7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>160137b9c526b39cebddb1ae2f3a5ca6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad_meta.sqlite" source="original">
+    <mtime>1723381761</mtime>
+    <size>65536</size>
+    <md5>b54a3a0edd0ab08f3f6e810cf0abbead</md5>
+    <crc32>0f6b8508</crc32>
+    <sha1>3194634bbf52682ccffeb44fc62b6b7581482def</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-dawn-moon-ballad_meta.xml" source="original">
+    <mtime>1723384289</mtime>
+    <size>3889</size>
+    <md5>b3542657b010874bad17b86e2b59186e</md5>
+    <crc32>da3a94ea</crc32>
+    <sha1>002a828b2547ff763baa363fcc35ab0a9093b0c1</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

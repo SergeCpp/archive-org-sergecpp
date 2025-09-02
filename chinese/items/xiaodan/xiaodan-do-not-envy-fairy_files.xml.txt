@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Do Not Envy Fairy 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Do Not Envy Fairy 1080p.mp4</original>
+    <mtime>1659983135</mtime>
+    <size>98684343</size>
+    <md5>3c71cba04004d8c49d00aad0ec8619c3</md5>
+    <crc32>18e9fca5</crc32>
+    <sha1>be49df9a3ec0b125726889de3585a995ef972d08</sha1>
+    <length>182.49</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1080p.mp4" source="original">
+    <mtime>1659983029</mtime>
+    <size>98684343</size>
+    <md5>843b169e5658ecab6c35050bcc1b78c0</md5>
+    <crc32>c0a4956b</crc32>
+    <sha1>98ef59604c45b5c03888957e4bd3adfec441067b</sha1>
+    <format>MPEG4</format>
+    <length>182.49</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1144x715 Lv 1p1.png" source="original">
+    <mtime>1719897326</mtime>
+    <size>1247843</size>
+    <md5>da23fc63164d6235f3b9e2897326b94a</md5>
+    <crc32>7e64d2b5</crc32>
+    <sha1>e8cdfa3b1bfcceeeecd8c5add0daccc03197589f</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1144x715 Lv 1p1_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Do Not Envy Fairy 1144x715 Lv 1p1.png</original>
+    <mtime>1719898854</mtime>
+    <size>8436</size>
+    <md5>aa4a29c863b2b1e1cbeb9e2f4e972a8a</md5>
+    <crc32>b0d8d336</crc32>
+    <sha1>89883a267e0c59fab97b6126de66e89f474c5d38</sha1>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1144x715.png" source="original">
+    <mtime>1719897334</mtime>
+    <size>1205501</size>
+    <md5>5f1783995294d294883760e776b820f0</md5>
+    <crc32>e33f767d</crc32>
+    <sha1>0e32b932fae63d55f1b061e83b88db3bea82bba1</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Do Not Envy Fairy 1144x715.png</original>
+    <mtime>1719898857</mtime>
+    <size>8551</size>
+    <md5>99783641b4e9bdf724f79c04ecb17bbf</md5>
+    <crc32>d2267ace</crc32>
+    <sha1>de35204dd3ca93f56613abc110fb3fdbdf7e9c7c</sha1>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1146x716.jpg" source="original">
+    <mtime>1662307831</mtime>
+    <size>127665</size>
+    <md5>e4a3924742c1e59c51c5dd1d32fd9fc6</md5>
+    <crc32>c2869d7d</crc32>
+    <sha1>569c2c0f8a978cb0889c7eae9dfd2b2e049e0ffd</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Do Not Envy Fairy 1146x716.jpg</original>
+    <mtime>1662307871</mtime>
+    <size>9408</size>
+    <md5>c4edf7d80a243f3231995d4c18f3c84e</md5>
+    <crc32>f26e366e</crc32>
+    <sha1>44cbcf1c03433fa7ef6561d36f646eb59b128dea</sha1>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1440p.m4a" source="original">
+    <mtime>1695228282</mtime>
+    <size>2954073</size>
+    <md5>9caf7b3bb80990401588823cb4acb34e</md5>
+    <crc32>46482d9c</crc32>
+    <sha1>fa86b5f65efa48f8a580e231e83b2f95f81eaea9</sha1>
+    <format>MPEG-4 Audio</format>
+    <length>182.49</length>
+    <track>01</track>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1440p.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.webm</original>
+    <mtime>1695234693</mtime>
+    <size>15524380</size>
+    <md5>a38956f0c9e12105dfd090ef40f02f27</md5>
+    <crc32>004d27a6</crc32>
+    <sha1>702a10fdde804dc90926531db6caf740b4958c2d</sha1>
+    <length>182.33</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1440p.png" source="derivative">
+    <format>PNG</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.m4a</original>
+    <mtime>1695228609</mtime>
+    <size>40744</size>
+    <md5>b41df401150cae4f3c3ee8b9a2e9dfb6</md5>
+    <crc32>500c0ba1</crc32>
+    <sha1>5c09417a0c5c2f92fb701641c52b1dcb042c460e</sha1>
+  </file>
+  <file name="Xiaodan. Do Not Envy Fairy 1440p.webm" source="original">
+    <mtime>1695233984</mtime>
+    <size>162263920</size>
+    <md5>78c1577b1e0d0e483f2d8cba94cc3da7</md5>
+    <crc32>2dcf4b58</crc32>
+    <sha1>0af04859803e0ca3dd47b0f421759ae178840443</sha1>
+    <format>WebM</format>
+    <length>182.33</length>
+    <width>2560</width>
+    <height>1440</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719903219</mtime>
+    <size>14674</size>
+    <md5>14a084f2fd506012eaf437a0d3b944c4</md5>
+    <crc32>ddb77135</crc32>
+    <sha1>4988795f420271d6e4526e706888bd7ff1c7abb8</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1080p.mp4</original>
+    <mtime>1659983090</mtime>
+    <size>30773</size>
+    <md5>339eb1be5b2f1acf473091af4710ee59</md5>
+    <crc32>00843f85</crc32>
+    <sha1>7c1d0093a344dbcc2d1db6313fcd92d3a56ab0d9</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1080p.mp4</original>
+    <mtime>1659983094</mtime>
+    <size>78937</size>
+    <md5>61f690c60177c3cd7108024a81c7b141</md5>
+    <crc32>87a8c980</crc32>
+    <sha1>15386213bc53faf7cd159cc7b4e2a01cad433ef3</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1080p.mp4</original>
+    <mtime>1659983101</mtime>
+    <size>102177</size>
+    <md5>14efc06b96e6487862aed982b2ff3d01</md5>
+    <crc32>477c88f1</crc32>
+    <sha1>a71812b72aca2678bc64b2f1a68d4493f7c0c376</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1080p.mp4</original>
+    <mtime>1659983106</mtime>
+    <size>57061</size>
+    <md5>fb09251066b785371645a88b74db1b81</md5>
+    <crc32>a6604737</crc32>
+    <sha1>ff61959a2bc3656f893dc20c0771f190eeac5741</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1080p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1080p.mp4</original>
+    <mtime>1659983112</mtime>
+    <size>50927</size>
+    <md5>fdecc7a23cafd59e76cf5892ce0565e3</md5>
+    <crc32>66f44c6e</crc32>
+    <sha1>357d246b24c19e881679b7631db5cb1af385c835</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1080p_000181.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1080p.mp4</original>
+    <mtime>1659983118</mtime>
+    <size>2624</size>
+    <md5>fe843907f5ef0823b46d3c4c9fc38dfc</md5>
+    <crc32>f83caa06</crc32>
+    <sha1>e365d31f31d799ed8546c00f3a2d7900c8cbdf8b</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1440p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.webm</original>
+    <mtime>1695234133</mtime>
+    <size>33080</size>
+    <md5>793fe70dbac2ac99c9d65f3263a48a90</md5>
+    <crc32>da1d4fa1</crc32>
+    <sha1>46799099c2a1556e406688b5d3556a9737250604</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1440p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.webm</original>
+    <mtime>1695234144</mtime>
+    <size>90841</size>
+    <md5>256daab1a93397ed32ff8c40c62cd5b8</md5>
+    <crc32>21d426ad</crc32>
+    <sha1>76d61efa336166ac9df6ebf56dab36107fbc5432</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1440p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.webm</original>
+    <mtime>1695234157</mtime>
+    <size>109526</size>
+    <md5>2d304618ebcd7e5ee5e7dc797ac32575</md5>
+    <crc32>c4f8ac4b</crc32>
+    <sha1>44f10c677a8384b8f0da5c71f6d4703f2961ddc2</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1440p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.webm</original>
+    <mtime>1695234168</mtime>
+    <size>64222</size>
+    <md5>42c36e19d1913e45207e148050f720ee</md5>
+    <crc32>c7912e47</crc32>
+    <sha1>e2157e0ea269d303761740ef52b56b87494841d6</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1440p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.webm</original>
+    <mtime>1695234180</mtime>
+    <size>57339</size>
+    <md5>46741a185f9b49b97e277fbb51246649</md5>
+    <crc32>d51ddc35</crc32>
+    <sha1>d69561609d4b555a1f8fdc088845a0f5581b2f0e</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy.thumbs/Xiaodan. Do Not Envy Fairy 1440p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Do Not Envy Fairy 1440p.webm</original>
+    <mtime>1695234193</mtime>
+    <size>2625</size>
+    <md5>3521ddd04b938f167fe7415b042e2d87</md5>
+    <crc32>61ea80f0</crc32>
+    <sha1>95bc85889d6b1cd5ed925ab9152c4abed20ae544</sha1>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy_archive.torrent" source="metadata">
+    <btih>939a58870a55b5df6202a1bd4773251f00a83923</btih>
+    <mtime>1719903472</mtime>
+    <size>18639</size>
+    <md5>c3234579ba6c85bae167926cbd0d36f3</md5>
+    <crc32>c7223075</crc32>
+    <sha1>d0a9efb4258d2676e4e6455589548d4616c47264</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5d8c8510e788f25d9ef07258dcdddd82</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy_meta.sqlite" source="original">
+    <mtime>1719903468</mtime>
+    <size>32768</size>
+    <md5>2f01d196fc093bf4d5e1517781c21c5d</md5>
+    <crc32>817420a8</crc32>
+    <sha1>99e62ac2ebd85ed6ab8a3f3155b754e2c91d2369</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-do-not-envy-fairy_meta.xml" source="original">
+    <mtime>1719903214</mtime>
+    <size>2023</size>
+    <md5>fce400da9a2e566a66c0286a7b870f1a</md5>
+    <crc32>0f82615d</crc32>
+    <sha1>dc40302bd1cfa2f49a88296e4c53d1d3f2456a8d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
