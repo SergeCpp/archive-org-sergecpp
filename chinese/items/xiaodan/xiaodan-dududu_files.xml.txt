@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Dududu 1080p.mp4" source="original">
+    <mtime>1736834243</mtime>
+    <size>46344262</size>
+    <md5>41ab908108897298a2c1a4bc34ef3843</md5>
+    <crc32>90aa47fd</crc32>
+    <sha1>be82102670d9bbfd4105741ab074b4e1cb1f049a</sha1>
+    <format>MPEG4</format>
+    <length>141.08</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Dududu 1136x710 Lv20_itemimage.png" source="original">
+    <mtime>1736833317</mtime>
+    <size>999026</size>
+    <md5>449751f99e58abdc0ef012573b7ca604</md5>
+    <crc32>586df33b</crc32>
+    <sha1>93ef6ccb9115807ac2b269dbe2c1562cd053ae70</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Dududu 1136x710.png" source="original">
+    <mtime>1736833340</mtime>
+    <size>929200</size>
+    <md5>8567d7e96e480f513ca6e82e6fd63fcc</md5>
+    <crc32>03ef3654</crc32>
+    <sha1>01e73e5ba6c78972f44d1dfb64ee4ca4b0716e42</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Dududu 1136x710_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Dududu 1136x710.png</original>
+    <mtime>1736835254</mtime>
+    <size>6742</size>
+    <md5>5932e41895c3054891c8c812b2b9814b</md5>
+    <crc32>229fcc53</crc32>
+    <sha1>355db362d0d02fd58137f4544f4e24d38b5b9b67</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1736833405</mtime>
+    <size>10423</size>
+    <md5>0c17e0ad6e3fc546ed0044fc7e7a933c</md5>
+    <crc32>55981ea5</crc32>
+    <sha1>87a203717f4237fc4ec251aa1d677d838e7b78b0</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="xiaodan-dududu.thumbs/Xiaodan. Dududu 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dududu 1080p.mp4</original>
+    <mtime>1736834843</mtime>
+    <size>28834</size>
+    <md5>b5755e9575faff6fe2c5fa6d7d5fc279</md5>
+    <crc32>3a9792fb</crc32>
+    <sha1>41ad26878b3f1843147bf48439350b58f44f120b</sha1>
+  </file>
+  <file name="xiaodan-dududu.thumbs/Xiaodan. Dududu 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dududu 1080p.mp4</original>
+    <mtime>1736834845</mtime>
+    <size>47067</size>
+    <md5>d105ae4f1b002a33b2598d4377162516</md5>
+    <crc32>c5ffcfc0</crc32>
+    <sha1>db42aa18842ecdba986e8ce9dbf002bec0b94366</sha1>
+  </file>
+  <file name="xiaodan-dududu.thumbs/Xiaodan. Dududu 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dududu 1080p.mp4</original>
+    <mtime>1736834848</mtime>
+    <size>46477</size>
+    <md5>18dd6bc48462a347ac1823c96fe6d8a0</md5>
+    <crc32>bd37afc1</crc32>
+    <sha1>108d63be38ae1b00e226b25b02aa2ba2f351e909</sha1>
+  </file>
+  <file name="xiaodan-dududu.thumbs/Xiaodan. Dududu 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dududu 1080p.mp4</original>
+    <mtime>1736834850</mtime>
+    <size>48466</size>
+    <md5>7e143dadeb624e795a27a786ada15548</md5>
+    <crc32>1c35ea84</crc32>
+    <sha1>52cedcf0fb0a7d9f50bd61e999708c67bf3b663d</sha1>
+  </file>
+  <file name="xiaodan-dududu.thumbs/Xiaodan. Dududu 1080p_000140.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Dududu 1080p.mp4</original>
+    <mtime>1736834852</mtime>
+    <size>39198</size>
+    <md5>7851fa46c576d06289632972af1cbe40</md5>
+    <crc32>eecf6f22</crc32>
+    <sha1>16a25fb3355dc71f8f67288060770adf1c97f991</sha1>
+  </file>
+  <file name="xiaodan-dududu_archive.torrent" source="metadata">
+    <btih>a8965ccda9b60adeb1816e3e87ba338b27aa11f2</btih>
+    <mtime>1736836016</mtime>
+    <size>4256</size>
+    <md5>a00003f516688f2533856348e4a1fdcc</md5>
+    <crc32>0aa9f19e</crc32>
+    <sha1>233a551a8c71587219fe46bd4e661fc73fdd868f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-dududu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a177fed6f6d3585d96011fc895a40b13</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-dududu_meta.sqlite" source="original">
+    <mtime>1736834273</mtime>
+    <size>49152</size>
+    <md5>5f74f8f3d49618fbc005993013b47b67</md5>
+    <crc32>f62427b8</crc32>
+    <sha1>7409a15a04089e1f6de8f6e241198c1c7eff8aee</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-dududu_meta.xml" source="original">
+    <mtime>1736833340</mtime>
+    <size>4504</size>
+    <md5>731e171467c1d8883a667b9e909fc5ab</md5>
+    <crc32>61a8194c</crc32>
+    <sha1>a0932f1571f7efc4047215a51ec845771dd91a8f</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

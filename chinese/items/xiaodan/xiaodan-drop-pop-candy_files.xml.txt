@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Drop Pop Candy 1080p.mp4" source="original">
+    <mtime>1704188082</mtime>
+    <size>82586474</size>
+    <md5>31072169afbd076e90ebbfad05b40cf2</md5>
+    <crc32>4ebc3a27</crc32>
+    <sha1>0480e4d3064035a79565d293e6fe3c5e9a4e1b92</sha1>
+    <format>MPEG4</format>
+    <length>225.3</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Drop Pop Candy 2880x1800 Exp 20 Lv R45 G40-248 B50 BL-110-150.png" source="original">
+    <mtime>1727274811</mtime>
+    <size>6399964</size>
+    <md5>a7a6c419afed1be7b032c8f93ac41782</md5>
+    <crc32>de784221</crc32>
+    <sha1>77c349eb26f46e2b8f1ec0361c65d248f810fddf</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Drop Pop Candy 2880x1800 Exp 20 Lv R45 G40-248 B50 BL-110-150_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Drop Pop Candy 2880x1800 Exp 20 Lv R45 G40-248 B50 BL-110-150.png</original>
+    <mtime>1727275837</mtime>
+    <size>8304</size>
+    <md5>2d2253247f5add4a043f126f7b5bfefa</md5>
+    <crc32>09b8a0e3</crc32>
+    <sha1>f3c2063fea17db5be1497bf76d638ef48d08c82e</sha1>
+  </file>
+  <file name="Xiaodan. Drop Pop Candy 2880x1800.png" source="original">
+    <mtime>1704188113</mtime>
+    <size>4811537</size>
+    <md5>1322061b8e34b46da1a40159993081c1</md5>
+    <crc32>4dbf3b69</crc32>
+    <sha1>75cabfad2c0aff12856bff1910de12218580cb7f</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Drop Pop Candy 2880x1800_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Drop Pop Candy 2880x1800.png</original>
+    <mtime>1704188201</mtime>
+    <size>7816</size>
+    <md5>25ffbbbe1a98d6262370175feae7d439</md5>
+    <crc32>82061210</crc32>
+    <sha1>7ebf8e123d63a9022f72779c20367174d67d84a3</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1727276313</mtime>
+    <size>13329</size>
+    <md5>6a2266f19d7b29e427a991c6c6d8ebbc</md5>
+    <crc32>f0b1495f</crc32>
+    <sha1>1afa0c7c46677c5f333fc41ed7a8777650058edb</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188149</mtime>
+    <size>52751</size>
+    <md5>54579f3a738ba65698491727458deeb1</md5>
+    <crc32>30aa0245</crc32>
+    <sha1>329f03a5d196677d3d1d75a5840ce48d35212460</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188152</mtime>
+    <size>63213</size>
+    <md5>4ee2a892233473bff973b4092a430a71</md5>
+    <crc32>088717de</crc32>
+    <sha1>151c7d1a59b9194378ca128d0d861ee8e8540d22</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188155</mtime>
+    <size>49287</size>
+    <md5>56e5bfb5240a6b875bc325f2bcb804ee</md5>
+    <crc32>4add0d33</crc32>
+    <sha1>0cd258e51d4b65fd3b091fab9f74ae7721802e87</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188158</mtime>
+    <size>51319</size>
+    <md5>da1a03af25e8dd7e681199c905406e31</md5>
+    <crc32>dbe23c58</crc32>
+    <sha1>e7e752bbff8806193481da60db8de2de296e5c5b</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188161</mtime>
+    <size>67712</size>
+    <md5>7de1d3ddf62b1799e4ecc12158151a50</md5>
+    <crc32>b866a695</crc32>
+    <sha1>d280e44d4f230d2e44a9e0f67bb60addb18532d0</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188164</mtime>
+    <size>48598</size>
+    <md5>e38f17ebb614a7a6726a306ae38cfdb6</md5>
+    <crc32>282832de</crc32>
+    <sha1>16b998fe2d486d17acf9e5de62aef784fe079725</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188168</mtime>
+    <size>70010</size>
+    <md5>db9a6fb66e03eefb175c2e643d4e6300</md5>
+    <crc32>075af4ea</crc32>
+    <sha1>db847a100495622ed5f6b9f0066abc77ed2cd6ef</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy.thumbs/Xiaodan. Drop Pop Candy 1080p_000225.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Drop Pop Candy 1080p.mp4</original>
+    <mtime>1704188169</mtime>
+    <size>52933</size>
+    <md5>c488a173d09d55869faebedef856a61b</md5>
+    <crc32>a7333e82</crc32>
+    <sha1>7ab916ef6543c42830d3e3656c926529a60aa268</sha1>
+  </file>
+  <file name="xiaodan-drop-pop-candy_archive.torrent" source="metadata">
+    <btih>711ca50a6d438809e0db142201c4c07c79d963ee</btih>
+    <mtime>1742134039</mtime>
+    <size>6362</size>
+    <md5>0d65d88b85036cacc882cef41a44dbb7</md5>
+    <crc32>835cfbf9</crc32>
+    <sha1>a3d3c3aaf7890e4d8cd4239677e8ecd0753b677b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-drop-pop-candy_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9752f14604d008b4dda59521d0bb22c9</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-drop-pop-candy_meta.sqlite" source="original">
+    <mtime>1727278133</mtime>
+    <size>40960</size>
+    <md5>5d728a2c7341c346685775ac6da432ee</md5>
+    <crc32>3469ab99</crc32>
+    <sha1>6d4d54ec20e94e4664d7e1f18ae4b2d37e7f6685</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-drop-pop-candy_meta.xml" source="original">
+    <mtime>1742134037</mtime>
+    <size>3537</size>
+    <md5>fb2d52868f9545c9a06ee5d04fbaff54</md5>
+    <crc32>02079bf6</crc32>
+    <sha1>dfd0a8acaec891d8c17531d51e6f7fc48fd14b9b</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
