@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Happy Handbook 1080p.mp4" source="original">
+    <mtime>1663875145</mtime>
+    <size>68824871</size>
+    <md5>59f045dbc5f4b441566ef2414c48de1f</md5>
+    <crc32>496dcedb</crc32>
+    <sha1>24692a5e92f2ebf9febc49d7609d0c9fb1130c45</sha1>
+    <format>MPEG4</format>
+    <length>199.58</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Happy Handbook 896x560 Exp 5.png" source="original">
+    <mtime>1727261725</mtime>
+    <size>652175</size>
+    <md5>883b7af6f2229c712a0df3c5f215efea</md5>
+    <crc32>378fc4ad</crc32>
+    <sha1>a4d20e0fe79678ef85a2058dff7b9a068ca22443</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Happy Handbook 896x560 Exp 5_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Happy Handbook 896x560 Exp 5.png</original>
+    <mtime>1727262507</mtime>
+    <size>6616</size>
+    <md5>add0aad306ae3986058f0cdfe78239ae</md5>
+    <crc32>cb0389e0</crc32>
+    <sha1>abedfc227a3f76b771712997246a555a8a365ada</sha1>
+  </file>
+  <file name="Xiaodan. Happy Handbook 896x560.png" source="original">
+    <mtime>1713344056</mtime>
+    <size>643061</size>
+    <md5>e4fb62745339c9105c13962591dfd023</md5>
+    <crc32>1a5b4889</crc32>
+    <sha1>1f280817389658ad1dc5ed04485662b95be279c2</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Happy Handbook 896x560_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Happy Handbook 896x560.png</original>
+    <mtime>1713344080</mtime>
+    <size>6558</size>
+    <md5>7d89a43037089df2c961a209205cc60e</md5>
+    <crc32>4eb7234c</crc32>
+    <sha1>77be6da6a0b060c60126856b3cbede8f77ac9b6b</sha1>
+  </file>
+  <file name="Xiaodan. Happy Handbook 960x600.jpg" source="original">
+    <mtime>1663875166</mtime>
+    <size>63999</size>
+    <md5>32ae5181a160ddd23e4d3d1823bda531</md5>
+    <crc32>25399e64</crc32>
+    <sha1>f53a078fc0ecf6f0f937e97b7fca282dc94066da</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Happy Handbook 960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Happy Handbook 960x600.jpg</original>
+    <mtime>1663875436</mtime>
+    <size>7424</size>
+    <md5>97e7868332186dd2b3d6aa186988f877</md5>
+    <crc32>e7bdf578</crc32>
+    <sha1>19540cedbe5d7bf65695ea8fc95fdac3eb870b6c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1727263510</mtime>
+    <size>11061</size>
+    <md5>19ae0b47651cd940baea2d1d560e095c</md5>
+    <crc32>a004a5c2</crc32>
+    <sha1>8c4a3d067deab3a1f1fda16e8b661e415a56997d</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-happy-handbook.thumbs/Xiaodan. Happy Handbook 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Happy Handbook 1080p.mp4</original>
+    <mtime>1663875375</mtime>
+    <size>29244</size>
+    <md5>a34030cad978399bec935ff0b3527713</md5>
+    <crc32>e111e9f5</crc32>
+    <sha1>0ca6263f2bb8bc92098998583e8442a22f0675ec</sha1>
+  </file>
+  <file name="xiaodan-happy-handbook.thumbs/Xiaodan. Happy Handbook 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Happy Handbook 1080p.mp4</original>
+    <mtime>1663875381</mtime>
+    <size>43783</size>
+    <md5>6e5d294b21338ce483a95f3102d2d34d</md5>
+    <crc32>8eed637f</crc32>
+    <sha1>b68bad47bb39c65f97d6b6ed12dccb20534dcb92</sha1>
+  </file>
+  <file name="xiaodan-happy-handbook.thumbs/Xiaodan. Happy Handbook 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Happy Handbook 1080p.mp4</original>
+    <mtime>1663875389</mtime>
+    <size>49632</size>
+    <md5>153bfcf641d904e0c9255ae40565a146</md5>
+    <crc32>b314ab54</crc32>
+    <sha1>cd31d0f123e5a16de1fcc3f6dc7b8829c724f367</sha1>
+  </file>
+  <file name="xiaodan-happy-handbook.thumbs/Xiaodan. Happy Handbook 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Happy Handbook 1080p.mp4</original>
+    <mtime>1663875396</mtime>
+    <size>62558</size>
+    <md5>cba0cabedd4026823834ce1f1dfd7b06</md5>
+    <crc32>0fa9a7ed</crc32>
+    <sha1>819956a3e98e7996f1abdfec4f061fa0e41d49d5</sha1>
+  </file>
+  <file name="xiaodan-happy-handbook.thumbs/Xiaodan. Happy Handbook 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Happy Handbook 1080p.mp4</original>
+    <mtime>1663875403</mtime>
+    <size>35215</size>
+    <md5>95500d04f29de3e62ec5c699ae700e9b</md5>
+    <crc32>dce08741</crc32>
+    <sha1>e5e47196366b5005a2543da187d52f22bd55ca45</sha1>
+  </file>
+  <file name="xiaodan-happy-handbook.thumbs/Xiaodan. Happy Handbook 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Happy Handbook 1080p.mp4</original>
+    <mtime>1663875410</mtime>
+    <size>56994</size>
+    <md5>698ef0de3b02869084856691cc3f1330</md5>
+    <crc32>4df69960</crc32>
+    <sha1>72078fb5ce8c1f77fc0632a6cb2f525b84867801</sha1>
+  </file>
+  <file name="xiaodan-happy-handbook.thumbs/Xiaodan. Happy Handbook 1080p_000195.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Happy Handbook 1080p.mp4</original>
+    <mtime>1663875414</mtime>
+    <size>51037</size>
+    <md5>ca65108113bfbec657dc798b0967d83a</md5>
+    <crc32>50ab8444</crc32>
+    <sha1>1f88104f0df28c08eacdd8bd947321a97e34205e</sha1>
+  </file>
+  <file name="xiaodan-happy-handbook_archive.torrent" source="metadata">
+    <btih>de1d82cf6ef528aef47af3dc4feb878e559de43d</btih>
+    <mtime>1727263600</mtime>
+    <size>5773</size>
+    <md5>048a12e794439df02111ab26df6fda4d</md5>
+    <crc32>388e9eb3</crc32>
+    <sha1>a4956cbb10868974bf483f1ef0ea89d4b70e3994</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-happy-handbook_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5214bd9d758a629ddec917d3585fa170</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-happy-handbook_meta.sqlite" source="original">
+    <mtime>1727263599</mtime>
+    <size>36864</size>
+    <md5>6bf0b4ccfbc649c8f770d40f1b42f4db</md5>
+    <crc32>16e031f4</crc32>
+    <sha1>735e1c750f28478ef6e45a2bfc70e3e605eeaa53</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-happy-handbook_meta.xml" source="original">
+    <mtime>1727263504</mtime>
+    <size>3041</size>
+    <md5>c98288c71d89cafca64c428440f7185a</md5>
+    <crc32>2bbcc4f1</crc32>
+    <sha1>b2a2a62bf90c28b744816e05a443119774bd47f8</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
