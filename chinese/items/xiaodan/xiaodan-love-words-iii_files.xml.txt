@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Love Words III 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704473155</mtime>
+    <size>74281685</size>
+    <md5>d9aa08e40a9dbec4c876b509cbe1fa2c</md5>
+    <crc32>c757bdaf</crc32>
+    <sha1>1f4882f3d982c4ef60227706a18cc1dd0366022c</sha1>
+    <length>245.03</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Love Words III 1080p.mp4" source="original">
+    <mtime>1704472778</mtime>
+    <size>74281685</size>
+    <md5>d0d85081037e572cd4384bfba2e18d57</md5>
+    <crc32>2b3340a0</crc32>
+    <sha1>3c8ba6c816c3461dbd452d46d897aa29350e7b5f</sha1>
+    <format>MPEG4</format>
+    <length>245.03</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Love Words III 640x400 Lv 1p04.png" source="original">
+    <mtime>1719120595</mtime>
+    <size>448232</size>
+    <md5>001d6b08ae040061f5c6269e9f65d32f</md5>
+    <crc32>513261a9</crc32>
+    <sha1>06636b73f20367a87c33252f9dff93186761b036</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Love Words III 640x400 Lv 1p04_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Love Words III 640x400 Lv 1p04.png</original>
+    <mtime>1719120630</mtime>
+    <size>7660</size>
+    <md5>7ea501d7949e04eb1f2892ea6d0c98e1</md5>
+    <crc32>7e556bc1</crc32>
+    <sha1>26a2a91ab0a8d706fd91a3d82716473211f97f2f</sha1>
+  </file>
+  <file name="Xiaodan. Love Words III 640x400.png" source="original">
+    <mtime>1719120599</mtime>
+    <size>441694</size>
+    <md5>24a5190a0b99c76a64ed9e7196fe82fe</md5>
+    <crc32>17a29dd0</crc32>
+    <sha1>90356acaf4d2c74bc21ae0825f2ae1ce5eee71c5</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Love Words III 640x400_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Love Words III 640x400.png</original>
+    <mtime>1719120634</mtime>
+    <size>7690</size>
+    <md5>30670c25e2c7bacee120de1eac51dece</md5>
+    <crc32>608195fa</crc32>
+    <sha1>b9250d02cdc11c2bae7092ec8b06a3e8729aab41</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719121691</mtime>
+    <size>12531</size>
+    <md5>05555f6ab3e9464aee27a6d6f4ed877c</md5>
+    <crc32>423a65c8</crc32>
+    <sha1>739df302a5fd368ab02d359cc4c5b2eaecac5e97</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704472990</mtime>
+    <size>6798</size>
+    <md5>3c416df21d11896086a91be10d9d92af</md5>
+    <crc32>b2542003</crc32>
+    <sha1>7b47450945a1293c7abcf802370859dc6d740171</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704472999</mtime>
+    <size>63301</size>
+    <md5>6bb0c44655e73987df5872d4725e44d1</md5>
+    <crc32>09d4f12f</crc32>
+    <sha1>4c3b8c41c8263effe44015b65f9cd1775c44a09e</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000088.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704473008</mtime>
+    <size>51283</size>
+    <md5>ffa9de1be9478f685d93d7a78d95b721</md5>
+    <crc32>d6339210</crc32>
+    <sha1>2a24f0cea0eb0529f9a73a716849e385c60c7266</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704473015</mtime>
+    <size>68179</size>
+    <md5>367e62b1d26a8e8e90855e439fd6746f</md5>
+    <crc32>f581c439</crc32>
+    <sha1>aef12c593e92c1973c76a9e10cb449e459c6f982</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704473025</mtime>
+    <size>57779</size>
+    <md5>bd6d2b1343420c952685fe963c5bccec</md5>
+    <crc32>41b8c478</crc32>
+    <sha1>5564d8999afffa3b4da4da7f636fbd58cae2b28e</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000181.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704473036</mtime>
+    <size>45529</size>
+    <md5>fbdcd6e0a8a2a4d8c0995d8ec504d403</md5>
+    <crc32>2870c722</crc32>
+    <sha1>82c41a0b0df0fd205c33b265da8ee7b542322165</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704473044</mtime>
+    <size>70877</size>
+    <md5>d6a468205d40d5598ca937866658a11c</md5>
+    <crc32>49ef6f9f</crc32>
+    <sha1>f39eea9e8df2ad23e08e7ee1a2f9186bb100ca8d</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii.thumbs/Xiaodan. Love Words III 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Words III 1080p.mp4</original>
+    <mtime>1704473056</mtime>
+    <size>61799</size>
+    <md5>6cba4db66c37db31c6d564e5a781c397</md5>
+    <crc32>e81fe729</crc32>
+    <sha1>807e8f1da734fa9793a0e349092b00571729ffdc</sha1>
+  </file>
+  <file name="xiaodan-love-words-iii_archive.torrent" source="metadata">
+    <btih>e5d3d7d74137c0f923c6db296f49d6c9a38f7b58</btih>
+    <mtime>1741156256</mtime>
+    <size>8605</size>
+    <md5>2ef6b5b9d2fbbaac122917a9c75dd5c8</md5>
+    <crc32>032244a8</crc32>
+    <sha1>1b0f2215a3dc7ef03835a973aa9ca1f0be12f660</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-love-words-iii_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0454d713ccc24b05b15ffd395718fa65</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-love-words-iii_meta.sqlite" source="original">
+    <mtime>1719121795</mtime>
+    <size>32768</size>
+    <md5>ab20f43f66668060070bb28957f392db</md5>
+    <crc32>58fa8782</crc32>
+    <sha1>704b8f6f24b089966fa5ae5182f72e0a126efb8f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-love-words-iii_meta.xml" source="original">
+    <mtime>1741156255</mtime>
+    <size>2786</size>
+    <md5>4c4ce0dc0a81a5fde2e3e9878c2b292e</md5>
+    <crc32>2ff1bf72</crc32>
+    <sha1>3a18a0d4c097a07d824d5580b44962ca75eed253</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

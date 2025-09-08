@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Love Sadness 1040x650 Lv A1p05 GB245.png" source="original">
+    <mtime>1718896257</mtime>
+    <size>1202739</size>
+    <md5>6dd86434ec0f27d04da6dfdf34ae2f3b</md5>
+    <crc32>6346e796</crc32>
+    <sha1>1b5d87533ca05a06dafcaef978a735ef86a31414</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Love Sadness 1040x650 Lv A1p05 GB245_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Love Sadness 1040x650 Lv A1p05 GB245.png</original>
+    <mtime>1718896596</mtime>
+    <size>8099</size>
+    <md5>a9f10d10410572125bd130eb2c26b46f</md5>
+    <crc32>0d3f45c5</crc32>
+    <sha1>8ac1487bc0b578fe7134b2317dd702835f242355</sha1>
+  </file>
+  <file name="Xiaodan. Love Sadness 1040x650.png" source="original">
+    <mtime>1718896266</mtime>
+    <size>1185098</size>
+    <md5>cbdebfabd2200d976e8f000291b26118</md5>
+    <crc32>e41134ec</crc32>
+    <sha1>60b5c471661274dd50978788a7bba1d2ab504928</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Love Sadness 1040x650_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Love Sadness 1040x650.png</original>
+    <mtime>1718896599</mtime>
+    <size>8046</size>
+    <md5>63c84c457ef06e7d1cd64008fe1626fa</md5>
+    <crc32>d42dfbe1</crc32>
+    <sha1>74c356d40528a69b450b2bfcaed14df26f4fef3b</sha1>
+  </file>
+  <file name="Xiaodan. Love Sadness 1053x657.jpg" source="original">
+    <mtime>1662373854</mtime>
+    <size>744328</size>
+    <md5>2201ef406ce5bd7adbc88108dcc90c84</md5>
+    <crc32>861ef831</crc32>
+    <sha1>521e45b824d9ac221ac7b268fc73bf4baac00469</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Love Sadness 1053x657_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Love Sadness 1053x657.jpg</original>
+    <mtime>1662373883</mtime>
+    <size>8526</size>
+    <md5>8ed01b4f219137a861c2676d41ffb593</md5>
+    <crc32>612e23a1</crc32>
+    <sha1>6e6330a2d464eb0c2aadad077356b2e3f3ada3a3</sha1>
+  </file>
+  <file name="Xiaodan. Love Sadness 1080p 30fps.mp4" source="original">
+    <mtime>1660015265</mtime>
+    <size>55513730</size>
+    <md5>cf78d9e7084858516e1834adfc571c26</md5>
+    <crc32>ac400ee6</crc32>
+    <sha1>99e26075f02acd108727482596db07f29a473523</sha1>
+    <format>MPEG4</format>
+    <length>154.48</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Love Sadness 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Love Sadness 1080p 60fps.mp4</original>
+    <mtime>1703089300</mtime>
+    <size>112637399</size>
+    <md5>fd5c32f5a12c935eba7206e14dd23459</md5>
+    <crc32>42b85dd4</crc32>
+    <sha1>7e55c278d6fe713347cd763c37f7080019842e6d</sha1>
+    <length>154.39</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Love Sadness 1080p 60fps.mp4" source="original">
+    <mtime>1703088222</mtime>
+    <size>112637399</size>
+    <md5>388565a68c89ac0015cb65d54207dc9d</md5>
+    <crc32>c952a957</crc32>
+    <sha1>1a06015f57a7e72d5409e9ae8be3e6edefb1658b</sha1>
+    <format>MPEG4</format>
+    <length>154.39</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718897583</mtime>
+    <size>14891</size>
+    <md5>ac02f0913bca91964b1b4112cb072e43</md5>
+    <crc32>10c75e80</crc32>
+    <sha1>489a576dcfed01bf247d687e74b81d7e37bde3a1</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 30fps.mp4</original>
+    <mtime>1660015915</mtime>
+    <size>32660</size>
+    <md5>d64faac1c59d5724f0e00399980b0345</md5>
+    <crc32>0339e985</crc32>
+    <sha1>ccfed00c9b23b3efa4e3ccd3314d1ae9b671d754</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 30fps.mp4</original>
+    <mtime>1660015934</mtime>
+    <size>102145</size>
+    <md5>dfa9b61d60645bf85b4c760357c0a285</md5>
+    <crc32>e6c0adf9</crc32>
+    <sha1>6778d77f14e7ae688430dbb2fe2b0453e48c3227</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 30fps.mp4</original>
+    <mtime>1660015953</mtime>
+    <size>89257</size>
+    <md5>1ceaf2b94259cbc9857d976fa690a357</md5>
+    <crc32>8ccddbab</crc32>
+    <sha1>192954d8ca103422843d52edbd6c2aa425705d74</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 30fps.mp4</original>
+    <mtime>1660015972</mtime>
+    <size>68986</size>
+    <md5>e11a85c3138a3098203a9d7fa6b629c7</md5>
+    <crc32>f71240a2</crc32>
+    <sha1>6b8fa077d1731f902b144f5201558466c34e73d6</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 30fps.mp4</original>
+    <mtime>1660015994</mtime>
+    <size>107759</size>
+    <md5>edc25f15c170bbdac13dd99a31c39a24</md5>
+    <crc32>5562ac5e</crc32>
+    <sha1>cddb6aa48f5701a6075876a75d141ec082a2c59e</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 60fps.mp4</original>
+    <mtime>1703089021</mtime>
+    <size>14927</size>
+    <md5>ad11435f77d9895619585b5277efb140</md5>
+    <crc32>37c395eb</crc32>
+    <sha1>f8a6f67c3bcd458159bfa334bfa5be68ba8d5098</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 60fps.mp4</original>
+    <mtime>1703089034</mtime>
+    <size>107957</size>
+    <md5>4f6c426135b41c68fc0c8b599a8a1c07</md5>
+    <crc32>048bf956</crc32>
+    <sha1>66734e56821038d65e9323b5727d2afb8fd0e849</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 60fps.mp4</original>
+    <mtime>1703089047</mtime>
+    <size>95257</size>
+    <md5>2d4d9ae49144a7908da047fa8a79c3f8</md5>
+    <crc32>eb6b257f</crc32>
+    <sha1>bd313607c5622645f12cad0cad9e199453f92239</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 60fps_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 60fps.mp4</original>
+    <mtime>1703089059</mtime>
+    <size>78255</size>
+    <md5>5cc85d435125d4d51dcc61481c43508b</md5>
+    <crc32>7ca15972</crc32>
+    <sha1>7697fcad8e17d92bdacb3390de2539b5b848a615</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 60fps_000151.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 60fps.mp4</original>
+    <mtime>1703089072</mtime>
+    <size>110021</size>
+    <md5>c9b37d192f0b7706b6e89991c3ef234a</md5>
+    <crc32>3442c156</crc32>
+    <sha1>f7f0b9a2e34ef06df59f8535fdaf5200a7899eb7</sha1>
+  </file>
+  <file name="xiaodan-love-sadness.thumbs/Xiaodan. Love Sadness 1080p 60fps_000152.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Love Sadness 1080p 60fps.mp4</original>
+    <mtime>1703089073</mtime>
+    <size>13926</size>
+    <md5>1d84f93a81516e242eda4b281de34999</md5>
+    <crc32>345d735d</crc32>
+    <sha1>7992ccda91fdaac00135fa9803e0e41adca66c00</sha1>
+  </file>
+  <file name="xiaodan-love-sadness_archive.torrent" source="metadata">
+    <btih>1a18c74db4428484b18d4d72cd7c9386f6840e60</btih>
+    <mtime>1718897698</mtime>
+    <size>14308</size>
+    <md5>d27a09d6f70b288d7fc58567d2951eeb</md5>
+    <crc32>ed2b6c35</crc32>
+    <sha1>17ee8a062a25c5233528c9dee044486e6ce56ac1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-love-sadness_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0cdcff897ee55273a8790b0c5dae459e</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-love-sadness_meta.sqlite" source="original">
+    <mtime>1718897696</mtime>
+    <size>32768</size>
+    <md5>3b2d111b34b6561370ed07b7ad44ae65</md5>
+    <crc32>3d62c9f9</crc32>
+    <sha1>bd82f4c814ef4867bcea07fe981d8451c3b89035</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-love-sadness_meta.xml" source="original">
+    <mtime>1718897571</mtime>
+    <size>3969</size>
+    <md5>a55d9043a5924339cc75bc0e6ff4f1f8</md5>
+    <crc32>6b9aadb6</crc32>
+    <sha1>acaebea4f8ff6941a43497374fbd1858be79096b</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

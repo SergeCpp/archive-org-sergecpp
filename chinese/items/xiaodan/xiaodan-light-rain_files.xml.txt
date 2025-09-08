@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Light Rain 1080p.mp4" source="original">
+    <mtime>1707746460</mtime>
+    <size>30530882</size>
+    <md5>b76d95d622a339b9db3d8a209b2c663c</md5>
+    <crc32>87ef4dc8</crc32>
+    <sha1>0ef0879141f8ddc68b78d7b038bc4f7cab6648e1</sha1>
+    <format>MPEG4</format>
+    <length>87.51</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Light Rain 3424x2140 Lv 1p04.png" source="original">
+    <mtime>1719061217</mtime>
+    <size>6942308</size>
+    <md5>812e4cff167e0ecbb969e195d5dc4567</md5>
+    <crc32>a2e48c0b</crc32>
+    <sha1>70a16c1ca980c8ce7cb36a6dc904aa6e6f17a845</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Light Rain 3424x2140 Lv 1p04_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Light Rain 3424x2140 Lv 1p04.png</original>
+    <mtime>1719061644</mtime>
+    <size>7388</size>
+    <md5>748b97cd532434b9c7db829a3bedd28c</md5>
+    <crc32>a2adbf0e</crc32>
+    <sha1>8b5fa32900a8948d86640713aab920b9a6d8b431</sha1>
+  </file>
+  <file name="Xiaodan. Light Rain 3424x2140.png" source="original">
+    <mtime>1719061235</mtime>
+    <size>6663528</size>
+    <md5>589dc2749e860dfc8cacb053a31cfddc</md5>
+    <crc32>4474ac4d</crc32>
+    <sha1>3a03ca8fa9317c9db08d58a5d3f8536c0c7a5539</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Light Rain 3424x2140_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Light Rain 3424x2140.png</original>
+    <mtime>1719061640</mtime>
+    <size>7425</size>
+    <md5>f76a03e2beecc5f9b956eebf20b1f744</md5>
+    <crc32>c9dd3dc3</crc32>
+    <sha1>57b13d659545a935ddf03d75354be56f4f49611f</sha1>
+  </file>
+  <file name="Xiaodan. Light Rain 3438x2148.jpg" source="original">
+    <mtime>1719061240</mtime>
+    <size>627281</size>
+    <md5>ffb98aafd3ebcd4206c4a01d3b7907c7</md5>
+    <crc32>ad8dc2de</crc32>
+    <sha1>56baacd866da2eda7129aa035f775edf1155d7f6</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Xiaodan. Light Rain 3438x2148_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Light Rain 3438x2148.jpg</original>
+    <mtime>1719061647</mtime>
+    <size>8207</size>
+    <md5>918bdfdb6bb6f84271ae43c86e0d1b9c</md5>
+    <crc32>7ea4e0ed</crc32>
+    <sha1>8fe6b4f99dcbae757339f1ccbe7e127d24099379</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719068818</mtime>
+    <size>11789</size>
+    <md5>bbca14c58fb6216a36455082baf60767</md5>
+    <crc32>dfbc8e91</crc32>
+    <sha1>57bc2d3f28caa6166c7a6b3e0e9a6bf5ab716c91</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747402</mtime>
+    <size>26476</size>
+    <md5>67f7affef8d07ed9c85fdb344bf1771b</md5>
+    <crc32>e126f38b</crc32>
+    <sha1>a48a018d6ff7e953de845bcd552b36810ce60f2f</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747403</mtime>
+    <size>63738</size>
+    <md5>cc22da4f11e050223c2e4281a7639954</md5>
+    <crc32>3940de7a</crc32>
+    <sha1>16d7cd889beba6d70da71478d104d1f048ce8757</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747404</mtime>
+    <size>50932</size>
+    <md5>6ee3efb96ff11c3f09612ff56904354f</md5>
+    <crc32>e7a30cf9</crc32>
+    <sha1>e16072048941c6c3c9645b5ca680601519c7fc4e</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747405</mtime>
+    <size>49554</size>
+    <md5>b4872fd5f1d4cde9d6084ea482dedce6</md5>
+    <crc32>fa28000b</crc32>
+    <sha1>9b532fda8728aed94fcbaf66e59d0781f72ebeec</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747405</mtime>
+    <size>40600</size>
+    <md5>ec859a8b4a525abe2d6c4149dda1827b</md5>
+    <crc32>04a3e985</crc32>
+    <sha1>6e133073ded7cf544ed4b4bbd3be7ba82240cb4e</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747406</mtime>
+    <size>65086</size>
+    <md5>77b7c5026a18de2fc29c133d69505c85</md5>
+    <crc32>4aed351d</crc32>
+    <sha1>9f04f757b2a77451b5b267702d3fb1177f61e100</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747407</mtime>
+    <size>60443</size>
+    <md5>e18ec1c8606bcf570f43759015e4ecfc</md5>
+    <crc32>6c89354d</crc32>
+    <sha1>e0b66758db374b79912b7381af03c360d8d03720</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747408</mtime>
+    <size>65641</size>
+    <md5>f70b8a03b7b90e2f8bc5e3f39bfe21c4</md5>
+    <crc32>7969df00</crc32>
+    <sha1>18773897024abadb57de8516a184602f99f087b3</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747408</mtime>
+    <size>71779</size>
+    <md5>24e55ce242bd8e9303477be132816080</md5>
+    <crc32>412db6f0</crc32>
+    <sha1>4fe01779d60dbaafdc5faa32f3c1dad4d320a6bb</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747409</mtime>
+    <size>63395</size>
+    <md5>125fc8473a8c06bc0560573324642a00</md5>
+    <crc32>608453b0</crc32>
+    <sha1>90e32f06894a497a51fac8053276edf5d72f7f41</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747410</mtime>
+    <size>82099</size>
+    <md5>596cdc8dcb5faf4258863f91ef8b0244</md5>
+    <crc32>80dcf837</crc32>
+    <sha1>fce76cf80d83730dca2f914e297a2738fde1a3ac</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747411</mtime>
+    <size>96181</size>
+    <md5>66e5c8d1f2a86a4f0c57324192e1aaeb</md5>
+    <crc32>25e5ab0e</crc32>
+    <sha1>5686280c3a9bfafcfcc9fb3126d7d2f9afceb7da</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747412</mtime>
+    <size>85000</size>
+    <md5>ed550284dbde91d1d00135296665e415</md5>
+    <crc32>2423b207</crc32>
+    <sha1>8658770af0e056478d4dec3432b4bf289e2aad89</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747413</mtime>
+    <size>80647</size>
+    <md5>7719fc4d27dc70f36c99e039aec80543</md5>
+    <crc32>e96d7ae6</crc32>
+    <sha1>c454f121c95aa16912643a0d2e7ab97479a029ce</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747413</mtime>
+    <size>69901</size>
+    <md5>90231f6303dbfb9a7f8ddfb285459bc6</md5>
+    <crc32>4f7bf00d</crc32>
+    <sha1>f76adef29f792338842650bd96bdb1d39388a15a</sha1>
+  </file>
+  <file name="xiaodan-light-rain.thumbs/Xiaodan. Light Rain 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Light Rain 1080p.mp4</original>
+    <mtime>1707747414</mtime>
+    <size>62523</size>
+    <md5>354d00016c0b41a557c0bc8f39929bfe</md5>
+    <crc32>b3012e8c</crc32>
+    <sha1>bb950b0dd30c291b21ceb62cef063b8684fbabc9</sha1>
+  </file>
+  <file name="xiaodan-light-rain_archive.torrent" source="metadata">
+    <btih>92442143032240fec96540d3bf0dad9aec08f604</btih>
+    <mtime>1719069129</mtime>
+    <size>4748</size>
+    <md5>7161aa7925f83b798ba6b6200a18fb86</md5>
+    <crc32>e93c4607</crc32>
+    <sha1>06653f368aa9b511d79ea9ca5721c5cebbcd5285</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-light-rain_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>00d9279b9f1b990d2b3fe39740e4e4bc</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-light-rain_meta.sqlite" source="original">
+    <mtime>1719069122</mtime>
+    <size>40960</size>
+    <md5>c4f01b4c7a8a76e8bf7f13361957a2fd</md5>
+    <crc32>90f8a614</crc32>
+    <sha1>81d8c88444ee89d88e6e6874fe25e1483d830a8c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-light-rain_meta.xml" source="original">
+    <mtime>1719068805</mtime>
+    <size>4122</size>
+    <md5>a26e845bc843f5a85ef63f58089d0873</md5>
+    <crc32>245cd01a</crc32>
+    <sha1>ec52a6ef0062161761898b771dd58ed0002e168b</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
