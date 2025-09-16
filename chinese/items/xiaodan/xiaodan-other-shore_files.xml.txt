@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Other Shore 1040x650.png" source="original">
+    <mtime>1719296278</mtime>
+    <size>1197801</size>
+    <md5>9320c2db0745e4d0c1c84ae1486c5d05</md5>
+    <crc32>ed894e5b</crc32>
+    <sha1>04b90923b89fda0ec1f2aca226c1eddc6ca092db</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Other Shore 1040x650_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Other Shore 1040x650.png</original>
+    <mtime>1719296350</mtime>
+    <size>8048</size>
+    <md5>e801da2773c5041877fc9e716a223ae0</md5>
+    <crc32>d3563726</crc32>
+    <sha1>1903fa47010c88be86b086092998d2f7cfc971a3</sha1>
+  </file>
+  <file name="Xiaodan. Other Shore 1053x657.jpg" source="original">
+    <mtime>1662383231</mtime>
+    <size>734736</size>
+    <md5>d6cae8dcfb057f2cfd2e11106e4559f0</md5>
+    <crc32>a0abe369</crc32>
+    <sha1>227fee49e342aafdb25ce3a2717bd9d7d115d4b9</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Other Shore 1053x657_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Other Shore 1053x657.jpg</original>
+    <mtime>1662383248</mtime>
+    <size>8484</size>
+    <md5>8f629f8ad3ebbb89420fb94dddae43bf</md5>
+    <crc32>86d1f8b1</crc32>
+    <sha1>45e60e2a95fc9547e84f3939c4ca6f48e45bedba</sha1>
+  </file>
+  <file name="Xiaodan. Other Shore 1080p 30fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1660019063</mtime>
+    <size>64802973</size>
+    <md5>b4eb0949de822ae19c4074124e98c754</md5>
+    <crc32>e792ab2a</crc32>
+    <sha1>10ad65e1018b7fbdf1139cba47918ede4931239f</sha1>
+    <length>150.68</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Other Shore 1080p 30fps.mp4" source="original">
+    <mtime>1660018840</mtime>
+    <size>64802973</size>
+    <md5>61fedf15ef1c9e9dac1ab30fa1911532</md5>
+    <crc32>90c07d8b</crc32>
+    <sha1>0f5552336064d540896ff2f4c7d5da68dc4ab542</sha1>
+    <format>MPEG4</format>
+    <length>150.68</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Other Shore 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Other Shore 1080p 60fps.mp4</original>
+    <mtime>1701581886</mtime>
+    <size>82241395</size>
+    <md5>98a9c5da54e2676ee492e592bf438a9d</md5>
+    <crc32>e7a46df7</crc32>
+    <sha1>18ebad2cf9ddc318a1456b8aeaa5f6a3b5c8824e</sha1>
+    <length>150.56</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Other Shore 1080p 60fps.mp4" source="original">
+    <mtime>1701581531</mtime>
+    <size>82241395</size>
+    <md5>69c0c82493d209f876a87b632a5544c9</md5>
+    <crc32>dd5e37c8</crc32>
+    <sha1>39460dacb3fef7fbc5d5399ba9d06ad29d2555d0</sha1>
+    <format>MPEG4</format>
+    <length>150.56</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719296666</mtime>
+    <size>14924</size>
+    <md5>7d5415d03d232becee75522f39a18a5f</md5>
+    <crc32>a437b2f8</crc32>
+    <sha1>eec6e3f9c5078f2fff4cea1cb635608782caee67</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1701579926</mtime>
+    <size>4957</size>
+    <md5>87937b832d75d2844b01bf9b5cc409da</md5>
+    <crc32>17e8a46f</crc32>
+    <sha1>7da28dc3f9a41990a61b91607f9b6d46a0e578fb</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 30fps_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1701579932</mtime>
+    <size>67543</size>
+    <md5>83f8543c8757d021dcb14405ac672fc9</md5>
+    <crc32>966d3562</crc32>
+    <sha1>39c4d32e056597a75d6254c9ace66dbca2f63864</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 30fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1701579938</mtime>
+    <size>73307</size>
+    <md5>7e2d74aeb3997bf1d7c55374403ee34b</md5>
+    <crc32>48513f86</crc32>
+    <sha1>1ddd3a65bc845a311a000b18e67343982d119e4c</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 30fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1701579944</mtime>
+    <size>62004</size>
+    <md5>666ba995211dffef3ea456829a5fd418</md5>
+    <crc32>f5716bd3</crc32>
+    <sha1>9db05c267cb914cc09cdc6c42cc53eb543c09b6f</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 30fps_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1701579951</mtime>
+    <size>46241</size>
+    <md5>9c078707e96c5980e88da2258f78b913</md5>
+    <crc32>7a9987b0</crc32>
+    <sha1>68b852a656d618ae04a8f11f083cfef81c37732c</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1701579952</mtime>
+    <size>67631</size>
+    <md5>f26ee69d12dc473dd6f5cc96f3b8b374</md5>
+    <crc32>066a6b0b</crc32>
+    <sha1>793566cc6c2d41ba61b25ef06723af5c7ea5aecf</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 60fps.mp4</original>
+    <mtime>1701581800</mtime>
+    <size>38161</size>
+    <md5>82428fd5af98880db12ea89e100dd40f</md5>
+    <crc32>70d68c36</crc32>
+    <sha1>dda884d5e5c8fee0118c56001731a0833d886e99</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 60fps.mp4</original>
+    <mtime>1701581808</mtime>
+    <size>77910</size>
+    <md5>f20e7a7b3c53b917607ccee07c194141</md5>
+    <crc32>90747955</crc32>
+    <sha1>1ab39269d2419e98d7afad1331a17e0b2005250f</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 60fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 60fps.mp4</original>
+    <mtime>1701581815</mtime>
+    <size>77189</size>
+    <md5>062af0308d66cfbea1b4f5cea5dc219f</md5>
+    <crc32>51bdd95f</crc32>
+    <sha1>2e05fad5b81c6de07be7c641df098413e270ef88</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 60fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 60fps.mp4</original>
+    <mtime>1701581824</mtime>
+    <size>51966</size>
+    <md5>0073d03170e7ca3858b0c9a9e292f15d</md5>
+    <crc32>c166a1d6</crc32>
+    <sha1>e80e18775383c6126a7c7822100b2daf0014112e</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p 60fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 60fps.mp4</original>
+    <mtime>1701581831</mtime>
+    <size>15081</size>
+    <md5>340531a6498589472984c7a62e3d5127</md5>
+    <crc32>717f3682</crc32>
+    <sha1>543dd693673bc7ba713959be71d6ecb384031196</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1660019013</mtime>
+    <size>4957</size>
+    <md5>87937b832d75d2844b01bf9b5cc409da</md5>
+    <crc32>17e8a46f</crc32>
+    <sha1>7da28dc3f9a41990a61b91607f9b6d46a0e578fb</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1660019016</mtime>
+    <size>67543</size>
+    <md5>83f8543c8757d021dcb14405ac672fc9</md5>
+    <crc32>966d3562</crc32>
+    <sha1>39c4d32e056597a75d6254c9ace66dbca2f63864</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1660019020</mtime>
+    <size>73307</size>
+    <md5>7e2d74aeb3997bf1d7c55374403ee34b</md5>
+    <crc32>48513f86</crc32>
+    <sha1>1ddd3a65bc845a311a000b18e67343982d119e4c</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1660019024</mtime>
+    <size>62004</size>
+    <md5>666ba995211dffef3ea456829a5fd418</md5>
+    <crc32>f5716bd3</crc32>
+    <sha1>9db05c267cb914cc09cdc6c42cc53eb543c09b6f</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1660019029</mtime>
+    <size>46241</size>
+    <md5>9c078707e96c5980e88da2258f78b913</md5>
+    <crc32>7a9987b0</crc32>
+    <sha1>68b852a656d618ae04a8f11f083cfef81c37732c</sha1>
+  </file>
+  <file name="xiaodan-other-shore.thumbs/Xiaodan. Other Shore 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Other Shore 1080p 30fps.mp4</original>
+    <mtime>1660019029</mtime>
+    <size>67631</size>
+    <md5>f26ee69d12dc473dd6f5cc96f3b8b374</md5>
+    <crc32>066a6b0b</crc32>
+    <sha1>793566cc6c2d41ba61b25ef06723af5c7ea5aecf</sha1>
+  </file>
+  <file name="xiaodan-other-shore_archive.torrent" source="metadata">
+    <btih>74552bd8cffbd66a3e10fdda928ac42ff7257206</btih>
+    <mtime>1724924665</mtime>
+    <size>14531</size>
+    <md5>74db861488a397bd49b5a2a45f16157e</md5>
+    <crc32>79171087</crc32>
+    <sha1>168a22a6aa4432cb6444cc13305186639c25c4cc</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-other-shore_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b146c6ea220f8f5af430d89b6e28e973</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-other-shore_meta.sqlite" source="original">
+    <mtime>1719296288</mtime>
+    <size>28672</size>
+    <md5>30f8b635e06c54666ab561ccad506e13</md5>
+    <crc32>33e14e25</crc32>
+    <sha1>901b7188ab8d234180b9a61b3e3d5495fd0d9920</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-other-shore_meta.xml" source="original">
+    <mtime>1724924662</mtime>
+    <size>4333</size>
+    <md5>2bc29cdfbd41e709603e16c1ffdd1cdf</md5>
+    <crc32>3dd2b060</crc32>
+    <sha1>ed21eb9e2d0932bdf44150e988f575fddb42a96c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

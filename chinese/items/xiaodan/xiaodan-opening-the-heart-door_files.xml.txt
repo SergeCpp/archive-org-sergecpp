@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Opening the Heart Door 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Opening the Heart Door 1080p 60fps.mp4</original>
+    <mtime>1660018631</mtime>
+    <size>111621163</size>
+    <md5>25ab883689db6f8a7d67a1253c8c77a5</md5>
+    <crc32>1ec96989</crc32>
+    <sha1>02da255387679c997151527266b1d2581b8dd82f</sha1>
+    <length>142.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Opening the Heart Door 1080p 60fps.mp4" source="original">
+    <mtime>1660018384</mtime>
+    <size>111621163</size>
+    <md5>95eb4f4f85b60bf75bc71851703d7593</md5>
+    <crc32>0c5c3466</crc32>
+    <sha1>6a6054b99e57207910fc596bf4f76c33bf279da7</sha1>
+    <format>MPEG4</format>
+    <length>142.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Opening the Heart Door 1144x715 Lv 1p04.png" source="original">
+    <mtime>1719215602</mtime>
+    <size>1308610</size>
+    <md5>84157a5d15a12d2c022e116f929721b0</md5>
+    <crc32>affdb1f1</crc32>
+    <sha1>c9f779a008863e86dd3c8f04c9cf83262bb685ba</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Opening the Heart Door 1144x715 Lv 1p04_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Opening the Heart Door 1144x715 Lv 1p04.png</original>
+    <mtime>1719215941</mtime>
+    <size>8245</size>
+    <md5>71b0f7f203649bb7d0788af44f247171</md5>
+    <crc32>562ffe14</crc32>
+    <sha1>8ecb7d176c023be8b56fbd5729c80a989e1fd7ff</sha1>
+  </file>
+  <file name="Xiaodan. Opening the Heart Door 1144x715.png" source="original">
+    <mtime>1719215614</mtime>
+    <size>1296975</size>
+    <md5>c1d4fd3ccdc57d389a3449e13ae92c4a</md5>
+    <crc32>8e98093c</crc32>
+    <sha1>b29a18555ee99ab12e9a81093be0152390609f82</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Opening the Heart Door 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Opening the Heart Door 1144x715.png</original>
+    <mtime>1719215956</mtime>
+    <size>8311</size>
+    <md5>cfa44a23370f143fbd2771b72552b7a0</md5>
+    <crc32>c14af5f1</crc32>
+    <sha1>11835a31ff974f91181a7b8b5747890089d0b57a</sha1>
+  </file>
+  <file name="Xiaodan. Opening the Heart Door 1146x716.jpg" source="original">
+    <mtime>1662381452</mtime>
+    <size>129371</size>
+    <md5>61b788ced2896111ce4718c413813111</md5>
+    <crc32>56394dcd</crc32>
+    <sha1>424ad303a083ece5dd70cd61c11744dbe0172ee2</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Opening the Heart Door 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Opening the Heart Door 1146x716.jpg</original>
+    <mtime>1662381466</mtime>
+    <size>9167</size>
+    <md5>d56a91b05404c5922a55df3078dea011</md5>
+    <crc32>61406099</crc32>
+    <sha1>3456cbfea370c25375ef5de0bdbd52f4b2aef0df</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719216999</mtime>
+    <size>15908</size>
+    <md5>ea835c7ff8b0a229ff4ad9e46fa0e6e7</md5>
+    <crc32>9d86f19f</crc32>
+    <sha1>17835d4cc36c591dc83f4e96f430f4dab22fa663</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-opening-the-heart-door.thumbs/Xiaodan. Opening the Heart Door 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Opening the Heart Door 1080p 60fps.mp4</original>
+    <mtime>1660018530</mtime>
+    <size>39635</size>
+    <md5>6467124cf5fe42b98dd91a2f5960b442</md5>
+    <crc32>66c86434</crc32>
+    <sha1>8c906f00ad413c7ab77fc56c6c17554c92ef04be</sha1>
+  </file>
+  <file name="xiaodan-opening-the-heart-door.thumbs/Xiaodan. Opening the Heart Door 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Opening the Heart Door 1080p 60fps.mp4</original>
+    <mtime>1660018547</mtime>
+    <size>88851</size>
+    <md5>7f04dbd8c83e72669324324b80c5a095</md5>
+    <crc32>36af205f</crc32>
+    <sha1>f2a996a7bbdc847fab3973592f5f155968b806e2</sha1>
+  </file>
+  <file name="xiaodan-opening-the-heart-door.thumbs/Xiaodan. Opening the Heart Door 1080p 60fps_000088.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Opening the Heart Door 1080p 60fps.mp4</original>
+    <mtime>1660018563</mtime>
+    <size>89728</size>
+    <md5>4a07bda6e84baf6ad6801da9f3837939</md5>
+    <crc32>57ed5463</crc32>
+    <sha1>a81416a4be9f0fb749385f5198650d39d45b879f</sha1>
+  </file>
+  <file name="xiaodan-opening-the-heart-door.thumbs/Xiaodan. Opening the Heart Door 1080p 60fps_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Opening the Heart Door 1080p 60fps.mp4</original>
+    <mtime>1660018579</mtime>
+    <size>116653</size>
+    <md5>c8c4c7fa2e5f8146bc638dbac21c99c4</md5>
+    <crc32>7c22a887</crc32>
+    <sha1>6ae1c5133dafd4b97759d717c82a044bf422db46</sha1>
+  </file>
+  <file name="xiaodan-opening-the-heart-door.thumbs/Xiaodan. Opening the Heart Door 1080p 60fps_000136.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Opening the Heart Door 1080p 60fps.mp4</original>
+    <mtime>1660018591</mtime>
+    <size>62350</size>
+    <md5>096d60e40aa9c66525f4051264972bc2</md5>
+    <crc32>50699819</crc32>
+    <sha1>0d128efcb268714dfec6b79889cee6689712ea9f</sha1>
+  </file>
+  <file name="xiaodan-opening-the-heart-door_archive.torrent" source="metadata">
+    <btih>960c657ee03ce3083a5ea451a3cd47eca9a020e7</btih>
+    <mtime>1719217002</mtime>
+    <size>12069</size>
+    <md5>0ddd9b872c32c682827c4548538ab75d</md5>
+    <crc32>deba3ca1</crc32>
+    <sha1>18528122bf74b561fdef1d854b03a5ec09bd34c8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-opening-the-heart-door_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>819de45022a751a227040418f0b90d40</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-opening-the-heart-door_meta.sqlite" source="original">
+    <mtime>1719215656</mtime>
+    <size>28672</size>
+    <md5>1de0263d3dfeb651b202c98f6b49ada1</md5>
+    <crc32>908fe395</crc32>
+    <sha1>85b323d0c06d034cba6f876479eddfe8818c2084</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-opening-the-heart-door_meta.xml" source="original">
+    <mtime>1719216970</mtime>
+    <size>2565</size>
+    <md5>087dbcdd1c2a03f7cd3c0ea3f865b322</md5>
+    <crc32>7887aa0d</crc32>
+    <sha1>8dd19f3fa8d25e0222d8433b4bd07a049e19ed0b</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

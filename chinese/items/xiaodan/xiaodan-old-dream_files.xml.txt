@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Old Dream 1080p 30fps.mp4" source="original">
+    <mtime>1663618600</mtime>
+    <size>44961093</size>
+    <md5>a32536b1d671cfa00f56db6feff3522e</md5>
+    <crc32>129ba16e</crc32>
+    <sha1>343f1c367382cf9ddc35d69cf6aa5e30feb0ceb0</sha1>
+    <format>MPEG4</format>
+    <length>130.22</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Old Dream 1144x715.png" source="original">
+    <mtime>1719223866</mtime>
+    <size>1125484</size>
+    <md5>386008a8b6a3815845319ae341853e6e</md5>
+    <crc32>b7b38352</crc32>
+    <sha1>62f1d80ee1c9e91ba49abc555c36c4b0225dd6b0</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Old Dream 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Old Dream 1144x715.png</original>
+    <mtime>1719224221</mtime>
+    <size>7336</size>
+    <md5>e09c4e40ab64094ad7474561baafb164</md5>
+    <crc32>82fdeb6c</crc32>
+    <sha1>594026572d9443c37a54fece20a4bc386526db5e</sha1>
+  </file>
+  <file name="Xiaodan. Old Dream 1146x716.jpg" source="original">
+    <mtime>1663618620</mtime>
+    <size>188285</size>
+    <md5>ab419846d07e5d3e2fe9abbaa3b4b477</md5>
+    <crc32>abe8e504</crc32>
+    <sha1>1ba54ecd2adae3651691bb7bcf56b5007c492522</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Old Dream 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Old Dream 1146x716.jpg</original>
+    <mtime>1663620899</mtime>
+    <size>7701</size>
+    <md5>6840713640411ffc2dcf32af3a45c3e1</md5>
+    <crc32>26557e56</crc32>
+    <sha1>481fcaba89f14e62b61559978109bdb9c69760d0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719225245</mtime>
+    <size>12161</size>
+    <md5>6ce1160713c6113ea91a10870009b595</md5>
+    <crc32>6e3879ea</crc32>
+    <sha1>8b503e5f622ef828629bf37824eb0834c47cf9f4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-old-dream.thumbs/Xiaodan. Old Dream 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Old Dream 1080p 30fps.mp4</original>
+    <mtime>1663620727</mtime>
+    <size>26634</size>
+    <md5>8d521a10b82d0dbcceec06d55d216b02</md5>
+    <crc32>91a74ead</crc32>
+    <sha1>c4242819e17e943c463aa6db184851fb4d0463de</sha1>
+  </file>
+  <file name="xiaodan-old-dream.thumbs/Xiaodan. Old Dream 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Old Dream 1080p 30fps.mp4</original>
+    <mtime>1663620736</mtime>
+    <size>22156</size>
+    <md5>f31a1f8c9689f207153f02286df2a56e</md5>
+    <crc32>aab1d97d</crc32>
+    <sha1>bbc4710a4f4ea362d8987bdf0391ce0e123b5d77</sha1>
+  </file>
+  <file name="xiaodan-old-dream.thumbs/Xiaodan. Old Dream 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Old Dream 1080p 30fps.mp4</original>
+    <mtime>1663620745</mtime>
+    <size>31681</size>
+    <md5>d6175973dfd92e5692aeda6e286165bc</md5>
+    <crc32>81768949</crc32>
+    <sha1>ea1fe7a81dda00bd4e7599a81e4745a75021fba9</sha1>
+  </file>
+  <file name="xiaodan-old-dream.thumbs/Xiaodan. Old Dream 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Old Dream 1080p 30fps.mp4</original>
+    <mtime>1663620752</mtime>
+    <size>24206</size>
+    <md5>beaf04500156a86f3d16f507dc032717</md5>
+    <crc32>c0852081</crc32>
+    <sha1>e10f6a288eb7f5c272ede4ea1e2eee0a531ed46e</sha1>
+  </file>
+  <file name="xiaodan-old-dream.thumbs/Xiaodan. Old Dream 1080p 30fps_000130.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Old Dream 1080p 30fps.mp4</original>
+    <mtime>1663620754</mtime>
+    <size>19774</size>
+    <md5>2f5340dc9d609dc75121dc5abc4f32b3</md5>
+    <crc32>b843b56c</crc32>
+    <sha1>95934edc7bb953f402387eaf303a72a5915e7879</sha1>
+  </file>
+  <file name="xiaodan-old-dream_archive.torrent" source="metadata">
+    <btih>d6c841d3748d014d5e446603d1ef7dfa294dddb3</btih>
+    <mtime>1719225246</mtime>
+    <size>4399</size>
+    <md5>dabbc7f5eb352ece45326ccfcf7e4061</md5>
+    <crc32>e59f7e42</crc32>
+    <sha1>f4f1b21c915275205f66ac82a6f7011e5c6e22a5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-old-dream_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c6323920b1a9eaf919dc409af04c188d</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-old-dream_meta.sqlite" source="original">
+    <mtime>1719223901</mtime>
+    <size>32768</size>
+    <md5>38030d3a2b2995435627c2053f10a850</md5>
+    <crc32>d7a69234</crc32>
+    <sha1>b6e9b06e8671ddf369bc22bbd7ff065fc965cf5b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-old-dream_meta.xml" source="original">
+    <mtime>1719225235</mtime>
+    <size>2078</size>
+    <md5>aa8c7a23523d86e5afa57234e1707da9</md5>
+    <crc32>7463edcd</crc32>
+    <sha1>58b422d1ba8945e82c9fc6136731f1dc8af1ad6d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
