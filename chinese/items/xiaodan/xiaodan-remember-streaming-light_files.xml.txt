@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Remember Streaming Light 1080p.mp4" source="original">
+    <mtime>1704560361</mtime>
+    <size>80006932</size>
+    <md5>f94b626c2929bbce65a371b890fd1c95</md5>
+    <crc32>e387a792</crc32>
+    <sha1>ccc5603cd365c7f38b52213aa6219d455a08ad6e</sha1>
+    <format>MPEG4</format>
+    <length>194.48</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Remember Streaming Light 1600x1000 Lv 1p1.png" source="original">
+    <mtime>1719317844</mtime>
+    <size>2757180</size>
+    <md5>6fcff5f5fdd770dbe442d996140a0a7d</md5>
+    <crc32>c54ffe52</crc32>
+    <sha1>240c8da1b0bfa62f209a740361ad9964fdba2a73</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Remember Streaming Light 1600x1000 Lv 1p1_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Remember Streaming Light 1600x1000 Lv 1p1.png</original>
+    <mtime>1719318549</mtime>
+    <size>8498</size>
+    <md5>3c9681f5aee5d45eeb7cb7fd54cc40d5</md5>
+    <crc32>20d0ea86</crc32>
+    <sha1>b96f6a1d962dfdc5ae323eef96e153aca5076715</sha1>
+  </file>
+  <file name="Xiaodan. Remember Streaming Light 1600x1000.png" source="original">
+    <mtime>1704560384</mtime>
+    <size>2743665</size>
+    <md5>f8217d70263f7dff8bea03a8a5852b74</md5>
+    <crc32>8c7ded1c</crc32>
+    <sha1>806db9000bfe00a671629573fcde3aaa886a22dd</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Remember Streaming Light 1600x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Remember Streaming Light 1600x1000.png</original>
+    <mtime>1704560494</mtime>
+    <size>8565</size>
+    <md5>520d5f7c3d138820b1396cc5ce224709</md5>
+    <crc32>feef6774</crc32>
+    <sha1>cf529d7df26db380a02035e9d01a04b183df8181</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719319242</mtime>
+    <size>13892</size>
+    <md5>f9cf30b027f73f097f26b902d45d9e84</md5>
+    <crc32>b61d5a00</crc32>
+    <sha1>2f166a65860ebf33f6f77908e04fff0c5de51506</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-remember-streaming-light.thumbs/Xiaodan. Remember Streaming Light 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Remember Streaming Light 1080p.mp4</original>
+    <mtime>1704560437</mtime>
+    <size>68091</size>
+    <md5>8a9b5a0b856c1aacf83bd194f27b1a44</md5>
+    <crc32>e8ae80d4</crc32>
+    <sha1>74bdea441548811ab04fe450a1da7140a2bcb677</sha1>
+  </file>
+  <file name="xiaodan-remember-streaming-light.thumbs/Xiaodan. Remember Streaming Light 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Remember Streaming Light 1080p.mp4</original>
+    <mtime>1704560441</mtime>
+    <size>56562</size>
+    <md5>22db44e80fb08698a9a9e908655974d9</md5>
+    <crc32>1ddb5196</crc32>
+    <sha1>6526eeedc08a7988ead9218e09e40a50389f50c1</sha1>
+  </file>
+  <file name="xiaodan-remember-streaming-light.thumbs/Xiaodan. Remember Streaming Light 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Remember Streaming Light 1080p.mp4</original>
+    <mtime>1704560446</mtime>
+    <size>57819</size>
+    <md5>1d2d6c14bfb6ff4d2fcc87b8a998a8f5</md5>
+    <crc32>ed662906</crc32>
+    <sha1>6b90b1defd7822f9bc90e211540d7e2c4ac44b29</sha1>
+  </file>
+  <file name="xiaodan-remember-streaming-light.thumbs/Xiaodan. Remember Streaming Light 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Remember Streaming Light 1080p.mp4</original>
+    <mtime>1704560450</mtime>
+    <size>58079</size>
+    <md5>de6f3904dc6c16aa30a4484cbd0752f1</md5>
+    <crc32>ff29ab87</crc32>
+    <sha1>5c8a22147dce2b4dc2db6d74de1fdf976feb7e77</sha1>
+  </file>
+  <file name="xiaodan-remember-streaming-light.thumbs/Xiaodan. Remember Streaming Light 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Remember Streaming Light 1080p.mp4</original>
+    <mtime>1704560455</mtime>
+    <size>72692</size>
+    <md5>884350a153b964fa7303524e98675d2d</md5>
+    <crc32>58919125</crc32>
+    <sha1>8c4134433338885fff2f7ea804cc8e83764bd29c</sha1>
+  </file>
+  <file name="xiaodan-remember-streaming-light.thumbs/Xiaodan. Remember Streaming Light 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Remember Streaming Light 1080p.mp4</original>
+    <mtime>1704560460</mtime>
+    <size>94883</size>
+    <md5>befd27c9c6be4d68e411a0e17a9f8dc2</md5>
+    <crc32>ad8f539b</crc32>
+    <sha1>6c0c18197e894b3d6bdb484d2fc6eed64077ccdf</sha1>
+  </file>
+  <file name="xiaodan-remember-streaming-light.thumbs/Xiaodan. Remember Streaming Light 1080p_000190.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Remember Streaming Light 1080p.mp4</original>
+    <mtime>1704560462</mtime>
+    <size>94673</size>
+    <md5>d372c42c09ee9a7c3367470988a72858</md5>
+    <crc32>a91d8752</crc32>
+    <sha1>24517672a2171cd66cbbe406dbe0aad7c9369c64</sha1>
+  </file>
+  <file name="xiaodan-remember-streaming-light_archive.torrent" source="metadata">
+    <btih>343e34f511856052b7e30129e5703eaa9529b2f1</btih>
+    <mtime>1724005286</mtime>
+    <size>6122</size>
+    <md5>929754a977d4b592d7217e2d3aa8b0d4</md5>
+    <crc32>31c38a9e</crc32>
+    <sha1>0ae840618ef86ea9905f5dce9d57f9713158eb8b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-remember-streaming-light_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5a48bfe293524a1632295e8a360f1d89</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-remember-streaming-light_meta.sqlite" source="original">
+    <mtime>1719317853</mtime>
+    <size>32768</size>
+    <md5>d6a29e990e507f84257e34cfe696035f</md5>
+    <crc32>0369ab30</crc32>
+    <sha1>311c80b6f130a5f2734e5ec5c159d83fc42deda3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-remember-streaming-light_meta.xml" source="original">
+    <mtime>1724005284</mtime>
+    <size>3337</size>
+    <md5>06238b21f8bdde4d815fe7a87eb71baa</md5>
+    <crc32>17df7e90</crc32>
+    <sha1>6cf82d9a2f0a64a4eb878eac001ccaeee2df0d28</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
