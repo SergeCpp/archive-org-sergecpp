@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Send the Bright Moon 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. Send the Bright Moon 1080p.mp4</original>
+    <mtime>1660033995</mtime>
+    <size>79530920</size>
+    <md5>9c8e350cc50f850b347fe06053189e9c</md5>
+    <crc32>381b0af5</crc32>
+    <sha1>5fd67b7a5f76dc82be0163f1888c0c61074a0e64</sha1>
+    <length>142.39</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Send the Bright Moon 1080p.mp4" source="original">
+    <mtime>1660033822</mtime>
+    <size>79530920</size>
+    <md5>0ea5a57dcacac1571c446571b2d6ecfd</md5>
+    <crc32>d99f8301</crc32>
+    <sha1>17a97c6a6e4f6f2d42ff550f3a07f1e45e20f31a</sha1>
+    <format>MPEG4</format>
+    <length>142.39</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Send the Bright Moon 1136x710.png" source="original">
+    <mtime>1719378550</mtime>
+    <size>1131870</size>
+    <md5>095de0b7e79b32eb9a1f3ac6f5a72242</md5>
+    <crc32>160bdfde</crc32>
+    <sha1>ef9cbf18f31980968d4d53c4cee0f39b3ac076c7</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Send the Bright Moon 1136x710_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Send the Bright Moon 1136x710.png</original>
+    <mtime>1719378591</mtime>
+    <size>7498</size>
+    <md5>046bc9a79ce833180d29bc26896f0c15</md5>
+    <crc32>a9756ae4</crc32>
+    <sha1>a7bedea9fccdaa2ab6f2d7b88ed209e50a3f8588</sha1>
+  </file>
+  <file name="Xiaodan. Send the Bright Moon 1142x714.jpg" source="original">
+    <mtime>1662407228</mtime>
+    <size>128889</size>
+    <md5>1b564e2965c40d0f76a49c9a88adb71a</md5>
+    <crc32>72773ac7</crc32>
+    <sha1>802356ab260da381daa5a25a088cb47dd5333733</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Send the Bright Moon 1142x714_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Send the Bright Moon 1142x714.jpg</original>
+    <mtime>1662407256</mtime>
+    <size>7832</size>
+    <md5>9a9a38772b330f0bab57d1127c0af975</md5>
+    <crc32>59f68fdc</crc32>
+    <sha1>85647b918da67fa32b7ba67f18f499fcf747f6bc</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719378734</mtime>
+    <size>12382</size>
+    <md5>51b6bda97b4a74faeecfa178104ff636</md5>
+    <crc32>9b074c69</crc32>
+    <sha1>ecf2c32ab715dfecb3f61803dbb356eda79ed25a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-send-the-bright-moon.thumbs/Xiaodan. Send the Bright Moon 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Send the Bright Moon 1080p.mp4</original>
+    <mtime>1660033932</mtime>
+    <size>43785</size>
+    <md5>bf55101cb2bfdae433181ccc2388ab6d</md5>
+    <crc32>f4978169</crc32>
+    <sha1>44df29ac3b9b635e091fafcb9dfca43309fa29cc</sha1>
+  </file>
+  <file name="xiaodan-send-the-bright-moon.thumbs/Xiaodan. Send the Bright Moon 1080p_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Send the Bright Moon 1080p.mp4</original>
+    <mtime>1660033944</mtime>
+    <size>53569</size>
+    <md5>c77ee1a2bcdbc1cae12f6016b3bc6f3c</md5>
+    <crc32>731623aa</crc32>
+    <sha1>08522ac74479123b292a92f3b5e1ee2178bbd8b6</sha1>
+  </file>
+  <file name="xiaodan-send-the-bright-moon.thumbs/Xiaodan. Send the Bright Moon 1080p_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Send the Bright Moon 1080p.mp4</original>
+    <mtime>1660033957</mtime>
+    <size>46812</size>
+    <md5>684c64b995ec3a3cac255d99ac799fd3</md5>
+    <crc32>5361f395</crc32>
+    <sha1>62f7982cc4fb8b3d8af16895100ae2b2b4400a54</sha1>
+  </file>
+  <file name="xiaodan-send-the-bright-moon.thumbs/Xiaodan. Send the Bright Moon 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Send the Bright Moon 1080p.mp4</original>
+    <mtime>1660033967</mtime>
+    <size>50540</size>
+    <md5>77df421678f61a4ac2e511733b27b1f2</md5>
+    <crc32>7ea372e8</crc32>
+    <sha1>f8f969150027eab0fa9bb3bfdbe27b8fbb18ee64</sha1>
+  </file>
+  <file name="xiaodan-send-the-bright-moon.thumbs/Xiaodan. Send the Bright Moon 1080p_000138.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Send the Bright Moon 1080p.mp4</original>
+    <mtime>1660033976</mtime>
+    <size>54247</size>
+    <md5>497eb9ffe0aca532643ee59b31ec095d</md5>
+    <crc32>c4e0a041</crc32>
+    <sha1>5ee2ab266bc7ea1577549c4ab82ed96e98e75d9d</sha1>
+  </file>
+  <file name="xiaodan-send-the-bright-moon_archive.torrent" source="metadata">
+    <btih>a9985b3066a162dfc91895b3f7ab60ef0519cdd0</btih>
+    <mtime>1742206874</mtime>
+    <size>9084</size>
+    <md5>93fcace2302284b5b603ad4008f784dc</md5>
+    <crc32>ff60da5e</crc32>
+    <sha1>9239d506f492f6dd58edad205e4962647cd11c91</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-send-the-bright-moon_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e3589e43bb19e12e13ec151f18178af0</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-send-the-bright-moon_meta.sqlite" source="original">
+    <mtime>1719378561</mtime>
+    <size>28672</size>
+    <md5>bd8dd53d4a9ebec564d5b24bc85163a0</md5>
+    <crc32>42c99ec7</crc32>
+    <sha1>8e38dcc0a1a0834fd13b9bf390b8127b0aa28381</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-send-the-bright-moon_meta.xml" source="original">
+    <mtime>1742206872</mtime>
+    <size>4598</size>
+    <md5>02a76bf2633c59ecbd345396eb3f5030</md5>
+    <crc32>a79c7eed</crc32>
+    <sha1>8729367d10a0fad4a72520309959fe5f5b7db142</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
