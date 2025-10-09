@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Summer Xin Home 1080p.mp4" source="original">
+    <mtime>1663591053</mtime>
+    <size>63911405</size>
+    <md5>61f0eb9e16bd9addb6e646dbd0787dfe</md5>
+    <crc32>c5ff0997</crc32>
+    <sha1>e74a8a8051e3d5e3a0d6326c0054534642ec5670</sha1>
+    <format>MPEG4</format>
+    <length>200.09</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Summer Xin Home 1136x710.png" source="original">
+    <mtime>1719557363</mtime>
+    <size>1089971</size>
+    <md5>f39d58d70bca84734a9d6e57ebf28871</md5>
+    <crc32>b1b810a7</crc32>
+    <sha1>e301dc7cb8c82457b30e7d2299ff6a57c5457f78</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Summer Xin Home 1136x710_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Summer Xin Home 1136x710.png</original>
+    <mtime>1719557830</mtime>
+    <size>7299</size>
+    <md5>5cccda091e32a7a0a3ba46a04e10281b</md5>
+    <crc32>0478b6c3</crc32>
+    <sha1>b7e7ef00e94f681458076d4fffcd563e43a8bc18</sha1>
+  </file>
+  <file name="Xiaodan. Summer Xin Home 1142x714.jpg" source="original">
+    <mtime>1663591068</mtime>
+    <size>123014</size>
+    <md5>ed4c31146f04ce82c93e09c132be766f</md5>
+    <crc32>8cc0d5dc</crc32>
+    <sha1>3c48483ea9122173fbef48102f32f42a43d39a48</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Summer Xin Home 1142x714_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Summer Xin Home 1142x714.jpg</original>
+    <mtime>1663595413</mtime>
+    <size>7611</size>
+    <md5>ad2d8048cdabb9e3646f996f87091bbe</md5>
+    <crc32>d5c37eed</crc32>
+    <sha1>edbebf2a49b775dc02e3bf8442c77c00b57942b7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719559262</mtime>
+    <size>11385</size>
+    <md5>3ba2923ea4f083f1f72b6e3d96f2af5f</md5>
+    <crc32>d2aaeffd</crc32>
+    <sha1>5098469af05f8644ab6ab35cec191221a5c4b819</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-summer-xin-home.thumbs/Xiaodan. Summer Xin Home 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Summer Xin Home 1080p.mp4</original>
+    <mtime>1663592394</mtime>
+    <size>28966</size>
+    <md5>39cb9fd77c63b54e87532ace2c4712f6</md5>
+    <crc32>359fd0a1</crc32>
+    <sha1>f7be92753f1d76def2cc815b16da29afd94903ca</sha1>
+  </file>
+  <file name="xiaodan-summer-xin-home.thumbs/Xiaodan. Summer Xin Home 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Summer Xin Home 1080p.mp4</original>
+    <mtime>1663592401</mtime>
+    <size>36417</size>
+    <md5>1dff14e788c240306feafa0454b6651e</md5>
+    <crc32>5144dcd8</crc32>
+    <sha1>7df0272f6c4765d134b30a9432af258194ebdac2</sha1>
+  </file>
+  <file name="xiaodan-summer-xin-home.thumbs/Xiaodan. Summer Xin Home 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Summer Xin Home 1080p.mp4</original>
+    <mtime>1663592408</mtime>
+    <size>57361</size>
+    <md5>5b2a74365e676de8aae4f3eb18c3c8fd</md5>
+    <crc32>ad46eddb</crc32>
+    <sha1>cfad2e4e48fef9f0d9954232625a3348a44457a4</sha1>
+  </file>
+  <file name="xiaodan-summer-xin-home.thumbs/Xiaodan. Summer Xin Home 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Summer Xin Home 1080p.mp4</original>
+    <mtime>1663592413</mtime>
+    <size>57013</size>
+    <md5>1b7628ad005b19ed1ff28275bc48529f</md5>
+    <crc32>b6fc55f7</crc32>
+    <sha1>48f6f1be1a3baf60c0cbaf4eef53846c92303136</sha1>
+  </file>
+  <file name="xiaodan-summer-xin-home.thumbs/Xiaodan. Summer Xin Home 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Summer Xin Home 1080p.mp4</original>
+    <mtime>1663592417</mtime>
+    <size>57787</size>
+    <md5>55c2cbf698d1f2bb74dbfd55141e0954</md5>
+    <crc32>23fe20c9</crc32>
+    <sha1>fbc0257a0287f252ad7cbab1b29cf86633057264</sha1>
+  </file>
+  <file name="xiaodan-summer-xin-home.thumbs/Xiaodan. Summer Xin Home 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Summer Xin Home 1080p.mp4</original>
+    <mtime>1663592421</mtime>
+    <size>60037</size>
+    <md5>8547d6ad35f3c009201af555842fbd46</md5>
+    <crc32>b877ad14</crc32>
+    <sha1>2aaed00db2cb6fc8eb2cefacdba45267b7b40c15</sha1>
+  </file>
+  <file name="xiaodan-summer-xin-home.thumbs/Xiaodan. Summer Xin Home 1080p_000200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Summer Xin Home 1080p.mp4</original>
+    <mtime>1663592424</mtime>
+    <size>37892</size>
+    <md5>9962b1376f1797a3f5362866667cc1ca</md5>
+    <crc32>d197fe31</crc32>
+    <sha1>bb82006fb63ad23de7127bf9300076437ed09886</sha1>
+  </file>
+  <file name="xiaodan-summer-xin-home_archive.torrent" source="metadata">
+    <btih>e837030e78881a3329ecdd8c3709969ad217bda2</btih>
+    <mtime>1719559268</mtime>
+    <size>5197</size>
+    <md5>f6e7903efaa30f64047aa13ac1eef7c8</md5>
+    <crc32>490a5628</crc32>
+    <sha1>f0b8870c6e520ec89251cb4d7cb2a5febbbecf83</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-summer-xin-home_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9e48f1ef75bf93cc47f9cbb03da78b7b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-summer-xin-home_meta.sqlite" source="original">
+    <mtime>1719557419</mtime>
+    <size>32768</size>
+    <md5>a51803a8412d473693bcd45ae3d79c61</md5>
+    <crc32>d98dd8bf</crc32>
+    <sha1>ac6f3a0b6d7c852c7d8683c70938df8cc364aeec</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-summer-xin-home_meta.xml" source="original">
+    <mtime>1719559165</mtime>
+    <size>2004</size>
+    <md5>b94b15185c281564fd144608874265d3</md5>
+    <crc32>e0aa0a32</crc32>
+    <sha1>29ed2135329bc4c22eb421a66588bf805def9b83</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

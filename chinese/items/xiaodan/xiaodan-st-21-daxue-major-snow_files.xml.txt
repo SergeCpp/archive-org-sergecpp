@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041229</mtime>
+    <size>83270861</size>
+    <md5>b433168f9c9377065194043b8d3ed5c1</md5>
+    <crc32>2bd205d8</crc32>
+    <sha1>ac20413da1d8159e7350347e85e4c1512c8a91a1</sha1>
+    <length>195.7</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1080p.mp4" source="original">
+    <mtime>1660040871</mtime>
+    <size>83270861</size>
+    <md5>da1219b235f79f0447a4eacba4aad0fe</md5>
+    <crc32>1fd62c0e</crc32>
+    <sha1>af797a32234b14b5a41967d5ce61778440194a51</sha1>
+    <format>MPEG4</format>
+    <length>195.7</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1088x680 Lv 1p05 250.png" source="original">
+    <mtime>1719505886</mtime>
+    <size>1096340</size>
+    <md5>ce256e45783a99fac98422115f74b716</md5>
+    <crc32>b53a9d9c</crc32>
+    <sha1>a9657faf68a196e546546a9c47848fb223b9249d</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1088x680 Lv 1p05 250_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1088x680 Lv 1p05 250.png</original>
+    <mtime>1719506069</mtime>
+    <size>7552</size>
+    <md5>cb55d7f3705d27258b5798cb989dd711</md5>
+    <crc32>c0cfcc46</crc32>
+    <sha1>e89b2632d47f246b484b3a7644ab1d73d04a8e11</sha1>
+  </file>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1088x680.png" source="original">
+    <mtime>1719505893</mtime>
+    <size>1068447</size>
+    <md5>247d8695045ca7e7d69a499a9ff9b2f5</md5>
+    <crc32>1004b877</crc32>
+    <sha1>c3e5722cc7d735c34839b5a52025c75dddc1056b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1088x680_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1088x680.png</original>
+    <mtime>1719506074</mtime>
+    <size>7561</size>
+    <md5>af6f6e3fb3496676d73960d838354fc0</md5>
+    <crc32>32db70fd</crc32>
+    <sha1>dc938b15d6ddc241b5181237aa6df79fda0fcb0c</sha1>
+  </file>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1142x714.jpg" source="original">
+    <mtime>1662435898</mtime>
+    <size>121088</size>
+    <md5>58203bbee3b690712d7a63361db1af44</md5>
+    <crc32>770fa9b6</crc32>
+    <sha1>26573a628b4f6fa7c6f61c801fd3ec5b98b2df3d</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. ST21. Daxue. Major Snow 1142x714_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1142x714.jpg</original>
+    <mtime>1662435912</mtime>
+    <size>7823</size>
+    <md5>3a0982f4b28f881b71f6cd7671c9b2f2</md5>
+    <crc32>22618a3d</crc32>
+    <sha1>f6a379070437a72ae8c42f21919a9eb5683b2260</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719507309</mtime>
+    <size>12079</size>
+    <md5>2b7da2987239a9bc9b2d88544c31f5bd</md5>
+    <crc32>6f632cff</crc32>
+    <sha1>e0e687d065c7b6fa62718d6fa009342575c01dd5</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow.thumbs/Xiaodan. ST21. Daxue. Major Snow 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041160</mtime>
+    <size>6848</size>
+    <md5>62418faca2af83f7dcbff3eb550f222e</md5>
+    <crc32>150ed490</crc32>
+    <sha1>a6d15f0b3a5d107708d2cc2919473d513d708fde</sha1>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow.thumbs/Xiaodan. ST21. Daxue. Major Snow 1080p_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041171</mtime>
+    <size>36496</size>
+    <md5>01767b83ac453271fc5c0f5604d0a216</md5>
+    <crc32>d3203ca8</crc32>
+    <sha1>14b7722ef8e96a9c146d32e771f927282dabe26d</sha1>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow.thumbs/Xiaodan. ST21. Daxue. Major Snow 1080p_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041178</mtime>
+    <size>65674</size>
+    <md5>1a6221a5884643b72893886560c0c033</md5>
+    <crc32>9d9bc848</crc32>
+    <sha1>fdcf25a30b78e2241f919736a7e4dba1a10be222</sha1>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow.thumbs/Xiaodan. ST21. Daxue. Major Snow 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041187</mtime>
+    <size>61187</size>
+    <md5>2853d28ad46832a4fcbf78c1c05f4f7d</md5>
+    <crc32>eea01ece</crc32>
+    <sha1>1341249a863ffecdccf0ec5679e3243bbd92e280</sha1>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow.thumbs/Xiaodan. ST21. Daxue. Major Snow 1080p_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041195</mtime>
+    <size>50140</size>
+    <md5>498a05d7bf6213e8a92fe69246b1386e</md5>
+    <crc32>a03d5010</crc32>
+    <sha1>507280d85f1d20620ba2ea940bea2227964cb53e</sha1>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow.thumbs/Xiaodan. ST21. Daxue. Major Snow 1080p_000179.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041203</mtime>
+    <size>61338</size>
+    <md5>e025edb898ab35d719586bc76cef4158</md5>
+    <crc32>1221eb7d</crc32>
+    <sha1>bc84c0e36fb2f80e96640fa1525e3f69d3b4e9ea</sha1>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow.thumbs/Xiaodan. ST21. Daxue. Major Snow 1080p_000195.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. ST21. Daxue. Major Snow 1080p.mp4</original>
+    <mtime>1660041207</mtime>
+    <size>36003</size>
+    <md5>a629a47736468fbd06544b4137529065</md5>
+    <crc32>b5b803ee</crc32>
+    <sha1>242604d8a93539263fe84e6b5f104f20ac71aeb4</sha1>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow_archive.torrent" source="metadata">
+    <btih>33206ab2c61db90e371a1166e83ae73c19b8359d</btih>
+    <mtime>1719508139</mtime>
+    <size>9891</size>
+    <md5>6df8a66d4b7a0c7676226755f0ed3d07</md5>
+    <crc32>495ed86a</crc32>
+    <sha1>153d54231aaacba28c81ac6ce1c0714d757784af</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ddef2022ec55ee108b033d33481329ed</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow_meta.sqlite" source="original">
+    <mtime>1719508131</mtime>
+    <size>32768</size>
+    <md5>9b0b78607eb6d6007d5f0242ddae30f5</md5>
+    <crc32>c390e9b1</crc32>
+    <sha1>c1edbe6aaebe95d048acab8bc0bcf7edcce7eded</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-st-21-daxue-major-snow_meta.xml" source="original">
+    <mtime>1759654423</mtime>
+    <size>2978</size>
+    <md5>b2f6af75b43d768c4c1800eab500f7bd</md5>
+    <crc32>91199dfa</crc32>
+    <sha1>7a77026f68d174f0a551a45b5319daa3b9e85261</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
