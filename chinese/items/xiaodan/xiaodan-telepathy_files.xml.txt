@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Telepathy 1024x640.png" source="original">
+    <mtime>1719571407</mtime>
+    <size>1031337</size>
+    <md5>623f47b78f79d503a79cca239c94d847</md5>
+    <crc32>8cdc6681</crc32>
+    <sha1>1ecd68b806f242ab2738fcdeabd63e380fc48f45</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Telepathy 1024x640_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Telepathy 1024x640.png</original>
+    <mtime>1719574218</mtime>
+    <size>7800</size>
+    <md5>5060c963471d855f08b60d1d513b745c</md5>
+    <crc32>537d7e59</crc32>
+    <sha1>43fb69e90e7abe4c4e3c72c85bb73cc5f48d2448</sha1>
+  </file>
+  <file name="Xiaodan. Telepathy 1142x714.jpg" source="original">
+    <mtime>1663663686</mtime>
+    <size>136528</size>
+    <md5>b5eb7d3d1636eefb27c90545a1107aa4</md5>
+    <crc32>a34b1097</crc32>
+    <sha1>155c07839154cc889eaf03bba98924841a0c53c1</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xiaodan. Telepathy 1142x714_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Telepathy 1142x714.jpg</original>
+    <mtime>1663664007</mtime>
+    <size>8059</size>
+    <md5>15bc42b251b1609ff6a0db9e957b3f86</md5>
+    <crc32>97d0b6b3</crc32>
+    <sha1>4ad4fc100b181d1ea985a61f34a471676f01a3a1</sha1>
+  </file>
+  <file name="Xiaodan. Telepathy 1920x1080p.mp4" source="original">
+    <mtime>1663663668</mtime>
+    <size>42042841</size>
+    <md5>9ddf95bdd2d906d303a7207dbe4aa5f9</md5>
+    <crc32>b45f2e05</crc32>
+    <sha1>060c74b89acc53b193feb83c10aaac72dca5bc5d</sha1>
+    <format>MPEG4</format>
+    <length>122.67</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Telepathy 2400x1080p.mp4" source="original">
+    <mtime>1713242967</mtime>
+    <size>45009196</size>
+    <md5>3e6c3f48c5055ead1254be77737f201c</md5>
+    <crc32>2de8e8ae</crc32>
+    <sha1>f0f75a1ce8270f28040702c044272538ebde7205</sha1>
+    <format>MPEG4</format>
+    <length>122.67</length>
+    <width>2400</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Telepathy. Vertical Screen 1080x1920p.mp4" source="original">
+    <mtime>1719571512</mtime>
+    <size>44907196</size>
+    <md5>6bfd2e9c27982a3f6b9e46da201fb2d1</md5>
+    <crc32>cdf3b98b</crc32>
+    <sha1>899b61cb3668047107de5b35b0c1e85fa5a1c6fe</sha1>
+    <format>MPEG4</format>
+    <length>122.67</length>
+    <width>1080</width>
+    <height>1920</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719575760</mtime>
+    <size>14267</size>
+    <md5>9e0cfd2f304cf48e500ec4750b14a0a5</md5>
+    <crc32>93aa07ed</crc32>
+    <sha1>a63ccfcc5260d5b4ce980f4db27bf02920375a60</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 1920x1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 1920x1080p.mp4</original>
+    <mtime>1663663725</mtime>
+    <size>43881</size>
+    <md5>c19e5d835e5d00dd54079fcdc78050d5</md5>
+    <crc32>7e8a76f0</crc32>
+    <sha1>dc2536936861c99ffb71cf3558050d98ea0acff8</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 1920x1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 1920x1080p.mp4</original>
+    <mtime>1663663737</mtime>
+    <size>45752</size>
+    <md5>0dd30b6091a5f582349b9c986fe5d5cb</md5>
+    <crc32>4db9b35a</crc32>
+    <sha1>21dd57aa74bbd0381f579189377c0d3cac50d16e</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 1920x1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 1920x1080p.mp4</original>
+    <mtime>1663663747</mtime>
+    <size>44718</size>
+    <md5>0f634a5f07fa0ad1409fc76e929a21d6</md5>
+    <crc32>d7166049</crc32>
+    <sha1>2b288c228f663554cc2881da6535e5a77018b7a3</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 1920x1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 1920x1080p.mp4</original>
+    <mtime>1663663757</mtime>
+    <size>36760</size>
+    <md5>8e7562aa96e1870a10d218b1fbef613f</md5>
+    <crc32>9e7d4f70</crc32>
+    <sha1>106b7c41b485de534ad87cafa4d4151818855d25</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 2400x1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 2400x1080p.mp4</original>
+    <mtime>1713243052</mtime>
+    <size>32566</size>
+    <md5>5eaf586ed64a3951167a0b4e9d874081</md5>
+    <crc32>dcde58b4</crc32>
+    <sha1>61e28aa784fe56843379b549a0e55ce8e2b2df48</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 2400x1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 2400x1080p.mp4</original>
+    <mtime>1713243059</mtime>
+    <size>38908</size>
+    <md5>2e5d97ee4096801be3b78fb10a03b376</md5>
+    <crc32>39f58f49</crc32>
+    <sha1>4116799eb283326f25a60c9f0fd6be1bbb2b68e5</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 2400x1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 2400x1080p.mp4</original>
+    <mtime>1713243066</mtime>
+    <size>38673</size>
+    <md5>c1b1b61e67d3df85d99740343d18abbc</md5>
+    <crc32>e6976138</crc32>
+    <sha1>0add2c26425c3fe25a94a404bf2cfb8de39aa93a</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy 2400x1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy 2400x1080p.mp4</original>
+    <mtime>1713243073</mtime>
+    <size>32130</size>
+    <md5>1bc3931ae9f9a03afc94273535e0697a</md5>
+    <crc32>aee6b40d</crc32>
+    <sha1>d99a4c65c33ce88ad40ae00b91043922f7fe4751</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy. Vertical Screen 1080x1920p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy. Vertical Screen 1080x1920p.mp4</original>
+    <mtime>1719572325</mtime>
+    <size>85428</size>
+    <md5>f9895e07b9679e279cd466b632da28f6</md5>
+    <crc32>afb40862</crc32>
+    <sha1>a2c71cc701d77ded5c617e0a391e68457e529a6f</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy. Vertical Screen 1080x1920p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy. Vertical Screen 1080x1920p.mp4</original>
+    <mtime>1719572329</mtime>
+    <size>95673</size>
+    <md5>528f76e18d0115e115432d5ed5de7f08</md5>
+    <crc32>518cd7f8</crc32>
+    <sha1>69605308ee627bcb608e07ec43b45b4f56728352</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy. Vertical Screen 1080x1920p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy. Vertical Screen 1080x1920p.mp4</original>
+    <mtime>1719572333</mtime>
+    <size>85389</size>
+    <md5>71dfe054cd50626b95d1862c138adf5a</md5>
+    <crc32>ccc3d0ed</crc32>
+    <sha1>4b91b4fd47db1a6f908e89abc3cc2f9a967f4e71</sha1>
+  </file>
+  <file name="xiaodan-telepathy.thumbs/Xiaodan. Telepathy. Vertical Screen 1080x1920p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Telepathy. Vertical Screen 1080x1920p.mp4</original>
+    <mtime>1719572337</mtime>
+    <size>74072</size>
+    <md5>ec0521ed85980b1293fedd363a205987</md5>
+    <crc32>f9ed1d70</crc32>
+    <sha1>b874b4726744513c146f2eeb31d02a44ffa60848</sha1>
+  </file>
+  <file name="xiaodan-telepathy_archive.torrent" source="metadata">
+    <btih>55942849faa5a24acfbdf4b70aebbf6985e98aa3</btih>
+    <mtime>1719575763</mtime>
+    <size>8113</size>
+    <md5>d79c2a094284de9ee991da6437fef2c9</md5>
+    <crc32>7a22db0a</crc32>
+    <sha1>befb4fff7480ff0cc99c34b079b4e6703a993f49</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-telepathy_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>474caaa64476727a8ad6e9fd19a5ad51</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-telepathy_meta.sqlite" source="original">
+    <mtime>1719571521</mtime>
+    <size>32768</size>
+    <md5>f9832501e9dd3f88495cfca68b82b2dd</md5>
+    <crc32>056b92b1</crc32>
+    <sha1>a22f91a1d226c4c48e845c24e42409eb1946ab33</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-telepathy_meta.xml" source="original">
+    <mtime>1719575734</mtime>
+    <size>1811</size>
+    <md5>cba894a17639f71be84bb1dae716a997</md5>
+    <crc32>dfa6b65b</crc32>
+    <sha1>401cf1024f6c08e6205aa1e410d1db1222355760</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

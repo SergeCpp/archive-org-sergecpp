@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xiaodan. Taoyuan Town 1080p.mp4" source="original">
+    <mtime>1708363838</mtime>
+    <size>62614151</size>
+    <md5>87a59c06c8f7a97608e7b456d954565b</md5>
+    <crc32>5094beff</crc32>
+    <sha1>c843b87039736eb2272094dfef87fe3114c90dcc</sha1>
+    <format>MPEG4</format>
+    <length>182.04</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xiaodan. Taoyuan Town 1120x700 Lv 1p05.png" source="original">
+    <mtime>1719566905</mtime>
+    <size>1333043</size>
+    <md5>bd62422d631bb4a1aff1db48312c3af9</md5>
+    <crc32>d158b6c2</crc32>
+    <sha1>a3fc8724e2855778c98daa014b6de126673934f1</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xiaodan. Taoyuan Town 1120x700 Lv 1p05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Taoyuan Town 1120x700 Lv 1p05.png</original>
+    <mtime>1719567332</mtime>
+    <size>8985</size>
+    <md5>996de1dde8fd292bc2acfe35fd9409ec</md5>
+    <crc32>fd88b672</crc32>
+    <sha1>15b879d7d087bbe9b7dcafde7c81b81cd20580a5</sha1>
+  </file>
+  <file name="Xiaodan. Taoyuan Town 1120x700.png" source="original">
+    <mtime>1719566914</mtime>
+    <size>1318507</size>
+    <md5>a150a8f5dd4134fb318bff9174450dcd</md5>
+    <crc32>65e376e6</crc32>
+    <sha1>57697ff1c81e5c8e7d9081b55989dc4bde06f187</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Xiaodan. Taoyuan Town 1120x700_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Taoyuan Town 1120x700.png</original>
+    <mtime>1719567330</mtime>
+    <size>9018</size>
+    <md5>0260a5f5b8b039c001941dd5af3a002c</md5>
+    <crc32>88f03dac</crc32>
+    <sha1>cd2ba0f351b4901d8f455865f7de1968b87c8ac5</sha1>
+  </file>
+  <file name="Xiaodan. Taoyuan Town 1146x716.jpg" source="original">
+    <mtime>1708363857</mtime>
+    <size>156741</size>
+    <md5>acd2882ae2899600c0b8ceb38dda482e</md5>
+    <crc32>c8cdf458</crc32>
+    <sha1>efde8d7ec7ae01a165a1b5094af1211a3b4b860a</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Xiaodan. Taoyuan Town 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xiaodan. Taoyuan Town 1146x716.jpg</original>
+    <mtime>1708364481</mtime>
+    <size>9810</size>
+    <md5>dbbe1cbf8a002a3c6154fc1d42abe2fb</md5>
+    <crc32>32b59549</crc32>
+    <sha1>ec17d86b2f9e0f67300cf513ff9742a5ff4ce791</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1719568874</mtime>
+    <size>17468</size>
+    <md5>f08da28bedd3bb0c1c8fd6d5a7a09984</md5>
+    <crc32>54082e0e</crc32>
+    <sha1>1bb260b820e5fe5e5d3397b097846ff931a81953</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="xiaodan-taoyuan-town.thumbs/Xiaodan. Taoyuan Town 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Taoyuan Town 1080p.mp4</original>
+    <mtime>1708364064</mtime>
+    <size>59579</size>
+    <md5>8e41baaf243c9bd162b18f8276de038e</md5>
+    <crc32>f926b4ac</crc32>
+    <sha1>c0303e08129801a79d6d737dfd4904f406c56bfb</sha1>
+  </file>
+  <file name="xiaodan-taoyuan-town.thumbs/Xiaodan. Taoyuan Town 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Taoyuan Town 1080p.mp4</original>
+    <mtime>1708364070</mtime>
+    <size>68477</size>
+    <md5>e4cfc0883bf8c57262655ce77fffd730</md5>
+    <crc32>090be722</crc32>
+    <sha1>20564a82444d760d191d504a234d8640785a55dd</sha1>
+  </file>
+  <file name="xiaodan-taoyuan-town.thumbs/Xiaodan. Taoyuan Town 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Taoyuan Town 1080p.mp4</original>
+    <mtime>1708364077</mtime>
+    <size>43481</size>
+    <md5>b41ab47afd3ffd091dc1ac5af3436648</md5>
+    <crc32>08d98588</crc32>
+    <sha1>6cb24090d82ff0ec82dad6a4252573e75e1c3fab</sha1>
+  </file>
+  <file name="xiaodan-taoyuan-town.thumbs/Xiaodan. Taoyuan Town 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Taoyuan Town 1080p.mp4</original>
+    <mtime>1708364082</mtime>
+    <size>61604</size>
+    <md5>67d414f742f0f038d3e709cdb22f2313</md5>
+    <crc32>7d4b0b7f</crc32>
+    <sha1>f5f8603c1372e6ec3d6007c0f6961db60ff4444d</sha1>
+  </file>
+  <file name="xiaodan-taoyuan-town.thumbs/Xiaodan. Taoyuan Town 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Taoyuan Town 1080p.mp4</original>
+    <mtime>1708364088</mtime>
+    <size>24756</size>
+    <md5>3c43c0dbd90f5917b6cc7d54af8d5861</md5>
+    <crc32>7f44b758</crc32>
+    <sha1>4bd78023f3187c83d4d69769a0adddad8061c9ae</sha1>
+  </file>
+  <file name="xiaodan-taoyuan-town.thumbs/Xiaodan. Taoyuan Town 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xiaodan. Taoyuan Town 1080p.mp4</original>
+    <mtime>1708364095</mtime>
+    <size>62464</size>
+    <md5>83dd23e96063c4751f3733717f7e7f8d</md5>
+    <crc32>643ac40c</crc32>
+    <sha1>7597c73ced3adb6dac8de661332b61ea41d13ef4</sha1>
+  </file>
+  <file name="xiaodan-taoyuan-town_archive.torrent" source="metadata">
+    <btih>e907ba2fc34494c62590f07f855521cb82c3b599</btih>
+    <mtime>1719568875</mtime>
+    <size>5552</size>
+    <md5>a57d1073ae7ad298812718b29e691788</md5>
+    <crc32>2db28cf4</crc32>
+    <sha1>ea85c3482d5273c169aff149bcfb58ee5088744e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xiaodan-taoyuan-town_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>623605b7b06cb3fd55e7c5760fa5e68e</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xiaodan-taoyuan-town_meta.sqlite" source="original">
+    <mtime>1719566917</mtime>
+    <size>32768</size>
+    <md5>cc6275e32303419e6c1f632600011678</md5>
+    <crc32>1536b3cc</crc32>
+    <sha1>62037a0ec438e88003448e387b82ce70bb9018dc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xiaodan-taoyuan-town_meta.xml" source="original">
+    <mtime>1719568868</mtime>
+    <size>2759</size>
+    <md5>ed34d59be8d44d26d766b0709fc993eb</md5>
+    <crc32>12f40e6e</crc32>
+    <sha1>f6d1b3d932fb5cfaa474f1d0eb999d1305bf174d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
