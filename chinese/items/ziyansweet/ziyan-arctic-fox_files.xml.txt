@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ziyan. Arctic Fox 1080p.mp4" source="original">
+    <mtime>1660887420</mtime>
+    <size>140861568</size>
+    <md5>20624d6c6d54885277a84ba90f0a1b51</md5>
+    <crc32>d0ddc8c9</crc32>
+    <sha1>912f434d615c0b31dafd408510aee42195d68c31</sha1>
+    <format>MPEG4</format>
+    <length>335.48</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ziyan. Arctic Fox 2496x1560 Lv A0p95 R245 G250 B252.png" source="original">
+    <mtime>1720071587</mtime>
+    <size>3510468</size>
+    <md5>e0b5fd336b248668250ff2db2f476d37</md5>
+    <crc32>56ccf3f8</crc32>
+    <sha1>f8cbd7a51425df23b795cbbc684804f2ce0457d0</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ziyan. Arctic Fox 2496x1560 Lv A0p95 R245 G250 B252_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. Arctic Fox 2496x1560 Lv A0p95 R245 G250 B252.png</original>
+    <mtime>1720072013</mtime>
+    <size>6211</size>
+    <md5>2b26afc8b2e50d8c932ccea23a4d869a</md5>
+    <crc32>6ce5b58b</crc32>
+    <sha1>fad924fe6551b6e123894273ab29e3a8dc50cbdf</sha1>
+  </file>
+  <file name="Ziyan. Arctic Fox 2496x1560.png" source="original">
+    <mtime>1720071598</mtime>
+    <size>3062061</size>
+    <md5>f6ed29f46c7b21fb79965544b4d10351</md5>
+    <crc32>c87b9106</crc32>
+    <sha1>0e204e16beb6fce31152d81b857fae5cba82741b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ziyan. Arctic Fox 2496x1560_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. Arctic Fox 2496x1560.png</original>
+    <mtime>1720072009</mtime>
+    <size>6127</size>
+    <md5>2b1832929bf0925a59b310592fccf864</md5>
+    <crc32>958fb9bd</crc32>
+    <sha1>fb5ecccb829ad978ba37f1348a02e6de3970f48f</sha1>
+  </file>
+  <file name="Ziyan. Arctic Fox 2983x1872.jpg" source="original">
+    <mtime>1660887437</mtime>
+    <size>703820</size>
+    <md5>6bd1e92c1e7eaefd614a1584cb5272c5</md5>
+    <crc32>516f2ba1</crc32>
+    <sha1>01846c17ed6fec58a71eefa27b38ce8f9a07f10c</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Ziyan. Arctic Fox 2983x1872_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. Arctic Fox 2983x1872.jpg</original>
+    <mtime>1660887916</mtime>
+    <size>6643</size>
+    <md5>a98c7bef02200306d4c6bf51837a132e</md5>
+    <crc32>74bcac2e</crc32>
+    <sha1>b6fcbf01dafdbde62ae22fe42ee573cc9bbdcc3d</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1720072981</mtime>
+    <size>8106</size>
+    <md5>7ddcf99085c556b3c1bf84880733ba4e</md5>
+    <crc32>6b42161a</crc32>
+    <sha1>ea6258e299f45222343f499c11ba3201d0a15a40</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887729</mtime>
+    <size>7778</size>
+    <md5>a3624389e46c5736f2c587a4e1b0659b</md5>
+    <crc32>ac697721</crc32>
+    <sha1>c413315467ede1ba713671f4582ce25d20bf3b82</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887733</mtime>
+    <size>36484</size>
+    <md5>7beaa4262b30236cb6dba2381d766837</md5>
+    <crc32>6d7c1c1e</crc32>
+    <sha1>2b193025d02fbc0509c6d2c8542f450500c933cc</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887737</mtime>
+    <size>33059</size>
+    <md5>18ae6fa1c5f436543975347e23351740</md5>
+    <crc32>0a38a044</crc32>
+    <sha1>af0c713019f7912ecbfd0ef344bbc5fe6b927181</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887741</mtime>
+    <size>49289</size>
+    <md5>7987bd3c4f24e9268d2dad18ac85aa7c</md5>
+    <crc32>c239a8ba</crc32>
+    <sha1>8554573ec6664373a524190bcee64c3dbdb6af1f</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887744</mtime>
+    <size>32663</size>
+    <md5>06636b5bbeaab8c583b3bc323ac5bca2</md5>
+    <crc32>7510c332</crc32>
+    <sha1>6b62df1a847001294b461e8e31f7f65f7bc25429</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887748</mtime>
+    <size>18271</size>
+    <md5>1c108a7e913c79347313e5ac25904db6</md5>
+    <crc32>1530a85a</crc32>
+    <sha1>9bea2a9d0f61b7c2f62ff2d8311c63dbe2a3a742</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887752</mtime>
+    <size>20955</size>
+    <md5>728f62c2375d810382d4c59f5c1692b1</md5>
+    <crc32>19d6c7ff</crc32>
+    <sha1>8785b511cbf03bffb83c7eb792072bded721d17c</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887756</mtime>
+    <size>33153</size>
+    <md5>93c6e37fcdcb08531c8ba3442a89a0a8</md5>
+    <crc32>f97313f1</crc32>
+    <sha1>1a366581e534ffb455c7e280e9fed101d64c416e</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887759</mtime>
+    <size>29164</size>
+    <md5>dc7f7d5ae96851cd8911a04cfa549dcc</md5>
+    <crc32>aea47bb0</crc32>
+    <sha1>de328c98380623cae01b81dcb62bf80bf1d3ee8e</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887763</mtime>
+    <size>52639</size>
+    <md5>0976424defd1024c4b6332c882067e7b</md5>
+    <crc32>a4096d30</crc32>
+    <sha1>b8437b6d41a0d2902532b7e8ea5e0d2b96592411</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887767</mtime>
+    <size>29594</size>
+    <md5>5ff08a853518c2e53f9d2b3ccb57c2b6</md5>
+    <crc32>183c7ec7</crc32>
+    <sha1>6493d6b1b7e1ba15e18122d1d80dfcc806e0a96d</sha1>
+  </file>
+  <file name="ziyan-arctic-fox.thumbs/Ziyan. Arctic Fox 1080p_000335.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Arctic Fox 1080p.mp4</original>
+    <mtime>1660887768</mtime>
+    <size>42043</size>
+    <md5>e6206a9128d552f28dc2c1ddc3f6ba57</md5>
+    <crc32>8361fff4</crc32>
+    <sha1>491a9d7b6c93060e8ea02395c17234ad49b1dfd5</sha1>
+  </file>
+  <file name="ziyan-arctic-fox_archive.torrent" source="metadata">
+    <btih>163028b59536c9e424ee285283c88802a3da1572</btih>
+    <mtime>1720078610</mtime>
+    <size>8686</size>
+    <md5>9b795a90b294cde857a27f257f9c917b</md5>
+    <crc32>496c49a6</crc32>
+    <sha1>a82fd342db718dde2bf67e6fa43a6f6338fdb58b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ziyan-arctic-fox_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9a90f9b0e4dfd7603e080a977ae2c198</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ziyan-arctic-fox_meta.sqlite" source="original">
+    <mtime>1720071602</mtime>
+    <size>32768</size>
+    <md5>927156008f211cc7b967050366b58a1a</md5>
+    <crc32>f0535814</crc32>
+    <sha1>e149c925cccd6ad42ce6ba2e100e4b75358e122f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ziyan-arctic-fox_meta.xml" source="original">
+    <mtime>1720078608</mtime>
+    <size>3015</size>
+    <md5>5b03364044368a1999886d9f6bcbd29b</md5>
+    <crc32>57e8fdfc</crc32>
+    <sha1>fc1f05b7ae12ec045e0fee9c62d3448825805641</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
