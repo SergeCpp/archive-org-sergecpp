@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ziyan. Beijing Dance Academy 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693666351</mtime>
+    <size>93814960</size>
+    <md5>d2baece5daf90d848d36d121cd29da36</md5>
+    <crc32>2c4c4345</crc32>
+    <sha1>c23e51aad7279d22a59ff84d1c2dbafef6f5e562</sha1>
+    <length>963.7</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Ziyan. Beijing Dance Academy 1080p.mp4" source="original">
+    <mtime>1693664314</mtime>
+    <size>172543164</size>
+    <md5>84f84f627ef3579b7a79aaefa7c60f23</md5>
+    <crc32>0c2e778e</crc32>
+    <sha1>4d095b6b76d1c1cb4a9104d1352781209f544dcb</sha1>
+    <format>MPEG4</format>
+    <length>963.65</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ziyan. Beijing Dance Academy 1488x930 Lv 1p05.png" source="original">
+    <mtime>1720264255</mtime>
+    <size>1663240</size>
+    <md5>fd6c37debffe2b31f156ac429a1d7c00</md5>
+    <crc32>0f0b0830</crc32>
+    <sha1>9972be6b15072c2aa7931410d38232a02efae808</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ziyan. Beijing Dance Academy 1488x930 Lv 1p05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. Beijing Dance Academy 1488x930 Lv 1p05.png</original>
+    <mtime>1720264569</mtime>
+    <size>8407</size>
+    <md5>7f25c83b243ca243d93073b7662063cb</md5>
+    <crc32>83f469ce</crc32>
+    <sha1>7d269754f0e5cad256dd91ba08db4e44c18cf832</sha1>
+  </file>
+  <file name="Ziyan. Beijing Dance Academy 1488x930.png" source="original">
+    <mtime>1720264261</mtime>
+    <size>1653902</size>
+    <md5>cda5de608e918b68bbe86c08cca07b35</md5>
+    <crc32>82ec3f3a</crc32>
+    <sha1>57e46b8c114e5bfa59911d12fadec7ae3d1039bf</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ziyan. Beijing Dance Academy 1488x930_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. Beijing Dance Academy 1488x930.png</original>
+    <mtime>1720264573</mtime>
+    <size>8417</size>
+    <md5>f28bff2534c91a1c9e03084d6e31dd0a</md5>
+    <crc32>ec3e112d</crc32>
+    <sha1>f085045ae742a9a2a350603a819499299c2e727d</sha1>
+  </file>
+  <file name="Ziyan. Beijing Dance Academy 1591x994.jpg" source="original">
+    <mtime>1693664333</mtime>
+    <size>1039767</size>
+    <md5>441e3ed71931034e2afff2db1ca8a28e</md5>
+    <crc32>d56f03bb</crc32>
+    <sha1>a1abd958484bb5b8805373ac85a50d0d6b0852a6</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Ziyan. Beijing Dance Academy 1591x994_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. Beijing Dance Academy 1591x994.jpg</original>
+    <mtime>1693666411</mtime>
+    <size>8618</size>
+    <md5>31435a21e013c7d21e0649f13dfe28f5</md5>
+    <crc32>0c2cbe60</crc32>
+    <sha1>e003761239dc20d77162d1ae05cba353d68e286f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1720279439</mtime>
+    <size>11413</size>
+    <md5>d288f3a625417fc103b20b81b451b9d2</md5>
+    <crc32>6479f7ec</crc32>
+    <sha1>fd5724bbee33f3be48c22e5daca59327d5b523a5</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664634</mtime>
+    <size>2985</size>
+    <md5>0adc7c81c36c7c0b1ae1eca5475bb52c</md5>
+    <crc32>bdded8f7</crc32>
+    <sha1>973d0ffab7299fa606ed897fb12a0549097223f3</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000115.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664641</mtime>
+    <size>81185</size>
+    <md5>052a7fca389f68478fcc7a2fceb96afa</md5>
+    <crc32>1655fa84</crc32>
+    <sha1>b29fc0754a753256bc90af38432871ffee130c9e</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000175.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664648</mtime>
+    <size>26623</size>
+    <md5>a3c3dcf92d6879a049d2573facd9d7ab</md5>
+    <crc32>e9b4f0d6</crc32>
+    <sha1>eee434cdb0af14b1437523a1a36ed8d0ffdad868</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000235.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664655</mtime>
+    <size>18881</size>
+    <md5>1f02db96d50dc652f30066b603e36b7d</md5>
+    <crc32>afedc156</crc32>
+    <sha1>293228abde26660af8b487848e78ab41858a50aa</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000295.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664662</mtime>
+    <size>33802</size>
+    <md5>eace3e7ae0f271c9406b9c1e98fd5965</md5>
+    <crc32>e8251a51</crc32>
+    <sha1>c25429e5521f65edb432976222a2e1b15931b5db</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000355.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664670</mtime>
+    <size>57891</size>
+    <md5>5ffd03a5a6a27086405f0e00ddcf7bac</md5>
+    <crc32>5af12b58</crc32>
+    <sha1>e7a4472662646ce1cf0faa6df54f6f30d0df4db6</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000415.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664678</mtime>
+    <size>58970</size>
+    <md5>2ab086e8f51bdc7e51d07ed5df4abfd7</md5>
+    <crc32>d776b895</crc32>
+    <sha1>698d66d5b6498e80c15043c9c6fe2bae27fdff5d</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000475.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664686</mtime>
+    <size>57728</size>
+    <md5>0768fec63e8512ddbeb72895835059f4</md5>
+    <crc32>d65b4158</crc32>
+    <sha1>397a07e9620d0aebd2bae46837c652781e190efd</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000535.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664693</mtime>
+    <size>58289</size>
+    <md5>0188b8c8089c3f92f0a7cd7f6790128c</md5>
+    <crc32>53757c6b</crc32>
+    <sha1>4a0c59a1fb3b21b061a77b22950d29d23a8e4c51</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000595.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664701</mtime>
+    <size>60524</size>
+    <md5>f66da52345ae754f76a6af4ad07f0b9e</md5>
+    <crc32>3d07bbac</crc32>
+    <sha1>1634b00395450067e72584951a3f3aab4d4370af</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000655.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664709</mtime>
+    <size>60731</size>
+    <md5>bc5881044a8e7a97dd96b187bbf91e03</md5>
+    <crc32>fdb2f006</crc32>
+    <sha1>1894d7135caee1ffa1acd7c9ae975632f6eb3765</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000715.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664717</mtime>
+    <size>62240</size>
+    <md5>1da3b1efb0cdbc74ebce777f85072b75</md5>
+    <crc32>c8ecdd1f</crc32>
+    <sha1>632abdec386ab955d38aacee1de9e49a3d75b6f4</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000775.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664726</mtime>
+    <size>61099</size>
+    <md5>708b7cfc5196e848881bf4030df25620</md5>
+    <crc32>726e7cfe</crc32>
+    <sha1>2564bd4c754595c84665c9953c875780ec80070f</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000835.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664734</mtime>
+    <size>60934</size>
+    <md5>9df767af9f6c069fc02022a88959d790</md5>
+    <crc32>caf1af42</crc32>
+    <sha1>8092e5d064c0897ed4bcd7e5132fd113d6f23638</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000895.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664741</mtime>
+    <size>59859</size>
+    <md5>4f0ddc698ec9cb3358d7b43db893b6ef</md5>
+    <crc32>db276c06</crc32>
+    <sha1>882bd4b97b678d8991a64dd457c10646a4f58566</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000955.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664749</mtime>
+    <size>59259</size>
+    <md5>f8096d126e2a587d8d4d0b38f7ebc7c9</md5>
+    <crc32>273921c9</crc32>
+    <sha1>0a94d2e7c65a7fd66f1ce2f1a00e818da636cf3b</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy.thumbs/Ziyan. Beijing Dance Academy 1080p_000960.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. Beijing Dance Academy 1080p.mp4</original>
+    <mtime>1693664750</mtime>
+    <size>4564</size>
+    <md5>482a5dc44905de8a451854b7e5ce6351</md5>
+    <crc32>0727c285</crc32>
+    <sha1>2949cd32a766e35b72f6d63d1b1f02046fdff90c</sha1>
+  </file>
+  <file name="ziyan-beijing-dance-academy_archive.torrent" source="metadata">
+    <btih>9fea93f713cb7e71acd63edbca7318cf356b31fb</btih>
+    <mtime>1720279444</mtime>
+    <size>13707</size>
+    <md5>6e00a8e48825dbbff06810b3f9cfbb8e</md5>
+    <crc32>e81af45e</crc32>
+    <sha1>51c9f7e49c4ab507efd052a2911e685be28db407</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ziyan-beijing-dance-academy_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7e62cb9cbc913182ae42867f9e8f41ac</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ziyan-beijing-dance-academy_meta.sqlite" source="original">
+    <mtime>1720264267</mtime>
+    <size>40960</size>
+    <md5>725e6ca5fb9c6faca0551f0c3feff849</md5>
+    <crc32>e60b2cab</crc32>
+    <sha1>f15e0232dd55e15ae49f19cc36ac7614e3d8d700</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ziyan-beijing-dance-academy_meta.xml" source="original">
+    <mtime>1720279417</mtime>
+    <size>6218</size>
+    <md5>61937f9af8f5e40df8d3008a761d6dfa</md5>
+    <crc32>0794a15d</crc32>
+    <sha1>3f52b0121c0e01669181add677294b5ac5eb21a2</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
