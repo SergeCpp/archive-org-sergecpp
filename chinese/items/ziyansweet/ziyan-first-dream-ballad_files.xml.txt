@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ziyan. First Dream Ballad 1272p 60fps.m4a" source="original">
+    <mtime>1697168773</mtime>
+    <size>2016832</size>
+    <md5>43242f581295372fbb7bc6358eef8529</md5>
+    <crc32>bcb01157</crc32>
+    <sha1>1531e0cad63187df3c63ad0d489bb17c9ec3a1c2</sha1>
+    <format>MPEG-4 Audio</format>
+    <length>124.58</length>
+    <track>01</track>
+  </file>
+  <file name="Ziyan. First Dream Ballad 1272p 60fps.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Ziyan. First Dream Ballad 1272p 60fps.webm</original>
+    <mtime>1697170628</mtime>
+    <size>10817419</size>
+    <md5>ea45ec74ac5b20f0924c0c4f7a453ed7</md5>
+    <crc32>4b14f616</crc32>
+    <sha1>eee1c8056e47e72ccaaf208b9b266c1a40238bc2</sha1>
+    <length>124.53</length>
+    <width>966</width>
+    <height>480</height>
+  </file>
+  <file name="Ziyan. First Dream Ballad 1272p 60fps.png" source="derivative">
+    <format>PNG</format>
+    <original>Ziyan. First Dream Ballad 1272p 60fps.m4a</original>
+    <mtime>1697170658</mtime>
+    <size>42028</size>
+    <md5>2a0753fd18fcd3c83518b40b9324b151</md5>
+    <crc32>17b737fd</crc32>
+    <sha1>66dfd1395ccf5d0a92ae9703d14c231b9539e9e0</sha1>
+  </file>
+  <file name="Ziyan. First Dream Ballad 1272p 60fps.webm" source="original">
+    <mtime>1697168764</mtime>
+    <size>148171587</size>
+    <md5>035fb4d2ed5718883e4d4fecec0cb3db</md5>
+    <crc32>cd3cef9d</crc32>
+    <sha1>52011e18c8f847411698fd33b369872dfac7a5f9</sha1>
+    <format>WebM</format>
+    <length>124.52</length>
+    <width>2560</width>
+    <height>1272</height>
+  </file>
+  <file name="Ziyan. First Dream Ballad 3040x1900 Lv 1p05.png" source="original">
+    <mtime>1721128006</mtime>
+    <size>6344876</size>
+    <md5>0ddd1bcf52fc91c223eb740ab7d09442</md5>
+    <crc32>e3983fb8</crc32>
+    <sha1>0127a45a04f32b933a4074328c7a9903870a34d0</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ziyan. First Dream Ballad 3040x1900 Lv 1p05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. First Dream Ballad 3040x1900 Lv 1p05.png</original>
+    <mtime>1721128053</mtime>
+    <size>8185</size>
+    <md5>c9b1a44a4df2ebf40fd1794344f230a8</md5>
+    <crc32>4fdd40aa</crc32>
+    <sha1>ba875bf1483a953c51d2a5a6f96ad41cf53730da</sha1>
+  </file>
+  <file name="Ziyan. First Dream Ballad 3040x1900.png" source="original">
+    <mtime>1721128022</mtime>
+    <size>6194471</size>
+    <md5>8700dee9baaeeaf1c843298e39810aa7</md5>
+    <crc32>7c51d782</crc32>
+    <sha1>e5a09ba6cc28bce34a196415145fd23d5417d56d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ziyan. First Dream Ballad 3040x1900_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. First Dream Ballad 3040x1900.png</original>
+    <mtime>1721128055</mtime>
+    <size>8241</size>
+    <md5>155b89d40f9a1e70d8f48618dc270fa5</md5>
+    <crc32>e7606889</crc32>
+    <sha1>70567358986cf632eff5326b36aee5bbe2c2b0c9</sha1>
+  </file>
+  <file name="Ziyan. First Dream Ballad 3134x1960.jpg" source="original">
+    <mtime>1674286105</mtime>
+    <size>969848</size>
+    <md5>93edf19134fe49d379633dc405345f49</md5>
+    <crc32>48fd9e80</crc32>
+    <sha1>23a8c2dbc6ad3600af843f30f70db955aa5804f8</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Ziyan. First Dream Ballad 3134x1960_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ziyan. First Dream Ballad 3134x1960.jpg</original>
+    <mtime>1674286462</mtime>
+    <size>8590</size>
+    <md5>94bdcd706670677dc08785239242adb5</md5>
+    <crc32>4641b8ac</crc32>
+    <sha1>657c3f97268a1c700da65e1a0dcfe3acee0504a2</sha1>
+  </file>
+  <file name="Ziyan. First Dream Ballad 954p 30fps.mp4" source="original">
+    <mtime>1701936022</mtime>
+    <size>45782144</size>
+    <md5>d0fd902d76b7a8964d480549519fed14</md5>
+    <crc32>4a689bc1</crc32>
+    <sha1>bc4b05ed576dca70ea9ff4402ab97ff100b11a83</sha1>
+    <format>MPEG4</format>
+    <length>124.59</length>
+    <width>1920</width>
+    <height>954</height>
+  </file>
+  <file name="Ziyan. First Dream Ballad 954p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Ziyan. First Dream Ballad 954p 60fps.mp4</original>
+    <mtime>1674286452</mtime>
+    <size>78791992</size>
+    <md5>235f97d5cd4b71d14315ecbfbb1a0b11</md5>
+    <crc32>e7a87346</crc32>
+    <sha1>f04bfafdff08be618391959b7169425a8db7480e</sha1>
+    <length>124.53</length>
+    <width>1920</width>
+    <height>954</height>
+  </file>
+  <file name="Ziyan. First Dream Ballad 954p 60fps.mp4" source="original">
+    <mtime>1674286385</mtime>
+    <size>78791992</size>
+    <md5>a6020f2663decd99fb7a63bdb8d8b0d1</md5>
+    <crc32>aab7f64d</crc32>
+    <sha1>1e078b4473ab05d6516d6ecc793fc134ed224a13</sha1>
+    <format>MPEG4</format>
+    <length>124.53</length>
+    <width>1920</width>
+    <height>954</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1721128293</mtime>
+    <size>14510</size>
+    <md5>1eedc77d0a25c279f752f0f31577245a</md5>
+    <crc32>74882df9</crc32>
+    <sha1>0d846f8ecb370ca0d9e2d707a424c3b4c2baa582</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 1272p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 1272p 60fps.webm</original>
+    <mtime>1697168963</mtime>
+    <size>53307</size>
+    <md5>0f528d7ce1ac56abc73b2e8086aedcfc</md5>
+    <crc32>fc917db4</crc32>
+    <sha1>f34faee5d5f86335a89b0e1365c0b54ec2d18985</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 1272p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 1272p 60fps.webm</original>
+    <mtime>1697169030</mtime>
+    <size>85254</size>
+    <md5>b450f7df8e83a188066e77682e920989</md5>
+    <crc32>ccc95c77</crc32>
+    <sha1>c9e75c77a88b553c415876b761aafb7246f8e174</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 1272p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 1272p 60fps.webm</original>
+    <mtime>1697169095</mtime>
+    <size>44586</size>
+    <md5>9ba73a342aaf291af2b79c114dbeca4e</md5>
+    <crc32>a824354e</crc32>
+    <sha1>64759fc3074302af44ad95e15476bae6f219c4b4</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 1272p 60fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 1272p 60fps.webm</original>
+    <mtime>1697169156</mtime>
+    <size>47111</size>
+    <md5>5fa17f5a8b79eda090731915a4053c76</md5>
+    <crc32>b402d342</crc32>
+    <sha1>164d22c99f4443af8a0c629edbeb230644323691</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 1272p 60fps_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 1272p 60fps.webm</original>
+    <mtime>1697169164</mtime>
+    <size>45020</size>
+    <md5>c5ae1de8df597c6d4a9884ea72cace5f</md5>
+    <crc32>dd821393</crc32>
+    <sha1>f87abd169b82b51d1059e564aff2de652400a27f</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 30fps.mp4</original>
+    <mtime>1701938602</mtime>
+    <size>51865</size>
+    <md5>6bc146c4fc61fbf89473f82b76cf1bdb</md5>
+    <crc32>b656a815</crc32>
+    <sha1>569ec5be8131d6260f57c63a1b77147b1744b3be</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 30fps.mp4</original>
+    <mtime>1701938609</mtime>
+    <size>78494</size>
+    <md5>742e1a5311a0be3f09ba28ce966666ad</md5>
+    <crc32>15926007</crc32>
+    <sha1>cc4d761715d807356a59f86234cdbac2da931cce</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 30fps.mp4</original>
+    <mtime>1701938616</mtime>
+    <size>46014</size>
+    <md5>2401b1ee06959eb18ba449e93dc21fa0</md5>
+    <crc32>e67871da</crc32>
+    <sha1>3445a6bfb60b4cf091119ab38199a58e08fa9643</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 30fps.mp4</original>
+    <mtime>1701938623</mtime>
+    <size>86019</size>
+    <md5>2dee7d3b4b6014e54801dc89d7e630c4</md5>
+    <crc32>21de1ece</crc32>
+    <sha1>4b915f893bd6658774332ad2fbb54d3e1eeb629d</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 60fps.mp4</original>
+    <mtime>1674286419</mtime>
+    <size>5562</size>
+    <md5>ef8e9ec882f3af8abf3f51396e9785b5</md5>
+    <crc32>f82f289e</crc32>
+    <sha1>c2bcc33990015c73379d1d727cc681983a6661fc</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 60fps_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 60fps.mp4</original>
+    <mtime>1674286426</mtime>
+    <size>63440</size>
+    <md5>cb39503baac66b8b5562f0186b10340b</md5>
+    <crc32>0b6892be</crc32>
+    <sha1>c663d7ce25a4e1e06be26cb434412b9322ad9a32</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 60fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 60fps.mp4</original>
+    <mtime>1674286433</mtime>
+    <size>23691</size>
+    <md5>03f0b94012d0a51814b13820e0e7172b</md5>
+    <crc32>b60fef8c</crc32>
+    <sha1>ddd42c8eb2632343598773672c72aaeea40a1f9b</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 60fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 60fps.mp4</original>
+    <mtime>1674286440</mtime>
+    <size>64442</size>
+    <md5>6cea95929cb42144a112d17b4cdca4ee</md5>
+    <crc32>ed9e0546</crc32>
+    <sha1>e6685909f51c34bcc85a2a3ba513606276c41595</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad.thumbs/Ziyan. First Dream Ballad 954p 60fps_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ziyan. First Dream Ballad 954p 60fps.mp4</original>
+    <mtime>1674286441</mtime>
+    <size>49528</size>
+    <md5>833b709d308612c2637b346b16dea7f9</md5>
+    <crc32>87decdca</crc32>
+    <sha1>45c09f5285afa2a532aa68b73cc05c57c5f83b05</sha1>
+  </file>
+  <file name="ziyan-first-dream-ballad_archive.torrent" source="metadata">
+    <btih>82654f0eebb7848d21985010fcee51e60e5b3bae</btih>
+    <mtime>1721128295</mtime>
+    <size>18735</size>
+    <md5>05eaa6b5029c2df338667f641060d427</md5>
+    <crc32>47d71b4c</crc32>
+    <sha1>e638f47f21b1e086c24e171db1d88a98295600e0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ziyan-first-dream-ballad_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2f777164c77e7f6ead82fcf4b05353f7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ziyan-first-dream-ballad_meta.sqlite" source="original">
+    <mtime>1721128026</mtime>
+    <size>36864</size>
+    <md5>1771f55b61ab0ac5d902abb5c994b783</md5>
+    <crc32>543285b7</crc32>
+    <sha1>88ec389445a3b1455bfbd1bf36e85c51c2eb90a4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ziyan-first-dream-ballad_meta.xml" source="original">
+    <mtime>1721128287</mtime>
+    <size>2370</size>
+    <md5>2593f6bb50a4ac71a8db5caf590a01d5</md5>
+    <crc32>ca82ce53</crc32>
+    <sha1>10ea0e25085423cba56391edfa292837724566df</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
