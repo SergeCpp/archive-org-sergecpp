@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="jiu-jia-ziyan-xiaodan-qisan">
+  <review>
+    <reviewtitle>Me gusta</reviewtitle>
+    <reviewbody>La musica es tranquila, y el video me ha resultado muy relajante. Gracias! </reviewbody>
+    <stars>5</stars>
+    <reviewer>Carolina Jimenez305</reviewer>
+    <reviewdate>2025-11-07 20:06:19</reviewdate>
+    <createdate>2025-11-07 20:06:19</createdate>
+    <reviewer_itemname>@carolina_jimenez305</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>1</num_reviews>
+    <avg_rating>5.00</avg_rating>
+  </info>
+</reviews>
