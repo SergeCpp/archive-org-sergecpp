@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Close to Your Heart. Zi Jiaer 1080p.mp4" source="original">
+    <mtime>1709026556</mtime>
+    <size>45299716</size>
+    <md5>1da84a5012213fab40860958ec9ae016</md5>
+    <crc32>e8d6750b</crc32>
+    <sha1>77f955d5783948bd04718f58c87ff420d7b30f24</sha1>
+    <format>MPEG4</format>
+    <length>115.09</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Close to Your Heart. Zi Jiaer 2480x1550.png" source="original">
+    <mtime>1717069944</mtime>
+    <size>3514845</size>
+    <md5>052195888134530c981de368cb8071b8</md5>
+    <crc32>c7a4f50c</crc32>
+    <sha1>be5f457743628fe32d4f9234a6a51c1004b61fb3</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Close to Your Heart. Zi Jiaer 2480x1550_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Close to Your Heart. Zi Jiaer 2480x1550.png</original>
+    <mtime>1717071094</mtime>
+    <size>8138</size>
+    <md5>e6b357cf31b079da73b3898f5f5bd50c</md5>
+    <crc32>8f6a01c0</crc32>
+    <sha1>80eec45e09600425a4cdfa90aa7091219f8cd22e</sha1>
+  </file>
+  <file name="Close to Your Heart. Zi Jiaer 2625x1640.jpg" source="original">
+    <mtime>1709026574</mtime>
+    <size>374520</size>
+    <md5>22f0921f8c7e340e3dbe6cd77b314c53</md5>
+    <crc32>b936d48c</crc32>
+    <sha1>f9f42a329a6975e2540f11fc148c1ea28988a749</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Close to Your Heart. Zi Jiaer 2625x1640_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Close to Your Heart. Zi Jiaer 2625x1640.jpg</original>
+    <mtime>1717068134</mtime>
+    <size>8339</size>
+    <md5>7b2a920830767dad3a9b563405bcc204</md5>
+    <crc32>aca5b50e</crc32>
+    <sha1>aa7d0099e61fd68342ec3f33eb953a9aa3eb2e57</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717073437</mtime>
+    <size>13889</size>
+    <md5>705bf757a47b4a3e1566406c864fb58d</md5>
+    <crc32>38abb51b</crc32>
+    <sha1>709bb66075dd02d6d89c657d2f300425ae87709b</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141123</mtime>
+    <size>42534</size>
+    <md5>6bef73b651951e10c63fbc4c8d83f12c</md5>
+    <crc32>aec06859</crc32>
+    <sha1>b821f23e44435e2cb064b658bfff7dc797cc1d93</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000002.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141124</mtime>
+    <size>58296</size>
+    <md5>9698dab287aa041e16cf93bbfa499869</md5>
+    <crc32>b033992a</crc32>
+    <sha1>43ab6dc4be0a4c40a397ab031bcc2e38f75431c1</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000003.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141131</mtime>
+    <size>37619</size>
+    <md5>e015653c8420040a8fa258cd59f9188e</md5>
+    <crc32>3dd94936</crc32>
+    <sha1>299fb318418cf1ec971750e8288d61310a51f5a0</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000004.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141138</mtime>
+    <size>50395</size>
+    <md5>771a5e1062db519423a033c614716f48</md5>
+    <crc32>feb0be6c</crc32>
+    <sha1>547b96d34c27815d784d962aada6e770f3af7d67</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000005.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141143</mtime>
+    <size>59587</size>
+    <md5>af6e50f30c95e2d41e7615d046bcc26b</md5>
+    <crc32>c45bc180</crc32>
+    <sha1>ad8c2dda6e23206294058d7542144ce40337e240</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000006.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141144</mtime>
+    <size>60671</size>
+    <md5>4e25350aa480136f10f3ed2efe1c3af7</md5>
+    <crc32>b30feed6</crc32>
+    <sha1>d8613c79225954009620cec68ae99972a1e6e44c</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000007.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141150</mtime>
+    <size>57142</size>
+    <md5>259e7cf841410951bb7b0409a3ee683e</md5>
+    <crc32>715e27d7</crc32>
+    <sha1>5bcca805414670f57d6c30cba9778d5bfc7aedfb</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000008.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141156</mtime>
+    <size>60204</size>
+    <md5>24a4ce2d32dc4c369d140cdc46e73610</md5>
+    <crc32>f6d3df7b</crc32>
+    <sha1>b40073620a0340eca816fe2fb302d40e468287df</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000009.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141159</mtime>
+    <size>60204</size>
+    <md5>24a4ce2d32dc4c369d140cdc46e73610</md5>
+    <crc32>f6d3df7b</crc32>
+    <sha1>b40073620a0340eca816fe2fb302d40e468287df</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141165</mtime>
+    <size>57832</size>
+    <md5>42c812cc4f07542f7241e60cab098f1b</md5>
+    <crc32>29561474</crc32>
+    <sha1>d39f5b33bb28e630ced0490efaf6d4006463c610</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000011.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141170</mtime>
+    <size>59469</size>
+    <md5>3f90a9f0cce1880f19534246c745d880</md5>
+    <crc32>25120ba8</crc32>
+    <sha1>3576a6a87b98bee0907da95417a5ef6af442f9c1</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000012.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141175</mtime>
+    <size>60822</size>
+    <md5>8d01448609e821e7aeb1fbb14c0dd26f</md5>
+    <crc32>28cf5c46</crc32>
+    <sha1>42092741e45bc83fe3f46621eddc018a7b8d7804</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer.thumbs/Close to Your Heart. Zi Jiaer 1080p_000013.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Close to Your Heart. Zi Jiaer 1080p.mp4</original>
+    <mtime>1709141182</mtime>
+    <size>53760</size>
+    <md5>595a8630db8ef88b1a15d33d35050a2a</md5>
+    <crc32>8a2b3505</crc32>
+    <sha1>3540ae484599ac5cfc129308603dedd81fcfdf98</sha1>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer_archive.torrent" source="metadata">
+    <btih>1bea4dc0d66e19434ab25b983fc33ccdea47c8ef</btih>
+    <mtime>1735792632</mtime>
+    <size>4649</size>
+    <md5>8f8346af24e42ec5a23bba71592112ac</md5>
+    <crc32>54106af3</crc32>
+    <sha1>76341edc553fb17d100e7e8840e020c50d0810b6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b74246e77aa6a5656d43910a167e81c3</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer_meta.sqlite" source="original">
+    <mtime>1717073546</mtime>
+    <size>45056</size>
+    <md5>87d11d3f070152e33f767728f3a3ceef</md5>
+    <crc32>c9e0f496</crc32>
+    <sha1>5644335534e7ae3a36a7f07bb44f9a9a8a535e4a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="close-to-your-heart-zi-jiaer_meta.xml" source="original">
+    <mtime>1735792628</mtime>
+    <size>5563</size>
+    <md5>0de3e3acbf2759d640e50972baae81a1</md5>
+    <crc32>272d673b</crc32>
+    <sha1>c0ff818240795f06f398c61e067dae0f112498be</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
