@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Da Xi. Overjoyed. Xue Ci 1080p.mp4" source="original">
+    <mtime>1735369677</mtime>
+    <size>66751113</size>
+    <md5>8f3367a166e917035944352362be2240</md5>
+    <crc32>73cfa42d</crc32>
+    <sha1>8d731eef09587a7b1259b15b2b0c89757a8ade40</sha1>
+    <format>MPEG4</format>
+    <length>181.48</length>
+    <width>2356</width>
+    <height>1080</height>
+  </file>
+  <file name="Da Xi. Overjoyed. Xue Ci 960x600 BL60_itemimage.png" source="original">
+    <mtime>1735368984</mtime>
+    <size>1105604</size>
+    <md5>d235be613e1d343e8e54c2e38fdd5050</md5>
+    <crc32>8eb310c6</crc32>
+    <sha1>1a9029489ebc09616f98c3a774bf6ccc93942e4c</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Da Xi. Overjoyed. Xue Ci 960x600.png" source="original">
+    <mtime>1735369005</mtime>
+    <size>1097644</size>
+    <md5>123038c4070025cfbcf17d57abfb9ee7</md5>
+    <crc32>7c72636a</crc32>
+    <sha1>dd1e1d70310071952211dfa0bd4e229a2c92ed0e</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Da Xi. Overjoyed. Xue Ci 960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Da Xi. Overjoyed. Xue Ci 960x600.png</original>
+    <mtime>1735369756</mtime>
+    <size>8860</size>
+    <md5>4ef7ca0095d645bda807a531948cc598</md5>
+    <crc32>2d691830</crc32>
+    <sha1>5512471e9cb0899ec0bcc25f941bc5123829afc1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1735369042</mtime>
+    <size>18423</size>
+    <md5>cfd4819366ddc1791ef275ee431e391d</md5>
+    <crc32>31e17543</crc32>
+    <sha1>9b77ca4f7f6207196b4f1176f63faceb25975b1a</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="da-xi-xue-ci.thumbs/Da Xi. Overjoyed. Xue Ci 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Da Xi. Overjoyed. Xue Ci 1080p.mp4</original>
+    <mtime>1735369714</mtime>
+    <size>37003</size>
+    <md5>39b391d6b339cf6f48620128bb12ce4a</md5>
+    <crc32>26dcdcca</crc32>
+    <sha1>0231d98959916c65b28c14ee8a238bdd02bdd9ae</sha1>
+  </file>
+  <file name="da-xi-xue-ci.thumbs/Da Xi. Overjoyed. Xue Ci 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Da Xi. Overjoyed. Xue Ci 1080p.mp4</original>
+    <mtime>1735369718</mtime>
+    <size>83434</size>
+    <md5>c0580cf072dfff4545618932a2cb312d</md5>
+    <crc32>979776e2</crc32>
+    <sha1>3073e4151090f2c63de047ab4a2c0c5f47c94e3d</sha1>
+  </file>
+  <file name="da-xi-xue-ci.thumbs/Da Xi. Overjoyed. Xue Ci 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Da Xi. Overjoyed. Xue Ci 1080p.mp4</original>
+    <mtime>1735369722</mtime>
+    <size>85259</size>
+    <md5>82e070adbc09f87c5e44e93f74033146</md5>
+    <crc32>4de0249b</crc32>
+    <sha1>5ed9f077d5890c5b0fb413664f5601a7c55f5452</sha1>
+  </file>
+  <file name="da-xi-xue-ci.thumbs/Da Xi. Overjoyed. Xue Ci 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Da Xi. Overjoyed. Xue Ci 1080p.mp4</original>
+    <mtime>1735369727</mtime>
+    <size>80409</size>
+    <md5>afd0a3edaa2a4e1aa0e2194a904a6848</md5>
+    <crc32>dd5c03da</crc32>
+    <sha1>062aa4a0c648292e220343b7228d69122b8dd1b0</sha1>
+  </file>
+  <file name="da-xi-xue-ci.thumbs/Da Xi. Overjoyed. Xue Ci 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Da Xi. Overjoyed. Xue Ci 1080p.mp4</original>
+    <mtime>1735369731</mtime>
+    <size>65791</size>
+    <md5>71d93e824f8fa9fa72c05c6aad36ba4b</md5>
+    <crc32>d24fbf03</crc32>
+    <sha1>eeb16438b60ebbe12f594a6b3790606000268d61</sha1>
+  </file>
+  <file name="da-xi-xue-ci.thumbs/Da Xi. Overjoyed. Xue Ci 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Da Xi. Overjoyed. Xue Ci 1080p.mp4</original>
+    <mtime>1735369735</mtime>
+    <size>67879</size>
+    <md5>900f49ac84e038d9fb45c767936c5077</md5>
+    <crc32>7dcf7848</crc32>
+    <sha1>c95fc06843e568739bd9557958900dc367c5fabc</sha1>
+  </file>
+  <file name="da-xi-xue-ci_archive.torrent" source="metadata">
+    <btih>48bd981ea4d751a6872dfb45600e1919625c939d</btih>
+    <mtime>1735433287</mtime>
+    <size>5053</size>
+    <md5>496fdd1648acb7132bd4e9ba89b1ff1b</md5>
+    <crc32>c668ee24</crc32>
+    <sha1>4d4df146daedeb9e6e058300468a9786256fd3f7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="da-xi-xue-ci_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>83faa3b7ef2a147fc29f30e1d14436f8</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="da-xi-xue-ci_meta.sqlite" source="original">
+    <mtime>1735369682</mtime>
+    <size>45056</size>
+    <md5>a30feb64b56e9aa23b2b901f1764a489</md5>
+    <crc32>fe4014e9</crc32>
+    <sha1>0c08b9cd7de1404ef2cb2c43139639adfb6da43e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="da-xi-xue-ci_meta.xml" source="original">
+    <mtime>1735433286</mtime>
+    <size>3628</size>
+    <md5>38fdb3d37fa4c4c0801161746dc88c94</md5>
+    <crc32>57a35bbe</crc32>
+    <sha1>f970e68b2ba7d4b5a96457219b60dc942df6f67e</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

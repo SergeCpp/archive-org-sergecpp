@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Drop Pop Candy. Amayu 1276x660.jpg" source="original">
+    <mtime>1703098516</mtime>
+    <size>542237</size>
+    <md5>89878962c8fe48db7aa67f2d37613f8f</md5>
+    <crc32>6120fb65</crc32>
+    <sha1>160eb8d0f659af28f16f6001e98a6d2aec954ecc</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Drop Pop Candy. Amayu 1276x660_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Drop Pop Candy. Amayu 1276x660.jpg</original>
+    <mtime>1703098839</mtime>
+    <size>8205</size>
+    <md5>cac21154ed16f0102f2962f57a8cc49d</md5>
+    <crc32>445a5a32</crc32>
+    <sha1>78fadff0ec2ae73300bd7922ad1ff9412e3df0fb</sha1>
+  </file>
+  <file name="Drop Pop Candy. Amayu 880x550 Clone.png" source="original">
+    <mtime>1717129874</mtime>
+    <size>1020890</size>
+    <md5>836cd97e5d7d9596713e2617a6a00a74</md5>
+    <crc32>7096957e</crc32>
+    <sha1>b345e222de199e8c7e74114f530d2ee857a832d3</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Drop Pop Candy. Amayu 880x550 Clone_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Drop Pop Candy. Amayu 880x550 Clone.png</original>
+    <mtime>1717133541</mtime>
+    <size>8590</size>
+    <md5>0e4d07fe42733010356e2a847cc758f2</md5>
+    <crc32>88ee9d70</crc32>
+    <sha1>9c0ac63a87075ad75ef05800a2de87f85d1ab9e9</sha1>
+  </file>
+  <file name="Drop Pop Candy. Amayu 880x550.png" source="original">
+    <mtime>1717129881</mtime>
+    <size>1021779</size>
+    <md5>c017ca76bb4b13761648e02bf814c260</md5>
+    <crc32>b076fd4a</crc32>
+    <sha1>8f64127b39b48885419f15cca4360b80d36a9de5</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Drop Pop Candy. Amayu 880x550_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Drop Pop Candy. Amayu 880x550.png</original>
+    <mtime>1717133545</mtime>
+    <size>8593</size>
+    <md5>d1dab1ced19c759ddcc189fae1eb4ed7</md5>
+    <crc32>35bc629c</crc32>
+    <sha1>5b5f1d30363ddb233164e39d46083ebde0d29b85</sha1>
+  </file>
+  <file name="Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4" source="original">
+    <mtime>1703098494</mtime>
+    <size>54379440</size>
+    <md5>08013a235f26e4d1b2ef961eddbd901c</md5>
+    <crc32>0be03b8e</crc32>
+    <sha1>e94b5da2a729b5bc2283210759fffeb6d3787f6e</sha1>
+    <format>MPEG4</format>
+    <length>235.12</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132393</mtime>
+    <size>119869563</size>
+    <md5>589b99a83c4c94fc1b00e8c3061ba114</md5>
+    <crc32>4ef8a159</crc32>
+    <sha1>5b943002ca97f1f8527974b9a4ff9c5b773fe4fc</sha1>
+    <length>235.3</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4" source="original">
+    <mtime>1703132080</mtime>
+    <size>119869563</size>
+    <md5>58add740cc006037d0f8c0e89f00b04d</md5>
+    <crc32>5070270c</crc32>
+    <sha1>54612e8d98704d9963a224219ecfad55ec5357c3</sha1>
+    <format>MPEG4</format>
+    <length>235.3</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv" source="original">
+    <mtime>1703133009</mtime>
+    <size>41784160</size>
+    <md5>8d6e9bca8baf30b55c6d73165c8e01bf</md5>
+    <crc32>0ef58565</crc32>
+    <sha1>588239eb0518ac2148a75abc8c872189a616cb03</sha1>
+    <format>Flash Video</format>
+    <length>234.04</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703134166</mtime>
+    <size>24128862</size>
+    <md5>abd6565208a31c34334e1ae56107f38a</md5>
+    <crc32>e6f77525</crc32>
+    <sha1>260a2d7005d454929273544c06d8ad0eedbde796</sha1>
+    <length>234.03</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4" source="original">
+    <mtime>1703133194</mtime>
+    <size>42563905</size>
+    <md5>3f0089b9902a6dad9cf3326706bf9f9a</md5>
+    <crc32>c3880377</crc32>
+    <sha1>e394dd17621402203bef30ef30ff7050c3877704</sha1>
+    <format>MPEG4</format>
+    <length>234.41</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717134441</mtime>
+    <size>15230</size>
+    <md5>98ebb795e5f18304c61e97690f902acf</md5>
+    <crc32>f5e6f1b4</crc32>
+    <sha1>1eb0bc86ba22d42cc7df958ba6f68d6bb241b676</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098779</mtime>
+    <size>7840</size>
+    <md5>aca02776b91a634fce90c43609a052fc</md5>
+    <crc32>6dfe5477</crc32>
+    <sha1>8d90e55d3e47a0ac45d92f9f62fe0deca197c69c</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098786</mtime>
+    <size>105843</size>
+    <md5>3b33d22da0b3468cea7c995cefeddaf4</md5>
+    <crc32>bb5b3686</crc32>
+    <sha1>67bee5307034d9bdfacdf246433b545d881d9214</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098792</mtime>
+    <size>103377</size>
+    <md5>2bb653aabb50a1619c325004859f78fb</md5>
+    <crc32>4cad0d92</crc32>
+    <sha1>d4877b765fdb7f079bb9c4e0e1b095198d335e66</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098798</mtime>
+    <size>78602</size>
+    <md5>c9a61009aae46d5b1c095ac049fe7b1c</md5>
+    <crc32>52f4d406</crc32>
+    <sha1>e375b65ee7b33142e7bfabea7ea062fcee345e4e</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098803</mtime>
+    <size>97170</size>
+    <md5>ec8529de3491fb22df8afb21ed0b3e02</md5>
+    <crc32>d418a8cb</crc32>
+    <sha1>f71c18892fe443a953f8e9c58bb6d1e919e093b8</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000177.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098809</mtime>
+    <size>94948</size>
+    <md5>b3dfaff40f3300eb98d5235db750f9a5</md5>
+    <crc32>8ca5f089</crc32>
+    <sha1>25f4dc83a1ea8d22c56e73c11165220895d19472</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000215.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098817</mtime>
+    <size>102720</size>
+    <md5>e800b504c3c2e13de18f598bf9261234</md5>
+    <crc32>a26e3482</crc32>
+    <sha1>56d14abc9c7b90ff5fd39581e46ef11b4bbe8314</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps_000225.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. Bilibili 1080p 24fps.mp4</original>
+    <mtime>1703098821</mtime>
+    <size>82734</size>
+    <md5>b5de3e1a19f9c1a0c4d2722901d7e89a</md5>
+    <crc32>a7c31267</crc32>
+    <sha1>d79895f4b0ac0b18a063f9026b53f54978b5b045</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132244</mtime>
+    <size>44290</size>
+    <md5>417f82a2d49f010dca12d90f37b88145</md5>
+    <crc32>c0a0a8f6</crc32>
+    <sha1>1034d8b61816f11ef345a8d1d0e364510d44127e</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132260</mtime>
+    <size>110884</size>
+    <md5>d848e7ed30b3c6f77a91601ad3e9b204</md5>
+    <crc32>71a209b0</crc32>
+    <sha1>15b380b3ed1093783fd714f99418f763936c494d</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132277</mtime>
+    <size>85075</size>
+    <md5>34d01dbe8e3e07db321fae4bc404d640</md5>
+    <crc32>814f688a</crc32>
+    <sha1>b360f5a12b1d9524316722c0553efbbabcddb55f</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000119.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132293</mtime>
+    <size>106086</size>
+    <md5>df143c32d8db9d15d12e80ed12637658</md5>
+    <crc32>8bb90864</crc32>
+    <sha1>e1ea0302d8bca4abddc13be88bd63cfe89391153</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132308</mtime>
+    <size>74152</size>
+    <md5>3af58668bd606bd074c540733c6dcb51</md5>
+    <crc32>eabf1aa0</crc32>
+    <sha1>53040fba51b07c8ebed80b1512480c29ff00dc18</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132325</mtime>
+    <size>97454</size>
+    <md5>5cd9673d1573770597e0b0336154f998</md5>
+    <crc32>6d6e2cb3</crc32>
+    <sha1>edbbfc903d52eb1c575e73eb0a422c23d0364558</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132340</mtime>
+    <size>110221</size>
+    <md5>d998d163738588c26aef2bf322925239</md5>
+    <crc32>7d054837</crc32>
+    <sha1>eab2a5289b4176657e80b9da858a13a9c9ba3e9f</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 1 Walk MV. YouTube 1080p 30fps.mp4</original>
+    <mtime>1703132353</mtime>
+    <size>93215</size>
+    <md5>69fb8319dc353f3716348110ab05cc80</md5>
+    <crc32>aff584fe</crc32>
+    <sha1>eca24f3304e6efe9fccd49afc9091c5f6e5e0551</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133319</mtime>
+    <size>53510</size>
+    <md5>0c4e414f1d403e024bda0c9090abedc8</md5>
+    <crc32>25a77f14</crc32>
+    <sha1>430e02888efa32088f2640cac2a1f5e4adf529bc</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133332</mtime>
+    <size>98306</size>
+    <md5>490ec07dc5c2a380b9e63180cf226c34</md5>
+    <crc32>45a8495b</crc32>
+    <sha1>2447e980ac57d9190b8b0e6ebed70ac025b21dea</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133345</mtime>
+    <size>74905</size>
+    <md5>8a8c153cd5b00d34f76339fc09caa6b2</md5>
+    <crc32>71c3ff3b</crc32>
+    <sha1>855b7a71526a1d5edf9e936a62c5c76d31f023a3</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133359</mtime>
+    <size>96216</size>
+    <md5>60c5aaf7b0d7a54cf9774994784500a2</md5>
+    <crc32>01116635</crc32>
+    <sha1>7609361e332e857c7f22faafb4142f385dad0893</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133372</mtime>
+    <size>96935</size>
+    <md5>d3a51277df49159a0421b4f16be83e6b</md5>
+    <crc32>592ed9ab</crc32>
+    <sha1>29e93ce45fc2c2c2cd7d327fca67e3941d5143b4</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133385</mtime>
+    <size>97120</size>
+    <md5>9a94e7f91cedf912082fefe89a60334e</md5>
+    <crc32>9aceaeaf</crc32>
+    <sha1>ce04dabb9bbc58f8ff0b91ffd3f5c3a664bbec8f</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133399</mtime>
+    <size>97866</size>
+    <md5>16fc8a0457a9e53e0c787d4bfd26adbe</md5>
+    <crc32>0bc8ab40</crc32>
+    <sha1>a2d89989e7489750713b9fd6e05387b54c96a263</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps_000230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. Bilibili 1080p 30fps.flv</original>
+    <mtime>1703133410</mtime>
+    <size>98077</size>
+    <md5>5a0b17db34594f3e7ec7102f4d6748c9</md5>
+    <crc32>286fbd8a</crc32>
+    <sha1>93a8a3dc24513800dd378ac573c415a2ee90bdd6</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133436</mtime>
+    <size>39791</size>
+    <md5>71cdcfffae168bbdf8fc357a1a4c58b7</md5>
+    <crc32>f0161d43</crc32>
+    <sha1>deea737d1bbd16262b9c7464d62c89f1c20bab22</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133442</mtime>
+    <size>70726</size>
+    <md5>3792db4afec35fa76566ebe8cdd79092</md5>
+    <crc32>f13eaa5b</crc32>
+    <sha1>df4f4e291448f81d45d3fc137bb6751a9b0c4274</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133449</mtime>
+    <size>54932</size>
+    <md5>91304b52701379bf1e06dfc84cb9b4f6</md5>
+    <crc32>d5fbd9ba</crc32>
+    <sha1>8f4546780dd24e26b690810fee3a2eb62facc5d6</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133455</mtime>
+    <size>70120</size>
+    <md5>95e1dd1ac0c4085cd9a27dfa5755b2af</md5>
+    <crc32>9bf976ff</crc32>
+    <sha1>6d4df22988c51f754a71b3993532802c109cd8ea</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133462</mtime>
+    <size>69762</size>
+    <md5>4a9f2d485bea7c4ccd110fa78983be23</md5>
+    <crc32>4dfc5d05</crc32>
+    <sha1>505c6def3e0afd077427413bdf4785ab0b001765</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000181.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133469</mtime>
+    <size>69931</size>
+    <md5>c47cb45a4dc59d79e74b0a722c75e500</md5>
+    <crc32>0f7c8081</crc32>
+    <sha1>e8b9c73a17681ad774b6fa7e4e3f9ce2336970f7</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133474</mtime>
+    <size>71289</size>
+    <md5>14b515b40b8cafd76b40ef191d6e1e17</md5>
+    <crc32>a557021c</crc32>
+    <sha1>3ba5e7c2b575425fae1914702608c4490b41de12</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu.thumbs/Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps_000229.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Drop Pop Candy. Amayu. 2 Dance MV. Mirror. YouTube 720p 30fps.mp4</original>
+    <mtime>1703133479</mtime>
+    <size>71648</size>
+    <md5>e4470f43ffb72c03855e41985d70ee17</md5>
+    <crc32>8f43488c</crc32>
+    <sha1>40a2bed095e977e0a1b28b5b6927858082fa77c9</sha1>
+  </file>
+  <file name="drop-pop-candy-amayu_archive.torrent" source="metadata">
+    <btih>8e10a84dfcabfc278f7b2d1bfec17a09c9958023</btih>
+    <mtime>1742130361</mtime>
+    <size>19637</size>
+    <md5>c4b25cd5668935a6119a0a3c1e5e30c1</md5>
+    <crc32>3f85875d</crc32>
+    <sha1>e267402a1ea621bdde7130d8aa94dfed0b858c97</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="drop-pop-candy-amayu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d410d0d04bf8caab06b10d082d2cde62</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="drop-pop-candy-amayu_meta.sqlite" source="original">
+    <mtime>1717129883</mtime>
+    <size>40960</size>
+    <md5>35b2c67f1e6db28c2391b14b2e740349</md5>
+    <crc32>31a08c3f</crc32>
+    <sha1>e40f9179e5cc755d593218367ff86608455bdaa8</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="drop-pop-candy-amayu_meta.xml" source="original">
+    <mtime>1742130353</mtime>
+    <size>3412</size>
+    <md5>df1f30ee696be0c7c9fa011f00362b30</md5>
+    <crc32>b6c80f45</crc32>
+    <sha1>ec5d61e2f3af9e28a9db9ac5020ae510c002596c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

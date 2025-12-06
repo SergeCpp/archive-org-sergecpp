@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4" source="original">
+    <mtime>1709375267</mtime>
+    <size>81710271</size>
+    <md5>6f82d07030f9c0b9c2912bc93c5795e8</md5>
+    <crc32>c6aec7a7</crc32>
+    <sha1>672d1df63b08f8693570edc08777de2a99901f9a</sha1>
+    <format>MPEG4</format>
+    <length>221.42</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Dududu P1 Liked by You. Xiao Wu 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709373011</mtime>
+    <size>151485538</size>
+    <md5>668fcd50a640c2ce3f7df0a248235684</md5>
+    <crc32>733bc484</crc32>
+    <sha1>7f4469059c16c3537c8181bcaae6ff30c864207b</sha1>
+    <length>221.38</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4" source="original">
+    <mtime>1709372294</mtime>
+    <size>151485538</size>
+    <md5>ccc9c91d43846b4539e43ebe5c562049</md5>
+    <crc32>5bb39727</crc32>
+    <sha1>80b2c7657aee2bd4493452ef953b5eb60854cdee</sha1>
+    <format>MPEG4</format>
+    <length>221.38</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4" source="original">
+    <mtime>1709368506</mtime>
+    <size>79066856</size>
+    <md5>191abf5a15d32df2cdac1d8295b39565</md5>
+    <crc32>7558b84a</crc32>
+    <sha1>4b3ad59cc204aca3878481e523881fec6bced757</sha1>
+    <format>MPEG4</format>
+    <length>222</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Dududu. Xiao Wu 2112x1320.png" source="original">
+    <mtime>1717132575</mtime>
+    <size>3303845</size>
+    <md5>17aace31dd7dd5daa8a560591773e586</md5>
+    <crc32>ec72cebc</crc32>
+    <sha1>987c91dd5a83a02083963f193cdd72e99c9f75c2</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Dududu. Xiao Wu 2112x1320_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Dududu. Xiao Wu 2112x1320.png</original>
+    <mtime>1717137174</mtime>
+    <size>7516</size>
+    <md5>fb58576210ae13bfab79f3bd3560cae4</md5>
+    <crc32>f8299604</crc32>
+    <sha1>8a6280ebbfc6ba862b1892c706cc50da65a2a449</sha1>
+  </file>
+  <file name="Dududu. Xiao Wu 4239x2649.jpg" source="original">
+    <mtime>1709368525</mtime>
+    <size>882272</size>
+    <md5>203bbe71d468f0d607d925e485b4b53b</md5>
+    <crc32>794a6e2a</crc32>
+    <sha1>2a886ebc82db2491262ec287f0e4919ace873820</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Dududu. Xiao Wu 4239x2649_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Dududu. Xiao Wu 4239x2649.jpg</original>
+    <mtime>1709370040</mtime>
+    <size>7843</size>
+    <md5>7fac254be4110f21cade4d5ff2d4d3d7</md5>
+    <crc32>10481c88</crc32>
+    <sha1>2e2b65f5831372ade54c494db147b1dbcf1128c5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717138408</mtime>
+    <size>12268</size>
+    <md5>ea8402cdb6fd091880034f475bf0b887</md5>
+    <crc32>68c036f0</crc32>
+    <sha1>3bf1269e7e8172f517eec6addb20ca9a476649c1</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375714</mtime>
+    <size>62650</size>
+    <md5>f9a67b146515ae37dfca7c4313e7237f</md5>
+    <crc32>98d3cadf</crc32>
+    <sha1>090fe28691c2b9e9fa1ef67c215cd04daa95b631</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375719</mtime>
+    <size>34824</size>
+    <md5>3f97d2782bf6847ccf9c40788f111133</md5>
+    <crc32>f87f5909</crc32>
+    <sha1>762f75497210e358697571b1ee7969376e2d7812</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375724</mtime>
+    <size>99424</size>
+    <md5>cc1a0170b420f138bf4a52d5e552973a</md5>
+    <crc32>b54a1187</crc32>
+    <sha1>2215a841c69d89d0efa4c278c504deab925666b1</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375729</mtime>
+    <size>99723</size>
+    <md5>26011d7f5e2af65b1ae3ab9f7014f852</md5>
+    <crc32>747f0ab9</crc32>
+    <sha1>0cc20f26c134db80048f12e21b07fa45aa398ef5</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375734</mtime>
+    <size>81572</size>
+    <md5>52a55494d0bcb4e7bfe21cfd8b60a93c</md5>
+    <crc32>574e5c60</crc32>
+    <sha1>952b5a93be323a90251311d67a24a07dc5ce72a7</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375740</mtime>
+    <size>97153</size>
+    <md5>36fe95c06129fa5b58938c665b4c057b</md5>
+    <crc32>ad3436f9</crc32>
+    <sha1>e087e39569e0fd7175241553d2375795b29a99e4</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375745</mtime>
+    <size>99051</size>
+    <md5>5938e2206f8b1b5bb57cb7968c2edaa0</md5>
+    <crc32>72ee5a0b</crc32>
+    <sha1>b4d1e515045480488bea9d0414055ac0910ea616</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 30fps_000220.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709375747</mtime>
+    <size>97134</size>
+    <md5>d8d96810dbe7c1783f08e29a157fe7d8</md5>
+    <crc32>9516c15f</crc32>
+    <sha1>0056f8978c4eea0399f8bf781eb105327c2cf74e</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372591</mtime>
+    <size>58188</size>
+    <md5>0f0b1869f80b15126cf8c1720f4c3304</md5>
+    <crc32>69ae95cc</crc32>
+    <sha1>134f3729ab922300c056e8e6e6c314cf2ea2f1ab</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372625</mtime>
+    <size>44189</size>
+    <md5>289f728983c0f0607b52ba7bd8775084</md5>
+    <crc32>39eb3b0e</crc32>
+    <sha1>874ff69110cf67934493f03b11076f9bbbf306ee</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372654</mtime>
+    <size>90771</size>
+    <md5>1a18556cee085c2d7bd1421e6a8a7123</md5>
+    <crc32>a487ab93</crc32>
+    <sha1>e5d54f3454b0790b3ec93bd1067973807ba99f38</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372683</mtime>
+    <size>90087</size>
+    <md5>f5ff019c24cbb44185b4ce9a61158545</md5>
+    <crc32>6c163043</crc32>
+    <sha1>70ad6dd065da2e7413b9df57b71fa8e8ad96a6d6</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372706</mtime>
+    <size>86857</size>
+    <md5>faaa5629fc251559dc7bbcce8d57b024</md5>
+    <crc32>c4751557</crc32>
+    <sha1>4c9568c79b1bff704e9372a11de3c8821640de35</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000177.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372727</mtime>
+    <size>83602</size>
+    <md5>5d22e23940299a9b730530a7b974df51</md5>
+    <crc32>fbd02b35</crc32>
+    <sha1>a685ca8194dd3d215de24f50b2c2be03c17320ee</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000207.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372750</mtime>
+    <size>89102</size>
+    <md5>b4c39a1c85aec1ca1c436aee44c7584b</md5>
+    <crc32>77160f5e</crc32>
+    <sha1>2685c501834862b5b01b635d721ba8312cc58951</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P1 Liked by You. Xiao Wu 1080p 60fps_000217.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P1 Liked by You. Xiao Wu 1080p 60fps.mp4</original>
+    <mtime>1709372761</mtime>
+    <size>88523</size>
+    <md5>aaf3095c6da44fa463cdf120e00866e3</md5>
+    <crc32>93056ec5</crc32>
+    <sha1>c3f2b81052e8a188a38d18feb675c8124dfa7140</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369165</mtime>
+    <size>61075</size>
+    <md5>e61894ce0c6f8bb49a2c8ce4472b3db7</md5>
+    <crc32>2b47a37d</crc32>
+    <sha1>6e9ee5e8709098e810dc13a016dc17f9c888437c</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369171</mtime>
+    <size>60380</size>
+    <md5>abb9be5ce65dc578cc326934807d7b50</md5>
+    <crc32>4c57a0c4</crc32>
+    <sha1>93c39f73680ece4ff5a07f4f0137e986699313d5</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369175</mtime>
+    <size>95919</size>
+    <md5>508ff75a8b4e356d7b7895f0d4ff800f</md5>
+    <crc32>c3b8426c</crc32>
+    <sha1>77b1e294783f68366ab89166c715a82383917af9</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369181</mtime>
+    <size>95942</size>
+    <md5>3d3d295413aed0c907ccd84c0fc6873e</md5>
+    <crc32>9651d956</crc32>
+    <sha1>72b9a1f65dc9e2e4c6be36df307c6b4f601fab9d</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369186</mtime>
+    <size>96526</size>
+    <md5>aa8d2648ba67dbd8a8a954529774b4a4</md5>
+    <crc32>8d8a4c3e</crc32>
+    <sha1>782c434c125a7409b77474c3e37116f15bbc81d9</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369191</mtime>
+    <size>94799</size>
+    <md5>2f08b3c6d21b2fc237cd3a8b00bb10e4</md5>
+    <crc32>2ad568e1</crc32>
+    <sha1>d3238f36b5d9b80568c34fc260efcc4bb0cceba3</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369196</mtime>
+    <size>95599</size>
+    <md5>40bd913879ba514a1de80bacf1e27599</md5>
+    <crc32>8f3ccb42</crc32>
+    <sha1>11dc380c7231da72d062a99ad888667ab0df831c</sha1>
+  </file>
+  <file name="dududu-xiao-wu.thumbs/Dududu P2 Liked by Me. Xiao Wu 1080p 30fps_000220.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Dududu P2 Liked by Me. Xiao Wu 1080p 30fps.mp4</original>
+    <mtime>1709369198</mtime>
+    <size>94582</size>
+    <md5>c310a4e2d82d82ad41b9a6706133071e</md5>
+    <crc32>eec1f02d</crc32>
+    <sha1>aff75a5198bb2df3bf340b9bfcc82c1c348874f4</sha1>
+  </file>
+  <file name="dududu-xiao-wu_archive.torrent" source="metadata">
+    <btih>7c3e07ca52d38655b89682f86820fda3907829af</btih>
+    <mtime>1742283066</mtime>
+    <size>21074</size>
+    <md5>de9d358ea1e6e5eb7fb04663878e0afd</md5>
+    <crc32>a79ce2a5</crc32>
+    <sha1>41db6ea0262a09e0f7ea9ea1357dc3df0b92d9a7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="dududu-xiao-wu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>cfd65c31d27fd6b1caf0898bb37f2730</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="dududu-xiao-wu_meta.sqlite" source="original">
+    <mtime>1717132581</mtime>
+    <size>36864</size>
+    <md5>d9b338536b14a022f94c48861afbc953</md5>
+    <crc32>e106b7ce</crc32>
+    <sha1>3dd3668ec2f3c182489f03ee59e81d7bdb88a2d5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="dududu-xiao-wu_meta.xml" source="original">
+    <mtime>1742283062</mtime>
+    <size>2970</size>
+    <md5>e39ae4887edebfaedb360d019a6bb2e6</md5>
+    <crc32>c9de9342</crc32>
+    <sha1>cf08dd6887f242fa7948047b557ef543fe60b715</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
