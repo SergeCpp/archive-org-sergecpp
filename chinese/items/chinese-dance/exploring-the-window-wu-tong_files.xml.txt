@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Exploring the Window. Wu Tong 1080p.mp4" source="original">
+    <mtime>1674140149</mtime>
+    <size>43418256</size>
+    <md5>14734a55e0f5c766248ff7cbbc7fbb03</md5>
+    <crc32>5e31ee09</crc32>
+    <sha1>116e7be952e11fc7dd549dae87efc8b6dc791e20</sha1>
+    <format>MPEG4</format>
+    <length>122.92</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Exploring the Window. Wu Tong 2048x1280 Lv 15.png" source="original">
+    <mtime>1717211554</mtime>
+    <size>3134069</size>
+    <md5>268db40fad4cf28ff34a01f8b1960757</md5>
+    <crc32>2f3e876d</crc32>
+    <sha1>e3425d6f45233c2ecfed5b2063a2ab6153f60725</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Exploring the Window. Wu Tong 2048x1280 Lv 15_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Exploring the Window. Wu Tong 2048x1280 Lv 15.png</original>
+    <mtime>1717212090</mtime>
+    <size>7521</size>
+    <md5>c807deaae042187b3b9f16cbaacdcf2b</md5>
+    <crc32>5716ba7e</crc32>
+    <sha1>17de40513fd27e9e06d14fb8377a6f04a66e3880</sha1>
+  </file>
+  <file name="Exploring the Window. Wu Tong 4096x2560.jpg" source="original">
+    <mtime>1674140168</mtime>
+    <size>719148</size>
+    <md5>22778393c9c09e8d58064fabb311ab8a</md5>
+    <crc32>226dfc6c</crc32>
+    <sha1>65f4e84f402d4cc9922359c8ec9537b0ea62ff26</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Exploring the Window. Wu Tong 4096x2560_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Exploring the Window. Wu Tong 4096x2560.jpg</original>
+    <mtime>1674140482</mtime>
+    <size>8240</size>
+    <md5>83a5aef6fbdc90444dec65a151c57fa8</md5>
+    <crc32>82098b78</crc32>
+    <sha1>dbdab603cfbcb794aacb94ae1450c4300bdcee32</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717212568</mtime>
+    <size>11721</size>
+    <md5>b5cb5eca8ae283e89f6134426e306f59</md5>
+    <crc32>53e1250e</crc32>
+    <sha1>de6e8860daa8dac40ce9b625dccecc61c1a4bb12</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="exploring-the-window-wu-tong.thumbs/Exploring the Window. Wu Tong 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Exploring the Window. Wu Tong 1080p.mp4</original>
+    <mtime>1674140394</mtime>
+    <size>48757</size>
+    <md5>95ed931d24705364031194e97a2b552f</md5>
+    <crc32>de92f94a</crc32>
+    <sha1>1a0f641ae39bf502c0152ea20057a04cded815c4</sha1>
+  </file>
+  <file name="exploring-the-window-wu-tong.thumbs/Exploring the Window. Wu Tong 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Exploring the Window. Wu Tong 1080p.mp4</original>
+    <mtime>1674140398</mtime>
+    <size>75104</size>
+    <md5>825eb2d4a8b736f52fffe5249bca678c</md5>
+    <crc32>40f3a520</crc32>
+    <sha1>34fd434cfd137a1f0ca32b101946319f5d2b2fef</sha1>
+  </file>
+  <file name="exploring-the-window-wu-tong.thumbs/Exploring the Window. Wu Tong 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Exploring the Window. Wu Tong 1080p.mp4</original>
+    <mtime>1674140401</mtime>
+    <size>75040</size>
+    <md5>5f2014198caaa526d01806fdf9a0c59e</md5>
+    <crc32>0b95e790</crc32>
+    <sha1>bb322dfd5b6128b7a67cf016c3052faa7ce93ab3</sha1>
+  </file>
+  <file name="exploring-the-window-wu-tong.thumbs/Exploring the Window. Wu Tong 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Exploring the Window. Wu Tong 1080p.mp4</original>
+    <mtime>1674140405</mtime>
+    <size>48727</size>
+    <md5>222b644ac18596dc73bb9211465ef39f</md5>
+    <crc32>2cfdcaa5</crc32>
+    <sha1>ee4f2531398edea294ab9c9bff98181b967b48cb</sha1>
+  </file>
+  <file name="exploring-the-window-wu-tong_archive.torrent" source="metadata">
+    <btih>7d55cf7e179ae60aac5c7a4ed29080836f369a3b</btih>
+    <mtime>1717212569</mtime>
+    <size>4603</size>
+    <md5>ed3817b211c2c2a5e1bbe11e56216851</md5>
+    <crc32>eb5475bb</crc32>
+    <sha1>7d99f18122a4c06aeff5f34f7eb4e20bcf27ef8a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="exploring-the-window-wu-tong_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e3dafb9da6df32208d2f99e9897e1eab</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="exploring-the-window-wu-tong_meta.sqlite" source="original">
+    <mtime>1717211566</mtime>
+    <size>32768</size>
+    <md5>65a89912c22e6f571de97f16528f33b7</md5>
+    <crc32>053a7531</crc32>
+    <sha1>8367d4f38565d7b4ec4ed14bc3f63a8900fc9827</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="exploring-the-window-wu-tong_meta.xml" source="original">
+    <mtime>1751443457</mtime>
+    <size>2430</size>
+    <md5>f1ede65b41744303ea4ef2a3ca2d8a71</md5>
+    <crc32>4da39c5c</crc32>
+    <sha1>20f47459923cd4fd4718ab13faad5a710801e388</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

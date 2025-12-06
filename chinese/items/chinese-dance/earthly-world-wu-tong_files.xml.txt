@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Earthly World. Wu Tong 1080p.mp4" source="original">
+    <mtime>1702314484</mtime>
+    <size>72124628</size>
+    <md5>e0f4fa8ee5af09b1f27f4b6c7e5e4d32</md5>
+    <crc32>cf3072e1</crc32>
+    <sha1>01b66779e32126f6d9b6b3652976dc11c2e1b892</sha1>
+    <format>MPEG4</format>
+    <length>178.24</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Earthly World. Wu Tong 1144x715.png" source="original">
+    <mtime>1717158667</mtime>
+    <size>1057380</size>
+    <md5>b7a679ca98b95e19343cb39d0416a350</md5>
+    <crc32>27c7dc00</crc32>
+    <sha1>87c415c4cfa7652787bb9d6ac769e1d7a46827a1</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Earthly World. Wu Tong 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Earthly World. Wu Tong 1144x715.png</original>
+    <mtime>1717160165</mtime>
+    <size>8305</size>
+    <md5>1ab3175b341cbf164dcb311bcbbbb5e7</md5>
+    <crc32>211b649f</crc32>
+    <sha1>7b451bf5b296164a5c8e6e503583cbe48004fa66</sha1>
+  </file>
+  <file name="Earthly World. Wu Tong 1146x716.jpg" source="original">
+    <mtime>1702314501</mtime>
+    <size>109296</size>
+    <md5>a465d053fb350fc47de4b4966311f775</md5>
+    <crc32>2982b0f8</crc32>
+    <sha1>d3f050d41c4896eb27de16ce477c97052253e500</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Earthly World. Wu Tong 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Earthly World. Wu Tong 1146x716.jpg</original>
+    <mtime>1702314963</mtime>
+    <size>8620</size>
+    <md5>6f2f962e4cd24ebf7901ff0dee6a27bc</md5>
+    <crc32>25a0dcf9</crc32>
+    <sha1>1e2b2a9f204c0f97792a5e8fee1798a00ea9da72</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717161287</mtime>
+    <size>13857</size>
+    <md5>00f41b4d4a898d572c64b896b68ea718</md5>
+    <crc32>19ebf31f</crc32>
+    <sha1>5e92b6835fe39c2da3bf83633c8ef84382d72009</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="earthly-world-wu-tong.thumbs/Earthly World. Wu Tong 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Earthly World. Wu Tong 1080p.mp4</original>
+    <mtime>1702314845</mtime>
+    <size>30489</size>
+    <md5>d756742b2ab71767585a5a73c72558b5</md5>
+    <crc32>45f364c3</crc32>
+    <sha1>67003dca1a206391449191907e7ae884bb865e92</sha1>
+  </file>
+  <file name="earthly-world-wu-tong.thumbs/Earthly World. Wu Tong 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Earthly World. Wu Tong 1080p.mp4</original>
+    <mtime>1702314856</mtime>
+    <size>39936</size>
+    <md5>ae8d624c835d5871521bdb94eaae7d7d</md5>
+    <crc32>54e774bd</crc32>
+    <sha1>932f424a70ad9e60d4b3d70825e2126a9e4cf311</sha1>
+  </file>
+  <file name="earthly-world-wu-tong.thumbs/Earthly World. Wu Tong 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Earthly World. Wu Tong 1080p.mp4</original>
+    <mtime>1702314866</mtime>
+    <size>59437</size>
+    <md5>52ed4e09eb633facb7a332f3e5b0bf9a</md5>
+    <crc32>aa8703ed</crc32>
+    <sha1>9d436e713aecaad01e2ffd3bef9b3c43bc6910a5</sha1>
+  </file>
+  <file name="earthly-world-wu-tong.thumbs/Earthly World. Wu Tong 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Earthly World. Wu Tong 1080p.mp4</original>
+    <mtime>1702314876</mtime>
+    <size>64602</size>
+    <md5>5de52a31ca7d87be5e8de87c98688dd6</md5>
+    <crc32>90724fd9</crc32>
+    <sha1>457c612cd12b5e825ae0ef827c2ab8b3c0375636</sha1>
+  </file>
+  <file name="earthly-world-wu-tong.thumbs/Earthly World. Wu Tong 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Earthly World. Wu Tong 1080p.mp4</original>
+    <mtime>1702314890</mtime>
+    <size>38088</size>
+    <md5>2537ee43496a44176b7b6176cfee4b25</md5>
+    <crc32>c104faa7</crc32>
+    <sha1>a4129f953f1e14a9bc239aa63aa30c68fcc60189</sha1>
+  </file>
+  <file name="earthly-world-wu-tong.thumbs/Earthly World. Wu Tong 1080p_000175.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Earthly World. Wu Tong 1080p.mp4</original>
+    <mtime>1702314900</mtime>
+    <size>68103</size>
+    <md5>cfdf82677fa14a0705ccbd2d234fc9f0</md5>
+    <crc32>d9ac3e27</crc32>
+    <sha1>3ed6afcc5b538d27ff5dad306995d394a6978f45</sha1>
+  </file>
+  <file name="earthly-world-wu-tong_archive.torrent" source="metadata">
+    <btih>996aca2bc80be38aada0b7f6d06d9eabea202218</btih>
+    <mtime>1717161288</mtime>
+    <size>5469</size>
+    <md5>b4a763b0fadb0473721ab792df313524</md5>
+    <crc32>36cdfeaa</crc32>
+    <sha1>fd4c21d72df446e7449788083a7ff20b37abd621</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="earthly-world-wu-tong_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>02a7ead47e53536ca63b39c19a2344e6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="earthly-world-wu-tong_meta.sqlite" source="original">
+    <mtime>1717158678</mtime>
+    <size>32768</size>
+    <md5>2300c0fd968534bca729a9932b9c4aa8</md5>
+    <crc32>24974342</crc32>
+    <sha1>7c3f3f94e0d2c9c4ef304c2e057d2ca6fd5670ac</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="earthly-world-wu-tong_meta.xml" source="original">
+    <mtime>1717161278</mtime>
+    <size>2918</size>
+    <md5>e9f50f02e6d2636713bf386966d50c72</md5>
+    <crc32>f2dec120</crc32>
+    <sha1>9522d24a715dc400275c4f2c974953f8c2a668fd</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

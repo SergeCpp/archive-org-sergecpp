@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Elegant Moshang. Yaqie 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849581</mtime>
+    <size>108492210</size>
+    <md5>cab748dcc2097d5979420c1617909278</md5>
+    <crc32>5154bb84</crc32>
+    <sha1>2c5545fa0f7bc7239098eba0b0f37fe88ac6da3a</sha1>
+    <length>346.32</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Elegant Moshang. Yaqie 1080p.mp4" source="original">
+    <mtime>1694849169</mtime>
+    <size>108492210</size>
+    <md5>9ed1a4840d4a143980866c049e7edbe9</md5>
+    <crc32>8cd2c7d9</crc32>
+    <sha1>e0d018ef37470458230b8dcdaa442ba7a2226686</sha1>
+    <format>MPEG4</format>
+    <length>346.32</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Elegant Moshang. Yaqie 1272x795 Lv R50-250 G40-240 B30-230.png" source="original">
+    <mtime>1717159829</mtime>
+    <size>1595572</size>
+    <md5>bd8aa4a4680229b6258569ccac495e6b</md5>
+    <crc32>ee357413</crc32>
+    <sha1>e867ce8c9d7051cab7da6145afe2e3bd022177cb</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Elegant Moshang. Yaqie 1272x795 Lv R50-250 G40-240 B30-230_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Elegant Moshang. Yaqie 1272x795 Lv R50-250 G40-240 B30-230.png</original>
+    <mtime>1717160453</mtime>
+    <size>8677</size>
+    <md5>f92358bf4e893c29842e7366ce9661ce</md5>
+    <crc32>518e002f</crc32>
+    <sha1>57c5c5923dae49884790948e58e1ced7f60cbf40</sha1>
+  </file>
+  <file name="Elegant Moshang. Yaqie 1272x795.png" source="original">
+    <mtime>1717159839</mtime>
+    <size>1376957</size>
+    <md5>38c13f295329b85eed2d007e81d5d51a</md5>
+    <crc32>3f6a8d8f</crc32>
+    <sha1>6409d904dce18e1fe3b1535c844de5e53b243ed4</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Elegant Moshang. Yaqie 1272x795_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Elegant Moshang. Yaqie 1272x795.png</original>
+    <mtime>1717160457</mtime>
+    <size>7991</size>
+    <md5>5a2f3f0028c43fc13fe8ffddf3522d0d</md5>
+    <crc32>515a00b9</crc32>
+    <sha1>4283ae0b117aa108c14e2c22077bf3954292951f</sha1>
+  </file>
+  <file name="Elegant Moshang. Yaqie 1275x797.jpg" source="original">
+    <mtime>1694849185</mtime>
+    <size>138007</size>
+    <md5>10e80dc6f3678d47e2de525645e73c21</md5>
+    <crc32>97b6b78f</crc32>
+    <sha1>f54c988c183b51339634b8ac3b631a2ea2765547</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Elegant Moshang. Yaqie 1275x797_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Elegant Moshang. Yaqie 1275x797.jpg</original>
+    <mtime>1694849600</mtime>
+    <size>8303</size>
+    <md5>1777d73cab23f845b6cfd2414d6ce5fa</md5>
+    <crc32>5e4af458</crc32>
+    <sha1>e19ce88121894870aea3d6ca60f9d1873f8a86d7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717160875</mtime>
+    <size>15530</size>
+    <md5>d271d94fe905a04e8ba432ccc6baa3a5</md5>
+    <crc32>f8436565</crc32>
+    <sha1>69f1d58f640f7352e6a6ef1ac9747c7b7e247cb6</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849446</mtime>
+    <size>34216</size>
+    <md5>603dd2f4b3072e59f21dd1d0d71d06a9</md5>
+    <crc32>b4405a63</crc32>
+    <sha1>ea23345220f815a677c35ab0f7735a3cf6c23d37</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849454</mtime>
+    <size>74886</size>
+    <md5>45227f55d108dbf5106f1a628e904831</md5>
+    <crc32>4d2f364c</crc32>
+    <sha1>110e9a7b396dec026e1786ec4165c36bbdf7cb70</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849461</mtime>
+    <size>57403</size>
+    <md5>fdb525fad5e1eec350cd2f5a505065a6</md5>
+    <crc32>9022e9b8</crc32>
+    <sha1>7681a7c5a3f6e07a559d97e592e2bd9507139812</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849470</mtime>
+    <size>95222</size>
+    <md5>c5cf4c28aedd855a228584104f7b1530</md5>
+    <crc32>f859320d</crc32>
+    <sha1>2694304b8d573b74a4659890d2967cab1e0db05c</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849479</mtime>
+    <size>53758</size>
+    <md5>c4bfa6aca7f7514b7956c9b441e978fa</md5>
+    <crc32>42d92278</crc32>
+    <sha1>b97605e1ee4491bbb568d0fd428affa4c60f4f96</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000179.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849488</mtime>
+    <size>67460</size>
+    <md5>ec080f9f23398e1ea191e6f14e422176</md5>
+    <crc32>74589c77</crc32>
+    <sha1>e6187cf8e86a8af7b98075e119aa21c374268ec7</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849497</mtime>
+    <size>57184</size>
+    <md5>5dc2ca0106d4fdcc105138fb45b83fd8</md5>
+    <crc32>ad46be5e</crc32>
+    <sha1>0168caf18761afc3ba315f7e8b76db65c8f3b121</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849506</mtime>
+    <size>46015</size>
+    <md5>645e44905ea1162f0b2ea87c32944dec</md5>
+    <crc32>82e98be3</crc32>
+    <sha1>2f18404c9ebb139a5cff79af59d786d1c6918bd0</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000271.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849515</mtime>
+    <size>72048</size>
+    <md5>ab77071e827f6e9293f7d0974cdf383d</md5>
+    <crc32>6e56cd67</crc32>
+    <sha1>c6292c062dfda68de143f28a8fccd4b17c4c5069</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000297.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849522</mtime>
+    <size>71486</size>
+    <md5>87d11e0429ee1c1837a5d1f88cb7bc1f</md5>
+    <crc32>176e8b5e</crc32>
+    <sha1>28c16303e6e75f8989116103afce6a5df3e5435a</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000327.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849532</mtime>
+    <size>73037</size>
+    <md5>7d414defdc0ea7c39641a18b058b5c24</md5>
+    <crc32>8e940544</crc32>
+    <sha1>83435b46ec2d920501198590e98521b706968fa0</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie.thumbs/Elegant Moshang. Yaqie 1080p_000343.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Elegant Moshang. Yaqie 1080p.mp4</original>
+    <mtime>1694849536</mtime>
+    <size>66269</size>
+    <md5>4f805a768a4caf0768dffb97baad012d</md5>
+    <crc32>85864150</crc32>
+    <sha1>71ee4f81512e67f05342ba5c5609432ed6437669</sha1>
+  </file>
+  <file name="elegant-moshang-yaqie_archive.torrent" source="metadata">
+    <btih>34718287577b2e30f7ac71730b0afe6fc052df91</btih>
+    <mtime>1717160878</mtime>
+    <size>11702</size>
+    <md5>6dd3765b93ec94ddd48f5a6b1e50ef85</md5>
+    <crc32>1c13a02e</crc32>
+    <sha1>1c7b718bb4212496790d53cd6ef68e59581199bc</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="elegant-moshang-yaqie_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>21701a3bf9f867d7d967c552ef065ac3</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="elegant-moshang-yaqie_meta.sqlite" source="original">
+    <mtime>1717159856</mtime>
+    <size>36864</size>
+    <md5>f261c8023cd136c5b8de3acab32f16aa</md5>
+    <crc32>2908feaa</crc32>
+    <sha1>812ea99521ce05170f6c5f513d2f28faf3dfdc22</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="elegant-moshang-yaqie_meta.xml" source="original">
+    <mtime>1717160842</mtime>
+    <size>2538</size>
+    <md5>dc9df178cd088c6f4441bfe9d4a2e3ba</md5>
+    <crc32>ed5b548c</crc32>
+    <sha1>9d3085620367fe54cd1b72c8e5723a6036f1a5ad</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
