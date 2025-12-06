@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Banhu Yarn. Wu Tong 1080p.mp4" source="original">
+    <mtime>1664209919</mtime>
+    <size>79620291</size>
+    <md5>457d9c6b72aade97e5d5fafc87c46e3b</md5>
+    <crc32>eda74a40</crc32>
+    <sha1>2f7865b7e584ea072db4959065c688eccd6a3f6e</sha1>
+    <format>MPEG4</format>
+    <length>225.92</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Banhu Yarn. Wu Tong 800x500 Lv GB252.png" source="original">
+    <mtime>1716921760</mtime>
+    <size>603573</size>
+    <md5>742af2e4be3d60e5e51351ad7edd4166</md5>
+    <crc32>62a03ef1</crc32>
+    <sha1>a14923c1ad97fdc9242526cefd0365ec788607b0</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Banhu Yarn. Wu Tong 800x500 Lv GB252_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Banhu Yarn. Wu Tong 800x500 Lv GB252.png</original>
+    <mtime>1716922221</mtime>
+    <size>8860</size>
+    <md5>c42c45655f294f96dcdc5834a5e41081</md5>
+    <crc32>bc247202</crc32>
+    <sha1>9f2c5e6f20ccf9ed87b3c95dfedf2f10b29d8c4e</sha1>
+  </file>
+  <file name="Banhu Yarn. Wu Tong 800x500.png" source="original">
+    <mtime>1716921766</mtime>
+    <size>590894</size>
+    <md5>d9cc0b424b42fa4a2b50bd67825b892c</md5>
+    <crc32>0fb32ebc</crc32>
+    <sha1>d7e34ffbab94736183f6846921486f36a7757865</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Banhu Yarn. Wu Tong 800x500_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Banhu Yarn. Wu Tong 800x500.png</original>
+    <mtime>1716922218</mtime>
+    <size>8835</size>
+    <md5>dd884b642a36e2b5618f317cf5c8f967</md5>
+    <crc32>3c90c494</crc32>
+    <sha1>0f766a87e1d3fe68393410bbe689dca393a7070c</sha1>
+  </file>
+  <file name="Banhu Yarn. Wu Tong 805x504.jpg" source="original">
+    <mtime>1664209939</mtime>
+    <size>70054</size>
+    <md5>508be68856cb779bcdda984fe20bec97</md5>
+    <crc32>6f70fb8e</crc32>
+    <sha1>f012dcc06a4ee021d2f1239e98b270ee08e71ef9</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Banhu Yarn. Wu Tong 805x504_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Banhu Yarn. Wu Tong 805x504.jpg</original>
+    <mtime>1664211425</mtime>
+    <size>9179</size>
+    <md5>bd6d1434055c953841dc6edd1cd899af</md5>
+    <crc32>ddc808cd</crc32>
+    <sha1>744bb5dff6ad2bd067828976d8197973fc367f08</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716923884</mtime>
+    <size>14138</size>
+    <md5>96991856574de2d51c6e36286a071842</md5>
+    <crc32>0bee1748</crc32>
+    <sha1>f07b60878ad24ad458a5200fbc6847c409f1704b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211243</mtime>
+    <size>41420</size>
+    <md5>e320d9f396396ab96d56951d38011ffb</md5>
+    <crc32>3b84451f</crc32>
+    <sha1>230af383a0f52afa95e6a2777a79d1d4e2fb882d</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211248</mtime>
+    <size>70090</size>
+    <md5>1c718ac80f66caf1a0e6b320ade2b24f</md5>
+    <crc32>092f2b84</crc32>
+    <sha1>fcec5d86c9519c7c73a60a4763e08c688c6d1afb</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211253</mtime>
+    <size>69166</size>
+    <md5>8bc125d43f4841b3e4c8c3f4758dd6a8</md5>
+    <crc32>2219cd20</crc32>
+    <sha1>6b148aa46569e8714a9a6f5fdb273a8a020148b9</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211258</mtime>
+    <size>69787</size>
+    <md5>d25f9b30e11435307c42e1413427b305</md5>
+    <crc32>581cb62e</crc32>
+    <sha1>0d2e42e06798d3d4379e1ff59e9b05d544d857e0</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211264</mtime>
+    <size>66012</size>
+    <md5>00eb6cd3b051ed10c3be7b5f49569b4f</md5>
+    <crc32>9e81bf3d</crc32>
+    <sha1>e5fe573b9220f522cfea1f2e8b8bf79774605102</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211269</mtime>
+    <size>70125</size>
+    <md5>0da4c2e95eba23a6d49340db812bc28a</md5>
+    <crc32>cc7709fc</crc32>
+    <sha1>63efee51cbe14c74e7d1a5280c9d830ede48672f</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211274</mtime>
+    <size>68869</size>
+    <md5>0847f1710bee83f6892c3a4ae1c4a1da</md5>
+    <crc32>313cc19b</crc32>
+    <sha1>fe0b685fefce796edc76c0457e0c0ca62f1d37dc</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong.thumbs/Banhu Yarn. Wu Tong 1080p_000225.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Wu Tong 1080p.mp4</original>
+    <mtime>1664211277</mtime>
+    <size>72430</size>
+    <md5>57eef9a67f0a464ed05cb46a0ea219b3</md5>
+    <crc32>b00b993e</crc32>
+    <sha1>b609f08bf6287010b800aabc8bf93e6bd6931849</sha1>
+  </file>
+  <file name="banhu-yarn-wu-tong_archive.torrent" source="metadata">
+    <btih>e7e740430760d471ca4b6556206be8db35816fa3</btih>
+    <mtime>1716923885</mtime>
+    <size>6115</size>
+    <md5>e0aa80965b36338bcf7d238d97966376</md5>
+    <crc32>c7abe2b7</crc32>
+    <sha1>a9936ccdea9c2af047ff15311ae493b27354169b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="banhu-yarn-wu-tong_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e6e746f729f43027d8e894f743554c33</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="banhu-yarn-wu-tong_meta.sqlite" source="original">
+    <mtime>1716921770</mtime>
+    <size>32768</size>
+    <md5>3fc82c1db24048640c551c75f9d53c5d</md5>
+    <crc32>de07be3f</crc32>
+    <sha1>63fc76ba863606705d25c27336e35018caa3ab0c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="banhu-yarn-wu-tong_meta.xml" source="original">
+    <mtime>1716923866</mtime>
+    <size>2984</size>
+    <md5>1d1f2c1a1b91a398bca1f3549041ed6b</md5>
+    <crc32>ba52291c</crc32>
+    <sha1>cdd929afbf10d1cb064bf687610ce8f8c14e910b</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

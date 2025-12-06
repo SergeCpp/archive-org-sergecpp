@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bouncing Pipa. Shi Jingya 1080p.mp4" source="original">
+    <mtime>1702704984</mtime>
+    <size>39463398</size>
+    <md5>836bd50a5b436d2a168a735d6138fb75</md5>
+    <crc32>a6094dd1</crc32>
+    <sha1>b61852f09e5a08925bf9419358a4f2993b99945d</sha1>
+    <format>MPEG4</format>
+    <length>171.09</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Bouncing Pipa. Shi Jingya 2256x1410.png" source="original">
+    <mtime>1716973840</mtime>
+    <size>3198051</size>
+    <md5>fe8043cc773817a2f0bc41a113c10245</md5>
+    <crc32>ebea3433</crc32>
+    <sha1>7ac6e46517f1eb607ab6fabc91b81c47f0fd5cfa</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Bouncing Pipa. Shi Jingya 2256x1410_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bouncing Pipa. Shi Jingya 2256x1410.png</original>
+    <mtime>1716973915</mtime>
+    <size>8277</size>
+    <md5>3ea26b5fa207d47989841c8507ff48d5</md5>
+    <crc32>6f0266ef</crc32>
+    <sha1>e04440921261890d78a9de8006c4d41e66f9f48e</sha1>
+  </file>
+  <file name="Bouncing Pipa. Shi Jingya 2263x1414.jpg" source="original">
+    <mtime>1702705003</mtime>
+    <size>304931</size>
+    <md5>2cfbd7a6193f5809afe45ad3b8c0f3bd</md5>
+    <crc32>1c36c86e</crc32>
+    <sha1>7dd227737f3d72afcdf382bec37ed9fb4f84147e</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Bouncing Pipa. Shi Jingya 2263x1414_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bouncing Pipa. Shi Jingya 2263x1414.jpg</original>
+    <mtime>1702705477</mtime>
+    <size>8609</size>
+    <md5>dd118e9b54e9a3f5bfc3e407fcc0c261</md5>
+    <crc32>bfa0d4f7</crc32>
+    <sha1>708a23f5b143193986c6c913832acc31076605b7</sha1>
+  </file>
+  <file name="Bouncing Pipa. Shi Jingya. The Dancer 1024x1369.jpg" source="original">
+    <mtime>1702705009</mtime>
+    <size>690443</size>
+    <md5>7dd07a4409a022c0760b5a88eb2e0c15</md5>
+    <crc32>17873bc3</crc32>
+    <sha1>afbb741ecb86ac2c1f1b99b0a8a65d2c143a59b1</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Bouncing Pipa. Shi Jingya. The Dancer 1024x1369_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bouncing Pipa. Shi Jingya. The Dancer 1024x1369.jpg</original>
+    <mtime>1702705483</mtime>
+    <size>26650</size>
+    <md5>887a49d6b73fa007d4a43b7b9b2a6118</md5>
+    <crc32>25045486</crc32>
+    <sha1>bb3c15a8d70999451e5d3b0a725ccd82fa27a705</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716974089</mtime>
+    <size>14504</size>
+    <md5>27c89aba555b4607a49b29cda8e645fc</md5>
+    <crc32>93f967d0</crc32>
+    <sha1>e6c9df9a08f297de38b6c26bf7851a6e3983ccf4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bouncing-pipa-shi-jingya.thumbs/Bouncing Pipa. Shi Jingya 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bouncing Pipa. Shi Jingya 1080p.mp4</original>
+    <mtime>1702705327</mtime>
+    <size>48487</size>
+    <md5>ba9aaf5f09e7f7af114cdb527ee4ac04</md5>
+    <crc32>ddf58f06</crc32>
+    <sha1>3e9ecc7cfc46681b71f2daaa3b25a36cc8150450</sha1>
+  </file>
+  <file name="bouncing-pipa-shi-jingya.thumbs/Bouncing Pipa. Shi Jingya 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bouncing Pipa. Shi Jingya 1080p.mp4</original>
+    <mtime>1702705341</mtime>
+    <size>76332</size>
+    <md5>77b59e962801357f76c4cafcf6955959</md5>
+    <crc32>e1be0ddb</crc32>
+    <sha1>5e47f742b299d2bd49911c43790977f0b3004f64</sha1>
+  </file>
+  <file name="bouncing-pipa-shi-jingya.thumbs/Bouncing Pipa. Shi Jingya 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bouncing Pipa. Shi Jingya 1080p.mp4</original>
+    <mtime>1702705354</mtime>
+    <size>40998</size>
+    <md5>4612dd5fc37bc51606d489d02652608d</md5>
+    <crc32>51517f9f</crc32>
+    <sha1>d8d0101842d4a876e3d3d11b289325be4461e47c</sha1>
+  </file>
+  <file name="bouncing-pipa-shi-jingya.thumbs/Bouncing Pipa. Shi Jingya 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bouncing Pipa. Shi Jingya 1080p.mp4</original>
+    <mtime>1702705367</mtime>
+    <size>20955</size>
+    <md5>5e1e88582090bb3af72029c9a12e1e68</md5>
+    <crc32>e34e7aea</crc32>
+    <sha1>7803ff9d1f9fa48dc3e7422e746935563d657dd3</sha1>
+  </file>
+  <file name="bouncing-pipa-shi-jingya.thumbs/Bouncing Pipa. Shi Jingya 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bouncing Pipa. Shi Jingya 1080p.mp4</original>
+    <mtime>1702705380</mtime>
+    <size>33048</size>
+    <md5>0e3a66936949357e47391781acd3e55f</md5>
+    <crc32>e38a6153</crc32>
+    <sha1>19fb8094e5079ff7db04e8f2415c14613a8673e2</sha1>
+  </file>
+  <file name="bouncing-pipa-shi-jingya.thumbs/Bouncing Pipa. Shi Jingya 1080p_000170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bouncing Pipa. Shi Jingya 1080p.mp4</original>
+    <mtime>1702705388</mtime>
+    <size>29307</size>
+    <md5>3bcd500a958fc37a51aac369f08edb01</md5>
+    <crc32>5a9fbac0</crc32>
+    <sha1>437c0163aabd7f423ec445de053e8d0306cd6107</sha1>
+  </file>
+  <file name="bouncing-pipa-shi-jingya_archive.torrent" source="metadata">
+    <btih>322e425501b16d4ed8a56447438540be8b8df618</btih>
+    <mtime>1716974090</mtime>
+    <size>4812</size>
+    <md5>ca0853f4fe26ddc7c78f55dd04f6ba87</md5>
+    <crc32>3847d496</crc32>
+    <sha1>a881ca59c798748ffd2aac3c5f45c23dc4e9a79a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bouncing-pipa-shi-jingya_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3f8e60f9518b9bc75ed48327f36de090</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="bouncing-pipa-shi-jingya_meta.sqlite" source="original">
+    <mtime>1716973865</mtime>
+    <size>36864</size>
+    <md5>038412056ab0199158bd2243bdd4e205</md5>
+    <crc32>efd0d12f</crc32>
+    <sha1>f603a5d4855eb70b2c2762bed052c2a1b3587326</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="bouncing-pipa-shi-jingya_meta.xml" source="original">
+    <mtime>1716974076</mtime>
+    <size>2857</size>
+    <md5>b6bcda33d14e1732d714ef897d348d5f</md5>
+    <crc32>65d86080</crc32>
+    <sha1>ca137f20bc8e8c1b261c914a693790ce3e7791cd</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

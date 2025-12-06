@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1080p 30fps.mp4" source="original">
+    <mtime>1662828595</mtime>
+    <size>46179800</size>
+    <md5>870ed8cb5cfdad360fb41a4495d28095</md5>
+    <crc32>a4b7fc8d</crc32>
+    <sha1>d28434057df6caed8030add7b2312d0bea15251f</sha1>
+    <format>MPEG4</format>
+    <length>125.61</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 60fps.mp4</original>
+    <mtime>1722143933</mtime>
+    <size>74578343</size>
+    <md5>070bc146ee41244e74f826ecbaa4bfc0</md5>
+    <crc32>9011a1af</crc32>
+    <sha1>cd47b1f6bf16ff5592c84ee3c94cb0cae61093c2</sha1>
+    <length>125.67</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1080p 60fps.mp4" source="original">
+    <mtime>1722143541</mtime>
+    <size>74578343</size>
+    <md5>96f09661bdcee9c9581c23d63c68066f</md5>
+    <crc32>89adcba7</crc32>
+    <sha1>570bae757b70a275533c9f4921a673ef637243c9</sha1>
+    <format>MPEG4</format>
+    <length>125.67</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1136x710 Lv G250 B245.png" source="original">
+    <mtime>1716977728</mtime>
+    <size>1147229</size>
+    <md5>0817b24744f5df1d0c77fa2ae365a4b0</md5>
+    <crc32>31918138</crc32>
+    <sha1>f3ca1f6f8ee69419f348ce9d177d823efc3227d1</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1136x710 Lv G250 B245_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1136x710 Lv G250 B245.png</original>
+    <mtime>1716978418</mtime>
+    <size>7822</size>
+    <md5>14aacad1b9771d81ad38e602a9c12a7a</md5>
+    <crc32>cee27731</crc32>
+    <sha1>16ace1bfa9ca79ff7d7b72624d4e0282771af05d</sha1>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1136x710.png" source="original">
+    <mtime>1716977736</mtime>
+    <size>1114053</size>
+    <md5>042205c8d3f2b51ef5837c25500ec616</md5>
+    <crc32>1cb6316f</crc32>
+    <sha1>2c78deb62f42c7903c4568280e2764d234a76fc2</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1136x710_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1136x710.png</original>
+    <mtime>1716978414</mtime>
+    <size>7781</size>
+    <md5>19717a77116936968e6d101d3d8525c3</md5>
+    <crc32>06331914</crc32>
+    <sha1>a570ccd215aa882b581111eb1739cd38e0c6d621</sha1>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1146x716.jpg" source="original">
+    <mtime>1662828612</mtime>
+    <size>118556</size>
+    <md5>2a6ce7f13df1188756d13a22bc5ed4ca</md5>
+    <crc32>7b14af42</crc32>
+    <sha1>02167e905dde2bd01086440f8a150db84beca366</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Bright Moon Comes to Dreams. Le Ge 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1146x716.jpg</original>
+    <mtime>1662828754</mtime>
+    <size>8107</size>
+    <md5>844c9ea20ab2155768d036802cdfcdac</md5>
+    <crc32>3e59fd60</crc32>
+    <sha1>b5bf5f07886b310a96a2d96c2b42c1af388bb82b</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716979781</mtime>
+    <size>12971</size>
+    <md5>23c4408bd3cda7126e3f254fed30d435</md5>
+    <crc32>c589e595</crc32>
+    <sha1>e7994ebb35f731f095160fcaa7baec98577a3409</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 30fps.mp4</original>
+    <mtime>1662828683</mtime>
+    <size>52024</size>
+    <md5>26b1530fb0b577305773bbb6cd0f9229</md5>
+    <crc32>5e26ed95</crc32>
+    <sha1>9518a928ac2762a2ba110da3f0b46072e11989ee</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 30fps.mp4</original>
+    <mtime>1662828691</mtime>
+    <size>80329</size>
+    <md5>241c3d3970e1403dcfcf259ab4edf598</md5>
+    <crc32>0f4f2f39</crc32>
+    <sha1>a490a57bbb497dbe202aaed7492a550482dc5ca2</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 30fps.mp4</original>
+    <mtime>1662828698</mtime>
+    <size>83124</size>
+    <md5>d7fb2d59ca837519e172daa63bc11a5a</md5>
+    <crc32>72e85fe3</crc32>
+    <sha1>005b5eb775097621021f43dd3f09e42d4568fa46</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 30fps.mp4</original>
+    <mtime>1662828705</mtime>
+    <size>79761</size>
+    <md5>337e7d537944b678440fbdc8baa358fd</md5>
+    <crc32>64b679b9</crc32>
+    <sha1>d76a86e01ece6f51db2a4e3c4472f75984efd1a1</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 30fps_000125.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 30fps.mp4</original>
+    <mtime>1662828707</mtime>
+    <size>34280</size>
+    <md5>2dfd9d9a1405f65a36329a57a010473c</md5>
+    <crc32>2b7ca793</crc32>
+    <sha1>f24071d06363d541d53ab480e2ba7d1764cf2809</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 60fps.mp4</original>
+    <mtime>1722143684</mtime>
+    <size>50776</size>
+    <md5>966e7dece640de6801f193ccd4590028</md5>
+    <crc32>182c5cb2</crc32>
+    <sha1>f15dfe9820fc01822d3ac5da512f6c3a8ed92dfa</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 60fps.mp4</original>
+    <mtime>1722143701</mtime>
+    <size>71208</size>
+    <md5>2db97bf13467e27e15138f5815a49297</md5>
+    <crc32>7438e275</crc32>
+    <sha1>46fa47d77d4faab7aed31febbf73d6303de1beb7</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 60fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 60fps.mp4</original>
+    <mtime>1722143715</mtime>
+    <size>78874</size>
+    <md5>82439f7a12e43821cf0218c972e2cfe1</md5>
+    <crc32>ec76931e</crc32>
+    <sha1>4c448665ac467d05c0a6e1c98bf553ebac2db153</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 60fps_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 60fps.mp4</original>
+    <mtime>1722143733</mtime>
+    <size>46888</size>
+    <md5>a1208dcb9499cd55f5e2d9ebf37a8d6c</md5>
+    <crc32>5e178cb6</crc32>
+    <sha1>953ece227c5a4ee4c544d2b9a2c8ccd04f4e44c0</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge.thumbs/Bright Moon Comes to Dreams. Le Ge 1080p 60fps_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bright Moon Comes to Dreams. Le Ge 1080p 60fps.mp4</original>
+    <mtime>1722143737</mtime>
+    <size>31640</size>
+    <md5>32cfec43f5ad26deb360afef01160c7b</md5>
+    <crc32>427b175c</crc32>
+    <sha1>c255326c2d53cc8da284ea652496868892f84e32</sha1>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge_archive.torrent" source="metadata">
+    <btih>9dd7542d2271e57e53a791d6149023c3cb7e324b</btih>
+    <mtime>1722144626</mtime>
+    <size>11255</size>
+    <md5>99f5eef0ffff56315373b612756665a6</md5>
+    <crc32>9fdfe9d5</crc32>
+    <sha1>9867a27f053746b29e5394e2ba9985b94a4868de</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3d51ef58c48c8a0c29712242294b3213</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge_meta.sqlite" source="original">
+    <mtime>1722143556</mtime>
+    <size>36864</size>
+    <md5>833cc0d33ed72aa619edff40e9b64e0c</md5>
+    <crc32>7e214d59</crc32>
+    <sha1>5bb33fef00ffb98722d34c372098c58fac29f539</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="bright-moon-comes-to-dreams-le-ge_meta.xml" source="original">
+    <mtime>1722142493</mtime>
+    <size>2956</size>
+    <md5>9a4b25f7aab2afa6f5259be241fc6bc0</md5>
+    <crc32>62abc9cd</crc32>
+    <sha1>4cb05deae7dd77df1c5ba475f356bb9e0ec3a73a</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Banhu Yarn. Xisi 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Banhu Yarn. Xisi 1080p.mp4</original>
+    <mtime>1660226501</mtime>
+    <size>44304805</size>
+    <md5>9c820f197d07900c5b0dcb2c1f036795</md5>
+    <crc32>5f6d536f</crc32>
+    <sha1>d8909ead581586b8426095e12b71bb10037ad3ba</sha1>
+    <length>121.42</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Banhu Yarn. Xisi 1080p.mp4" source="original">
+    <mtime>1660226183</mtime>
+    <size>44304805</size>
+    <md5>99ddb583920b6939cc020b81bb073eaa</md5>
+    <crc32>055cfb6f</crc32>
+    <sha1>2d6b68af4125999c71b681f7bd00ba2307c3597f</sha1>
+    <format>MPEG4</format>
+    <length>121.42</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Banhu Yarn. Xisi 3248x2030 Lv R245 G248 B252.png" source="original">
+    <mtime>1716950253</mtime>
+    <size>6752721</size>
+    <md5>d96a1d6b8293df0602bf5319799e085f</md5>
+    <crc32>681ca55a</crc32>
+    <sha1>3615ffaf7198a78adc5c3cdeaea737bb133e889e</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Banhu Yarn. Xisi 3248x2030 Lv R245 G248 B252_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Banhu Yarn. Xisi 3248x2030 Lv R245 G248 B252.png</original>
+    <mtime>1716951277</mtime>
+    <size>8318</size>
+    <md5>f12e076f0d2a8a5b0ee0c427bb0d36cf</md5>
+    <crc32>5111f971</crc32>
+    <sha1>bcb9c799e76edc0f260d6af1231f03ae6eb0e8be</sha1>
+  </file>
+  <file name="Banhu Yarn. Xisi 3249x2030.jpg" source="original">
+    <mtime>1662645530</mtime>
+    <size>579411</size>
+    <md5>0d8f4d929e7c5cbe85dcf2f50485815b</md5>
+    <crc32>bfe78b6f</crc32>
+    <sha1>e22b0cbc06a5db0ca55645a40c542c75eb3c043b</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Banhu Yarn. Xisi 3249x2030_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Banhu Yarn. Xisi 3249x2030.jpg</original>
+    <mtime>1662645544</mtime>
+    <size>8532</size>
+    <md5>845d1cfc80fe32bd2e53891ea8726ab8</md5>
+    <crc32>44070459</crc32>
+    <sha1>b7ac670b1b98615e69f4ea3ae573df279f9df7dd</sha1>
+  </file>
+  <file name="Banhu Yarn. Xisi. Practice Room Version 1080p.mp4" source="original">
+    <mtime>1662646581</mtime>
+    <size>14495063</size>
+    <md5>1e16e59bb34f7ae865e2ec0098800316</md5>
+    <crc32>5cf399a3</crc32>
+    <sha1>5cd948fec3e8e6247f2334e89c66388c8659ff14</sha1>
+    <format>MPEG4</format>
+    <length>121.3</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716951614</mtime>
+    <size>14525</size>
+    <md5>c699f96c74fa00c0fa930c3bf5838c38</md5>
+    <crc32>d190f50a</crc32>
+    <sha1>ae8391e9682dfa5e788fd3d81c734cf116d24363</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi 1080p.mp4</original>
+    <mtime>1660226363</mtime>
+    <size>3555</size>
+    <md5>d8671a71fa17c880a08a996662c0d7cd</md5>
+    <crc32>1f10555e</crc32>
+    <sha1>4d983b467d7909d71cece8ae42f7121c00e1ca0f</sha1>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi 1080p_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi 1080p.mp4</original>
+    <mtime>1660226368</mtime>
+    <size>63053</size>
+    <md5>73d285637419454d90f5b92cb04321ea</md5>
+    <crc32>b5fcb3ca</crc32>
+    <sha1>9246b3658fe42e2888104b10a2cf2357e4e70eb3</sha1>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi 1080p_000092.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi 1080p.mp4</original>
+    <mtime>1660226376</mtime>
+    <size>52910</size>
+    <md5>9aeaad3a53183b6c722ce424da9ebd1a</md5>
+    <crc32>ba825ca4</crc32>
+    <sha1>bdaeee654e06a33a9cd14fddbe960327bbbe3d75</sha1>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi 1080p_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi 1080p.mp4</original>
+    <mtime>1660226381</mtime>
+    <size>3325</size>
+    <md5>36461ee36af05c63b19c88d07ab0e26b</md5>
+    <crc32>66cb339c</crc32>
+    <sha1>72cf6fa9b07e69fd1b9e6574b9e120c89cc88837</sha1>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi. Practice Room Version 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi. Practice Room Version 1080p.mp4</original>
+    <mtime>1662646607</mtime>
+    <size>43812</size>
+    <md5>5e690c731bbcb2bbde1a22665a2c203f</md5>
+    <crc32>e96c9d4c</crc32>
+    <sha1>74c789c06af95a416bd42bd9fa6b9d47440b467c</sha1>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi. Practice Room Version 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi. Practice Room Version 1080p.mp4</original>
+    <mtime>1662646610</mtime>
+    <size>69994</size>
+    <md5>12287b0999cecdff12c3a6df1263d130</md5>
+    <crc32>4981f447</crc32>
+    <sha1>d8d4ee98c7de474f0ba19cfcd72477345a0240c3</sha1>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi. Practice Room Version 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi. Practice Room Version 1080p.mp4</original>
+    <mtime>1662646613</mtime>
+    <size>55484</size>
+    <md5>56953fef2c13ce0441f4277a7f95e6f0</md5>
+    <crc32>6f2fddea</crc32>
+    <sha1>bbcf79c7e8b47acd393a288b39b9a092386b9fdb</sha1>
+  </file>
+  <file name="banhu-yarn-xisi.thumbs/Banhu Yarn. Xisi. Practice Room Version 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Banhu Yarn. Xisi. Practice Room Version 1080p.mp4</original>
+    <mtime>1662646616</mtime>
+    <size>2561</size>
+    <md5>b0854574d0ea9beb476425bf41acc4bb</md5>
+    <crc32>49732327</crc32>
+    <sha1>e74b25656145cda8b6a99c21ab2e793daa9f4ede</sha1>
+  </file>
+  <file name="banhu-yarn-xisi_archive.torrent" source="metadata">
+    <btih>5fb7bbcaa00649266b697adb1b048f5da42bc378</btih>
+    <mtime>1716951813</mtime>
+    <size>7237</size>
+    <md5>5073893ca45351e04d0b4c1b46f8b806</md5>
+    <crc32>622bf372</crc32>
+    <sha1>cf03beb0d8e9879341486eb77534b3add2723c5f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="banhu-yarn-xisi_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>82a1d7f84eec84270db7abc54a7652be</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="banhu-yarn-xisi_meta.sqlite" source="original">
+    <mtime>1716951810</mtime>
+    <size>28672</size>
+    <md5>fd2f4c3234f05490efaf7a5ca34b2934</md5>
+    <crc32>08eea799</crc32>
+    <sha1>55b28e9e9764b71230519198e1606aa02577b129</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="banhu-yarn-xisi_meta.xml" source="original">
+    <mtime>1716951579</mtime>
+    <size>2456</size>
+    <md5>eab8497f7afac41d3810c9c6ea9262d8</md5>
+    <crc32>bb2056f9</crc32>
+    <sha1>33d426382049ae81f09b744f5734e889ac3348bb</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
