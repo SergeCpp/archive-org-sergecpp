@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Hong Ma. Rong Rong 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Hong Ma. Rong Rong 1080p.mp4</original>
+    <mtime>1704301125</mtime>
+    <size>89425873</size>
+    <md5>96505a8c113dddc5a44c8240905c9b99</md5>
+    <crc32>a03e12bf</crc32>
+    <sha1>c0b2d245c9e3af55b797109327cda23a85d90f96</sha1>
+    <length>153.13</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Hong Ma. Rong Rong 1080p.mp4" source="original">
+    <mtime>1704300942</mtime>
+    <size>89425873</size>
+    <md5>a8ef430fe9b127c07fefe9ec61a606e0</md5>
+    <crc32>b7710cf7</crc32>
+    <sha1>c7758d9e90fb4e6627add2e3820ba914a3b789b0</sha1>
+    <format>MPEG4</format>
+    <length>153.13</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Hong Ma. Rong Rong 1120x700 Lv A1p05 R245 GB240.png" source="original">
+    <mtime>1717478621</mtime>
+    <size>1653069</size>
+    <md5>333d95c4660e8a8836e7da4cf8cb8dc2</md5>
+    <crc32>b33144c9</crc32>
+    <sha1>f4adb68e50f9984935a22c160a5e0ef301a31bac</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Hong Ma. Rong Rong 1120x700 Lv A1p05 R245 GB240_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hong Ma. Rong Rong 1120x700 Lv A1p05 R245 GB240.png</original>
+    <mtime>1717478647</mtime>
+    <size>9356</size>
+    <md5>f608995bb472963eca1ee3a547b1d27e</md5>
+    <crc32>0dedad6d</crc32>
+    <sha1>c254e9ea4afe21e16602318dbb59bf846d66cd22</sha1>
+  </file>
+  <file name="Hong Ma. Rong Rong 1120x700.png" source="original">
+    <mtime>1717478628</mtime>
+    <size>1488200</size>
+    <md5>03e0e5e23e8c0ad30f341f3141cdba48</md5>
+    <crc32>b7c71bc4</crc32>
+    <sha1>425dc8fd0ef16d7ac442a4f9a015f2ce51e570d2</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Hong Ma. Rong Rong 1120x700_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hong Ma. Rong Rong 1120x700.png</original>
+    <mtime>1717478650</mtime>
+    <size>9193</size>
+    <md5>a9e2588ea0d9e43cff1207d10261d7ca</md5>
+    <crc32>730a3cc7</crc32>
+    <sha1>5ab2fadc5fa97ef22b32d69bee3bd4447f83e138</sha1>
+  </file>
+  <file name="Hong Ma. Rong Rong 1280x720.jpg" source="original">
+    <mtime>1704300960</mtime>
+    <size>197625</size>
+    <md5>b946c3eff5f1a71da3c2f9aa11ff51ec</md5>
+    <crc32>e5419992</crc32>
+    <sha1>63900ed599361689fedbc0f3d98a60472f62d23f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Hong Ma. Rong Rong 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hong Ma. Rong Rong 1280x720.jpg</original>
+    <mtime>1704301147</mtime>
+    <size>8901</size>
+    <md5>3ec7cf30661b93d0f8c597f334cf9dae</md5>
+    <crc32>69288387</crc32>
+    <sha1>0ddb9c4bc28b71d969eff684b10c1244b9d8c4ab</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717479032</mtime>
+    <size>15513</size>
+    <md5>6a5029ce5b2416f25dff0ddb95b60a71</md5>
+    <crc32>0301547f</crc32>
+    <sha1>282697b264460a3e7a41f7eed5f1a7236961268f</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="hong-ma-rong-rong.thumbs/Hong Ma. Rong Rong 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hong Ma. Rong Rong 1080p.mp4</original>
+    <mtime>1704301044</mtime>
+    <size>69813</size>
+    <md5>2c14260e155f8510a279e8d5c0450894</md5>
+    <crc32>2b6d40ff</crc32>
+    <sha1>f2711c1f1f12c0cb9f006a1b6bcaeed174392b2f</sha1>
+  </file>
+  <file name="hong-ma-rong-rong.thumbs/Hong Ma. Rong Rong 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hong Ma. Rong Rong 1080p.mp4</original>
+    <mtime>1704301048</mtime>
+    <size>50982</size>
+    <md5>8504cd0a1e414b6e1d4ac9d2743dbd38</md5>
+    <crc32>4276396b</crc32>
+    <sha1>86b48044cf4b8dd64340053bc5e05548980fcfdb</sha1>
+  </file>
+  <file name="hong-ma-rong-rong.thumbs/Hong Ma. Rong Rong 1080p_000088.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hong Ma. Rong Rong 1080p.mp4</original>
+    <mtime>1704301053</mtime>
+    <size>96040</size>
+    <md5>cba03a9e4bea1d1cc303fb5127e03789</md5>
+    <crc32>ca8644cd</crc32>
+    <sha1>1e522a12fd7308d7ce2c9474a8a043688154820c</sha1>
+  </file>
+  <file name="hong-ma-rong-rong.thumbs/Hong Ma. Rong Rong 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hong Ma. Rong Rong 1080p.mp4</original>
+    <mtime>1704301057</mtime>
+    <size>86109</size>
+    <md5>2a7680d9ea7d24d3d9e324689ec3da88</md5>
+    <crc32>c1cda717</crc32>
+    <sha1>37972549b98d8bcef86b3f37ee5873529177f5e3</sha1>
+  </file>
+  <file name="hong-ma-rong-rong.thumbs/Hong Ma. Rong Rong 1080p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hong Ma. Rong Rong 1080p.mp4</original>
+    <mtime>1704301061</mtime>
+    <size>114651</size>
+    <md5>fc14320f523938ec5cb15125a330bafc</md5>
+    <crc32>97cc685e</crc32>
+    <sha1>9ce131e7048db4e9f3c3a5e89dbc0b093ee794b7</sha1>
+  </file>
+  <file name="hong-ma-rong-rong.thumbs/Hong Ma. Rong Rong 1080p_000152.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Hong Ma. Rong Rong 1080p.mp4</original>
+    <mtime>1704301061</mtime>
+    <size>87478</size>
+    <md5>040f0440c5e54da894a341bd2eb6c509</md5>
+    <crc32>b3eac3d3</crc32>
+    <sha1>660db8cfaf1d68b6545cbd1449e9192835e8b9d4</sha1>
+  </file>
+  <file name="hong-ma-rong-rong_archive.torrent" source="metadata">
+    <btih>1dd99a8f92ab3726dc784c3ed186951ec2dd09a2</btih>
+    <mtime>1717479034</mtime>
+    <size>10178</size>
+    <md5>04f558289b19e5b088e85e0d08f7ac54</md5>
+    <crc32>bde1c971</crc32>
+    <sha1>6a89ec7064d806e49070219955dafb71d2a676e4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="hong-ma-rong-rong_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d0ad4e4bee3aab49a1886c8db618b65f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="hong-ma-rong-rong_meta.sqlite" source="original">
+    <mtime>1717478635</mtime>
+    <size>36864</size>
+    <md5>5cd3520b8dde3464d7124d09fb6a7653</md5>
+    <crc32>34f76e55</crc32>
+    <sha1>ced84f3b7ce3bf39b63132f5e1cd06614db70349</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="hong-ma-rong-rong_meta.xml" source="original">
+    <mtime>1717479027</mtime>
+    <size>4122</size>
+    <md5>f7fb6a9dfe28eb8165b272ed612bb472</md5>
+    <crc32>f237ec12</crc32>
+    <sha1>5455771c7dd7002f7b3d76d1b0ba3d925e178877</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

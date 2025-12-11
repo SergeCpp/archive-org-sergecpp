@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725480112</mtime>
+    <size>55615846</size>
+    <md5>30bb43019bd518f449cb142b7ea0dfbe</md5>
+    <crc32>b24389e1</crc32>
+    <sha1>dd2243c616e40f2dddf8246fb5de9a15330cf4c8</sha1>
+    <length>107.6</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4" source="original">
+    <mtime>1725479514</mtime>
+    <size>55615846</size>
+    <md5>61afe2ef342740e610145ac52fc4d57b</md5>
+    <crc32>0bcfacff</crc32>
+    <sha1>f9f855ebf9104385f73ed9649fc8b0537f352c96</sha1>
+    <format>MPEG4</format>
+    <length>107.6</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725483285</mtime>
+    <size>10868800</size>
+    <md5>b43c9bb3f8dceb31a617a5e1a4534243</md5>
+    <crc32>f242cde8</crc32>
+    <sha1>ed19fab28c6d8700f59062349234adf42cc782d9</sha1>
+    <length>107.65</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4" source="original">
+    <mtime>1725482146</mtime>
+    <size>88672936</size>
+    <md5>85de6eb2eb5fe8ca50e1942de7574ede</md5>
+    <crc32>677b8179</crc32>
+    <sha1>b91d8c8f074ebc3e74e7df993fca824e146116dd</sha1>
+    <format>MPEG4</format>
+    <length>107.6</length>
+    <width>2560</width>
+    <height>1440</height>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1600x1000 Lv 10 0p9 244 BL-0-120.png" source="original">
+    <mtime>1727440568</mtime>
+    <size>1757539</size>
+    <md5>95c008bf5a3ec278ed36ff381b11543a</md5>
+    <crc32>9635fdcf</crc32>
+    <sha1>364f2a40dc58568509c144e4f8d494936f624a8c</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1600x1000 Lv 10 0p9 244 BL-0-120_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1600x1000 Lv 10 0p9 244 BL-0-120.png</original>
+    <mtime>1727446496</mtime>
+    <size>6883</size>
+    <md5>be8c59b08a89b4ab55dbb28963f05144</md5>
+    <crc32>fa431c0e</crc32>
+    <sha1>c51a64de98d522fcfdc570c79f02b2e713c64791</sha1>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1600x1000 Lv 10 0p9 244.png" source="original">
+    <mtime>1727440575</mtime>
+    <size>1668282</size>
+    <md5>5658f7cae102faa48dd6b8b7b49a78e8</md5>
+    <crc32>87905886</crc32>
+    <sha1>1013d0dcc7da0abbbb1aa7f5c2027c6f38286b86</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1600x1000 Lv 10 0p9 244_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1600x1000 Lv 10 0p9 244.png</original>
+    <mtime>1727446498</mtime>
+    <size>6753</size>
+    <md5>c7a68d7d211220da61fd9e8f133135c3</md5>
+    <crc32>b3e37ee7</crc32>
+    <sha1>6e09be37d4b251ddfae04b5e2c1ac1ee5e33956b</sha1>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1600x1000.jpg" source="original">
+    <mtime>1725479536</mtime>
+    <size>153817</size>
+    <md5>cf94bd61eabca5cb0ba182481c8534e1</md5>
+    <crc32>8e717990</crc32>
+    <sha1>717b64b6c5fc19a0b38b1dcc43eff94f704aa26c</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 1600x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1600x1000.jpg</original>
+    <mtime>1725480164</mtime>
+    <size>6824</size>
+    <md5>66d31893f5fad09d02048536364a7cb1</md5>
+    <crc32>18e61176</crc32>
+    <sha1>199e5071693469d6c8967717a3b463a2457d6b49</sha1>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725486511</mtime>
+    <size>10870755</size>
+    <md5>c16ea6f0e4c8b9883012e29e7d585e02</md5>
+    <crc32>cd6eade7</crc32>
+    <sha1>81214754fe2f6d9fea1d2ed27d209571651f7600</sha1>
+    <length>107.65</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4" source="original">
+    <mtime>1725485344</mtime>
+    <size>141929269</size>
+    <md5>aa6ce1136e2616808ede036f3f330916</md5>
+    <crc32>6df8ab42</crc32>
+    <sha1>ad9ff1a6dd610871e1d0184e98049265a3446b7e</sha1>
+    <format>MPEG4</format>
+    <length>107.6</length>
+    <width>3840</width>
+    <height>2160</height>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4" source="original">
+    <mtime>1725481370</mtime>
+    <size>35715706</size>
+    <md5>3be9048847d7391b4545007386dddede</md5>
+    <crc32>762901b7</crc32>
+    <sha1>6303d6b6450e7febe6c452601cfbca626e59bd50</sha1>
+    <format>MPEG4</format>
+    <length>88.3</length>
+    <width>1080</width>
+    <height>1920</height>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang. Vert. 3000x1875.jpg" source="original">
+    <mtime>1725481079</mtime>
+    <size>576441</size>
+    <md5>63ea894e8a8dd2ad86ceea29ea2bc817</md5>
+    <crc32>0a029f55</crc32>
+    <sha1>d913c19590a8075979d3b4ddbd4f9f7f56e68c67</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Horizontal Vertical Dot Fold. Guang Guang. Vert. 3000x1875_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 3000x1875.jpg</original>
+    <mtime>1725483729</mtime>
+    <size>7284</size>
+    <md5>360988bdc426d1bb970e636ee765e8ad</md5>
+    <crc32>e5937f3b</crc32>
+    <sha1>d8244dbd86c9d87f049558add16f847606223056</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1727448748</mtime>
+    <size>10298</size>
+    <md5>022e743758eea2aa9620036d25af6873</md5>
+    <crc32>783e9d17</crc32>
+    <sha1>53139a704c89b82f76168203b984258e427f04bd</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479922</mtime>
+    <size>3941</size>
+    <md5>b0a97ac56d9de38f39d61ed8f4e1db3a</md5>
+    <crc32>c740be06</crc32>
+    <sha1>480a4f2a703273e8b03f4eab4b4f8fe12ab70ea5</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479923</mtime>
+    <size>22960</size>
+    <md5>a3624b5ce41d5939e98367f791b8b74c</md5>
+    <crc32>cf648b2f</crc32>
+    <sha1>a61edc5d16347f3775e05cf0df32bde03fa6fbba</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000016.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479924</mtime>
+    <size>60654</size>
+    <md5>c957b30201d6289f07e03eee7789767d</md5>
+    <crc32>defc04be</crc32>
+    <sha1>26f08b49b493fcaf447b0b0cdb658f5436ea2861</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000021.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479925</mtime>
+    <size>41949</size>
+    <md5>b96d01f9c91155e0c375f194f962b4a5</md5>
+    <crc32>32291c56</crc32>
+    <sha1>d1dac4ac59e1a9c1617553513ffda34c8c4c7c19</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000026.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479925</mtime>
+    <size>73431</size>
+    <md5>6aa13db4662eeae0c6ed2bb013690027</md5>
+    <crc32>2dcaf6ff</crc32>
+    <sha1>b387d167ac1e6cfc69fc9471a103f0a631e4efd2</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000032.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479926</mtime>
+    <size>54299</size>
+    <md5>4ac5c86b750093a5be9d3526baaaa7b3</md5>
+    <crc32>03a62b1d</crc32>
+    <sha1>d47809d07a7ee60241f94ee2ec681c407586fe84</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000037.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479927</mtime>
+    <size>57907</size>
+    <md5>4b61d63dc4bb7b941df00b2c2408ae97</md5>
+    <crc32>7d1f7f4d</crc32>
+    <sha1>79bff42e7de63253d9a663e9e12de783adb10e68</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000042.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479927</mtime>
+    <size>61078</size>
+    <md5>15670e87c5ef833623f45ae48ff9dee1</md5>
+    <crc32>0a720782</crc32>
+    <sha1>23a6112880d0a9e62e01ff3fd2af79190d785f84</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000048.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479928</mtime>
+    <size>56933</size>
+    <md5>53b5ab241af06ad2cbd2e2ac38890bbc</md5>
+    <crc32>727e66c3</crc32>
+    <sha1>2021241a912826403c085d271206644a5367f0fc</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000053.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479929</mtime>
+    <size>56228</size>
+    <md5>41fde974605ce6a7942d3edc8f2f1b59</md5>
+    <crc32>72245ea8</crc32>
+    <sha1>8c3f64aee2195a1c181a1b3dba58392ea0a32a45</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479929</mtime>
+    <size>59572</size>
+    <md5>24a77464ad81e48f1efc8b06fcba975f</md5>
+    <crc32>a93aac33</crc32>
+    <sha1>122c227e8c57ff8324878836310e3124f00c6f6b</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479930</mtime>
+    <size>39764</size>
+    <md5>fdadd7b4286b4cfc003346fbd0197a4f</md5>
+    <crc32>cf63f70b</crc32>
+    <sha1>b46f5dac7233a6103b5d2ca665805dc2ac80a42e</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000069.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479931</mtime>
+    <size>67636</size>
+    <md5>9f7c6c9019b25fbc816d6fcc7ddda96d</md5>
+    <crc32>a8272662</crc32>
+    <sha1>459625b240ca580857663be7560733837d6b92a5</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479932</mtime>
+    <size>52508</size>
+    <md5>20487143d018eb76856ed3a4d7ba4e90</md5>
+    <crc32>df306035</crc32>
+    <sha1>70e224787f6609692cd4e66fe2e5bf590973fbd9</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479933</mtime>
+    <size>58982</size>
+    <md5>5ac1ab203284a2bc8ba14baea8fd56cc</md5>
+    <crc32>86a3c0e5</crc32>
+    <sha1>0cf6a6422be96298f7a751e39f2bc1d139e035f7</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479933</mtime>
+    <size>56027</size>
+    <md5>21266f03298b2ac9cc3a658d0a4f2de6</md5>
+    <crc32>c95db542</crc32>
+    <sha1>fa816cfc0e09b2d0d8e41cdcaef872038bbd5de9</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479934</mtime>
+    <size>56028</size>
+    <md5>59ebe9f8b128d4eab557c23df523d068</md5>
+    <crc32>d54b4d36</crc32>
+    <sha1>cd3649a192a256e59c4ebc2136efb8e45d7a0a6e</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000096.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479934</mtime>
+    <size>63505</size>
+    <md5>781cc03d3c34c45bb5906dcd954f2021</md5>
+    <crc32>af339ad7</crc32>
+    <sha1>447de7960c605832d59597600661a22c61d493ce</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps_000101.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725479936</mtime>
+    <size>68399</size>
+    <md5>da863425355dc30ca9df43451a58b351</md5>
+    <crc32>68a35349</crc32>
+    <sha1>63d6990314c23e59a4865398ce6ee9335d70fb4c</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482583</mtime>
+    <size>3980</size>
+    <md5>d80f492542d6d6a00020d333dbb4d522</md5>
+    <crc32>fa1de7ab</crc32>
+    <sha1>8805e003bdb5d2d7df04d40d6fe9acd71dbfabbc</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482586</mtime>
+    <size>23303</size>
+    <md5>322daf03d4c7f7676dda19a51d832dac</md5>
+    <crc32>62e93d86</crc32>
+    <sha1>f0d0f2aad942c78665ffc9225bf3314e510aff00</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000016.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482588</mtime>
+    <size>60837</size>
+    <md5>c4f52ac97922d9f2e252abc71caf7cd7</md5>
+    <crc32>b0d473c6</crc32>
+    <sha1>e7a35ce45e940fbd76848f239653d7f2b273cb4b</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000021.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482590</mtime>
+    <size>42011</size>
+    <md5>f04079ff07be046b050077401fcb6799</md5>
+    <crc32>295c4010</crc32>
+    <sha1>71168ca510dbbb4f16590d9ee8a85ec33ef51a70</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000026.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482593</mtime>
+    <size>73736</size>
+    <md5>01d724aa40ae238bee99011f2b16d35d</md5>
+    <crc32>80dab3fa</crc32>
+    <sha1>991406d3eb326a3e0346614bb22ca863e1373e9d</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000032.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482596</mtime>
+    <size>54676</size>
+    <md5>9fa36f78f99ae0be3543ab835116aa88</md5>
+    <crc32>8d7cdc33</crc32>
+    <sha1>d9fcb261820807bbe729794697131b032add408a</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000037.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482599</mtime>
+    <size>58732</size>
+    <md5>d03c06ffae963860538c7aac89175d3f</md5>
+    <crc32>5effe524</crc32>
+    <sha1>8ff10441b4c4c97d90d68e20525b20a942d20676</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000042.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482602</mtime>
+    <size>61679</size>
+    <md5>a1576b4e1c18aa2b9fe96e97cd7bb453</md5>
+    <crc32>b89dedbd</crc32>
+    <sha1>463d75df474e7f785a6f85a3d42778950d165875</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000048.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482604</mtime>
+    <size>57225</size>
+    <md5>376294189c3c437922662562609c763e</md5>
+    <crc32>eec1cd20</crc32>
+    <sha1>5e199d068b6ead962d41005a61f34cffe84146ef</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000053.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482607</mtime>
+    <size>56744</size>
+    <md5>d4119795e8d2ac8a104dcc3d6a36dfcd</md5>
+    <crc32>1f33f0d7</crc32>
+    <sha1>564c23bd97cb7a842a5d0f0213195f7255711ef8</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482609</mtime>
+    <size>60136</size>
+    <md5>94c230bbde45339a7ff056ad73eb3fd4</md5>
+    <crc32>46a44c82</crc32>
+    <sha1>cf89a07f9d71801f3b835cdea0d7c3ff671be9b2</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482611</mtime>
+    <size>39263</size>
+    <md5>4791f17da1bab36abea6ae18a10c6223</md5>
+    <crc32>55a1ba90</crc32>
+    <sha1>4de350bdde801448ed8ee4b735e57f1468f8087f</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000069.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482614</mtime>
+    <size>68409</size>
+    <md5>d430d7d1cae7dc627ce7d2e30b344157</md5>
+    <crc32>08d4b32b</crc32>
+    <sha1>62a39c48532ef47dabe79ab55dbc2f3494c4b04f</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482616</mtime>
+    <size>49449</size>
+    <md5>678e3b7a59929ff2b740e6433375dde1</md5>
+    <crc32>a2541707</crc32>
+    <sha1>05b35e306b9c86824eba8cf46e5f024e4330361a</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482619</mtime>
+    <size>59546</size>
+    <md5>dcd787218156ea1b34e5d2a65f7db4e1</md5>
+    <crc32>5fca9695</crc32>
+    <sha1>9b50434db471280102dfb1356d1b682b4a86df5f</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482622</mtime>
+    <size>56687</size>
+    <md5>a24e8dff65596eb246f46c234bc33a35</md5>
+    <crc32>e5429948</crc32>
+    <sha1>164d7d036ca8bc1dd6e44561e55167c9208516c8</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482624</mtime>
+    <size>56382</size>
+    <md5>d20240ca580bd66417a9dd1528614c5f</md5>
+    <crc32>64c574aa</crc32>
+    <sha1>634507c9b6e7816cb9b2b7507f788d9cce18452e</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000096.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482627</mtime>
+    <size>64163</size>
+    <md5>5c155c09ea2076d0bb9d5fefc72ebc92</md5>
+    <crc32>9e479377</crc32>
+    <sha1>2b4b4758a42673580c64c043f71b56d97423a52a</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps_000101.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 1440p 30fps.mp4</original>
+    <mtime>1725482632</mtime>
+    <size>69002</size>
+    <md5>92f32116fd2574d3967d553fdf0d467b</md5>
+    <crc32>5cbd2926</crc32>
+    <sha1>2236e4bb6246c6ff1e5e9ecad932e76cd70b6bd5</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485855</mtime>
+    <size>4005</size>
+    <md5>5f2e8bd01549456b4c10a3d751abf11c</md5>
+    <crc32>c76c3571</crc32>
+    <sha1>4f0056fb54c2d61663bc37bd45c5cb23b311f9ef</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485859</mtime>
+    <size>23976</size>
+    <md5>4a094eb7663beddc3c9c643cafdc6975</md5>
+    <crc32>25a6dd46</crc32>
+    <sha1>1024efe9db70176a59a015ffd87538ef6251eb2e</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000016.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485863</mtime>
+    <size>61644</size>
+    <md5>65074e94fb4d16147c4d6db1280222ed</md5>
+    <crc32>619325ac</crc32>
+    <sha1>472177d4881c30c8aeb27992c7b464368b298e4b</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000021.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485867</mtime>
+    <size>42187</size>
+    <md5>c34fa360fbbf19ad0aaa2c3b4616500d</md5>
+    <crc32>1fd9a5be</crc32>
+    <sha1>7805c4c4eff3f8e28cede2f0cfe1e618dabc68dd</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000026.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485872</mtime>
+    <size>74562</size>
+    <md5>cd84166706ea8718f0dd59399e9da3fb</md5>
+    <crc32>be2e621e</crc32>
+    <sha1>c7640433447f4102c7387595b5d5c4db9ab2f7a6</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000032.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485877</mtime>
+    <size>55259</size>
+    <md5>d411b18a23951828b1b94cb46f57834d</md5>
+    <crc32>fc213313</crc32>
+    <sha1>6ec44e229652d7a6907d8b99057fc587dd362eda</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000037.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485882</mtime>
+    <size>59758</size>
+    <md5>4e3308a34514e9a70c931b32b3c12fa2</md5>
+    <crc32>5e6f92bc</crc32>
+    <sha1>b5d1f09a437d5eca33fbcb0f1cae208d3c3c8a0a</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000042.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485887</mtime>
+    <size>62291</size>
+    <md5>1792863cfc92aa25df065d2a23ccb0e2</md5>
+    <crc32>4bf9e004</crc32>
+    <sha1>d78a9cddba162986ca6e125c6b331413b72262fc</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000048.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485892</mtime>
+    <size>57954</size>
+    <md5>fa14920be125ad2dc1e2fa9b97329cac</md5>
+    <crc32>6efa7576</crc32>
+    <sha1>47d315fa0ea9c69cc01b9872244d90ad9097f2d7</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000053.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485896</mtime>
+    <size>57434</size>
+    <md5>61ee87d2010b1d67208a6e3dd6eba63c</md5>
+    <crc32>867962d0</crc32>
+    <sha1>da802a460c1267404ed2844c0596318e2e47b4de</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485900</mtime>
+    <size>60606</size>
+    <md5>62d17a3caa06789b241f2d1d79457178</md5>
+    <crc32>16dec30a</crc32>
+    <sha1>0cdc4b483baba0fbf4bce2007ab01750e5def829</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485905</mtime>
+    <size>39746</size>
+    <md5>44012331e46742d3e2f352259b6703b6</md5>
+    <crc32>ce5a49fc</crc32>
+    <sha1>07d4e58abf66bbd0c075c6313f143c5509d0b7df</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000069.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485910</mtime>
+    <size>69192</size>
+    <md5>f39733b95c9ea835470fb74c459b97b5</md5>
+    <crc32>6a22431a</crc32>
+    <sha1>f461e0a2371a07ee0e083beb7e94541c74319732</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485916</mtime>
+    <size>49885</size>
+    <md5>9aa9214011f52a555f7267c4288f7026</md5>
+    <crc32>48684a66</crc32>
+    <sha1>7caf47531c43de39619c400488fa5895e25d8683</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485920</mtime>
+    <size>60286</size>
+    <md5>5b4f23c0b60940e7926ed7bba85e7308</md5>
+    <crc32>bcddf345</crc32>
+    <sha1>c77eae6c399ffcdb9036369deae792ac4e4e83d3</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485925</mtime>
+    <size>57404</size>
+    <md5>1a123c2dea86713424da2d0061cc559a</md5>
+    <crc32>65a3dfb9</crc32>
+    <sha1>ded08f5ab1b9df8e98b8077b1958eff6b68cd72d</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485930</mtime>
+    <size>56940</size>
+    <md5>6a6bd3369259a01b408e96e3f61b7b0a</md5>
+    <crc32>5962718a</crc32>
+    <sha1>d97e02c7a694e79dfc2d53702116a99aa4035982</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000096.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485934</mtime>
+    <size>64853</size>
+    <md5>b5294fdf1942c0ebd7475ae6dc65ff13</md5>
+    <crc32>a5d5f9ce</crc32>
+    <sha1>8a1e471389266c3070b510be2da61df53ad0e010</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps_000101.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang 2160p 30fps.mp4</original>
+    <mtime>1725485945</mtime>
+    <size>70037</size>
+    <md5>1eecb04fb94641e24fc38ee60b521963</md5>
+    <crc32>75a0a089</crc32>
+    <sha1>c9534da3f2f58e3c7374a65b498ba7e5c4c92133</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482836</mtime>
+    <size>51524</size>
+    <md5>222be5e2480711893b37de1a4ddaa475</md5>
+    <crc32>8a731b10</crc32>
+    <sha1>0de89b7162154f913f41d1ce0c56f44e37405a6e</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482838</mtime>
+    <size>113663</size>
+    <md5>8dc07638e4e7ee9b031067bf742b621a</md5>
+    <crc32>4e7abffd</crc32>
+    <sha1>aa84e730cbd1c2664365b9851911997429d4b6ff</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482839</mtime>
+    <size>63437</size>
+    <md5>218954323ef6080c00037e9ae0699d75</md5>
+    <crc32>2b094669</crc32>
+    <sha1>9bf2dd2544474d022b00a1336c0764e7ddc0369e</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482840</mtime>
+    <size>95681</size>
+    <md5>65b47d8c17dfd3b3f5fd6cb7fb3c9937</md5>
+    <crc32>67d3a2bf</crc32>
+    <sha1>6524256842cc07b788df6722c0397da8ac7510d3</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482841</mtime>
+    <size>96431</size>
+    <md5>df0944ef3f79fa21084d04c8c138c887</md5>
+    <crc32>80c1172f</crc32>
+    <sha1>ae4f8a1dac7d9674fc229d44dafaf12d65235b96</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482843</mtime>
+    <size>91827</size>
+    <md5>b510e892e242e041229b0088983a110b</md5>
+    <crc32>dfcdc320</crc32>
+    <sha1>892bf0e7407db3eb0c7b5a1e50a47fe13060dd7b</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482844</mtime>
+    <size>73133</size>
+    <md5>afb6cfbbba2ba38713851f1f9b2e44e1</md5>
+    <crc32>be48dc85</crc32>
+    <sha1>c113acc8dab6ed5f1b473ab43a7ecb60441c45ba</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482846</mtime>
+    <size>84476</size>
+    <md5>76ea26c7d8c2a96d8a2bf8f334b5216b</md5>
+    <crc32>f9bc4389</crc32>
+    <sha1>65e0ef01e507e07dc3c8b0a3f09ab907c1f69d93</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482848</mtime>
+    <size>102353</size>
+    <md5>e28c5f6ad9e588a6f0e2f82e300ee9c2</md5>
+    <crc32>e05d003a</crc32>
+    <sha1>87038440bb0bc291f93f0b762834c856a202ba54</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482849</mtime>
+    <size>80204</size>
+    <md5>edefae021c9f91c8c2b3bb02bc84534c</md5>
+    <crc32>f4f66e83</crc32>
+    <sha1>b463751e6fbd4fe8823a4b020a463a97e3dbfa65</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482850</mtime>
+    <size>99653</size>
+    <md5>6d459a5f893e2bdddb7d3a906990f970</md5>
+    <crc32>60d58085</crc32>
+    <sha1>6ea7193bca50816695b1ceaf1bec64b8737038ad</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482852</mtime>
+    <size>79615</size>
+    <md5>44449efc7faae651aac622924a074e06</md5>
+    <crc32>360095da</crc32>
+    <sha1>50e0b835398f88a0db4e71c3f14b288db777284e</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482854</mtime>
+    <size>89780</size>
+    <md5>51076c5c8b269fec59df5d1514b30b6e</md5>
+    <crc32>b77980cb</crc32>
+    <sha1>ef84948a49d820cd7e5a435d6a0e4ebbe7859f75</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482855</mtime>
+    <size>88665</size>
+    <md5>db9c92fbfcca5578d7d57f53b1d41858</md5>
+    <crc32>b00f38b8</crc32>
+    <sha1>977acf33a8fcea127818f3c10d7466e9fd7e3b07</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482856</mtime>
+    <size>97622</size>
+    <md5>e2edc466e3e27929ec95d3713b0f15e5</md5>
+    <crc32>27306b2d</crc32>
+    <sha1>e0130ea2ce11cf097d35140ce3dc91c70fe63f59</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang.thumbs/Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Horizontal Vertical Dot Fold. Guang Guang. Vert. 1920p 30fps.mp4</original>
+    <mtime>1725482857</mtime>
+    <size>86263</size>
+    <md5>2cb2b1abfaa6c013c437b254f9893dfb</md5>
+    <crc32>acddd416</crc32>
+    <sha1>5e7a94dc5a82991cae31cad00eea6a05222f0291</sha1>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang_archive.torrent" source="metadata">
+    <btih>18a2aad724b8e508b47648dc8f3e4c24d17cf3ae</btih>
+    <mtime>1735765230</mtime>
+    <size>20584</size>
+    <md5>e42fe1623a6582d6afa5a740143ee373</md5>
+    <crc32>ac6890a2</crc32>
+    <sha1>9875bfbbd54488cdc34a83e90e38d2c2caad7338</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>50b41054bcb012b5347872869793473e</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang_meta.sqlite" source="original">
+    <mtime>1727448952</mtime>
+    <size>73728</size>
+    <md5>293e1baefafefcdd72820c3bab721787</md5>
+    <crc32>14e5a3a7</crc32>
+    <sha1>b36355e576216010e5a0921da1722f9e825b55d6</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="horizontal-vertical-dot-fold-guang-guang_meta.xml" source="original">
+    <mtime>1735765227</mtime>
+    <size>7524</size>
+    <md5>a4a688190182188845560a6aafa7a381</md5>
+    <crc32>c6146f2e</crc32>
+    <sha1>a78b4bad6bd100d9a7556dc0a26bd787c3af16ba</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
