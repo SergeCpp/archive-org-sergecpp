@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Flower. Miao Pu 784x490 BL90-130_itemimage.png" source="original">
+    <mtime>1740820250</mtime>
+    <size>755582</size>
+    <md5>b8a50d9dfcdec15db6d5c0a90e850e85</md5>
+    <crc32>faa6ca74</crc32>
+    <sha1>40c6157ad38df2fc4b3bb06755085fe0739a9ead</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Flower. Miao Pu 784x490.png" source="original">
+    <mtime>1740820272</mtime>
+    <size>665512</size>
+    <md5>82824fa2b0e6bd24a3a9620c4d75a6be</md5>
+    <crc32>58b81698</crc32>
+    <sha1>c3f63eeb91f7f0a57c16ffadeecddb535e121e53</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Flower. Miao Pu 784x490_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Flower. Miao Pu 784x490.png</original>
+    <mtime>1740842730</mtime>
+    <size>8762</size>
+    <md5>aa29f72a0bd35e005fe8d771c744c395</md5>
+    <crc32>2d9c5dd2</crc32>
+    <sha1>cb42f46f96f52f5c4f530303c0ef00c7e1efee1e</sha1>
+  </file>
+  <file name="Flower. Miao Pu 960p.mp4" source="original">
+    <mtime>1740820960</mtime>
+    <size>56689984</size>
+    <md5>1e3934b11b8e6aeceabb8e85129c33f1</md5>
+    <crc32>026b5cd1</crc32>
+    <sha1>4b1fb081e326bb3f65494003bb8f72dc2953bc33</sha1>
+    <format>MPEG4</format>
+    <length>160.94</length>
+    <width>1920</width>
+    <height>960</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1740820635</mtime>
+    <size>15914</size>
+    <md5>26056048d96fad93e42c4e5886f65ba8</md5>
+    <crc32>35043c1f</crc32>
+    <sha1>a5f172631e0d165d00ae0a3ae21a1ae2138be018</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="flower-miao-pu.thumbs/Flower. Miao Pu 960p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flower. Miao Pu 960p.mp4</original>
+    <mtime>1740842121</mtime>
+    <size>57508</size>
+    <md5>b0f8a2297039ef9c73238d8147cc23f3</md5>
+    <crc32>f5fc9a4f</crc32>
+    <sha1>ccf1eb8769e82e8445ae8925c05959ed80c08d6c</sha1>
+  </file>
+  <file name="flower-miao-pu.thumbs/Flower. Miao Pu 960p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flower. Miao Pu 960p.mp4</original>
+    <mtime>1740842126</mtime>
+    <size>59774</size>
+    <md5>130a5754f3cf424c27efd1380e2f8419</md5>
+    <crc32>f4c65362</crc32>
+    <sha1>f9328e207dac15b156017b2f83dfaeabea888249</sha1>
+  </file>
+  <file name="flower-miao-pu.thumbs/Flower. Miao Pu 960p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flower. Miao Pu 960p.mp4</original>
+    <mtime>1740842129</mtime>
+    <size>99175</size>
+    <md5>8872c542fd2adaf28ea585077bf737d8</md5>
+    <crc32>5347b481</crc32>
+    <sha1>7058598cbbe5d2c55a97451f877f5c5dab63eb59</sha1>
+  </file>
+  <file name="flower-miao-pu.thumbs/Flower. Miao Pu 960p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flower. Miao Pu 960p.mp4</original>
+    <mtime>1740842132</mtime>
+    <size>89081</size>
+    <md5>7db82d107e9b4abf0d3647c6d0a3b0a2</md5>
+    <crc32>f6b48a99</crc32>
+    <sha1>a5d97c25f2cea13af346bbe343375e5dbe331661</sha1>
+  </file>
+  <file name="flower-miao-pu.thumbs/Flower. Miao Pu 960p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flower. Miao Pu 960p.mp4</original>
+    <mtime>1740842136</mtime>
+    <size>83739</size>
+    <md5>6c760b064a09dbd3aee5a4919708b354</md5>
+    <crc32>42edcc83</crc32>
+    <sha1>c40d9d6b0cb3941cc727a3fc35a654739d70a560</sha1>
+  </file>
+  <file name="flower-miao-pu.thumbs/Flower. Miao Pu 960p_000160.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flower. Miao Pu 960p.mp4</original>
+    <mtime>1740842137</mtime>
+    <size>52242</size>
+    <md5>42b5c2224e57b2841d570d9e83e648c9</md5>
+    <crc32>a935ecec</crc32>
+    <sha1>3395fbfc4cc17f4f2702d9844c058089d73f91b9</sha1>
+  </file>
+  <file name="flower-miao-pu_archive.torrent" source="metadata">
+    <btih>0b0795373c1c39e3ab68e6f76b331696380ea9ca</btih>
+    <mtime>1740843217</mtime>
+    <size>4616</size>
+    <md5>63a25a4aa79dc90162acfd8bcd770a4c</md5>
+    <crc32>1d5b091c</crc32>
+    <sha1>e74fa79b0e9a6ab89958e6f01c8da7d9228f36bc</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="flower-miao-pu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>00905f9706bd53081ca4a00c14077a87</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="flower-miao-pu_meta.sqlite" source="original">
+    <mtime>1740841614</mtime>
+    <size>36864</size>
+    <md5>7c3e2af4762d65b2a80b8e46bb9abb4b</md5>
+    <crc32>0115e6da</crc32>
+    <sha1>42754b8e9368f786824f8704b582c57001aa37c4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="flower-miao-pu_meta.xml" source="original">
+    <mtime>1740820540</mtime>
+    <size>3139</size>
+    <md5>ed4fea906af3b148e981d945a8096c87</md5>
+    <crc32>cd00e3f9</crc32>
+    <sha1>6d68c6314502ccc887b2c936c657081d1494c7d8</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

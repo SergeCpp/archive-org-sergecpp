@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Fold Full Moon Into Pocket. Miao Pu 1024x640 BL40_itemimage.png" source="original">
+    <mtime>1738486580</mtime>
+    <size>1047931</size>
+    <md5>36f05ed3b7a49152544726693df6e2ae</md5>
+    <crc32>a7cd9ee9</crc32>
+    <sha1>6bd38f7dafe389841f619abed6e1887412968de2</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Fold Full Moon Into Pocket. Miao Pu 1024x640.png" source="original">
+    <mtime>1738486610</mtime>
+    <size>1005457</size>
+    <md5>9fba001b744022473af3da2ada31c335</md5>
+    <crc32>9b4d487c</crc32>
+    <sha1>442f087498cd2056cce32a01f7ee9d2efb0f44cb</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Fold Full Moon Into Pocket. Miao Pu 1024x640_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1024x640.png</original>
+    <mtime>1738489463</mtime>
+    <size>9082</size>
+    <md5>128b0460ab9d46622688756464f4dd88</md5>
+    <crc32>a676facb</crc32>
+    <sha1>24e4b860c48b5357901426a2b8be759f506b76c4</sha1>
+  </file>
+  <file name="Fold Full Moon Into Pocket. Miao Pu 1080p.mp4" source="original">
+    <mtime>1738486972</mtime>
+    <size>99233750</size>
+    <md5>0c139fb401c816f305c05253c0ced4d7</md5>
+    <crc32>cdb4444f</crc32>
+    <sha1>7f1180f9b6d1f8a82d5e81db773682965c9cda44</sha1>
+    <format>MPEG4</format>
+    <length>269.06</length>
+    <width>2538</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1738486664</mtime>
+    <size>15457</size>
+    <md5>b234dcd82fd54ac892a68e5bc5674b6f</md5>
+    <crc32>73d6a94c</crc32>
+    <sha1>f3eba3624f821481d716cf9e69f3b40a7296fa21</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488329</mtime>
+    <size>34017</size>
+    <md5>e6343fabb0ac46d4f9c8385bd77c662d</md5>
+    <crc32>ad0fc81b</crc32>
+    <sha1>2a844ef178d2e43f01ab79d7aeaa7409088a69ce</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488333</mtime>
+    <size>85620</size>
+    <md5>469fe81075ba74886c64579841313497</md5>
+    <crc32>445e8371</crc32>
+    <sha1>73ba96364a42b616b3b7e690df8f783c074e1c55</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488338</mtime>
+    <size>59239</size>
+    <md5>602e1febee37e068acc76a0b6200ed24</md5>
+    <crc32>14e5f2db</crc32>
+    <sha1>52a7c8d788eb783b04e6f876831767797944f0a2</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488342</mtime>
+    <size>86005</size>
+    <md5>cf05203f063d53f07b4e113adb20f5fc</md5>
+    <crc32>38af5c00</crc32>
+    <sha1>88b81f28f273e8b15a2a7a6b0203022061a2a5b1</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488346</mtime>
+    <size>50144</size>
+    <md5>400048d9acb6bba3f07ea6d05f268f80</md5>
+    <crc32>cbb19b46</crc32>
+    <sha1>8f851274f41a7b0b97fbb88d8f8c9102a11e9da6</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488350</mtime>
+    <size>89983</size>
+    <md5>56333f87a4469cb482eae32453ca650c</md5>
+    <crc32>6e8e9bd9</crc32>
+    <sha1>768f91124bb0061f4631b1778e4454f3800afdcb</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488355</mtime>
+    <size>55137</size>
+    <md5>76254ac3ad53cb443b4f866a375311d8</md5>
+    <crc32>e824d257</crc32>
+    <sha1>ad68ef309bd99920a73a4f439117d6acd02458b5</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488359</mtime>
+    <size>76406</size>
+    <md5>c948816e90102a05c61fe2c0af537eeb</md5>
+    <crc32>d5bdb685</crc32>
+    <sha1>761d38a56c215327d652ae3d1aef62e03e89889c</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu.thumbs/Fold Full Moon Into Pocket. Miao Pu 1080p_000265.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Fold Full Moon Into Pocket. Miao Pu 1080p.mp4</original>
+    <mtime>1738488363</mtime>
+    <size>59551</size>
+    <md5>57acc49ded0fb9fb320f9e9999ac2ee1</md5>
+    <crc32>082575cb</crc32>
+    <sha1>8ab2c560484b9ba31390b25b3b433f6f8f5fe90d</sha1>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu_archive.torrent" source="metadata">
+    <btih>b1a7b81d4b2a05813d159eb4f1d3cef93260d475</btih>
+    <mtime>1738490038</mtime>
+    <size>6540</size>
+    <md5>9449c7a38286f046913e5b5db35ddb7c</md5>
+    <crc32>e2a2cd88</crc32>
+    <sha1>01cf789a5cf763d9148353e41d51e7eff0a530cf</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f0a839c00abcb8cf8125e6cbc34b0f2a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu_meta.sqlite" source="original">
+    <mtime>1738486985</mtime>
+    <size>49152</size>
+    <md5>cffa5fd7334a98673a3cac4c02c1660b</md5>
+    <crc32>019b0731</crc32>
+    <sha1>a077c2c0eb2176b031543aa2bc5ef1c9aaf90de3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="fold-full-moon-into-pocket-miao-pu_meta.xml" source="original">
+    <mtime>1738486602</mtime>
+    <size>3647</size>
+    <md5>07c587b045e8b8b75df7e2333a7ab671</md5>
+    <crc32>1490e04f</crc32>
+    <sha1>065de92787e01a006e27ad3f7d9404ed65b9000c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

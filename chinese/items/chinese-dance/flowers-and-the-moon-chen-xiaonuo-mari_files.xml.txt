@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Flowers and the Moon. Chen Xiaonuo Mari 1080p.mp4" source="original">
+    <mtime>1664096853</mtime>
+    <size>50428431</size>
+    <md5>ba2f8f84169135feb9274ab771030bf0</md5>
+    <crc32>9b071658</crc32>
+    <sha1>db5601d869e381e9e55590cdbb1b9cd3650fccc1</sha1>
+    <format>MPEG4</format>
+    <length>137.42</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Flowers and the Moon. Chen Xiaonuo Mari 2176x1360.png" source="original">
+    <mtime>1717326672</mtime>
+    <size>4715476</size>
+    <md5>9ea7d374767f4f5493e2e536f5d1ca00</md5>
+    <crc32>e242b34a</crc32>
+    <sha1>461c4563a8b9e9da8611e8d57f3ac2aa6db39bd0</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Flowers and the Moon. Chen Xiaonuo Mari 2176x1360_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Flowers and the Moon. Chen Xiaonuo Mari 2176x1360.png</original>
+    <mtime>1717326871</mtime>
+    <size>7719</size>
+    <md5>bf38e955cd0025910bb6ffc18a1a4fe9</md5>
+    <crc32>a59974cc</crc32>
+    <sha1>adcc73ec7b55ac461f9fc2c148eccfbdad290df8</sha1>
+  </file>
+  <file name="Flowers and the Moon. Chen Xiaonuo Mari 2192x1370.jpg" source="original">
+    <mtime>1664096893</mtime>
+    <size>852120</size>
+    <md5>c24d32319445aacef9db6fedf956982e</md5>
+    <crc32>a45db969</crc32>
+    <sha1>f8d69750381fef3de65563a9f64f3bce97619c3f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Flowers and the Moon. Chen Xiaonuo Mari 2192x1370_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Flowers and the Moon. Chen Xiaonuo Mari 2192x1370.jpg</original>
+    <mtime>1664096981</mtime>
+    <size>8114</size>
+    <md5>f8bcef8c37325b6bb2657fae091101a4</md5>
+    <crc32>f4544080</crc32>
+    <sha1>8728fa0f65d8589cc09971de4e4ef6fa96f3bad1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717327649</mtime>
+    <size>13133</size>
+    <md5>034aea0cd40c3867b8257a3b85563af2</md5>
+    <crc32>f112e4f2</crc32>
+    <sha1>c46f1117b606d881e22c7587b292ceb292294301</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari.thumbs/Flowers and the Moon. Chen Xiaonuo Mari 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flowers and the Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1664096923</mtime>
+    <size>25736</size>
+    <md5>9e34242177fc47e362e95fb8de3dd96f</md5>
+    <crc32>cc1c370d</crc32>
+    <sha1>6b041da845a928b4793e11b880a302b4bd198d75</sha1>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari.thumbs/Flowers and the Moon. Chen Xiaonuo Mari 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flowers and the Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1664096929</mtime>
+    <size>97580</size>
+    <md5>0915b575e388c6c16c640dbabf2132bc</md5>
+    <crc32>e1ce8c8b</crc32>
+    <sha1>b319df540984279b17de094dd83427e67d833a68</sha1>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari.thumbs/Flowers and the Moon. Chen Xiaonuo Mari 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flowers and the Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1664096935</mtime>
+    <size>94708</size>
+    <md5>280de2404d4a0f0813ff58b09821ff43</md5>
+    <crc32>c0c7d033</crc32>
+    <sha1>83df01ceb1a3ac2497dcb762112f6f39471cac42</sha1>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari.thumbs/Flowers and the Moon. Chen Xiaonuo Mari 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flowers and the Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1664096942</mtime>
+    <size>97196</size>
+    <md5>b6416919e5ac25b41b7a2cf7ee15b7ff</md5>
+    <crc32>03b0e3bd</crc32>
+    <sha1>8bb7c6e8d17e580b3be2885630701c7f86b31db4</sha1>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari.thumbs/Flowers and the Moon. Chen Xiaonuo Mari 1080p_000135.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Flowers and the Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1664096945</mtime>
+    <size>99557</size>
+    <md5>803eb6f1b31ad0e58858626c4011d6d1</md5>
+    <crc32>be03584a</crc32>
+    <sha1>703fd29363ccc7ef3c90efb1b7710af7fe335fe2</sha1>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari_archive.torrent" source="metadata">
+    <btih>20bf0a29c77bc83a3cc2bb0b63c786e2b9ab1f6b</btih>
+    <mtime>1725276463</mtime>
+    <size>5051</size>
+    <md5>3f6d4c87a2c9631ea2294b4105510db3</md5>
+    <crc32>62964011</crc32>
+    <sha1>789b47d01bae2259cdec3cf0ed229948fe3ce8f8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8e7b5db6edc403ee0fd7c698720beeab</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari_meta.sqlite" source="original">
+    <mtime>1717326687</mtime>
+    <size>36864</size>
+    <md5>55386e5e5e3a91b6862ec5ac848218ae</md5>
+    <crc32>6cb630cb</crc32>
+    <sha1>fa109ccba93ad7ded5732f26e3b9d45d355e2666</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="flowers-and-the-moon-chen-xiaonuo-mari_meta.xml" source="original">
+    <mtime>1725276456</mtime>
+    <size>5032</size>
+    <md5>3bc7278979fafecd16be3ac75b636ef8</md5>
+    <crc32>1bcab10a</crc32>
+    <sha1>bef5bab16c9c875327246d84b7639397d2f1f883</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
