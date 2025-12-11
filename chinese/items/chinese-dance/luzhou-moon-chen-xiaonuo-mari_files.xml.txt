@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Luzhou Moon. Chen Xiaonuo Mari 1080p.mp4" source="original">
+    <mtime>1661333766</mtime>
+    <size>34124834</size>
+    <md5>3d1ab78e59c4b81ae1fbe21982b19bb6</md5>
+    <crc32>effd954c</crc32>
+    <sha1>f3670aa6a0986655f76203d8bab9cdef147f9950</sha1>
+    <format>MPEG4</format>
+    <length>123.86</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Luzhou Moon. Chen Xiaonuo Mari 1760x1100 Lv A1p04 R250 G242 B252.png" source="original">
+    <mtime>1717833944</mtime>
+    <size>2360808</size>
+    <md5>8cfe3521a62351e63e19b60e5268364a</md5>
+    <crc32>36de3d1a</crc32>
+    <sha1>68bbef04e99f9a7e79f69f6cfbd901de0698221c</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Luzhou Moon. Chen Xiaonuo Mari 1760x1100 Lv A1p04 R250 G242 B252_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Chen Xiaonuo Mari 1760x1100 Lv A1p04 R250 G242 B252.png</original>
+    <mtime>1717834117</mtime>
+    <size>7683</size>
+    <md5>b6720421c7d1a24f8def0b44ccd273e7</md5>
+    <crc32>2a0447e0</crc32>
+    <sha1>f9fa811d234ad092ca9ffb6212762eae0bac57d4</sha1>
+  </file>
+  <file name="Luzhou Moon. Chen Xiaonuo Mari 1760x1100.png" source="original">
+    <mtime>1717833954</mtime>
+    <size>2255763</size>
+    <md5>6496593da2d453e8173e0a86028ef83f</md5>
+    <crc32>2e2867ec</crc32>
+    <sha1>1861d5c5b47ea231be76efcb29a5d2e5a4d549ae</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Luzhou Moon. Chen Xiaonuo Mari 1760x1100_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Chen Xiaonuo Mari 1760x1100.png</original>
+    <mtime>1717834113</mtime>
+    <size>7632</size>
+    <md5>b78da084e6d7d875d8152fff019c5361</md5>
+    <crc32>71ca1ef2</crc32>
+    <sha1>b9d4ec6c339248c2acb56861a2ca8e7c1823b3cd</sha1>
+  </file>
+  <file name="Luzhou Moon. Chen Xiaonuo Mari 1789x1117.jpg" source="original">
+    <mtime>1661333783</mtime>
+    <size>479917</size>
+    <md5>22bd911c46af09d605888f8a769ffc8e</md5>
+    <crc32>a993ecbc</crc32>
+    <sha1>b500291bad4aa4cea0551ce9852dc4c1b85789e4</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Luzhou Moon. Chen Xiaonuo Mari 1789x1117_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Chen Xiaonuo Mari 1789x1117.jpg</original>
+    <mtime>1661333923</mtime>
+    <size>7931</size>
+    <md5>aca596fb3ffc29c17ad9276683bc1fa7</md5>
+    <crc32>a4a09802</crc32>
+    <sha1>1922dda0768fc43daff6b6764c879826f8db43c1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717834644</mtime>
+    <size>11811</size>
+    <md5>f54196f823cd0ee22e4aabe9d1754aad</md5>
+    <crc32>b4190319</crc32>
+    <sha1>0eef49573638096bc50e73af8dedfda56772c00e</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari.thumbs/Luzhou Moon. Chen Xiaonuo Mari 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1661333845</mtime>
+    <size>43293</size>
+    <md5>3528e1cc72ab16850d617d37b24da57f</md5>
+    <crc32>bad44cf9</crc32>
+    <sha1>d78081fceea69d61a2843e86920661e46e0a7e68</sha1>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari.thumbs/Luzhou Moon. Chen Xiaonuo Mari 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1661333850</mtime>
+    <size>56875</size>
+    <md5>4bab2fb0c2bc04f443d79431694abcf2</md5>
+    <crc32>726b212c</crc32>
+    <sha1>4919fa9ea967e226298d698b9b4ff34693882d18</sha1>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari.thumbs/Luzhou Moon. Chen Xiaonuo Mari 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1661333854</mtime>
+    <size>64200</size>
+    <md5>eb53e501fd4816ed6121ac48735e089f</md5>
+    <crc32>73d7f741</crc32>
+    <sha1>7e6feddc606ad77e8cc0d838a126f8d9094232b9</sha1>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari.thumbs/Luzhou Moon. Chen Xiaonuo Mari 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Chen Xiaonuo Mari 1080p.mp4</original>
+    <mtime>1661333860</mtime>
+    <size>49961</size>
+    <md5>20e8cf423fe9a5949c6dc5e8d2d11e4e</md5>
+    <crc32>a90f781d</crc32>
+    <sha1>d7ae1a0b2b3ad64cb3a1b077c3616ad1eb709547</sha1>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari_archive.torrent" source="metadata">
+    <btih>a87119cc2734e7ca9efb87311d3326078f99935b</btih>
+    <mtime>1717834645</mtime>
+    <size>4736</size>
+    <md5>95b052b44662a94a9036aa80fde44f6b</md5>
+    <crc32>37c392a9</crc32>
+    <sha1>cdc8f4a90098c467292276cad7f1bca28085a6b7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2d5e6694b34f365d80342c9e594186d6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari_meta.sqlite" source="original">
+    <mtime>1717833957</mtime>
+    <size>32768</size>
+    <md5>36c3a6b5392cafa8586c7fdb38a1ab43</md5>
+    <crc32>152e7ea4</crc32>
+    <sha1>c12fc772d08b95b789b9078f98fb8fe2421bc21c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="luzhou-moon-chen-xiaonuo-mari_meta.xml" source="original">
+    <mtime>1717834640</mtime>
+    <size>3722</size>
+    <md5>651f79609543512f765e385e889f5a95</md5>
+    <crc32>8f8dade4</crc32>
+    <sha1>914a9de9098ac754e145d5828e4974b5b898c2e6</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

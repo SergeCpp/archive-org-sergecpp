@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Luzhou Moon. Mei Xin 1080p.mp4" source="original">
+    <mtime>1703148792</mtime>
+    <size>42987199</size>
+    <md5>e1d77e40b382ee1c170ff380fb08fcd3</md5>
+    <crc32>ee192a49</crc32>
+    <sha1>782b98aeb7fbcba19a40d150ab7ed80903344637</sha1>
+    <format>MPEG4</format>
+    <length>124.95</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Luzhou Moon. Mei Xin 3136x1960 Lv 5 1p05.png" source="original">
+    <mtime>1717837955</mtime>
+    <size>5273610</size>
+    <md5>97735b7c721c5c7ba8a5afd938f7c496</md5>
+    <crc32>41329ecb</crc32>
+    <sha1>a6c6de904f4fab23719ca7e33fc9f8968c1f4f5a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Luzhou Moon. Mei Xin 3136x1960 Lv 5 1p05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Mei Xin 3136x1960 Lv 5 1p05.png</original>
+    <mtime>1717838022</mtime>
+    <size>7727</size>
+    <md5>72f00567f6e03726fe1680e6b84896a9</md5>
+    <crc32>5c1142bd</crc32>
+    <sha1>a3b5a2d7166a66e8044947faa68aaf068f26e133</sha1>
+  </file>
+  <file name="Luzhou Moon. Mei Xin 3136x1960.png" source="original">
+    <mtime>1717837977</mtime>
+    <size>5114250</size>
+    <md5>dae2d537fcd835f3b9be9a3c38f907b3</md5>
+    <crc32>50363404</crc32>
+    <sha1>a1921a5cd72738ad8b33f15600d1c83e03918550</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Luzhou Moon. Mei Xin 3136x1960_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Mei Xin 3136x1960.png</original>
+    <mtime>1717838019</mtime>
+    <size>7750</size>
+    <md5>8d86494f7d9159844638a41a86206459</md5>
+    <crc32>60f9513f</crc32>
+    <sha1>fa9b2f9db577c03fd92d15777599e2a9a15270c3</sha1>
+  </file>
+  <file name="Luzhou Moon. Mei Xin 3168x1980.jpg" source="original">
+    <mtime>1703148815</mtime>
+    <size>753477</size>
+    <md5>fac69827a7b5d1aa722e23f720d7f591</md5>
+    <crc32>e6368705</crc32>
+    <sha1>f3e9bea9584a4c760beb3ac72a5a0a1c0db96a5b</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Luzhou Moon. Mei Xin 3168x1980_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Mei Xin 3168x1980.jpg</original>
+    <mtime>1703149573</mtime>
+    <size>8131</size>
+    <md5>421e3738148280ccf7f5cfb2d1d3a04e</md5>
+    <crc32>9917d3f4</crc32>
+    <sha1>5d5e9d52eac97b1c377e4d12451fd965bd51a107</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717839152</mtime>
+    <size>12433</size>
+    <md5>25d67f709479cbd5288473ca869ed628</md5>
+    <crc32>22e74c87</crc32>
+    <sha1>40b4254f22c1f317044c5996395c804a79622add</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="luzhou-moon-mei-xin.thumbs/Luzhou Moon. Mei Xin 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Mei Xin 1080p.mp4</original>
+    <mtime>1703149291</mtime>
+    <size>47101</size>
+    <md5>437e46053840ca312473fd10067db780</md5>
+    <crc32>ba3dd945</crc32>
+    <sha1>80bfa7f847a31486a17e65b9a36bc664511fda4b</sha1>
+  </file>
+  <file name="luzhou-moon-mei-xin.thumbs/Luzhou Moon. Mei Xin 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Mei Xin 1080p.mp4</original>
+    <mtime>1703149294</mtime>
+    <size>53921</size>
+    <md5>8c726c30c4117213748d798e92255960</md5>
+    <crc32>ecc8a42b</crc32>
+    <sha1>04e3e85e5681297cdf07d3f262200ad6e4512564</sha1>
+  </file>
+  <file name="luzhou-moon-mei-xin.thumbs/Luzhou Moon. Mei Xin 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Mei Xin 1080p.mp4</original>
+    <mtime>1703149297</mtime>
+    <size>86055</size>
+    <md5>dbdfb40649d50506d2673e961b309c60</md5>
+    <crc32>188303c4</crc32>
+    <sha1>c2d9c003fba4660c9ef9df5e700e910e1c7f7188</sha1>
+  </file>
+  <file name="luzhou-moon-mei-xin.thumbs/Luzhou Moon. Mei Xin 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Mei Xin 1080p.mp4</original>
+    <mtime>1703149301</mtime>
+    <size>46088</size>
+    <md5>39e0442157030bde9c7ee16b0eb7cf23</md5>
+    <crc32>f1ed5b0b</crc32>
+    <sha1>57a70dfa144c52fc0e1698c4bc696f38c824bcd9</sha1>
+  </file>
+  <file name="luzhou-moon-mei-xin_archive.torrent" source="metadata">
+    <btih>1d563b2abcd5fb81b9dae9275bd778a967f68ff2</btih>
+    <mtime>1717839153</mtime>
+    <size>5128</size>
+    <md5>8492876848b07924e9a3f98a4741718a</md5>
+    <crc32>3cb96009</crc32>
+    <sha1>3390d965ec477c9e2becd30d802955db9d60baeb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="luzhou-moon-mei-xin_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ece9d9584aee67ab95f38af5ab11590a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="luzhou-moon-mei-xin_meta.sqlite" source="original">
+    <mtime>1717837982</mtime>
+    <size>32768</size>
+    <md5>a16f30a6571f81499ce0620d83707187</md5>
+    <crc32>a997e63b</crc32>
+    <sha1>83c1e2c5a181c89fe751cd4e6b77d37a6c1ce772</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="luzhou-moon-mei-xin_meta.xml" source="original">
+    <mtime>1717839145</mtime>
+    <size>3531</size>
+    <md5>57724038d4598d184f0e999ad630dee4</md5>
+    <crc32>9357444e</crc32>
+    <sha1>0a603b124de872afc398ed76a3394b5428209f90</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

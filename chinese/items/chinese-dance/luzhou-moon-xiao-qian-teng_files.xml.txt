@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4" source="original">
+    <mtime>1661672764</mtime>
+    <size>42381811</size>
+    <md5>f8f6cef3b225fcc6390af3e894537f13</md5>
+    <crc32>a0df5990</crc32>
+    <sha1>46a4f25a492f0d8b60bac157ebb657f4606076d4</sha1>
+    <format>MPEG4</format>
+    <length>120.77</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 60fps.mp4</original>
+    <mtime>1697942705</mtime>
+    <size>89867850</size>
+    <md5>a9579eac920ff1e831971f864ff9a85c</md5>
+    <crc32>53b2e7f7</crc32>
+    <sha1>115c8032a2001b7bdb3053ed0e2e241e9c8d86e9</sha1>
+    <length>120.72</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 1080p 60fps.mp4" source="original">
+    <mtime>1697940457</mtime>
+    <size>89867850</size>
+    <md5>b3bee36e066304585d1dabd6e0cb0d8d</md5>
+    <crc32>648bcb7b</crc32>
+    <sha1>c90927ecffe2c34cdfa377e9956776f8e148af68</sha1>
+    <format>MPEG4</format>
+    <length>120.72</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 1440p 60fps.m4a" source="original">
+    <mtime>1697940467</mtime>
+    <size>1956527</size>
+    <md5>0d3577ddc99e1654ab7e80cd4c474d9a</md5>
+    <crc32>d08d9ed0</crc32>
+    <sha1>92c71d3d44b2840177cda028a02aacccc1575799</sha1>
+    <format>MPEG-4 Audio</format>
+    <length>120.81</length>
+    <track>01</track>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 1440p 60fps.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1440p 60fps.webm</original>
+    <mtime>1697942306</mtime>
+    <size>10625468</size>
+    <md5>ba5b7bc582de2c68bf537b27096adb71</md5>
+    <crc32>ff8ab472</crc32>
+    <sha1>768cb741d72c42afa8bd30ebd8b0549378541619</sha1>
+    <length>120.72</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 1440p 60fps.png" source="derivative">
+    <format>PNG</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1440p 60fps.m4a</original>
+    <mtime>1697943470</mtime>
+    <size>37670</size>
+    <md5>7f443318d7032c4cc0da991a6a714b38</md5>
+    <crc32>5f2b41a4</crc32>
+    <sha1>b4fbd54e0280238c663390421d238e0a2a771c83</sha1>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 1440p 60fps.webm" source="original">
+    <mtime>1697940939</mtime>
+    <size>166014018</size>
+    <md5>c786a557856e046987196b201662a19a</md5>
+    <crc32>d8b4a778</crc32>
+    <sha1>ef5e7ca7983c7aff0ccd67dac505f21cc179a908</sha1>
+    <format>WebM</format>
+    <length>120.72</length>
+    <width>2560</width>
+    <height>1440</height>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 3584x2240 Lv A1p05 B252.png" source="original">
+    <mtime>1717851691</mtime>
+    <size>7016946</size>
+    <md5>9f98856749f889409b5473829b33b171</md5>
+    <crc32>f5bf2dd2</crc32>
+    <sha1>0118c6da26bf1dcaa6c453ba081ecf0ea131607f</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 3584x2240 Lv A1p05 B252_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Xiao Qian Teng 3584x2240 Lv A1p05 B252.png</original>
+    <mtime>1717852884</mtime>
+    <size>7761</size>
+    <md5>f79abb18c15f58e6b1b8fa3ebd5ab653</md5>
+    <crc32>59d20c52</crc32>
+    <sha1>85d905224cbd65f61dcf940fae077379de60c41e</sha1>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 3584x2240.png" source="original">
+    <mtime>1717851711</mtime>
+    <size>6745535</size>
+    <md5>4a1dc8b77582fe8412c5a537e0b9ba9d</md5>
+    <crc32>ed4df553</crc32>
+    <sha1>4fd69a5f49e79dbfd511f58fdb61a4b67c27a285</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 3584x2240_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Xiao Qian Teng 3584x2240.png</original>
+    <mtime>1717852881</mtime>
+    <size>7791</size>
+    <md5>606ca57437fda2bc9e8e10c2f612f8f5</md5>
+    <crc32>c844ef12</crc32>
+    <sha1>80ae60809f7357ad3efca6f62942cddf1b564165</sha1>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 3625x2266.jpg" source="original">
+    <mtime>1661672780</mtime>
+    <size>579805</size>
+    <md5>83f9f437efd0f5d35c76b00a42b94b99</md5>
+    <crc32>2fa9c3d4</crc32>
+    <sha1>2e051f403d51b39ecc330f45c593dec2d97a73b3</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Luzhou Moon. Xiao Qian Teng 3625x2266_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Luzhou Moon. Xiao Qian Teng 3625x2266.jpg</original>
+    <mtime>1661672939</mtime>
+    <size>8667</size>
+    <md5>d981fddaafb42b131f88827bb4820c1a</md5>
+    <crc32>84c057ee</crc32>
+    <sha1>ea4ac0f86badc80fec2905279f3c1e03bf5fb847</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717853971</mtime>
+    <size>12982</size>
+    <md5>8f0d0da009391fa59586aca59a22dadf</md5>
+    <crc32>1ff330d2</crc32>
+    <sha1>0dfffb5ffb87dd8015bb094f249ec6389d5dbd69</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1697944647</mtime>
+    <size>78953</size>
+    <md5>691efd0dc97a97467c455647e3c214cd</md5>
+    <crc32>82316706</crc32>
+    <sha1>213d0025eba5011bcb44607b2a7976f3f0dad5ad</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1697944661</mtime>
+    <size>108667</size>
+    <md5>1f24da63d4ab08253e40bd04d74ec416</md5>
+    <crc32>0e4aff49</crc32>
+    <sha1>0e9685382d9b061b5cb97b4d51eb41621bed9e79</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1697944675</mtime>
+    <size>84806</size>
+    <md5>cbb6b48a4dd02e6f8a4fcb994882123c</md5>
+    <crc32>8943638d</crc32>
+    <sha1>c4a8e5be420e81452ae14ac5528f212b0186fbd1</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1697944690</mtime>
+    <size>100845</size>
+    <md5>2881a5d6632dd3892901d6d995273bf1</md5>
+    <crc32>9f299422</crc32>
+    <sha1>8c7481d3642e7220542d3e0c96f861323a0f7f34</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 60fps.mp4</original>
+    <mtime>1697941217</mtime>
+    <size>79548</size>
+    <md5>a1172cc1b2f316231718354a1232861b</md5>
+    <crc32>80cf7682</crc32>
+    <sha1>cdc62339500b5d7318c85a09d15cc329465efa00</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 60fps.mp4</original>
+    <mtime>1697941227</mtime>
+    <size>92026</size>
+    <md5>f4469d62efeb7fda9231fc802968c3de</md5>
+    <crc32>31b0ddba</crc32>
+    <sha1>e3bfe31741f4bf09332b1c5e37cff5d4349b2884</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 60fps.mp4</original>
+    <mtime>1697941236</mtime>
+    <size>102599</size>
+    <md5>bbd8047c58cf475e3a8bc05d95d459c1</md5>
+    <crc32>c8d6974d</crc32>
+    <sha1>616abb6ed77e904d677a273a14dc46bcbbd0431b</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p 60fps_000116.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 60fps.mp4</original>
+    <mtime>1697941244</mtime>
+    <size>150375</size>
+    <md5>f87f83519b096381b4d27b8daad5cddb</md5>
+    <crc32>887f86de</crc32>
+    <sha1>b514a5aa6c3c6591a04eb8b2b59ae554c78c7c0b</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1661672819</mtime>
+    <size>78953</size>
+    <md5>691efd0dc97a97467c455647e3c214cd</md5>
+    <crc32>82316706</crc32>
+    <sha1>213d0025eba5011bcb44607b2a7976f3f0dad5ad</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1661672823</mtime>
+    <size>108667</size>
+    <md5>1f24da63d4ab08253e40bd04d74ec416</md5>
+    <crc32>0e4aff49</crc32>
+    <sha1>0e9685382d9b061b5cb97b4d51eb41621bed9e79</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1661672826</mtime>
+    <size>84806</size>
+    <md5>cbb6b48a4dd02e6f8a4fcb994882123c</md5>
+    <crc32>8943638d</crc32>
+    <sha1>c4a8e5be420e81452ae14ac5528f212b0186fbd1</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1080p 30fps.mp4</original>
+    <mtime>1661672830</mtime>
+    <size>100845</size>
+    <md5>2881a5d6632dd3892901d6d995273bf1</md5>
+    <crc32>9f299422</crc32>
+    <sha1>8c7481d3642e7220542d3e0c96f861323a0f7f34</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1440p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1440p 60fps.webm</original>
+    <mtime>1697941430</mtime>
+    <size>82766</size>
+    <md5>12a28670d3c83e01d22e9568eb502af9</md5>
+    <crc32>34605daf</crc32>
+    <sha1>56502d376634374125fa0bb90993665a442d1148</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1440p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1440p 60fps.webm</original>
+    <mtime>1697941452</mtime>
+    <size>96181</size>
+    <md5>7d745e413ffcd6306d175374238e3270</md5>
+    <crc32>5509801a</crc32>
+    <sha1>8fa0a80e4168a171c0ea9a91ea41459e60320d36</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1440p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1440p 60fps.webm</original>
+    <mtime>1697941474</mtime>
+    <size>106312</size>
+    <md5>24b4b7ad091b655c4a420e74f3036545</md5>
+    <crc32>76d78c01</crc32>
+    <sha1>394d6fe7c0b701484e024a0e6afabd18d2a62162</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng.thumbs/Luzhou Moon. Xiao Qian Teng 1440p 60fps_000116.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Luzhou Moon. Xiao Qian Teng 1440p 60fps.webm</original>
+    <mtime>1697941494</mtime>
+    <size>153099</size>
+    <md5>d6c6b40102e0ab47b85dd79a38d82902</md5>
+    <crc32>a3cc67f0</crc32>
+    <sha1>d7ab6b3d4efa5030e9a8a6f1cb3f1123a4723135</sha1>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng_archive.torrent" source="metadata">
+    <btih>97ca8555e5ae63cfbc3e96d63d55d43a1cb1e935</btih>
+    <mtime>1717853975</mtime>
+    <size>20216</size>
+    <md5>64c73eb850eae0d6fe14e6d9eefa17d5</md5>
+    <crc32>c4b72e7a</crc32>
+    <sha1>3c0c28de653bd46165f4c54b08f1c5d7d9fd7d53</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5a7811da301b94c4d2d8350292c015b0</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng_meta.sqlite" source="original">
+    <mtime>1717851730</mtime>
+    <size>40960</size>
+    <md5>90d6942f6662b0481d5c6a4b48bd38f9</md5>
+    <crc32>cd490576</crc32>
+    <sha1>7e36321f29a8573d56e30470df62a4b480787582</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="luzhou-moon-xiao-qian-teng_meta.xml" source="original">
+    <mtime>1717853954</mtime>
+    <size>4197</size>
+    <md5>95bb5b1f916a3a0fecdf773c9dd796f9</md5>
+    <crc32>1628de55</crc32>
+    <sha1>135e3f3aa3f3472c6705698de6f160c8a1879faa</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
