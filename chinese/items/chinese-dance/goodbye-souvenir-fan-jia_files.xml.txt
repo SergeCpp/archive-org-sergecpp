@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Goodbye Souvenir. Fan Jia 1080p.mp4" source="original">
+    <mtime>1741160718</mtime>
+    <size>60682527</size>
+    <md5>1b36be2e9dc0377308b153e1521e2019</md5>
+    <crc32>89eeb8ff</crc32>
+    <sha1>83dda2fc222a586379e0ce5008e3f51f619b5323</sha1>
+    <format>MPEG4</format>
+    <length>239.13</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Goodbye Souvenir. Fan Jia 960x600 BL60_itemimage.png" source="original">
+    <mtime>1741159961</mtime>
+    <size>721456</size>
+    <md5>fbe3211307b337a5c373365200a97609</md5>
+    <crc32>20fb4236</crc32>
+    <sha1>2ed67d48ade64a9e6acd4ad874129192575de52a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Goodbye Souvenir. Fan Jia 960x600.png" source="original">
+    <mtime>1741159977</mtime>
+    <size>710693</size>
+    <md5>4965d98cd1955e54864793d763a05edc</md5>
+    <crc32>9470eb52</crc32>
+    <sha1>147f01897a1ec8b5e18a516ea05afecf48d027e0</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Goodbye Souvenir. Fan Jia 960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Goodbye Souvenir. Fan Jia 960x600.png</original>
+    <mtime>1741160817</mtime>
+    <size>7552</size>
+    <md5>badbca91254a03d42646e35a8d2ff276</md5>
+    <crc32>bf9485d9</crc32>
+    <sha1>4a4c1704d6af945eefcfb7dd05cf17e4515fc3ca</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1741160019</mtime>
+    <size>12477</size>
+    <md5>22ebb129c8411ea932ca88cf7d6b5009</md5>
+    <crc32>e7f48556</crc32>
+    <sha1>b13a031d38b1b2617bc5939c9c24060842d34d14</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160763</mtime>
+    <size>51213</size>
+    <md5>92ef0125b34a24a0b1ce92d11e0902e2</md5>
+    <crc32>a89d8173</crc32>
+    <sha1>82e1625fadec7a90856a70b7555d4e51488a81b5</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160768</mtime>
+    <size>39676</size>
+    <md5>e4747a57a5cfe4c8428ba1fbde05566b</md5>
+    <crc32>5f19ac19</crc32>
+    <sha1>7fa2425650a066747d2bd8189834a6d37e3fadca</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160773</mtime>
+    <size>58080</size>
+    <md5>f6780e6a7163f8add5826d1d7b83878f</md5>
+    <crc32>c8ff7873</crc32>
+    <sha1>803edf1b0decb55207a55abe80d9392706fbee62</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160778</mtime>
+    <size>59879</size>
+    <md5>beffa3f234f1fb84bcb7e4ae49c87bbf</md5>
+    <crc32>bb3dcf3f</crc32>
+    <sha1>c67f3e047e54dd974521e8a90d951a6a85741151</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160783</mtime>
+    <size>61175</size>
+    <md5>4a52ebded4fce5e58ac2ef3301a4e8e3</md5>
+    <crc32>ab365779</crc32>
+    <sha1>12fca2992d67c7943238e75add48acc3306059fb</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160788</mtime>
+    <size>59279</size>
+    <md5>f64d40680f4a534a779c13276976f50e</md5>
+    <crc32>39675195</crc32>
+    <sha1>0dc73972a6a9d6cf8b11568e3906901b673249b3</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160793</mtime>
+    <size>59771</size>
+    <md5>f3e2f999ba8b10ce525d84da1cb6b641</md5>
+    <crc32>2f08da88</crc32>
+    <sha1>731b91611adb30344655b58865b868926cbc3624</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia.thumbs/Goodbye Souvenir. Fan Jia 1080p_000235.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Goodbye Souvenir. Fan Jia 1080p.mp4</original>
+    <mtime>1741160798</mtime>
+    <size>59508</size>
+    <md5>85a92b68180389d2adffbfee3b745eed</md5>
+    <crc32>c11a405e</crc32>
+    <sha1>d88672ffaab92474176a417f1a8535d54ea5ff41</sha1>
+  </file>
+  <file name="goodbye-souvenir-fan-jia_archive.torrent" source="metadata">
+    <btih>b09d835fef706a4ed09b95886758a97a4c62e0af</btih>
+    <mtime>1741210335</mtime>
+    <size>4903</size>
+    <md5>73739f418bbb8db0f803720061ab9da8</md5>
+    <crc32>302084f0</crc32>
+    <sha1>20ad1e0bee9de0c54af8aefc740e06460e958a77</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="goodbye-souvenir-fan-jia_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c55dafec5b7716fdec96b80dffe807f7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="goodbye-souvenir-fan-jia_meta.sqlite" source="original">
+    <mtime>1741160724</mtime>
+    <size>45056</size>
+    <md5>d1f5531d9dfa7253a1122a7768f5fbb6</md5>
+    <crc32>332b96d7</crc32>
+    <sha1>816f497492a56619e3d7daf9c658c80a0d40cd38</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="goodbye-souvenir-fan-jia_meta.xml" source="original">
+    <mtime>1741210334</mtime>
+    <size>3234</size>
+    <md5>0663b5c546051d6583020714dbafcaa5</md5>
+    <crc32>f8db99e8</crc32>
+    <sha1>3cbae18762e0da70f7b0e31b623bfc2fe4779d88</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

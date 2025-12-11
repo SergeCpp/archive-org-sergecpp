@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4" source="original">
+    <mtime>1735310360</mtime>
+    <size>71571519</size>
+    <md5>2c282d9790c6c9ed3122dead08b5954c</md5>
+    <crc32>fe40327d</crc32>
+    <sha1>7040ec3ba81b1ffa04cce8c08133701053ec4a35</sha1>
+    <format>MPEG4</format>
+    <length>239.77</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Good Morning Friday. Xue Ci 2021-01-16 2080x1300_itemimage.png" source="original">
+    <mtime>1735309514</mtime>
+    <size>2615331</size>
+    <md5>a97b460f2bcb175e35c2c9ba3b245bba</md5>
+    <crc32>28ac2f41</crc32>
+    <sha1>6013e33495818b4c9c4b5bdce571bfc0ff21f7ce</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Good Morning Friday. Xue Ci 2021-01-16 2160x1350.jpg" source="original">
+    <mtime>1735309528</mtime>
+    <size>274704</size>
+    <md5>04d38586897f06aaf7286c1806ec68fd</md5>
+    <crc32>afa9b4a1</crc32>
+    <sha1>41592cc8054244becb4a1495e1d5e44bd3d450cc</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Good Morning Friday. Xue Ci 2021-01-16 2160x1350_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 2160x1350.jpg</original>
+    <mtime>1735310572</mtime>
+    <size>8434</size>
+    <md5>46b2523da031dac7bef6952a99878a19</md5>
+    <crc32>c81b48d2</crc32>
+    <sha1>c7cf1a2eeb6c43a08bcbc231f57a2bf1ba66da36</sha1>
+  </file>
+  <file name="Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4" source="original">
+    <mtime>1735311511</mtime>
+    <size>60645561</size>
+    <md5>a4773a0a76ac198420d57525dd41e05f</md5>
+    <crc32>e6d1e1ee</crc32>
+    <sha1>671162dc6ac971cc67d7a82369f9282f35989d61</sha1>
+    <format>MPEG4</format>
+    <length>203.16</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Good Morning Friday. Xue Ci. Advert. 2021-01-01 6090x3806.jpg" source="original">
+    <mtime>1735310965</mtime>
+    <size>2371006</size>
+    <md5>e8b2f441a997f4ff9c7b067a6f081363</md5>
+    <crc32>442544e1</crc32>
+    <sha1>9306db928eddee61e43d36a631374aea128a3c43</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Good Morning Friday. Xue Ci. Advert. 2021-01-01 6090x3806_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 6090x3806.jpg</original>
+    <mtime>1735311605</mtime>
+    <size>9297</size>
+    <md5>781e78dc12a77e063e99a31653d8797a</md5>
+    <crc32>64f0d967</crc32>
+    <sha1>65035f3527a0c666df70ce06a59a0b5d710c3819</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1735309569</mtime>
+    <size>14201</size>
+    <md5>196bafd44d2c174202bd6b3bb509575b</md5>
+    <crc32>032c448b</crc32>
+    <sha1>cfc4c54af4c394a53fb0c224d289d813345025a2</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310531</mtime>
+    <size>32860</size>
+    <md5>1ec371868d8ef309c02ebd53f19422d3</md5>
+    <crc32>17b0687e</crc32>
+    <sha1>27a795704dc90918a79c80d63bc9745adeaf4342</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310533</mtime>
+    <size>34626</size>
+    <md5>9f902e34fcd2fe7b8a02df7e5fe16026</md5>
+    <crc32>cd8e893f</crc32>
+    <sha1>5508c80e2f459bb505fe2cd6f9e267954ad9db09</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310536</mtime>
+    <size>57168</size>
+    <md5>3bd284bfc32380ff44ea670a99811698</md5>
+    <crc32>a0fd8475</crc32>
+    <sha1>7e011ddd09c2b1045a47e2851d8aa1164bc82359</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310539</mtime>
+    <size>53709</size>
+    <md5>9c5816bd1feaecd56fba549decf9d587</md5>
+    <crc32>159fd6fc</crc32>
+    <sha1>f24c867c448e97f65fdaff2e62344ebc70d2dec3</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310542</mtime>
+    <size>54827</size>
+    <md5>e6b0215981ab2029215ec31a255639bf</md5>
+    <crc32>e1599436</crc32>
+    <sha1>eb05a3c5744d11ebe1793ab2cea75facbfc8ddb7</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310544</mtime>
+    <size>57519</size>
+    <md5>f2ab29245037ec83c9d82ee2e638b274</md5>
+    <crc32>d6404a88</crc32>
+    <sha1>55cd6f5290f69fd9a98619f61e58c605eacc3126</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310547</mtime>
+    <size>58718</size>
+    <md5>fe126c0450a8d64ff6e8c135deac4432</md5>
+    <crc32>f26fb6c0</crc32>
+    <sha1>92da512b1804d00ad3b92fc68e0062cc8661be5c</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci 2021-01-16 1080p_000235.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci 2021-01-16 1080p.mp4</original>
+    <mtime>1735310550</mtime>
+    <size>56783</size>
+    <md5>75c5cde8cd6b2c5e9eee2a6818d2d3a5</md5>
+    <crc32>304ccf45</crc32>
+    <sha1>c1ff3be12b0086981383773b5a87215fe0da66ef</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4</original>
+    <mtime>1735311547</mtime>
+    <size>36261</size>
+    <md5>0bde16125241cf8def58573c39bf9f73</md5>
+    <crc32>101c52c6</crc32>
+    <sha1>5c844a34638a0c2d84a7da621f5ec2ff10fb34ac</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4</original>
+    <mtime>1735311549</mtime>
+    <size>47396</size>
+    <md5>7d02b9c90b3ab407ab3cf76bbd89e1fe</md5>
+    <crc32>eba7eb68</crc32>
+    <sha1>0a52d6059fa844707db9771f8a711993ff8d9faa</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4</original>
+    <mtime>1735311552</mtime>
+    <size>54731</size>
+    <md5>38dd69b3d89f749c8a62c41c3bbf0dcb</md5>
+    <crc32>43a93280</crc32>
+    <sha1>13de29a32ca7a756e53781635accad0b1e345e98</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4</original>
+    <mtime>1735311554</mtime>
+    <size>62736</size>
+    <md5>63a9bfc71f3edcb398cdc1aae313e34d</md5>
+    <crc32>c6003e88</crc32>
+    <sha1>8d981d1c06d3c360f21d5ad7d5871e17e01f74b3</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4</original>
+    <mtime>1735311556</mtime>
+    <size>54239</size>
+    <md5>c6963e80633426d4e343dd1853c50070</md5>
+    <crc32>40422a3a</crc32>
+    <sha1>5160d6c85459765b96af26e02dd7e92326d73812</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4</original>
+    <mtime>1735311559</mtime>
+    <size>65420</size>
+    <md5>4d3d4b9b4cef372646619775de3d70ff</md5>
+    <crc32>74df3494</crc32>
+    <sha1>cf33113d7862b5bc44a62b7983d5be36833c8266</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci.thumbs/Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p_000200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Good Morning Friday. Xue Ci. Advert. 2021-01-01 1080p.mp4</original>
+    <mtime>1735311561</mtime>
+    <size>67874</size>
+    <md5>bb2f64c7940ec05d50cb552875f9b444</md5>
+    <crc32>36dc85c8</crc32>
+    <sha1>79695d64550a3bcd6b2964a839c9ad6c35b94d90</sha1>
+  </file>
+  <file name="good-morning-friday-xue-ci_archive.torrent" source="metadata">
+    <btih>d9c99fc680b557fa9351c6650daa18f245c0ef96</btih>
+    <mtime>1735311642</mtime>
+    <size>8506</size>
+    <md5>9bb3225506dee66df734ded65066fd55</md5>
+    <crc32>f2b4d37b</crc32>
+    <sha1>c04ee693744f399748a18cf2ec4b42cd137a84af</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="good-morning-friday-xue-ci_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>452893bf58437a3fcb117eeeefefe220</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="good-morning-friday-xue-ci_meta.sqlite" source="original">
+    <mtime>1735311515</mtime>
+    <size>45056</size>
+    <md5>65d893c7b4d42069ec2fe8bdf976fbce</md5>
+    <crc32>bb4a5857</crc32>
+    <sha1>82245d19679a280ac0f2406786902e11fb9713b4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="good-morning-friday-xue-ci_meta.xml" source="original">
+    <mtime>1735309526</mtime>
+    <size>3057</size>
+    <md5>2dce5de5766d1b6bc60e629b719cfbda</md5>
+    <crc32>8c04fd72</crc32>
+    <sha1>be504656bb35b07f2b47d0c8796dcb8eb15c46b3</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

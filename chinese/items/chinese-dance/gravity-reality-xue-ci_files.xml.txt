@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Gravity-Reality. Xue Ci 1080p.mp4" source="original">
+    <mtime>1735714182</mtime>
+    <size>34864583</size>
+    <md5>e8b55c9378d8425acb12d95341474480</md5>
+    <crc32>06a60322</crc32>
+    <sha1>ae6bdfc067cc68d2788cf3ffa4dc5cbc9ed2ed80</sha1>
+    <format>MPEG4</format>
+    <length>94.57</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Gravity-Reality. Xue Ci 960x600 Lv25 BL75-125_itemimage.png" source="original">
+    <mtime>1735713845</mtime>
+    <size>895551</size>
+    <md5>f8e2f8b72552c6383bc31672b240935d</md5>
+    <crc32>fdca57a2</crc32>
+    <sha1>d50ecadf1d4bbe20f6eb51f83683573610334215</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Gravity-Reality. Xue Ci 960x600.png" source="original">
+    <mtime>1735713865</mtime>
+    <size>806549</size>
+    <md5>932905d8a7f51d85f794f06f4239b34f</md5>
+    <crc32>f38b631f</crc32>
+    <sha1>0dacc607d1a86f21f854df60f7058c19137ead43</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Gravity-Reality. Xue Ci 960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Gravity-Reality. Xue Ci 960x600.png</original>
+    <mtime>1735714302</mtime>
+    <size>7983</size>
+    <md5>40adc2da9031f353347b5ca168f4fd2e</md5>
+    <crc32>14b27f69</crc32>
+    <sha1>43e62d8e390b5dbf2fe59ec990be39baa63af93a</sha1>
+  </file>
+  <file name="Yellow Windmill Park. Fuzhou 1 800x533.jpg" source="original">
+    <mtime>1735713871</mtime>
+    <size>426631</size>
+    <md5>975fc82a0d97a10585064461863e918a</md5>
+    <crc32>1f617f00</crc32>
+    <sha1>706d958ee1fc04a1502ef2f4941979d0b9fe0391</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Yellow Windmill Park. Fuzhou 1 800x533_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yellow Windmill Park. Fuzhou 1 800x533.jpg</original>
+    <mtime>1735714309</mtime>
+    <size>17648</size>
+    <md5>bc1f8238014714caa44e3ff938528bb2</md5>
+    <crc32>e791f7e9</crc32>
+    <sha1>f55c938a71cbf8713da95d09b85f7d999527cae3</sha1>
+  </file>
+  <file name="Yellow Windmill Park. Fuzhou 2 800x533.jpg" source="original">
+    <mtime>1735713879</mtime>
+    <size>482219</size>
+    <md5>37a635e1454fad9a68c0bae4b94de45b</md5>
+    <crc32>23e38449</crc32>
+    <sha1>9717aa34363473d080339ec25379bb600b879017</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Yellow Windmill Park. Fuzhou 2 800x533_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yellow Windmill Park. Fuzhou 2 800x533.jpg</original>
+    <mtime>1735714314</mtime>
+    <size>18252</size>
+    <md5>cd165e30b6b7696849c7cc09e1599266</md5>
+    <crc32>d0f3a5fc</crc32>
+    <sha1>8db239bb0d00b4583babe6e4bd7a5c6bae38fab3</sha1>
+  </file>
+  <file name="Yellow Windmill Park. Fuzhou 3 800x533.jpg" source="original">
+    <mtime>1735713888</mtime>
+    <size>472209</size>
+    <md5>49837122678529c552756bfda6bf1db2</md5>
+    <crc32>5637c4c4</crc32>
+    <sha1>db674f669156e53f11a75eef92b15a3176743de1</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Yellow Windmill Park. Fuzhou 3 800x533_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yellow Windmill Park. Fuzhou 3 800x533.jpg</original>
+    <mtime>1735714319</mtime>
+    <size>17873</size>
+    <md5>a27bb653f3cfe4886206bfc1e3df19ac</md5>
+    <crc32>ec4ad1ac</crc32>
+    <sha1>537a34a02ca76201bf67efa1f1fb1e0344c2d63e</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1735713924</mtime>
+    <size>14956</size>
+    <md5>b05d06ce1216b83fe451331b9ddfd927</md5>
+    <crc32>f22b5767</crc32>
+    <sha1>67d7da6b13ace0bfaa0f06ad248f660fa24c129d</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714277</mtime>
+    <size>49772</size>
+    <md5>2bf6c91f2e64d7046dca8b921b521d98</md5>
+    <crc32>0ad37ab4</crc32>
+    <sha1>10d8f157fd49a0360abecf87003c0a42ad5f5894</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714277</mtime>
+    <size>72727</size>
+    <md5>ca34d099258fc99f05160764852835f0</md5>
+    <crc32>07f0a8dc</crc32>
+    <sha1>c4db459caea7481a5cc7661bf137a40b4ba69e57</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714278</mtime>
+    <size>77314</size>
+    <md5>fbf80cd477620872a0faa1227d67d88f</md5>
+    <crc32>f3c726e4</crc32>
+    <sha1>9f4c60d50af31b7a2aa9a3bd78655e2c8039265b</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714278</mtime>
+    <size>98885</size>
+    <md5>cff5a57af83b199e28e4c0c9e53e2d0d</md5>
+    <crc32>1f736614</crc32>
+    <sha1>a105566cfa2ffa889fe6bc8a00b49badd8745d6f</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714279</mtime>
+    <size>101197</size>
+    <md5>059c45f837a6f3bf2c8045b0ee6cf59b</md5>
+    <crc32>8ac4d024</crc32>
+    <sha1>8eeae0339fdad4b1e6d7d818112f32ce749b232b</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714279</mtime>
+    <size>49336</size>
+    <md5>e837b908e838f3cb518af6b11efb3a84</md5>
+    <crc32>ff0ff8db</crc32>
+    <sha1>e45082a06e9978bf8942a924af07c4f06e848a90</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714280</mtime>
+    <size>102146</size>
+    <md5>a55b882966cbd5b44e6a35f5d430d579</md5>
+    <crc32>de19385c</crc32>
+    <sha1>e7d376558b0ca6394b33dc287a86e544ae111493</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714280</mtime>
+    <size>101618</size>
+    <md5>50edbae788a50f2d39fde81f94350ef5</md5>
+    <crc32>31101c79</crc32>
+    <sha1>d594f9323a0bcf19b8c4db0c84fea4b1f4de637f</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714281</mtime>
+    <size>98192</size>
+    <md5>94dd1ccf2b8147e32fabd6aa03f2d9e6</md5>
+    <crc32>08fff3d3</crc32>
+    <sha1>e33a523470fcbf71b700124168bb92253808ccbb</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714281</mtime>
+    <size>98267</size>
+    <md5>410740ffab85d4d7157213f84b823342</md5>
+    <crc32>ff3aad97</crc32>
+    <sha1>0498711e5d751ebebbfd96a66d2ea2f1f7a8691c</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714282</mtime>
+    <size>91784</size>
+    <md5>2bfcd71b0e58cbf0975fc189c1a55313</md5>
+    <crc32>e9bf6fea</crc32>
+    <sha1>006b4d450cb4dc59986a3ef8ce8797ca2900020c</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714282</mtime>
+    <size>90173</size>
+    <md5>3f4d79d810098b6ba791e8fae2fa7a30</md5>
+    <crc32>85b3e994</crc32>
+    <sha1>9487d0f0f9f219af1b6a2611c28a29a910f32c22</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714282</mtime>
+    <size>86778</size>
+    <md5>5dc8a11d6c8a45eef807bb9cfe95294d</md5>
+    <crc32>023419a2</crc32>
+    <sha1>0d5619ca557408d3f741a7d7254f016a172a6e82</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714283</mtime>
+    <size>87262</size>
+    <md5>6099ffb245c2eeff21044d70a5bdfb3b</md5>
+    <crc32>ba4971e2</crc32>
+    <sha1>a11bc92b7c3e28a76ca4191c8f791b5b47c4b68d</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714283</mtime>
+    <size>69168</size>
+    <md5>15608d3e12f245fe77d1643365c0d704</md5>
+    <crc32>1f5ebd0a</crc32>
+    <sha1>8d558e3cdce43fede68d4d2a2df21b129db0a5c8</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714284</mtime>
+    <size>67535</size>
+    <md5>20433354a45c5fb824d5ac8f9eb4ccca</md5>
+    <crc32>2b69f801</crc32>
+    <sha1>95dca95530bbc7d2e75fc7043e870c7cc5c8a6fb</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci.thumbs/Gravity-Reality. Xue Ci 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Gravity-Reality. Xue Ci 1080p.mp4</original>
+    <mtime>1735714285</mtime>
+    <size>80028</size>
+    <md5>1679febdfe67fbd6b74bc955e2950f69</md5>
+    <crc32>536c5a04</crc32>
+    <sha1>bfd90da6124f62d60f4ec380c81577d35c287916</sha1>
+  </file>
+  <file name="gravity-reality-xue-ci_archive.torrent" source="metadata">
+    <btih>3e5954899de7ad4fbde390aa4c3370a2c8b21ee1</btih>
+    <mtime>1738385082</mtime>
+    <size>5163</size>
+    <md5>8a18def1fea1be4d08e1fe8e5b7db50a</md5>
+    <crc32>10e58c22</crc32>
+    <sha1>73cf0ee14a8d89b4b300cad18c72e6be94b050a5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="gravity-reality-xue-ci_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>811f7202a3e2bb08b294d0e61c2a8a13</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="gravity-reality-xue-ci_meta.sqlite" source="original">
+    <mtime>1735714187</mtime>
+    <size>57344</size>
+    <md5>49b295eb0821c5a272275ecdb0abd1f5</md5>
+    <crc32>08a23a5c</crc32>
+    <sha1>5e5cdf24e17b2e96c4dd03b134667bc8a9df027d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="gravity-reality-xue-ci_meta.xml" source="original">
+    <mtime>1738385081</mtime>
+    <size>2673</size>
+    <md5>65450dad0d2695a6d3f83ea937c79be6</md5>
+    <crc32>8a9f7cd1</crc32>
+    <sha1>0e5e9239bf0ff2ca29f317e838984ed8a94d954a</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
