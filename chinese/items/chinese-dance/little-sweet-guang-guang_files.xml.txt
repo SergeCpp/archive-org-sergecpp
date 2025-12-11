@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Little Sweet. Guang Guang 1080p 30fps.mp4" source="original">
+    <mtime>1725640674</mtime>
+    <size>42321736</size>
+    <md5>691a862031731b1467f68549ad054968</md5>
+    <crc32>3622f99a</crc32>
+    <sha1>f243fb8f47c468750ddecc386a804e779ff9ce0f</sha1>
+    <format>MPEG4</format>
+    <length>134.83</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Little Sweet. Guang Guang 964x602.jpg" source="original">
+    <mtime>1725640689</mtime>
+    <size>94895</size>
+    <md5>67c940f5016db0a753d7340713840944</md5>
+    <crc32>ee6051ff</crc32>
+    <sha1>172ade85ae0e28cf046f2af764bce348d5d1ca66</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Little Sweet. Guang Guang 964x602_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Little Sweet. Guang Guang 964x602.jpg</original>
+    <mtime>1725643083</mtime>
+    <size>7787</size>
+    <md5>f639ee71086ce234df116ff1e4ed23c3</md5>
+    <crc32>f2a0ca4e</crc32>
+    <sha1>d458d5afbad5398b98368b7c7ee258d4af041ec1</sha1>
+  </file>
+  <file name="Little Sweet. Guang Guang. Vertical Screen 1920p 30fps.mp4" source="original">
+    <mtime>1725640840</mtime>
+    <size>49062408</size>
+    <md5>032c7447e139b05c85d17f58e1a3d89d</md5>
+    <crc32>8f66ad2a</crc32>
+    <sha1>a18f72b19b1ffe17b489bd9686ad4b530d045002</sha1>
+    <format>MPEG4</format>
+    <length>134.83</length>
+    <width>1080</width>
+    <height>1920</height>
+  </file>
+  <file name="Little Sweet. Guang Guang. Vertical Screen 2560x1600 Lv 35 1p05 248.png" source="original">
+    <mtime>1725640850</mtime>
+    <size>3875509</size>
+    <md5>ddb4fb2b8e604154ae0eba53453fd478</md5>
+    <crc32>b88bbe34</crc32>
+    <sha1>b4d823b044bb406b885de7a7704babeabea49922</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Little Sweet. Guang Guang. Vertical Screen 2560x1600 Lv 35 1p05 248_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Little Sweet. Guang Guang. Vertical Screen 2560x1600 Lv 35 1p05 248.png</original>
+    <mtime>1725643081</mtime>
+    <size>7279</size>
+    <md5>d1bb020169a3d1e33e80e9df24d2dca1</md5>
+    <crc32>e0da3f1e</crc32>
+    <sha1>3d46e46b606aa0f5ca67d5ca3e5988b57e5f9872</sha1>
+  </file>
+  <file name="Little Sweet. Guang Guang. Vertical Screen 2560x1600.jpg" source="original">
+    <mtime>1725640860</mtime>
+    <size>291515</size>
+    <md5>47fb0ee736808aa6ef8a839858cc13b3</md5>
+    <crc32>0561be7b</crc32>
+    <sha1>c3c942d3a3166c7195e0ca68e0b2fd7197c9846f</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Little Sweet. Guang Guang. Vertical Screen 2560x1600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Little Sweet. Guang Guang. Vertical Screen 2560x1600.jpg</original>
+    <mtime>1725643087</mtime>
+    <size>7243</size>
+    <md5>c531a66c534261837ace51fdace83f49</md5>
+    <crc32>67b75f91</crc32>
+    <sha1>54487d9812b2f7757c32956f79e5c9d53cd60a7c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1725644968</mtime>
+    <size>12136</size>
+    <md5>a92a5933723cbe1d204fda7e61986e21</md5>
+    <crc32>34d9a3b2</crc32>
+    <sha1>d5d673e5b0c4e380a320f0e17db4d426a2827192</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725641865</mtime>
+    <size>32832</size>
+    <md5>4c1faa337bc616ecb047a5d6fb095498</md5>
+    <crc32>7e0fc8b7</crc32>
+    <sha1>bfb3addbd97e0fa23278df7196974681d3d2e9f9</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725641868</mtime>
+    <size>67319</size>
+    <md5>4ec1abebf257a601726bed439386b32a</md5>
+    <crc32>1b63c252</crc32>
+    <sha1>9789fff6e7608a7e887b5e5e54dd0dc1436b35c3</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725641871</mtime>
+    <size>44530</size>
+    <md5>a44b027440ee3eacdfa5de6c1d823927</md5>
+    <crc32>4737aa0e</crc32>
+    <sha1>363092ab29c93249fc108889e041b6b4fbd55b58</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725641874</mtime>
+    <size>72620</size>
+    <md5>82a5a6658b0c2b8a777afe8f9a450358</md5>
+    <crc32>a5a11726</crc32>
+    <sha1>b5ea35b8209dc28a006ef2b7a42de6e628fa65e3</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang 1080p 30fps_000130.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725641876</mtime>
+    <size>71328</size>
+    <md5>cea766aa21a1e8685df1b961d63503fd</md5>
+    <crc32>b17c9af2</crc32>
+    <sha1>48beced30a2e62e9cfdae16506226e63c3db8fe3</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang. Vertical Screen 1920p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725642129</mtime>
+    <size>52867</size>
+    <md5>327d4ba2d7a25ccbe9985e2f8ee8a70e</md5>
+    <crc32>3987f865</crc32>
+    <sha1>f35b640bd960627928a842cb26a20f2a030ca616</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang. Vertical Screen 1920p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725642133</mtime>
+    <size>115607</size>
+    <md5>43c45b03523e8d46d5e7bef9616e5ca4</md5>
+    <crc32>85f6e172</crc32>
+    <sha1>3cd2b678fcef14087f503b5f890db52cea0021e4</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang. Vertical Screen 1920p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725642136</mtime>
+    <size>89911</size>
+    <md5>f75c49c6afe673ddb56e02c5ef9d5022</md5>
+    <crc32>45e92dff</crc32>
+    <sha1>ce69d4b3c669ed69d9f9c4cb167ae8f014365453</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang. Vertical Screen 1920p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725642141</mtime>
+    <size>117364</size>
+    <md5>53d635a02120e3cd04aafa3284cb41ea</md5>
+    <crc32>1130b5a6</crc32>
+    <sha1>9e124e0c732ec7ec668d5c151109b3c8c0bdef8c</sha1>
+  </file>
+  <file name="little-sweet-guang-guang.thumbs/Little Sweet. Guang Guang. Vertical Screen 1920p 30fps_000130.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Little Sweet. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725642143</mtime>
+    <size>120688</size>
+    <md5>8edaf20c62f8dbd3f2659215bad92fd1</md5>
+    <crc32>bc46eef3</crc32>
+    <sha1>6795c2aba0013aff1788ebb27ce05e608bdb6a56</sha1>
+  </file>
+  <file name="little-sweet-guang-guang_archive.torrent" source="metadata">
+    <btih>6b7c8ef552cecb55b4008f2389da4588d83fe03c</btih>
+    <mtime>1735764852</mtime>
+    <size>7081</size>
+    <md5>5a4d0d74eba98ab30818b00325bc82f4</md5>
+    <crc32>cbadf8f9</crc32>
+    <sha1>b1890b5c527df77a4b5b1c003abd27737745b8ca</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="little-sweet-guang-guang_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d0a2b3cd6e2afbfacd83d18f23c3fbb0</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="little-sweet-guang-guang_meta.sqlite" source="original">
+    <mtime>1725640880</mtime>
+    <size>65536</size>
+    <md5>fd90c1532fcbb66022cf3afc96a324b1</md5>
+    <crc32>fcda2f9f</crc32>
+    <sha1>5c3cdedca166e1c44b3e8e6b82e15be320408543</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="little-sweet-guang-guang_meta.xml" source="original">
+    <mtime>1735764851</mtime>
+    <size>3996</size>
+    <md5>45af029877d7eec42a1e1ef5aa9103d9</md5>
+    <crc32>1cf81a33</crc32>
+    <sha1>982406a478452614223f70927f39d8f6ed1602b8</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

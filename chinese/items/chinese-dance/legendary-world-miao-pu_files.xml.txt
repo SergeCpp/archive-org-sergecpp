@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Legendary World. Miao Pu 1024x640 BL80_itemimage.png" source="original">
+    <mtime>1738470255</mtime>
+    <size>1141087</size>
+    <md5>356ce769fa51b80f817a32a4ed276aa1</md5>
+    <crc32>1cdedbd4</crc32>
+    <sha1>6bff3921069cee911d08383fbb4742a907dece50</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Legendary World. Miao Pu 1024x640.png" source="original">
+    <mtime>1738470281</mtime>
+    <size>1068751</size>
+    <md5>24db98661cf983e0bf3bfacabb5c8f57</md5>
+    <crc32>a344eaf7</crc32>
+    <sha1>916a174b339d33040f5d5f28fc57bab57958911d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Legendary World. Miao Pu 1024x640_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Legendary World. Miao Pu 1024x640.png</original>
+    <mtime>1738475358</mtime>
+    <size>8878</size>
+    <md5>ee353542244c33cfb0f49cc389884756</md5>
+    <crc32>3f7f1b5c</crc32>
+    <sha1>555260fcceba17c435805119e18262196a2f75bc</sha1>
+  </file>
+  <file name="Legendary World. Miao Pu 1080p.mp4" source="original">
+    <mtime>1738470684</mtime>
+    <size>62751179</size>
+    <md5>0fd89114c39760e5746c290cc9e358c3</md5>
+    <crc32>64eb515e</crc32>
+    <sha1>c15fcae34edb04e4fd44b5c7edda3f239ccd3df2</sha1>
+    <format>MPEG4</format>
+    <length>170.28</length>
+    <width>2538</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1738470376</mtime>
+    <size>14940</size>
+    <md5>679924ad4901719b6bbc71118f413246</md5>
+    <crc32>34f68b38</crc32>
+    <sha1>a7fe9d9890cfbe51d5123db5196461c1146b6fea</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="legendary-world-miao-pu.thumbs/Legendary World. Miao Pu 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Legendary World. Miao Pu 1080p.mp4</original>
+    <mtime>1738472545</mtime>
+    <size>46349</size>
+    <md5>ed0f1c4de3128370567e1c85aaab541e</md5>
+    <crc32>89f4156e</crc32>
+    <sha1>2b9298bdd241bbd454d7aef83ce3189ac635d9b8</sha1>
+  </file>
+  <file name="legendary-world-miao-pu.thumbs/Legendary World. Miao Pu 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Legendary World. Miao Pu 1080p.mp4</original>
+    <mtime>1738472555</mtime>
+    <size>49509</size>
+    <md5>efce9c57756a7b67f0b3151681f8cdd0</md5>
+    <crc32>457864a7</crc32>
+    <sha1>0c514b565539abc34024daf37c1e9faa211e6040</sha1>
+  </file>
+  <file name="legendary-world-miao-pu.thumbs/Legendary World. Miao Pu 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Legendary World. Miao Pu 1080p.mp4</original>
+    <mtime>1738472561</mtime>
+    <size>77819</size>
+    <md5>2f4bea9ffbd7f3e6997e89db7b40fdef</md5>
+    <crc32>5b89082c</crc32>
+    <sha1>1caf2a4211bacc2d421d95d4d9c5e324e9e0de99</sha1>
+  </file>
+  <file name="legendary-world-miao-pu.thumbs/Legendary World. Miao Pu 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Legendary World. Miao Pu 1080p.mp4</original>
+    <mtime>1738472567</mtime>
+    <size>40663</size>
+    <md5>569220d6c0f828bd833db06fd0da21c5</md5>
+    <crc32>c96ba238</crc32>
+    <sha1>a94723d088c93dc0c58051960c2ace1596969d55</sha1>
+  </file>
+  <file name="legendary-world-miao-pu.thumbs/Legendary World. Miao Pu 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Legendary World. Miao Pu 1080p.mp4</original>
+    <mtime>1738472572</mtime>
+    <size>63225</size>
+    <md5>3dfdcc17f1acd6b2a2ee8fb680d0d0a7</md5>
+    <crc32>00c63ccc</crc32>
+    <sha1>a11c262476e480008d6b386588a91e89c60ec84e</sha1>
+  </file>
+  <file name="legendary-world-miao-pu.thumbs/Legendary World. Miao Pu 1080p_000170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Legendary World. Miao Pu 1080p.mp4</original>
+    <mtime>1738472576</mtime>
+    <size>62654</size>
+    <md5>6b928539a13a7e150a2c45afff704131</md5>
+    <crc32>0bc967f8</crc32>
+    <sha1>82e4c8d28270c47defc9cca03e5dbf6ab05ab9cd</sha1>
+  </file>
+  <file name="legendary-world-miao-pu_archive.torrent" source="metadata">
+    <btih>c3dd4eb67ac6aa7432943dae36980152a1dd0502</btih>
+    <mtime>1738475633</mtime>
+    <size>5017</size>
+    <md5>081a93eb846a4d5514615e6b2a0e4ee0</md5>
+    <crc32>9ee81e9b</crc32>
+    <sha1>b554ca8530c3ffce43cf4cbe36c967fe473a9dbe</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="legendary-world-miao-pu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>40e19bd03c6f907c3434260b25ed7425</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="legendary-world-miao-pu_meta.sqlite" source="original">
+    <mtime>1738470703</mtime>
+    <size>49152</size>
+    <md5>d8dd3420c8192ba0d16fb51d00463179</md5>
+    <crc32>8bb463c7</crc32>
+    <sha1>d984254b32914a4e210d17fa601050781704dd4d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="legendary-world-miao-pu_meta.xml" source="original">
+    <mtime>1738470299</mtime>
+    <size>3469</size>
+    <md5>14ed1e7511f44f788edb2966491d4c7f</md5>
+    <crc32>0400b039</crc32>
+    <sha1>090ffb8b6d695a765624b9c3a68038dc2ec90f44</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
