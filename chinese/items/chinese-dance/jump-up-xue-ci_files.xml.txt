@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Jump Up. Xue Ci 1080p.mp4" source="original">
+    <mtime>1735756071</mtime>
+    <size>60003865</size>
+    <md5>92b04f1771a256bf31b45bed46a1d41c</md5>
+    <crc32>5e727212</crc32>
+    <sha1>2dd255ca9ec6d7262e7a256b39ed944166e1936d</sha1>
+    <format>MPEG4</format>
+    <length>166.91</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Jump Up. Xue Ci 2432x1520_itemimage.png" source="original">
+    <mtime>1735755642</mtime>
+    <size>4448879</size>
+    <md5>5ec4e2120cdc640d516e16026cb901b8</md5>
+    <crc32>9fb1a550</crc32>
+    <sha1>7d4c5da3674905388417c54f45583d93311d41a9</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1735755702</mtime>
+    <size>15069</size>
+    <md5>4fe0a20770de1af408f7568d9accd02d</md5>
+    <crc32>b58e18a8</crc32>
+    <sha1>b1a430d4e8d42c7de07ecc763c3a423845b6871c</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="jump-up-xue-ci.thumbs/Jump Up. Xue Ci 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Jump Up. Xue Ci 1080p.mp4</original>
+    <mtime>1735756100</mtime>
+    <size>56309</size>
+    <md5>005886c770c61f1a23884c13a3c8f255</md5>
+    <crc32>3e16c861</crc32>
+    <sha1>506599b7d6a3d919dd721d97af6e38ccec0d4484</sha1>
+  </file>
+  <file name="jump-up-xue-ci.thumbs/Jump Up. Xue Ci 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Jump Up. Xue Ci 1080p.mp4</original>
+    <mtime>1735756103</mtime>
+    <size>56465</size>
+    <md5>ca094658d7325b3639af2b452c621959</md5>
+    <crc32>257ec2e5</crc32>
+    <sha1>a1c67b1f9449fcfe984c027a2431711b0269ed9e</sha1>
+  </file>
+  <file name="jump-up-xue-ci.thumbs/Jump Up. Xue Ci 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Jump Up. Xue Ci 1080p.mp4</original>
+    <mtime>1735756107</mtime>
+    <size>75965</size>
+    <md5>3d4bc81763407af5831d70e7532654f6</md5>
+    <crc32>eb877f5f</crc32>
+    <sha1>f42a289aa814099975242864db393177f50cc96d</sha1>
+  </file>
+  <file name="jump-up-xue-ci.thumbs/Jump Up. Xue Ci 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Jump Up. Xue Ci 1080p.mp4</original>
+    <mtime>1735756110</mtime>
+    <size>57073</size>
+    <md5>1114102e83195c9b571c07fdbbbeb21e</md5>
+    <crc32>25fe8c2f</crc32>
+    <sha1>6198237c9986b0c4a1bcfe672df2c7b0c92cb3d6</sha1>
+  </file>
+  <file name="jump-up-xue-ci.thumbs/Jump Up. Xue Ci 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Jump Up. Xue Ci 1080p.mp4</original>
+    <mtime>1735756113</mtime>
+    <size>74871</size>
+    <md5>39eb983622d4f26a9fbd217ef72eef7f</md5>
+    <crc32>49e239de</crc32>
+    <sha1>086bb1995a8da5be1675644f0eab585fbfcbfa9e</sha1>
+  </file>
+  <file name="jump-up-xue-ci.thumbs/Jump Up. Xue Ci 1080p_000165.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Jump Up. Xue Ci 1080p.mp4</original>
+    <mtime>1735756114</mtime>
+    <size>57721</size>
+    <md5>b20979fa925b6486f1d42915ccbe6b51</md5>
+    <crc32>9de47cc4</crc32>
+    <sha1>58c83c870a3c13a885f64e4904179d1775cb619b</sha1>
+  </file>
+  <file name="jump-up-xue-ci_archive.torrent" source="metadata">
+    <btih>12a97488fad40ab0eb7f37428b8a8358747c069d</btih>
+    <mtime>1735756143</mtime>
+    <size>4503</size>
+    <md5>74de304ed3d4a5069258046fc082f7d0</md5>
+    <crc32>5fd3f733</crc32>
+    <sha1>f5642a6c3e05f2eeef50d409f3aa5b853aa66b8c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="jump-up-xue-ci_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>dd06c39d587a1fbe594ea6aca038d96f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="jump-up-xue-ci_meta.sqlite" source="original">
+    <mtime>1735756076</mtime>
+    <size>32768</size>
+    <md5>c243928e4675c0fd24c25b39e411cd8b</md5>
+    <crc32>b933d536</crc32>
+    <sha1>99654a1cbe5380acc41811af4199bad64633fce1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="jump-up-xue-ci_meta.xml" source="original">
+    <mtime>1735755658</mtime>
+    <size>3020</size>
+    <md5>cab927c7ec2c6e0cdbb6684bcd74e401</md5>
+    <crc32>3e43a747</crc32>
+    <sha1>abb1ef523e3de0a9a2e8bfd8a6f7fe4a77678ae8</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
