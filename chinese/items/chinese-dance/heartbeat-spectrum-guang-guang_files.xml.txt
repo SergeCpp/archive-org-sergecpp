@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4" source="original">
+    <mtime>1725610703</mtime>
+    <size>71979075</size>
+    <md5>fd220cfbc93a1c84161eb1a238b9eb4f</md5>
+    <crc32>3325a05c</crc32>
+    <sha1>d7cd85f29602f68d9d95842df02b94b7a6442966</sha1>
+    <format>MPEG4</format>
+    <length>195.61</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725616630</mtime>
+    <size>143467510</size>
+    <md5>66cdab34b13a8fdf5475bfde83208d71</md5>
+    <crc32>72e7abce</crc32>
+    <sha1>f11ec4f6d8643a67d769bb3da0b70782f97328c3</sha1>
+    <length>195.65</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4" source="original">
+    <mtime>1725613484</mtime>
+    <size>143467510</size>
+    <md5>23bd67f86ba07f68d51cebcb6fad0b65</md5>
+    <crc32>d04f05dc</crc32>
+    <sha1>a73251229b60cd1a93d04200b5d69df613bad5ac</sha1>
+    <format>MPEG4</format>
+    <length>195.65</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 3520x2200 L-AT-0-1 R-AT-0-12 BL-40-140.png" source="original">
+    <mtime>1727009534</mtime>
+    <size>6272410</size>
+    <md5>55cb804a50e94b7ae9e2c0864928b0f5</md5>
+    <crc32>4feaee3b</crc32>
+    <sha1>b3703159033921b14008ca12d6c669a38a3482e8</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 3520x2200 L-AT-0-1 R-AT-0-12 BL-40-140_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Heartbeat Spectrum. Guang Guang 3520x2200 L-AT-0-1 R-AT-0-12 BL-40-140.png</original>
+    <mtime>1727009577</mtime>
+    <size>7314</size>
+    <md5>a6d919b73fdbf69bbd2dc6b559c16802</md5>
+    <crc32>e08628ec</crc32>
+    <sha1>cf9f1d755c274a1e21d33774b63da331b134c849</sha1>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 3520x2200.png" source="original">
+    <mtime>1725610759</mtime>
+    <size>4859729</size>
+    <md5>12f54aa274ef6fc8a3ca4899039ae748</md5>
+    <crc32>1240c3d1</crc32>
+    <sha1>a9e19e43a98c00ffcab75dd7dff65f5667578664</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 3520x2200_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Heartbeat Spectrum. Guang Guang 3520x2200.png</original>
+    <mtime>1725611944</mtime>
+    <size>7068</size>
+    <md5>4bb272e480979d65494f8f0632970ab3</md5>
+    <crc32>22ba24e2</crc32>
+    <sha1>9ad0e40359afe736d8a2bdfa90b27a4d2e7ee567</sha1>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 3686x2304.jpg" source="original">
+    <mtime>1725610764</mtime>
+    <size>466584</size>
+    <md5>2f0ea716a5cbab438dd86b64c15c8519</md5>
+    <crc32>bbdf0981</crc32>
+    <sha1>86e6c7d44dde22e6a95d4097606f1ad8eb639707</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang 3686x2304_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Heartbeat Spectrum. Guang Guang 3686x2304.jpg</original>
+    <mtime>1725611947</mtime>
+    <size>7916</size>
+    <md5>9877e4730ffcd7ba70a5c573f11a4574</md5>
+    <crc32>05b0748f</crc32>
+    <sha1>521c101dd8ab181e83c1d52758f34a393e3a07c1</sha1>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4" source="original">
+    <mtime>1725613724</mtime>
+    <size>72000752</size>
+    <md5>3a884f687a85c61a6d3caf086b2b06c9</md5>
+    <crc32>36ea66d4</crc32>
+    <sha1>21c322ad689ad5e68cb8497d7a4e367dea9361b0</sha1>
+    <format>MPEG4</format>
+    <length>195.61</length>
+    <width>1080</width>
+    <height>1920</height>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang. Vertical Screen 3748x2343.jpg" source="original">
+    <mtime>1725613730</mtime>
+    <size>851359</size>
+    <md5>0ef082574af982e97a7d92ce9c880ce9</md5>
+    <crc32>432c60a3</crc32>
+    <sha1>424ad0e7a695c062600c26e9a9c64d948628857f</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Heartbeat Spectrum. Guang Guang. Vertical Screen 3748x2343_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 3748x2343.jpg</original>
+    <mtime>1725617223</mtime>
+    <size>9273</size>
+    <md5>89c75fbe761395507b08415daf9e0b1f</md5>
+    <crc32>297abdf2</crc32>
+    <sha1>4b36a76f0af3adf78171c6ca4b2b27f0e739c23a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1727009822</mtime>
+    <size>12109</size>
+    <md5>ef80513dee142b381eaa6e5c5cb42671</md5>
+    <crc32>9666146a</crc32>
+    <sha1>199206b35a9af81244836e8dd36fbe5d24ee08d2</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725611370</mtime>
+    <size>25672</size>
+    <md5>54adbc8ef801c8ef0afe6bc60f58e4e7</md5>
+    <crc32>44d65d7e</crc32>
+    <sha1>b534caa322cc190d17a9a5ef0af63f4a94e7148e</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725611374</mtime>
+    <size>47572</size>
+    <md5>6e8f1b747ff8f99c60037e362b4893ef</md5>
+    <crc32>abefb19a</crc32>
+    <sha1>4d8b9062b247f26d6970eb32005926ac5048e0f6</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725611378</mtime>
+    <size>44472</size>
+    <md5>a4f9536a15fb580642659b7135250798</md5>
+    <crc32>27e5110d</crc32>
+    <sha1>3ff1cc52df270ac22258da491d77c6e2359a84cc</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725611381</mtime>
+    <size>44633</size>
+    <md5>5ff3950cbe65a8909c47e978e737ec69</md5>
+    <crc32>2b1a4e10</crc32>
+    <sha1>dcedc007d5d0f2bfdb25619cc5ae0c53f76440db</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725611385</mtime>
+    <size>93613</size>
+    <md5>e6d7f2b89548afc9281097130cdec42e</md5>
+    <crc32>0dc2cae5</crc32>
+    <sha1>f58817c517305b685ffd15bae0393b3c4f99d94f</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 30fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725611389</mtime>
+    <size>106882</size>
+    <md5>72c3be0ce65d46a95a051d4a6b4ab686</md5>
+    <crc32>ccce0f6e</crc32>
+    <sha1>30cb0991910f4bee70f699ffbc643f0f515e3e90</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 30fps_000195.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 30fps.mp4</original>
+    <mtime>1725611391</mtime>
+    <size>91946</size>
+    <md5>77d7ce32551ea43052003a939ae59b87</md5>
+    <crc32>62eec90a</crc32>
+    <sha1>4f426bcff71b7cb4a50bb921f7aeb58d291a3f47</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725614350</mtime>
+    <size>23827</size>
+    <md5>4923ea91b4edb76206c11c3294ba1e03</md5>
+    <crc32>cf1dfba3</crc32>
+    <sha1>2f78abd715c9301f9ea86ef7e41472c870b71f41</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 60fps_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725614357</mtime>
+    <size>52527</size>
+    <md5>c07bb4fb42e8a445a0e7d15f84a61f21</md5>
+    <crc32>bdc49202</crc32>
+    <sha1>db2e8f03b0d1a96e248d3e2b33af3448ea2fd407</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725614365</mtime>
+    <size>31084</size>
+    <md5>ad0e0cfb3640188f336fc78bd6a3d5a0</md5>
+    <crc32>1d8c3c12</crc32>
+    <sha1>ef4357f2748e5a8ab2348b9f1bbd0679cf1e5174</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 60fps_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725614372</mtime>
+    <size>43533</size>
+    <md5>b1e821469e3bf062216fd7623b1374d9</md5>
+    <crc32>af69570b</crc32>
+    <sha1>769a698d588c74622f5020ff7f451b2d060b3d5e</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 60fps_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725614380</mtime>
+    <size>82208</size>
+    <md5>5c9b5aea6544a37dac6118ee64f10856</md5>
+    <crc32>73a8bac4</crc32>
+    <sha1>414d115fbbc3c79b33b184623fff0381d9200a08</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 60fps_000177.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725614387</mtime>
+    <size>105409</size>
+    <md5>67f2558895dd5a0fd7cf2f3de5791896</md5>
+    <crc32>90efa8c4</crc32>
+    <sha1>5860c357d9958abe9d0571567d081a118eb03955</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang 1080p 60fps_000195.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang 1080p 60fps.mp4</original>
+    <mtime>1725614392</mtime>
+    <size>93579</size>
+    <md5>20412505bf957b203396ff2d49b34010</md5>
+    <crc32>6d46392e</crc32>
+    <sha1>c807a545d6f31fda44566c9ebbd01bb59ade7d30</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725615256</mtime>
+    <size>45433</size>
+    <md5>05a68d0f0ea854c3b82770e37de7c42f</md5>
+    <crc32>d4ef1cac</crc32>
+    <sha1>6807aba39e3eee6f784c535a701a7086385ceafd</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725615260</mtime>
+    <size>99348</size>
+    <md5>71bd0d0a8434c1d5d647b554700deeba</md5>
+    <crc32>d76f6f23</crc32>
+    <sha1>97012320426c6bab90ff201fd468faccbe7585c4</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725615264</mtime>
+    <size>94506</size>
+    <md5>cf01d39056d2d7929c4de497e49c31e7</md5>
+    <crc32>90140b7c</crc32>
+    <sha1>d63d9a443c2b6862bb8df65d874c3e7355983521</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725615268</mtime>
+    <size>95764</size>
+    <md5>403f742fcc27ced386b966a4e1fa7450</md5>
+    <crc32>72fcb0dd</crc32>
+    <sha1>298aeea0e2a978a394edc457cad9840a51a12af7</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725615272</mtime>
+    <size>160468</size>
+    <md5>04b6d491c48c0644e685fc34620cd209</md5>
+    <crc32>980c2b5e</crc32>
+    <sha1>20f1e1b5b28d684f3ec3da98e70a0ba2c868df51</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725615276</mtime>
+    <size>170872</size>
+    <md5>5ac872208e5bad0871b8e7986a4b60f8</md5>
+    <crc32>53e0719b</crc32>
+    <sha1>d513cd4f2a362bfb4ce736777fa4bd773a8a8f9a</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang.thumbs/Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps_000195.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Heartbeat Spectrum. Guang Guang. Vertical Screen 1920p 30fps.mp4</original>
+    <mtime>1725615278</mtime>
+    <size>145208</size>
+    <md5>60fc1e3bcc6ae4eb3e74d5571fe90e43</md5>
+    <crc32>0712d02a</crc32>
+    <sha1>9a5c184bfbfa48fa001e618902aff449607f6066</sha1>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang_archive.torrent" source="metadata">
+    <btih>72e41aa2e395a2cdc24e0d933ae18f03c40ea0fc</btih>
+    <mtime>1742379670</mtime>
+    <size>21261</size>
+    <md5>d0f7479e43b40697d75883e88e21320d</md5>
+    <crc32>c95e23ab</crc32>
+    <sha1>6a83dc24e5ab09f001200078c3859e930c7a9f2f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ef1687c8a3b1c7e4910d13cfb4fed161</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang_meta.sqlite" source="original">
+    <mtime>1727009986</mtime>
+    <size>69632</size>
+    <md5>0b3acdb7ceb02acdd6526035b095c170</md5>
+    <crc32>263dd7fd</crc32>
+    <sha1>345febfeaa356a4b2d55afd490cfd176ed33d0fd</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="heartbeat-spectrum-guang-guang_meta.xml" source="original">
+    <mtime>1742379666</mtime>
+    <size>6280</size>
+    <md5>3d0fa3fa65f776e4eb613cc5dc749e63</md5>
+    <crc32>75135f6d</crc32>
+    <sha1>394f00647c2b17096300da996e5ea10d9b79146e</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
