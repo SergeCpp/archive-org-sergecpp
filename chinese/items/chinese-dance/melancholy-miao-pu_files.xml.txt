@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Melancholy. Miao Pu 1144x715 BL75_itemimage.png" source="original">
+    <mtime>1740041585</mtime>
+    <size>736618</size>
+    <md5>7c537075a28aa5f07d071a09f7725baf</md5>
+    <crc32>a24d5ffe</crc32>
+    <sha1>531e5d44c053be71c5771684fa19c2bc5ad5cb68</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Melancholy. Miao Pu 1144x715.png" source="original">
+    <mtime>1740041617</mtime>
+    <size>688794</size>
+    <md5>80c490e41ada8f7e217939bdae23d05e</md5>
+    <crc32>e2ddfa24</crc32>
+    <sha1>baa16d8e543162e1edeeef7a85c1977a2635f93e</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Melancholy. Miao Pu 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Melancholy. Miao Pu 1144x715.png</original>
+    <mtime>1740043372</mtime>
+    <size>6832</size>
+    <md5>947b62d8de7b7f14959624285c888748</md5>
+    <crc32>c54aed6b</crc32>
+    <sha1>243575e638c5180ec96c1418576b661e5fbcb881</sha1>
+  </file>
+  <file name="Melancholy. Miao Pu 960p.mp4" source="original">
+    <mtime>1740042797</mtime>
+    <size>99837600</size>
+    <md5>3a74bf109e01ce8575cb03f441403c99</md5>
+    <crc32>d53cdea6</crc32>
+    <sha1>78faa59950d83cf984846bfcff5e44473032ec9b</sha1>
+    <format>MPEG4</format>
+    <length>291.84</length>
+    <width>1920</width>
+    <height>960</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1740041846</mtime>
+    <size>9033</size>
+    <md5>b5c23e1a222cf94b6803d98df5fb017b</md5>
+    <crc32>0fa15b72</crc32>
+    <sha1>c8d39df9e9c4d80d75b2c06a2706ece655de73e1</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043003</mtime>
+    <size>47246</size>
+    <md5>a9b6c35beba9d80254dc103cfe54ff02</md5>
+    <crc32>e6968baa</crc32>
+    <sha1>488bc30f462152a86d88839e5b810f7e62183086</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043007</mtime>
+    <size>51770</size>
+    <md5>4d8b84ba928a51e59ab2bf4b1c9338bd</md5>
+    <crc32>84d44334</crc32>
+    <sha1>86b4c0b266a7905eeab83bbb6431c0996f93ed37</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043010</mtime>
+    <size>65802</size>
+    <md5>15457472e72cc3b33ba6f3de304e8350</md5>
+    <crc32>c6925fd1</crc32>
+    <sha1>1e8bb1b23ed7840b28c3ca76e6b22884872764d3</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043014</mtime>
+    <size>81081</size>
+    <md5>9b176736c908aaef59747648b9a89882</md5>
+    <crc32>5151cc0e</crc32>
+    <sha1>b8e2e98a3d74f03fcf77e714b9556529f6cd24e2</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043017</mtime>
+    <size>34104</size>
+    <md5>1908a9a61abda44cbe2227b4fa74fe9a</md5>
+    <crc32>00af4c0d</crc32>
+    <sha1>7fd2481ffd51c7aa9c96f91e762e7dac076a46e6</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043020</mtime>
+    <size>73647</size>
+    <md5>9314c4d0ff2bb3786f3637b613f497ac</md5>
+    <crc32>0768151c</crc32>
+    <sha1>d02436f22102a2f18a6403df52068bd0d671d9d4</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043024</mtime>
+    <size>43816</size>
+    <md5>5925b9d4eceebcaafa941cc053f9bf75</md5>
+    <crc32>56062d57</crc32>
+    <sha1>5efce5ec8faf64610f5d4745110abceb818f3eab</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043027</mtime>
+    <size>52085</size>
+    <md5>a7e7155085cee802d9f78604b9c5651a</md5>
+    <crc32>a0321a10</crc32>
+    <sha1>eaf01fd27a8d10f95ab08b163482f3acd0219047</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043031</mtime>
+    <size>60389</size>
+    <md5>d65bb4085ac598c13716f4355b772c1b</md5>
+    <crc32>ea0a30de</crc32>
+    <sha1>581182c752ab91e29e2bde7fd9bb5bc164603c6f</sha1>
+  </file>
+  <file name="melancholy-miao-pu.thumbs/Melancholy. Miao Pu 960p_000290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Melancholy. Miao Pu 960p.mp4</original>
+    <mtime>1740043033</mtime>
+    <size>55141</size>
+    <md5>012d41a5eab3226ea5f28e9e0e2edb71</md5>
+    <crc32>43e261e5</crc32>
+    <sha1>91f02df23817b6c24dfdcec14e399cff19e71f78</sha1>
+  </file>
+  <file name="melancholy-miao-pu_archive.torrent" source="metadata">
+    <btih>77115b85067b2937c102723ec5d2ea5f91ba67af</btih>
+    <mtime>1740060994</mtime>
+    <size>6326</size>
+    <md5>64ee5d6c924c7616986dbfe241528f5d</md5>
+    <crc32>7901678f</crc32>
+    <sha1>9680e432e79ef392a8a1bb6be19aabe92318402c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="melancholy-miao-pu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>15a25780d51b99df41413f7ad7b998a7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="melancholy-miao-pu_meta.sqlite" source="original">
+    <mtime>1740042886</mtime>
+    <size>49152</size>
+    <md5>d00cab0fe45964162f30dbc30e326b8e</md5>
+    <crc32>8d77d305</crc32>
+    <sha1>697f16dca7b333ca757b9163fe7892245b4d3616</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="melancholy-miao-pu_meta.xml" source="original">
+    <mtime>1740060993</mtime>
+    <size>4004</size>
+    <md5>4b2bd7c5f9339481ee5bf5726b15ea71</md5>
+    <crc32>513ac8b1</crc32>
+    <sha1>14db0e11ada455362abc3636a92c85f49b657c46</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
