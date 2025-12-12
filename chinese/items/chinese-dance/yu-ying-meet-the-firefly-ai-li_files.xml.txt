@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Meet the Firefly. Ai Li 1080p.mp4" source="original">
+    <mtime>1709553202</mtime>
+    <size>56961282</size>
+    <md5>591bb0d54d6330f9aa26508a3b4d31e8</md5>
+    <crc32>7fa15d33</crc32>
+    <sha1>cde064a2690807025b812f05ff1eb70c9b082a2b</sha1>
+    <format>MPEG4</format>
+    <length>154.41</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Meet the Firefly. Ai Li 1152x720 Lv 15 235 Vibr 20 Sat 120.png" source="original">
+    <mtime>1714456745</mtime>
+    <size>1176471</size>
+    <md5>fcdb0d9cc3d5c0cc6a4a755396881496</md5>
+    <crc32>915dae43</crc32>
+    <sha1>a3222b7bf8e695a779e6a186aacd868405a7f29b</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Meet the Firefly. Ai Li 1152x720 Lv 15 235 Vibr 20 Sat 120_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Meet the Firefly. Ai Li 1152x720 Lv 15 235 Vibr 20 Sat 120.png</original>
+    <mtime>1714457000</mtime>
+    <size>7460</size>
+    <md5>18fff01a8a8b87356ff8ad5ebf913aad</md5>
+    <crc32>8dca1698</crc32>
+    <sha1>9a261514d4a6b761ef8e84dfda30f1060378ea91</sha1>
+  </file>
+  <file name="Meet the Firefly. Ai Li 1152x720.jpg" source="original">
+    <mtime>1709553220</mtime>
+    <size>99639</size>
+    <md5>28fd0cb6809eb36ddc9e60c91427cf5e</md5>
+    <crc32>46eaa0f0</crc32>
+    <sha1>76d5b1ad7703211f5b312e3177bd47ea742a2ecb</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Meet the Firefly. Ai Li 1152x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Meet the Firefly. Ai Li 1152x720.jpg</original>
+    <mtime>1709556144</mtime>
+    <size>7360</size>
+    <md5>cd9975550b2d84660b9fe30977d4f38e</md5>
+    <crc32>7de8e2c2</crc32>
+    <sha1>09431b678f665ac084ceb449372c16fcdf477dbb</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1714457551</mtime>
+    <size>12431</size>
+    <md5>04e91005935febd2afc1dd9e386adbae</md5>
+    <crc32>c0306ae4</crc32>
+    <sha1>50eb961c357e7cef416c8a74384164f97a3d5d71</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li.thumbs/Meet the Firefly. Ai Li 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Meet the Firefly. Ai Li 1080p.mp4</original>
+    <mtime>1709554545</mtime>
+    <size>30613</size>
+    <md5>6b0c6e5dc239b536d64961aaeba661c0</md5>
+    <crc32>4e738dc0</crc32>
+    <sha1>1154ea4891c7039ecae929bed3ba84a0da6d0937</sha1>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li.thumbs/Meet the Firefly. Ai Li 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Meet the Firefly. Ai Li 1080p.mp4</original>
+    <mtime>1709554549</mtime>
+    <size>97665</size>
+    <md5>d468e98ee4bb7390c0f5c21206a92d09</md5>
+    <crc32>47638b00</crc32>
+    <sha1>2ea615d44e9acd669b886d1b6f0fc2e141161b80</sha1>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li.thumbs/Meet the Firefly. Ai Li 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Meet the Firefly. Ai Li 1080p.mp4</original>
+    <mtime>1709554552</mtime>
+    <size>68570</size>
+    <md5>2505dc2c4fd10c663d1e0cb5cad8570e</md5>
+    <crc32>381a116d</crc32>
+    <sha1>2b30f12cf264b1af3b0e4591848493b3c2c99906</sha1>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li.thumbs/Meet the Firefly. Ai Li 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Meet the Firefly. Ai Li 1080p.mp4</original>
+    <mtime>1709554555</mtime>
+    <size>84804</size>
+    <md5>8cdb48e412936e1fb8285b1fa7b27837</md5>
+    <crc32>d9214d1d</crc32>
+    <sha1>91c97a85466ce0ba571adb09ebb0e159035476ab</sha1>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li.thumbs/Meet the Firefly. Ai Li 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Meet the Firefly. Ai Li 1080p.mp4</original>
+    <mtime>1709554559</mtime>
+    <size>76281</size>
+    <md5>1ddfd1202c8e83427704af13bf58728d</md5>
+    <crc32>d49c965e</crc32>
+    <sha1>32ca2b127f47ae407241852de5c2a2d4a786b767</sha1>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li_archive.torrent" source="metadata">
+    <btih>7d8e23d358e7fe4207cf1f2e10d1e5280c26f9d9</btih>
+    <mtime>1722340681</mtime>
+    <size>5091</size>
+    <md5>dc42875a29cee02c8d5f44027364a2c4</md5>
+    <crc32>dbc4eab9</crc32>
+    <sha1>614ea12304d122c6d3e7b32a2b9a2b849c46bc04</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a04011dc0914358aa271356231ab97d0</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li_meta.sqlite" source="original">
+    <mtime>1714457665</mtime>
+    <size>32768</size>
+    <md5>9cdda903f50b734ffe5106f61243e1b9</md5>
+    <crc32>becb25c8</crc32>
+    <sha1>e0bd63897262b4ceadad05a8d274f9152ec6dd49</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yu-ying-meet-the-firefly-ai-li_meta.xml" source="original">
+    <mtime>1722340680</mtime>
+    <size>2394</size>
+    <md5>b9985e09e40a293f276347beb4f37971</md5>
+    <crc32>12ceba83</crc32>
+    <sha1>6569f37f31095f764074b3894bb8ae2e9af6f640</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

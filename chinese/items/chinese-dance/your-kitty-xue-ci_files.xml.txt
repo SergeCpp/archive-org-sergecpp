@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Your Kitty. Xue Ci 1080p.mp4" source="original">
+    <mtime>1735545248</mtime>
+    <size>38863709</size>
+    <md5>830d778b6f8766ea9e0f3845be3e412b</md5>
+    <crc32>c4e49520</crc32>
+    <sha1>8f5cb20dd99c5ad736c4e11f27d718324de0df8e</sha1>
+    <format>MPEG4</format>
+    <length>138.37</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Your Kitty. Xue Ci 960x600_itemimage.png" source="original">
+    <mtime>1735544841</mtime>
+    <size>710713</size>
+    <md5>ed2da8fc5ceccb9d06f22362753db13d</md5>
+    <crc32>87478847</crc32>
+    <sha1>ef23e818491057c9457d71c9274f3c4a2944fc89</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1735544898</mtime>
+    <size>10410</size>
+    <md5>284be25f86a5805391ab4ce92369458d</md5>
+    <crc32>e4966e6c</crc32>
+    <sha1>776c7b19fd25e88aa77e7d97ee6b613567e6fb0f</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="your-kitty-xue-ci.thumbs/Your Kitty. Xue Ci 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Kitty. Xue Ci 1080p.mp4</original>
+    <mtime>1735545287</mtime>
+    <size>23616</size>
+    <md5>85be302b3c8d718bde2a42714b9a2d79</md5>
+    <crc32>cd7341fb</crc32>
+    <sha1>59675853c7102fea6674a307996d30dfddfcf56f</sha1>
+  </file>
+  <file name="your-kitty-xue-ci.thumbs/Your Kitty. Xue Ci 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Kitty. Xue Ci 1080p.mp4</original>
+    <mtime>1735545291</mtime>
+    <size>46340</size>
+    <md5>51e28267ed1d777a47fc4493d582c153</md5>
+    <crc32>96adb883</crc32>
+    <sha1>0d554747f92eb4c3923eb0df69a04d152ecff359</sha1>
+  </file>
+  <file name="your-kitty-xue-ci.thumbs/Your Kitty. Xue Ci 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Kitty. Xue Ci 1080p.mp4</original>
+    <mtime>1735545295</mtime>
+    <size>46002</size>
+    <md5>6ddfcb189a8237c668547be28ae8c75a</md5>
+    <crc32>822c75c4</crc32>
+    <sha1>fb5d50390475baa3fcb3dbf05c84d4cc6c39a53b</sha1>
+  </file>
+  <file name="your-kitty-xue-ci.thumbs/Your Kitty. Xue Ci 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Kitty. Xue Ci 1080p.mp4</original>
+    <mtime>1735545299</mtime>
+    <size>42757</size>
+    <md5>e8a9220c38140578594e5a65bf098177</md5>
+    <crc32>3c8bfbc7</crc32>
+    <sha1>028973c8652f6b28c32b21a84f32cc9980c71ebb</sha1>
+  </file>
+  <file name="your-kitty-xue-ci.thumbs/Your Kitty. Xue Ci 1080p_000135.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Kitty. Xue Ci 1080p.mp4</original>
+    <mtime>1735545301</mtime>
+    <size>46419</size>
+    <md5>6210569a00b76e716f155c11338e6787</md5>
+    <crc32>c111c46c</crc32>
+    <sha1>54fcf56e7ef999173fae11eb5548481ff3420a7b</sha1>
+  </file>
+  <file name="your-kitty-xue-ci_archive.torrent" source="metadata">
+    <btih>24869e031411d6ebab6b5cb8d7d423a34902b67e</btih>
+    <mtime>1735545408</mtime>
+    <size>3573</size>
+    <md5>1cfaedd25b5e4f6c565309ec8fd350a7</md5>
+    <crc32>20ff6dd5</crc32>
+    <sha1>4d878eb0cbc0758e5802f4e3b679daf939a88917</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="your-kitty-xue-ci_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a41c70638d9d6c95a59af402a4eb0f03</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="your-kitty-xue-ci_meta.sqlite" source="original">
+    <mtime>1735545255</mtime>
+    <size>32768</size>
+    <md5>afeeabe4cee6b8553f8b9d89ad8e8eb1</md5>
+    <crc32>f1ba32f6</crc32>
+    <sha1>77fef3d61fabdedc230bf7510b8a0c050cf5a7da</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="your-kitty-xue-ci_meta.xml" source="original">
+    <mtime>1735544854</mtime>
+    <size>2854</size>
+    <md5>1ddcdf992457fa35f78f100584118dcc</md5>
+    <crc32>12514b9d</crc32>
+    <sha1>dadd1442c27259ba2d15a666e0d98bac7621568c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="New Year Gift from Xiangcai Mao Bing 1200x540.jpg" source="original">
+    <mtime>1741421630</mtime>
+    <size>606143</size>
+    <md5>17811d6eb191963d2aadb847c7494837</md5>
+    <crc32>3ca62b2d</crc32>
+    <sha1>a41def19008a61a7e8fa533ace1e3a523cabc70c</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="New Year Gift from Xiangcai Mao Bing 1200x540_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>New Year Gift from Xiangcai Mao Bing 1200x540.jpg</original>
+    <mtime>1741422181</mtime>
+    <size>7476</size>
+    <md5>4e25dacc11de9c19353dc44759ee70db</md5>
+    <crc32>d3f63b8b</crc32>
+    <sha1>df3a093aaaea00b7898a1d9a46caa91d13a3afd8</sha1>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing 1080p.mp4" source="original">
+    <mtime>1741536586</mtime>
+    <size>72617753</size>
+    <md5>5522030e528ecf1e92a7685daaf2c7c5</md5>
+    <crc32>f7785b14</crc32>
+    <sha1>6e2a6b14138ca6aca744d3364df5673ec4d088c2</sha1>
+    <format>MPEG4</format>
+    <length>159.87</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing 3272x2045 Lv R235 G225 B10 BL40-140_itemimage.png" source="original">
+    <mtime>1741421486</mtime>
+    <size>3986011</size>
+    <md5>0e43e0cb5e28dc7ff1bdafb5d44ff99d</md5>
+    <crc32>d0b2ebfd</crc32>
+    <sha1>55e4ad3c37ddfa2a796472510d39ac6c65f24923</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing 3272x2045 Lv R235 G225 B10.png" source="original">
+    <mtime>1741421554</mtime>
+    <size>3734923</size>
+    <md5>ce848b926c16299174b2a3d3ab6b8945</md5>
+    <crc32>a2b50d62</crc32>
+    <sha1>6c491c68879e9414bc7f4417d229e642897abeb7</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing 3272x2045 Lv R235 G225 B10_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 3272x2045 Lv R235 G225 B10.png</original>
+    <mtime>1741422176</mtime>
+    <size>7187</size>
+    <md5>92109b20987660abce523e42647a4fbb</md5>
+    <crc32>63c91078</crc32>
+    <sha1>b2baa3c65824bf24ce5d94ce18508b8fb4508212</sha1>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing 3272x2045.png" source="original">
+    <mtime>1741421609</mtime>
+    <size>3415665</size>
+    <md5>b8f68fd10f63342417bf1ee13dc20b91</md5>
+    <crc32>c75f861f</crc32>
+    <sha1>79eac9261e0305d4ef486b274077bd0bd75491c8</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing 3272x2045_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 3272x2045.png</original>
+    <mtime>1741422171</mtime>
+    <size>6977</size>
+    <md5>9c5ae0e8ea315814f9ea13c38c7a7dc0</md5>
+    <crc32>71b43ea5</crc32>
+    <sha1>65be209a947719499558b686045346b5d64f64ca</sha1>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing 720p.mp4" source="original">
+    <mtime>1741422119</mtime>
+    <size>24098564</size>
+    <md5>1140de98cf9a6fce4a90f17568bcd819</md5>
+    <crc32>75ffe810</crc32>
+    <sha1>03516e4cdd1a12f33df7b06f21c37a2a65c02557</sha1>
+    <format>MPEG4</format>
+    <length>159.83</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741446018</mtime>
+    <size>15844891</size>
+    <md5>f8ee74d81cb805b1627423893fbcb6e2</md5>
+    <crc32>a10b8792</crc32>
+    <sha1>71cf536b32756f10cbf1f55e6ee24d9e7a7d7918</sha1>
+    <length>159.87</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg" source="original">
+    <mtime>1741445484</mtime>
+    <size>195172200</size>
+    <md5>8fac5f58e30df061377ff693f5ef42ec</md5>
+    <crc32>e45781b1</crc32>
+    <sha1>18c7a464f6791d4f04f17c59c56cc1dcccb3bff0</sha1>
+    <format>h.264/MPEG2-TS</format>
+    <length>159.77</length>
+    <width>3840</width>
+    <height>2160</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1741421592</mtime>
+    <size>11521</size>
+    <md5>66ef9de43b67f0096bf454da5f266d26</md5>
+    <crc32>0a0b698e</crc32>
+    <sha1>e2ef3f928302ec6fe538d0cdd51de7495e8b2b81</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741536624</mtime>
+    <size>4677</size>
+    <md5>1fc23faa73c927e49f3474d2ffebff0b</md5>
+    <crc32>a9679e21</crc32>
+    <sha1>aaf811c4f2c157eee0a7be60c18af6c43d7705a7</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741536627</mtime>
+    <size>60711</size>
+    <md5>9ecbc309a70fc735881d65ebb95c9a9d</md5>
+    <crc32>5fdfc2aa</crc32>
+    <sha1>6ac074342ea84fe677848aa554e4ce7acd5722f1</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 1080p_000088.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741536630</mtime>
+    <size>60460</size>
+    <md5>c618d041334e924d618cbeb234596c94</md5>
+    <crc32>7739eda3</crc32>
+    <sha1>7486c481027266e834e717eab2683a04ccf541a8</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 1080p_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741536633</mtime>
+    <size>63907</size>
+    <md5>8e1589f1f36073f8f1e16f63aeed8e4d</md5>
+    <crc32>23feaece</crc32>
+    <sha1>30eb69c55e7fa1b7018c4d980276d9b44a2eee7d</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 1080p_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741536636</mtime>
+    <size>60886</size>
+    <md5>a1ef0525134b846386c09b7b1e5bdfd8</md5>
+    <crc32>7232b49f</crc32>
+    <sha1>65533519428c93399d55a26d7ce5e3b839d51648</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 1080p_000159.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741536637</mtime>
+    <size>61762</size>
+    <md5>0211311b5da082f0452a644bbe67abd7</md5>
+    <crc32>0aa8c43d</crc32>
+    <sha1>4d9ce48e70c52bfd2750e60cd90ebf6f3b8ee13d</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 720p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 720p.mp4</original>
+    <mtime>1741422146</mtime>
+    <size>33139</size>
+    <md5>bb65e549578bbf804e8f5e2d5732eb30</md5>
+    <crc32>389937f0</crc32>
+    <sha1>a1969b08e63bbf667043252530a927b9a10c8018</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 720p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 720p.mp4</original>
+    <mtime>1741422148</mtime>
+    <size>57209</size>
+    <md5>a29a04e5f4a28f6e4c29cc8f297dcf0f</md5>
+    <crc32>9a1cba4e</crc32>
+    <sha1>f49905648e8d6a9fe8745d791174c7369d0380a6</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 720p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 720p.mp4</original>
+    <mtime>1741422150</mtime>
+    <size>39422</size>
+    <md5>30145818c1438f2c4ca78395fe68317a</md5>
+    <crc32>ae06d1ce</crc32>
+    <sha1>2b6691a69532b7b46e1330e3f0970741145d104f</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 720p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 720p.mp4</original>
+    <mtime>1741422151</mtime>
+    <size>47804</size>
+    <md5>89a51e2d2346c9139c57c75f2e032616</md5>
+    <crc32>77ab3a61</crc32>
+    <sha1>74d7af37d6071078152c933f24ef8e513fb7abf2</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 720p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 720p.mp4</original>
+    <mtime>1741422153</mtime>
+    <size>29418</size>
+    <md5>5c52ea95ed41fdf47f2f26ad2e8d1276</md5>
+    <crc32>d120a9e7</crc32>
+    <sha1>f8c3c3f593c6b3a19942d7d4eafa4602d32c64fb</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing 720p_000155.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing 720p.mp4</original>
+    <mtime>1741422154</mtime>
+    <size>57457</size>
+    <md5>43493bb2bde07aff61798dd971b39473</md5>
+    <crc32>f312c18d</crc32>
+    <sha1>ed2683b0b64d5631e4ae6638b97d7cdab581b157</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing. 2160p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741445546</mtime>
+    <size>35976</size>
+    <md5>d1cd8f3e7ea70c285abd13dd25428bb6</md5>
+    <crc32>23f77c72</crc32>
+    <sha1>0cad61d811fe67e79750d77b044ae57086fa3e5b</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing. 2160p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741445558</mtime>
+    <size>62883</size>
+    <md5>360b09774d308440b9bf979deaec7bed</md5>
+    <crc32>90a92f75</crc32>
+    <sha1>f815e989a69469d512badc7f10149f1ffe6d88f0</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing. 2160p_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741445570</mtime>
+    <size>45746</size>
+    <md5>a4465b40db57d49c7590613c638ec3be</md5>
+    <crc32>067e6c19</crc32>
+    <sha1>09b28958cb70b19c32e2bc14ab1e62e06f1bfb48</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing. 2160p_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741445582</mtime>
+    <size>41152</size>
+    <md5>6e35c6d6bb5a0839a52636fffb91431c</md5>
+    <crc32>2f8ade14</crc32>
+    <sha1>d9e4280252244a22168cbe7d0530359ac2032334</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing. 2160p_000151.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741445592</mtime>
+    <size>7106</size>
+    <md5>2f730ec201a8d158fabb29e977b16282</md5>
+    <crc32>2cfeb61b</crc32>
+    <sha1>39c1e7eaf897f6eccef5d5fb9dc4e34664f1e46c</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing.thumbs/Yu Sheng Yan. Xiangcai Mao Bing. 2160p_000157.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741445595</mtime>
+    <size>62348</size>
+    <md5>c03c3e627dcd8556650b8a02be078c95</md5>
+    <crc32>51a8cb71</crc32>
+    <sha1>331180a26f466c5012db18892942fee9ba76cce2</sha1>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing_archive.torrent" source="metadata">
+    <btih>9a1620e12b51e688cf37ca5d1cf75a828a97e8e9</btih>
+    <mtime>1741538970</mtime>
+    <size>16281</size>
+    <md5>758ef1409b442949b67da12c94b421db</md5>
+    <crc32>c52d78b0</crc32>
+    <sha1>ae801fb5b0d4ded58d2b4f2920cab7980a295270</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9c12e0a900f3041ec1e4104baac3541c</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing_meta.sqlite" source="original">
+    <mtime>1741536592</mtime>
+    <size>65536</size>
+    <md5>41dc7225be3f287dc052f85a6b184a5c</md5>
+    <crc32>64dc3bd2</crc32>
+    <sha1>0658dd7d2a0ab220f1b354591b5fa6192d1787aa</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yu-sheng-yan-xiangcai-mao-bing_meta.xml" source="original">
+    <mtime>1741421515</mtime>
+    <size>4460</size>
+    <md5>913267481a06cdd2628ee86aeb924279</md5>
+    <crc32>1c43d40e</crc32>
+    <sha1>19fee3ee333837444286686ef2357568b5eaa03a</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

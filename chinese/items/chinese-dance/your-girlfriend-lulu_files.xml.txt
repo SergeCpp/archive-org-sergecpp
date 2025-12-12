@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Your Girlfriend. Lulu 1080p.mp4" source="original">
+    <mtime>1704276269</mtime>
+    <size>108501381</size>
+    <md5>9d9553717b11aaf91d4224dd7fbe6897</md5>
+    <crc32>5227d9f6</crc32>
+    <sha1>b1b56a45c4314cab55bcf6a75807287f7c4d7039</sha1>
+    <format>MPEG4</format>
+    <length>265.17</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Your Girlfriend. Lulu 1248x780 Lv G25-1p05.png" source="original">
+    <mtime>1718616287</mtime>
+    <size>1271554</size>
+    <md5>ce758b90735847b04f234f42ddbc089e</md5>
+    <crc32>4f84b2e0</crc32>
+    <sha1>934babbcb9e4b02c6446abd6c321613565ceca95</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Your Girlfriend. Lulu 1248x780 Lv G25-1p05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Your Girlfriend. Lulu 1248x780 Lv G25-1p05.png</original>
+    <mtime>1718616411</mtime>
+    <size>7531</size>
+    <md5>0a4d77484437a2ec88a8a215994f77fa</md5>
+    <crc32>8ac6c791</crc32>
+    <sha1>1d6fd800799b89a4ef8e77b1a716c6cb03d8852f</sha1>
+  </file>
+  <file name="Your Girlfriend. Lulu 1248x780.png" source="original">
+    <mtime>1718616294</mtime>
+    <size>1245489</size>
+    <md5>3c7d4e0521391cd6008a78444f4aef3f</md5>
+    <crc32>5db32cd9</crc32>
+    <sha1>d03bfb5126e4aa19496642fe2c90adfa712b7236</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Your Girlfriend. Lulu 1248x780_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Your Girlfriend. Lulu 1248x780.png</original>
+    <mtime>1718616409</mtime>
+    <size>7473</size>
+    <md5>ce458d3091726fe6362e22dc988c2d5a</md5>
+    <crc32>769e2885</crc32>
+    <sha1>a542087d6490efa7191747712dc7b563b363b36c</sha1>
+  </file>
+  <file name="Your Girlfriend. Lulu 1280x800.jpg" source="original">
+    <mtime>1704276284</mtime>
+    <size>118497</size>
+    <md5>86b0c3642c3b0b614f63ea7967db2d65</md5>
+    <crc32>3bc7aaea</crc32>
+    <sha1>6c53b487d8803bc7fba81cbcfdbf9744f5ef5941</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Your Girlfriend. Lulu 1280x800_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Your Girlfriend. Lulu 1280x800.jpg</original>
+    <mtime>1704276510</mtime>
+    <size>7787</size>
+    <md5>9c02229bff062811fe80a8f9fa7b05ed</md5>
+    <crc32>164b9969</crc32>
+    <sha1>b9fcebb11b6ff7a457e99c1663eaef0d22140dc0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718616756</mtime>
+    <size>13522</size>
+    <md5>41f76a1e5d8e3f8599a508bec0bf8fa1</md5>
+    <crc32>ab58fe8d</crc32>
+    <sha1>6a0ac2a30a3712e0c738fa99f007a190ecf685ca</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276401</mtime>
+    <size>56477</size>
+    <md5>8b22260f74c833d63cc09240fc43c2cd</md5>
+    <crc32>4afda0f8</crc32>
+    <sha1>b8ffe8fe70f03295be781868a0eb0582edcf48a0</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276405</mtime>
+    <size>64511</size>
+    <md5>35aab18c2ce192e6c044a79d0a493ba4</md5>
+    <crc32>f99635a0</crc32>
+    <sha1>ff33eed7c14dc4efc34c19cb3533551697aa326c</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276411</mtime>
+    <size>80861</size>
+    <md5>455d08b1d2de447f59b7f4eac8779f31</md5>
+    <crc32>66e94043</crc32>
+    <sha1>da69634def06c490e7f6fe8f492443609b181db9</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000126.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276415</mtime>
+    <size>113551</size>
+    <md5>f71b4246f7457cae444aedbbe015a191</md5>
+    <crc32>30b49638</crc32>
+    <sha1>c2cfcec30964b3a2f5a7a884936301438c132de8</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000156.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276420</mtime>
+    <size>105554</size>
+    <md5>149635a2985c523438ba73ff9a5fcf65</md5>
+    <crc32>577939e1</crc32>
+    <sha1>570e202b4466d84b39bd5d6764b6c9e36d665d57</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000186.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276425</mtime>
+    <size>76595</size>
+    <md5>bb5cb7034bb40d917c5ea1769808eda3</md5>
+    <crc32>97e4b53b</crc32>
+    <sha1>00e8ebe0722260d826b3d25ab396ff24b459834c</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000216.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276429</mtime>
+    <size>81127</size>
+    <md5>b5750e6983ecd3ecf1dc496af5f33f10</md5>
+    <crc32>8ba51361</crc32>
+    <sha1>44454ec344724f6a0760cae1256993b179d559cc</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000246.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276433</mtime>
+    <size>81951</size>
+    <md5>a35f6941ad1fc17200c0bdd7557eb594</md5>
+    <crc32>d9e0beea</crc32>
+    <sha1>a1c4bbaa6800397d39c58a08fbb4f34dbaf78486</sha1>
+  </file>
+  <file name="your-girlfriend-lulu.thumbs/Your Girlfriend. Lulu 1080p_000262.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Your Girlfriend. Lulu 1080p.mp4</original>
+    <mtime>1704276436</mtime>
+    <size>83018</size>
+    <md5>b03604473d4234998ce9133299d888f5</md5>
+    <crc32>b8e0b156</crc32>
+    <sha1>e31f57a04633496c0433078ff469e5fd85e84c23</sha1>
+  </file>
+  <file name="your-girlfriend-lulu_archive.torrent" source="metadata">
+    <btih>aec6abbb7855c3ec0e3050eb14f24d4733dece1f</btih>
+    <mtime>1742232748</mtime>
+    <size>7321</size>
+    <md5>b41d085f01c3d1506a930ca3cfc5a382</md5>
+    <crc32>ce456d11</crc32>
+    <sha1>708d61edb33757e571fe45ee1a2ae5f5028f9ae7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="your-girlfriend-lulu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b249fd6677a34caeec165c6d0ef0d8c5</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="your-girlfriend-lulu_meta.sqlite" source="original">
+    <mtime>1718616299</mtime>
+    <size>40960</size>
+    <md5>cf640adb41a2466ee2ff74c27698de31</md5>
+    <crc32>3e77c73b</crc32>
+    <sha1>3a9c65d6bea35029bdf7dfe48734c438f8a2bec4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="your-girlfriend-lulu_meta.xml" source="original">
+    <mtime>1742232744</mtime>
+    <size>4215</size>
+    <md5>2380ed43e5ba1d941bce1870dee6176d</md5>
+    <crc32>7d3e7aea</crc32>
+    <sha1>966b40a40c8cf8199a3f541d182b1eb38d1548cb</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

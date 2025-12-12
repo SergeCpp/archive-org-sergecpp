@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Yu Sheng Yan. Wu Tong 2448x1530.jpg" source="original">
+    <mtime>1702508086</mtime>
+    <size>431084</size>
+    <md5>ebc6e882802c2376bdb6ec35928f8ead</md5>
+    <crc32>1f001b58</crc32>
+    <sha1>ddf0a74bd902aef415336c635639cf01820f3709</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong 2448x1530_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yu Sheng Yan. Wu Tong 2448x1530.jpg</original>
+    <mtime>1702509403</mtime>
+    <size>8997</size>
+    <md5>057638ad88f5ffe892c28e99ce357384</md5>
+    <crc32>0d0d3b72</crc32>
+    <sha1>70d1a264d91874faf4f61a9824b4b6ae06ad9de8</sha1>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong 720p.mp4" source="original">
+    <mtime>1702508057</mtime>
+    <size>25113981</size>
+    <md5>5d33bf98557fbc1b285883efd137ea78</md5>
+    <crc32>9b8dc4bb</crc32>
+    <sha1>1b8c2ef20c96ae4710a91c2c4e5df959cf132667</sha1>
+    <format>MPEG4</format>
+    <length>136.94</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong. Pure Dance 1080p.flv" source="original">
+    <mtime>1702508460</mtime>
+    <size>48242728</size>
+    <md5>277e4e7be531bca83d40dfc7a5440f63</md5>
+    <crc32>0a56a0ba</crc32>
+    <sha1>f4ba17b29c460abd9e98fcf48e2a6f2b03c2ffce</sha1>
+    <format>Flash Video</format>
+    <length>137.51</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong. Pure Dance 1080p.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1080p.flv</original>
+    <mtime>1702509378</mtime>
+    <size>13856564</size>
+    <md5>313b9dcdc5e94821b33b7b13734b284f</md5>
+    <crc32>87fec79d</crc32>
+    <sha1>dfe6affc073b7481b29196351592b259d44c44b7</sha1>
+    <length>137.43</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong. Pure Dance 1728x1080 Lv G15-1p05 B10-1p05.png" source="original">
+    <mtime>1718624663</mtime>
+    <size>3003144</size>
+    <md5>6b25f01e89058019e0eabbe547985f27</md5>
+    <crc32>38d3640d</crc32>
+    <sha1>f2fc7305159e0ef32a8a49f631e0f69b2b3a4092</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong. Pure Dance 1728x1080 Lv G15-1p05 B10-1p05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1728x1080 Lv G15-1p05 B10-1p05.png</original>
+    <mtime>1718624706</mtime>
+    <size>8873</size>
+    <md5>30a1527860ad2c7c4a73bee9b133fc9c</md5>
+    <crc32>904f2e21</crc32>
+    <sha1>4aee23ee088c9ab4388e05cb84afe6c896eae453</sha1>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong. Pure Dance 1728x1080.jpg" source="original">
+    <mtime>1702508469</mtime>
+    <size>299864</size>
+    <md5>93d245627eb6e3e79b7eb07142d926cf</md5>
+    <crc32>64749cb2</crc32>
+    <sha1>427da2fa2083bc510bc8c0d87789477665e395da</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Yu Sheng Yan. Wu Tong. Pure Dance 1728x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1728x1080.jpg</original>
+    <mtime>1702509406</mtime>
+    <size>9613</size>
+    <md5>aaad0ffa036ea76e153cc50cca75753c</md5>
+    <crc32>d0c254d2</crc32>
+    <sha1>a9ce3a7960f1afbd09bb0bb6ab3485913e02ff1f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718625259</mtime>
+    <size>16554</size>
+    <md5>906401fa43376baa9784598b5afc6b53</md5>
+    <crc32>8220b90c</crc32>
+    <sha1>e85a052d34beec67df216f8b060aca7fe1221382</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong 720p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong 720p.mp4</original>
+    <mtime>1702508791</mtime>
+    <size>61600</size>
+    <md5>b77045489be30e9bbbc60d51c9e71553</md5>
+    <crc32>09f4ce26</crc32>
+    <sha1>9f61818a18e69fba118c186ed7ec5bd7f975232a</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong 720p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong 720p.mp4</original>
+    <mtime>1702508800</mtime>
+    <size>65443</size>
+    <md5>5405ba0cce05b9d9a104b7bccbe39876</md5>
+    <crc32>3bc46d3f</crc32>
+    <sha1>f693358ddd343a291842c3b811b08c0df248cabf</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong 720p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong 720p.mp4</original>
+    <mtime>1702508809</mtime>
+    <size>40472</size>
+    <md5>1fd12781af6bb38637010d3448b42660</md5>
+    <crc32>c36f2d6f</crc32>
+    <sha1>e4dcab6191964c488c0305455231be1c4cc08828</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong 720p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong 720p.mp4</original>
+    <mtime>1702508819</mtime>
+    <size>81007</size>
+    <md5>6a759425a0bbed01f87ce7931ab97f67</md5>
+    <crc32>46164dec</crc32>
+    <sha1>1794ea652a1ee16106d5528257ff3efdf737296a</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong 720p_000135.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong 720p.mp4</original>
+    <mtime>1702508824</mtime>
+    <size>58920</size>
+    <md5>f27ba5e0185ef2a3b63694f6cc45111c</md5>
+    <crc32>51b3e14a</crc32>
+    <sha1>a0053d66f9e3963aa1cdae627c064f96cf45277b</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong. Pure Dance 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1080p.flv</original>
+    <mtime>1702508696</mtime>
+    <size>58393</size>
+    <md5>faae65cd537e75951e39dfa44d15dbdb</md5>
+    <crc32>fbbc3341</crc32>
+    <sha1>00cbefff768fe718ec8bcae91e6cb69c064dc78f</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong. Pure Dance 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1080p.flv</original>
+    <mtime>1702508714</mtime>
+    <size>105061</size>
+    <md5>a231ab6a5e4d4db0ddf7b675e074a3a0</md5>
+    <crc32>4dea4ac8</crc32>
+    <sha1>347cd30d11993e1356408e4e874f3a07fe800779</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong. Pure Dance 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1080p.flv</original>
+    <mtime>1702508730</mtime>
+    <size>104072</size>
+    <md5>48f444897f1ea21c49b833f75bdb3f8b</md5>
+    <crc32>210447f6</crc32>
+    <sha1>816d294405a53a539e615c3cadcc27c1b4372e11</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong. Pure Dance 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1080p.flv</original>
+    <mtime>1702508745</mtime>
+    <size>111158</size>
+    <md5>18b8087c42221a44cf12cde2e9670411</md5>
+    <crc32>f0a2de99</crc32>
+    <sha1>882236e253cebece740b1b72d4d71d4eda80e957</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong.thumbs/Yu Sheng Yan. Wu Tong. Pure Dance 1080p_000135.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yu Sheng Yan. Wu Tong. Pure Dance 1080p.flv</original>
+    <mtime>1702508757</mtime>
+    <size>123285</size>
+    <md5>8eaa6e39d6b746e60825e4865c5468d8</md5>
+    <crc32>06a7ad20</crc32>
+    <sha1>729e93c4157196cfc8bf29ad5ddc911f64a2e91f</sha1>
+  </file>
+  <file name="yu-sheng-yan-wu-tong_archive.torrent" source="metadata">
+    <btih>fe8b47043b865482e941894d144ab2b7ea626899</btih>
+    <mtime>1741854647</mtime>
+    <size>7012</size>
+    <md5>5565b994b8963a951dce96dfdb0959ff</md5>
+    <crc32>8b5f0780</crc32>
+    <sha1>33c1eac7b5da2e54e4f8cf8c665b6fa80a0d3ef8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="yu-sheng-yan-wu-tong_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>65b8cbb33c134ae826e94ea158ed8ea5</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="yu-sheng-yan-wu-tong_meta.sqlite" source="original">
+    <mtime>1718624669</mtime>
+    <size>49152</size>
+    <md5>6770d01e92d053398c07f4c53b398c74</md5>
+    <crc32>5d565006</crc32>
+    <sha1>2536c107d7a79245e232b7ab4e46be47fd97c248</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yu-sheng-yan-wu-tong_meta.xml" source="original">
+    <mtime>1741854645</mtime>
+    <size>3990</size>
+    <md5>08a595ef043fb50ca1d1ce6a76fe67fb</md5>
+    <crc32>824d50c6</crc32>
+    <sha1>c0a8ed2021c103c8453358aaa0ba9ebe7ed58aeb</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
