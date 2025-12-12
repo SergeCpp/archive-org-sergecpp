@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Pretty Face. Fan Jia 1080p.mp4" source="original">
+    <mtime>1741181548</mtime>
+    <size>65513567</size>
+    <md5>1efdba7216b8bccb2c560f89f3a34dc9</md5>
+    <crc32>530b1296</crc32>
+    <sha1>0c1f9809d53e09137a1e700d746b57b22a2da036</sha1>
+    <format>MPEG4</format>
+    <length>276.69</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Pretty Face. Fan Jia 800x500 Lv40 BL-40_itemimage.png" source="original">
+    <mtime>1741180677</mtime>
+    <size>427894</size>
+    <md5>990657a549e8c7711e8acdf802f68c3f</md5>
+    <crc32>8e28ebcb</crc32>
+    <sha1>12cf478c18f1f96ac8cd9e6f4d594e58ac0c8a36</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Pretty Face. Fan Jia 800x500 Lv40.png" source="original">
+    <mtime>1741180705</mtime>
+    <size>386354</size>
+    <md5>1adbc306ae3fc893111602d7946dc7ad</md5>
+    <crc32>cc0019fe</crc32>
+    <sha1>ec7ad13199e33010e8776b5471288d2554ef840e</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Pretty Face. Fan Jia 800x500 Lv40_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Pretty Face. Fan Jia 800x500 Lv40.png</original>
+    <mtime>1741183459</mtime>
+    <size>5867</size>
+    <md5>a052fc2ac6ed1872a47d6aea406ac352</md5>
+    <crc32>0415890d</crc32>
+    <sha1>21acc58933c5d6aadfe79a12e55478eb8223debb</sha1>
+  </file>
+  <file name="Pretty Face. Fan Jia 800x500.jpg" source="original">
+    <mtime>1741180712</mtime>
+    <size>38721</size>
+    <md5>8564039bc944eaca0b3c6a6eca1de668</md5>
+    <crc32>11a5533f</crc32>
+    <sha1>10f6fc8796f2c755b2d7e51e96f713ba08161eb4</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Pretty Face. Fan Jia 800x500_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Pretty Face. Fan Jia 800x500.jpg</original>
+    <mtime>1741183465</mtime>
+    <size>5965</size>
+    <md5>9993c153ba2e19a3b1d46dbe8141361b</md5>
+    <crc32>fb6809ce</crc32>
+    <sha1>90c3dbb27155ef312cfeea8640d6110fd5da56fe</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1741180752</mtime>
+    <size>9256</size>
+    <md5>9dd1cb61d2b8c98aa35d4b14a630b780</md5>
+    <crc32>28a3fb56</crc32>
+    <sha1>28abb93f87ff4c9edca7486162285a9ab003f580</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182935</mtime>
+    <size>11752</size>
+    <md5>c72dc9fec2d00f2e658f7f24bdcd0d01</md5>
+    <crc32>322dbeab</crc32>
+    <sha1>812f31014af9ff1eb429fe5e5c30be475f277d29</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000062.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182937</mtime>
+    <size>38020</size>
+    <md5>ea56fb889d8da9f522abe94c07334dc4</md5>
+    <crc32>185e998e</crc32>
+    <sha1>62bc0584e16e07aa57843822e14371a6abd65cf1</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000092.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182940</mtime>
+    <size>40118</size>
+    <md5>db38a67c79f36436a8c1816d19866b6c</md5>
+    <crc32>1a52856e</crc32>
+    <sha1>1a8d3ec4945e4daae1f0a8f5430ebc61278b7a30</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000124.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182943</mtime>
+    <size>38681</size>
+    <md5>e68e0662bab81b36beba89cafef17774</md5>
+    <crc32>5f8f5b45</crc32>
+    <sha1>cc213c74df06f79a4964fed4b2fb1d41d8b565a9</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182946</mtime>
+    <size>37031</size>
+    <md5>cfcdf0f65e4941d1cdf0699914cdfec1</md5>
+    <crc32>01445aae</crc32>
+    <sha1>7ee4ee197bec965ff608da375c3690a0fb3c540c</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000181.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182949</mtime>
+    <size>40383</size>
+    <md5>a1420a0876919e7f353351efcf244221</md5>
+    <crc32>aaf85846</crc32>
+    <sha1>deeff57e476b74885376f1502baecb2176f7f949</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000211.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182951</mtime>
+    <size>39792</size>
+    <md5>6e2a5447de3d708ed8d79ddbc707b1ea</md5>
+    <crc32>39235f90</crc32>
+    <sha1>e366aab3a9d57f9fe93483798f9c20225419b044</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000241.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182955</mtime>
+    <size>38211</size>
+    <md5>b0da4dee750c4b0d11e9b42fe2e424fc</md5>
+    <crc32>ec64f6e4</crc32>
+    <sha1>0c45c88ccf79e3f5194fe1222d3c1eeee2492584</sha1>
+  </file>
+  <file name="pretty-face-fan-jia.thumbs/Pretty Face. Fan Jia 1080p_000274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Pretty Face. Fan Jia 1080p.mp4</original>
+    <mtime>1741182958</mtime>
+    <size>45107</size>
+    <md5>a846bcc65adf5872fcaff5f4c65f1e6f</md5>
+    <crc32>73c17437</crc32>
+    <sha1>b22df829206d316182fc7824a63bc06acb821037</sha1>
+  </file>
+  <file name="pretty-face-fan-jia_archive.torrent" source="metadata">
+    <btih>d6738d1bc79c7512790a93dfa507b320d4634242</btih>
+    <mtime>1741210383</mtime>
+    <size>5392</size>
+    <md5>a5a1fd24ba5149f5bdf9bb39b38949e8</md5>
+    <crc32>a971e989</crc32>
+    <sha1>3d876cfdb25a955b6cb7d3f956804251f8090dfb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="pretty-face-fan-jia_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>425b75d6c8fa41b4deedf476fb4c5d76</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="pretty-face-fan-jia_meta.sqlite" source="original">
+    <mtime>1741181576</mtime>
+    <size>77824</size>
+    <md5>c1b2e8f76b25b21c75d5b4522a9b9e01</md5>
+    <crc32>226d4ef3</crc32>
+    <sha1>fa5ce4267ff181a23a51737d241e8485bae17965</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="pretty-face-fan-jia_meta.xml" source="original">
+    <mtime>1741210382</mtime>
+    <size>5590</size>
+    <md5>4515ff31fe716743df04def8e6c938f4</md5>
+    <crc32>ea0ed07d</crc32>
+    <sha1>e8d85fd37f251a35c32c2ee3f93d018935af4ee9</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

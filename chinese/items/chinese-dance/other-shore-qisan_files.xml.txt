@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Other Shore. Qisan 1080p.mp4" source="original">
+    <mtime>1673961561</mtime>
+    <size>53749998</size>
+    <md5>3ccd1e89b95cfdbf775f55a649829d45</md5>
+    <crc32>844ec916</crc32>
+    <sha1>85dedccfc55005e53c136beb054de28d57c5b59e</sha1>
+    <format>MPEG4</format>
+    <length>152.53</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Other Shore. Qisan 1920x1200.png" source="original">
+    <mtime>1717941492</mtime>
+    <size>2031642</size>
+    <md5>869e4b7f89e89129984c5666b2492c46</md5>
+    <crc32>44b4e71c</crc32>
+    <sha1>acfac865df6aa7474f7429ae87062d2eb37dfbfd</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Other Shore. Qisan 1920x1200_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Other Shore. Qisan 1920x1200.png</original>
+    <mtime>1717941737</mtime>
+    <size>7171</size>
+    <md5>69a1fdf29c66b1f64f37f5e50609b7e4</md5>
+    <crc32>8fa7047f</crc32>
+    <sha1>32a4815386d923720d9ddd94cefba0bb9ae3aed8</sha1>
+  </file>
+  <file name="Other Shore. Qisan 2000x1250.png" source="original">
+    <mtime>1717941501</mtime>
+    <size>2163008</size>
+    <md5>462a12a0119142eb35141e54a97a2341</md5>
+    <crc32>20938cc2</crc32>
+    <sha1>b12e4cc75b9889f974687816fa0eb8d9d8e9dfb0</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Other Shore. Qisan 2000x1250_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Other Shore. Qisan 2000x1250.png</original>
+    <mtime>1717941732</mtime>
+    <size>7116</size>
+    <md5>88e807c482264872e6565363b62d27d3</md5>
+    <crc32>bef906f3</crc32>
+    <sha1>5940802adc0725677f2bf3da8ec013d4e1d50ffb</sha1>
+  </file>
+  <file name="Other Shore. Qisan 6000x3750.jpg" source="original">
+    <mtime>1673961580</mtime>
+    <size>933097</size>
+    <md5>61f41a6d2ed1af5bfe059096d71d33fc</md5>
+    <crc32>75cf1ea1</crc32>
+    <sha1>d1ba536a9bee38394a63a2e98a9959229ccc8791</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Other Shore. Qisan 6000x3750_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Other Shore. Qisan 6000x3750.jpg</original>
+    <mtime>1673961876</mtime>
+    <size>7418</size>
+    <md5>d313a4b176c1b4c2c84d5ecd3b56d2a3</md5>
+    <crc32>dae53958</crc32>
+    <sha1>bfa01c2f9e3247759a6e66def7d48fc6950066b4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717942574</mtime>
+    <size>11118</size>
+    <md5>af7c6f5bfd9e288b6433a4358a5ae517</md5>
+    <crc32>5dede860</crc32>
+    <sha1>0183a3bb028127d61d5b101a5db48318a3291ddb</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="other-shore-qisan.thumbs/Other Shore. Qisan 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Qisan 1080p.mp4</original>
+    <mtime>1673961831</mtime>
+    <size>29955</size>
+    <md5>96fa6516920256315876f27c4e4be8d0</md5>
+    <crc32>ae8e0300</crc32>
+    <sha1>99037c1a513f83f52a261c9766eaf408d629314e</sha1>
+  </file>
+  <file name="other-shore-qisan.thumbs/Other Shore. Qisan 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Qisan 1080p.mp4</original>
+    <mtime>1673961834</mtime>
+    <size>42821</size>
+    <md5>66fa77c8b9e8d872c8c9ae0daeffeb5d</md5>
+    <crc32>d1aac3dd</crc32>
+    <sha1>f368e5eeda14403507ef9f4e821d595f62e17202</sha1>
+  </file>
+  <file name="other-shore-qisan.thumbs/Other Shore. Qisan 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Qisan 1080p.mp4</original>
+    <mtime>1673961838</mtime>
+    <size>59845</size>
+    <md5>8a5cf63b547f1b39bfc0e6f90240bc88</md5>
+    <crc32>52ecbc36</crc32>
+    <sha1>044532d9926921796363360800ad42ccb392cf78</sha1>
+  </file>
+  <file name="other-shore-qisan.thumbs/Other Shore. Qisan 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Qisan 1080p.mp4</original>
+    <mtime>1673961841</mtime>
+    <size>107600</size>
+    <md5>6584fccb1166c9a7d748ad93030adb14</md5>
+    <crc32>b4a43ae4</crc32>
+    <sha1>10718ad19bf54bcc4376591f1093bc28182f36d8</sha1>
+  </file>
+  <file name="other-shore-qisan.thumbs/Other Shore. Qisan 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Qisan 1080p.mp4</original>
+    <mtime>1673961845</mtime>
+    <size>70247</size>
+    <md5>254224156a6dabe6a9c0bef7bc3613d9</md5>
+    <crc32>0eef60f2</crc32>
+    <sha1>d49f5a83e7462f8dc69c199924178fa084183630</sha1>
+  </file>
+  <file name="other-shore-qisan_archive.torrent" source="metadata">
+    <btih>1e96c46f58cf7ea98ef4406757c4a8f2970d5cfc</btih>
+    <mtime>1724920677</mtime>
+    <size>5256</size>
+    <md5>1e50443f1f9e4a5f1c49ddd6d2482b18</md5>
+    <crc32>19148278</crc32>
+    <sha1>6f1dcc1ca895e2833b1c1f3171f507fa4dec2e16</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="other-shore-qisan_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4f557b6bf7d1368db134774d8ec2b9f3</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="other-shore-qisan_meta.sqlite" source="original">
+    <mtime>1717941510</mtime>
+    <size>36864</size>
+    <md5>0a1fac5ae25fdeef6a3a3a54af9bdb7a</md5>
+    <crc32>02d10663</crc32>
+    <sha1>cbef9a23e30318573e8d6b1bf6ce107af211824e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="other-shore-qisan_meta.xml" source="original">
+    <mtime>1762174020</mtime>
+    <size>3679</size>
+    <md5>cde7cb307165de45466de2c8217ca7ab</md5>
+    <crc32>293327e8</crc32>
+    <sha1>58c12f0d2f26c72ab19f5c47c1294edcdff0a0d7</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

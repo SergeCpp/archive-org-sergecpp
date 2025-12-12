@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Platinum Disco. Xiangcai Mao Bing 1080p.mp4" source="original">
+    <mtime>1741351701</mtime>
+    <size>55571516</size>
+    <md5>7f8fc66cb4649562f8b80b496f675022</md5>
+    <crc32>f117fb65</crc32>
+    <sha1>c611fb617347fb184a4365f6e755a12bcfd44fb4</sha1>
+    <format>MPEG4</format>
+    <length>157.55</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Platinum Disco. Xiangcai Mao Bing 1728x1080 BL40-140_itemimage.png" source="original">
+    <mtime>1741350901</mtime>
+    <size>2453145</size>
+    <md5>641a2359bf63978060fe30a88da6c63d</md5>
+    <crc32>8761373f</crc32>
+    <sha1>406504117416fcee8c6686a311400f49e00f59d2</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Platinum Disco. Xiangcai Mao Bing 1728x1080.png" source="original">
+    <mtime>1741350955</mtime>
+    <size>2412672</size>
+    <md5>76644973158952e6e6df8e0d2fba980e</md5>
+    <crc32>cafc2ed7</crc32>
+    <sha1>c35926b129214d7ed4f6e4fc9bdc09309d3ac297</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Platinum Disco. Xiangcai Mao Bing 1728x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1728x1080.png</original>
+    <mtime>1741351766</mtime>
+    <size>6647</size>
+    <md5>15d11330bddd15fc92bddd631cfbe45a</md5>
+    <crc32>1be1f051</crc32>
+    <sha1>d1f2c2b12daa1fcb5eb7275895f2e6561941a866</sha1>
+  </file>
+  <file name="Platinum Disco. Xiangcai Mao Bing 1920x1080.jpg" source="original">
+    <mtime>1741350994</mtime>
+    <size>1404964</size>
+    <md5>40d652d66eb614aeae1fbf8de6d34629</md5>
+    <crc32>e7e7d638</crc32>
+    <sha1>527376eebfeddf523b97ad1a635c037eb49512b6</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Platinum Disco. Xiangcai Mao Bing 1920x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1920x1080.jpg</original>
+    <mtime>1741351771</mtime>
+    <size>6774</size>
+    <md5>f4111561398bc925f0bfa588e5d6ffee</md5>
+    <crc32>a53e8123</crc32>
+    <sha1>d2dae56b87ea478dd4bb05bd7ceb0bb0a5b66aab</sha1>
+  </file>
+  <file name="Platinum Disco. Xiangcai Mao Bing. 2160p.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741689703</mtime>
+    <size>15761311</size>
+    <md5>2eb18c3d6abaa94235235911114403f3</md5>
+    <crc32>1a3b8d11</crc32>
+    <sha1>25ec2d43cf5dbb41a925bf140451f72d8a12c98a</sha1>
+    <length>157.55</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg" source="original">
+    <mtime>1741689064</mtime>
+    <size>201962760</size>
+    <md5>1d9ee06d3f70c04694b34200424d1981</md5>
+    <crc32>8840d1b1</crc32>
+    <sha1>c0e2537dacc48171e2bbfaea73b61ee35b88cf42</sha1>
+    <format>h.264/MPEG2-TS</format>
+    <length>157.36</length>
+    <width>3840</width>
+    <height>2160</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1741350961</mtime>
+    <size>11444</size>
+    <md5>fc8512617c688e2007a6a1c67ac63fca</md5>
+    <crc32>d1aec2cf</crc32>
+    <sha1>05f1ee7a7620c7288bf12a9d1e6517dcd15680e3</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741351734</mtime>
+    <size>38712</size>
+    <md5>bf70134bb9f4dbac3baa521ad2edea95</md5>
+    <crc32>953af2c4</crc32>
+    <sha1>051d0b929b298711247db594fc2123e029cf190c</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741351737</mtime>
+    <size>46227</size>
+    <md5>5951c8267d826c3b8ac4c82bd4b783be</md5>
+    <crc32>02aeea86</crc32>
+    <sha1>ae1ec7141421ca5677645f80f0e849a45401f579</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741351740</mtime>
+    <size>59664</size>
+    <md5>4e2e4e3c0bb757c227e834cd570ecf6a</md5>
+    <crc32>7f8f6782</crc32>
+    <sha1>05dbf8b3000d17bdc44da02e1b3ce3ef76c680dd</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741351743</mtime>
+    <size>2620</size>
+    <md5>6e17dee97c1261f7de7411dd58bda223</md5>
+    <crc32>856d6fa2</crc32>
+    <sha1>5bf57a2d9b0727f74a513b0e2979ec81d870edd2</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741351747</mtime>
+    <size>79581</size>
+    <md5>65714b7ffe158fbbe1ebc3edf0ff47b0</md5>
+    <crc32>0d28bf3a</crc32>
+    <sha1>04a9020e0857f5b07bf3dc4f1951581adaf61834</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing 1080p_000155.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing 1080p.mp4</original>
+    <mtime>1741351747</mtime>
+    <size>65983</size>
+    <md5>05378250c1f9723afedb0e6233765dbe</md5>
+    <crc32>52ed8e8c</crc32>
+    <sha1>820a30d50cb26aca0c43acc7f89789c9257e347f</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing. 2160p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741689127</mtime>
+    <size>39930</size>
+    <md5>578cabc8b979b1c19624b06d98f308fe</md5>
+    <crc32>ae4a2d5f</crc32>
+    <sha1>3b83f633bba7b4061fbbd252e8edf59f7734fe92</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing. 2160p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741689139</mtime>
+    <size>48205</size>
+    <md5>53c5b98c1ae37541c4f6dca5c23751a2</md5>
+    <crc32>48de558c</crc32>
+    <sha1>d331140754f5f6c727f66b7b79480ccf11edf2ea</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing. 2160p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741689151</mtime>
+    <size>62698</size>
+    <md5>f0b386eada33a53a39e3acc4e5a01de7</md5>
+    <crc32>df01c0e7</crc32>
+    <sha1>f7fa2a3e63315699e3ed3b8c8a86e9972fda2062</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing. 2160p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741689162</mtime>
+    <size>2620</size>
+    <md5>6e17dee97c1261f7de7411dd58bda223</md5>
+    <crc32>856d6fa2</crc32>
+    <sha1>5bf57a2d9b0727f74a513b0e2979ec81d870edd2</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing. 2160p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741689173</mtime>
+    <size>84897</size>
+    <md5>8edd4cbe58175404b15a0b5b70483383</md5>
+    <crc32>e03958b7</crc32>
+    <sha1>0f70cd4f772b0c156ed762c6931be0e73c442584</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing.thumbs/Platinum Disco. Xiangcai Mao Bing. 2160p_000155.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Platinum Disco. Xiangcai Mao Bing. 2160p.mpeg</original>
+    <mtime>1741689176</mtime>
+    <size>69266</size>
+    <md5>a910e18cc076f3c1103e87432cc1a684</md5>
+    <crc32>67bdd302</crc32>
+    <sha1>6faba4d221053e045888383370ddde8160b954e7</sha1>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing_archive.torrent" source="metadata">
+    <btih>ae01bae07b30c067b8992d00bbd16f9bcb65a9be</btih>
+    <mtime>1741689812</mtime>
+    <size>14135</size>
+    <md5>3e4e3baa9e6e870313686ec7501847cf</md5>
+    <crc32>a9b66b78</crc32>
+    <sha1>d5ac6bf9656e80659952a3ad2b1043b77eba6b01</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a71eebf276b064e7404068daeb5e960b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing_meta.sqlite" source="original">
+    <mtime>1741689080</mtime>
+    <size>57344</size>
+    <md5>8fb0204f31078504f96a947c2dabc7ed</md5>
+    <crc32>5b4cee85</crc32>
+    <sha1>496358214d3ad04334f42573cdf670288138bffd</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="platinum-disco-xiangcai-mao-bing_meta.xml" source="original">
+    <mtime>1741350920</mtime>
+    <size>4190</size>
+    <md5>68af40cd8151be483def6da62f7ef829</md5>
+    <crc32>708425ab</crc32>
+    <sha1>19d5aa22fffb8c7c4d5b1a0a09d2a9722e0b2a3e</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Other Shore. Xiao Qian Teng 1080p 50fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Other Shore. Xiao Qian Teng 1080p 50fps.mp4</original>
+    <mtime>1724916831</mtime>
+    <size>101231971</size>
+    <md5>0ff7babfb46ee60df3b4d72d8c682be7</md5>
+    <crc32>374847fe</crc32>
+    <sha1>a3d4e83e4d25b8d37dd149222dc82a2443752c2d</sha1>
+    <length>152.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Other Shore. Xiao Qian Teng 1080p 50fps.mp4" source="original">
+    <mtime>1724916380</mtime>
+    <size>101231971</size>
+    <md5>07e118f62dbaad32aa6e3ab36aa3b9ca</md5>
+    <crc32>4a05dcbe</crc32>
+    <sha1>42722ffa77fa10faf05d7acc048180bf4849b1c6</sha1>
+    <format>MPEG4</format>
+    <length>152.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Other Shore. Xiao Qian Teng 1104x690.png" source="original">
+    <mtime>1724916410</mtime>
+    <size>678285</size>
+    <md5>faf2a9f055ba3c3af7eee6bd6b32e811</md5>
+    <crc32>bef96480</crc32>
+    <sha1>b1016fff3638a0237641042c48d284ad3d851f0e</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Other Shore. Xiao Qian Teng 1104x690_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Other Shore. Xiao Qian Teng 1104x690.png</original>
+    <mtime>1724916860</mtime>
+    <size>7199</size>
+    <md5>31077c5fa66a388e802244b78a1887e4</md5>
+    <crc32>0c174278</crc32>
+    <sha1>3c50f3bf39cce98e506cc5b95b0d2a4de8ccd6e4</sha1>
+  </file>
+  <file name="Other Shore. Xiao Qian Teng 1152x720.png" source="original">
+    <mtime>1724916422</mtime>
+    <size>717293</size>
+    <md5>bf506c954d0ddaddc48846158f9fdac6</md5>
+    <crc32>680c3c5f</crc32>
+    <sha1>c6da70a015ae516de51886f5d594a3d3844cab8b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Other Shore. Xiao Qian Teng 1152x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Other Shore. Xiao Qian Teng 1152x720.png</original>
+    <mtime>1724916864</mtime>
+    <size>7165</size>
+    <md5>49716bafda342d38c88a966cf1e3946b</md5>
+    <crc32>af11f54a</crc32>
+    <sha1>2608078dad468fd6d6e172c8b0fe5f7eb9848817</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1724918773</mtime>
+    <size>9911</size>
+    <md5>d2f8f70eacca5321318d3ee303baea92</md5>
+    <crc32>0764ae34</crc32>
+    <sha1>055162b186358f2d4d183f176d10581d80c14950</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="other-shore-xiao-qian-teng.thumbs/Other Shore. Xiao Qian Teng 1080p 50fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Xiao Qian Teng 1080p 50fps.mp4</original>
+    <mtime>1724916696</mtime>
+    <size>52444</size>
+    <md5>d56c8bf6a8e906ddfdef70c91e4657a2</md5>
+    <crc32>416c5652</crc32>
+    <sha1>75b67ac24c5af49a99fa1919d0c8fc466769e8e6</sha1>
+  </file>
+  <file name="other-shore-xiao-qian-teng.thumbs/Other Shore. Xiao Qian Teng 1080p 50fps_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Xiao Qian Teng 1080p 50fps.mp4</original>
+    <mtime>1724916720</mtime>
+    <size>77111</size>
+    <md5>284e20080c1f9658ce923f53848aa860</md5>
+    <crc32>d10da469</crc32>
+    <sha1>bf1990d79dd8df685df58145e049cda6da6f20b5</sha1>
+  </file>
+  <file name="other-shore-xiao-qian-teng.thumbs/Other Shore. Xiao Qian Teng 1080p 50fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Xiao Qian Teng 1080p 50fps.mp4</original>
+    <mtime>1724916739</mtime>
+    <size>72627</size>
+    <md5>f1121ea6b4f85d8059db485b3cb7d9f3</md5>
+    <crc32>b00d0b89</crc32>
+    <sha1>2fb15091a5ff0d4f981720a2408a1d9722ceec06</sha1>
+  </file>
+  <file name="other-shore-xiao-qian-teng.thumbs/Other Shore. Xiao Qian Teng 1080p 50fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Xiao Qian Teng 1080p 50fps.mp4</original>
+    <mtime>1724916763</mtime>
+    <size>96812</size>
+    <md5>c4f1dfa7602e7df893b0f5eac5ca3107</md5>
+    <crc32>f16b5eb1</crc32>
+    <sha1>4f06618ccdca9bd326a4e9fa618fca67f3255fa1</sha1>
+  </file>
+  <file name="other-shore-xiao-qian-teng.thumbs/Other Shore. Xiao Qian Teng 1080p 50fps_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Xiao Qian Teng 1080p 50fps.mp4</original>
+    <mtime>1724916788</mtime>
+    <size>106788</size>
+    <md5>210c46e1fe7cfd5bad863748de6d8948</md5>
+    <crc32>bda1531c</crc32>
+    <sha1>e9b5e904491f712e5a3e84809b66f6e0579c88ad</sha1>
+  </file>
+  <file name="other-shore-xiao-qian-teng.thumbs/Other Shore. Xiao Qian Teng 1080p 50fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Other Shore. Xiao Qian Teng 1080p 50fps.mp4</original>
+    <mtime>1724916790</mtime>
+    <size>66037</size>
+    <md5>15a8787dd9ddea363cd9ef553a3c8aa0</md5>
+    <crc32>558141e0</crc32>
+    <sha1>8eec0f9f884033ba683a0eb6104847828a1a1d56</sha1>
+  </file>
+  <file name="other-shore-xiao-qian-teng_archive.torrent" source="metadata">
+    <btih>bac829a711f1e963d011bf2383f3c8a3b628b74d</btih>
+    <mtime>1724918775</mtime>
+    <size>10728</size>
+    <md5>1f5c53272e3b12a3eef3a6f8307b7a68</md5>
+    <crc32>ecec32a8</crc32>
+    <sha1>e5a4d4394da8f6987c184a0e57b7ab9d5c78ae36</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="other-shore-xiao-qian-teng_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b8ba0381193bf582027b59a585bff296</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="other-shore-xiao-qian-teng_meta.sqlite" source="original">
+    <mtime>1724916532</mtime>
+    <size>45056</size>
+    <md5>3bf0a6c7e9a3978dee03f90974e714a0</md5>
+    <crc32>c8283b70</crc32>
+    <sha1>0cea423ad6e779105104031c0b13172bf32fecc8</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="other-shore-xiao-qian-teng_meta.xml" source="original">
+    <mtime>1724918763</mtime>
+    <size>3725</size>
+    <md5>d8a1c4a555d2c19b7fd646929bcbfad0</md5>
+    <crc32>997dbedb</crc32>
+    <sha1>e80e922a596554f9c8f1e21dc6699e60c8b321ea</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
