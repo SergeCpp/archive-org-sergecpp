@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Hu 66. Ronin Pipa 192k.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709787155</mtime>
+    <size>33432</size>
+    <md5>96978fa7538d625fc433378e6412a8ee</md5>
+    <crc32>e83cf751</crc32>
+    <sha1>198142054923b2a4c52e6b5cb1ea2671c9016615</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k.mp3" source="original">
+    <mtime>1709785602</mtime>
+    <size>5383917</size>
+    <md5>e0773bbf4a283d6d898f66424096887f</md5>
+    <crc32>ac2016f2</crc32>
+    <sha1>9feb5c6e5135405553384f5b0ad7450568b3aac2</sha1>
+    <format>VBR MP3</format>
+    <length>224.3</length>
+    <track>01</track>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k.png" source="derivative">
+    <format>PNG</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709786310</mtime>
+    <size>42270</size>
+    <md5>e8beed5371a36d79afabd42b3856427d</md5>
+    <crc32>9701f3ea</crc32>
+    <sha1>b8c41ce5a94d5ebf3e7ef17a9b3e0360be714181</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709786768</mtime>
+    <size>327886</size>
+    <md5>61fcd720fb7998e29d4c29dea81e5deb</md5>
+    <crc32>4916f375</crc32>
+    <sha1>b65df11d06af9ffa44fdb988685edda5839a69f2</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 720x720.jpg" source="original">
+    <mtime>1709785605</mtime>
+    <size>197907</size>
+    <md5>3b5be0521fc61381d5155d07423ed571</md5>
+    <crc32>1f9a30c8</crc32>
+    <sha1>1e87958973568d3c6069745f40db32b4cba88405</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Hu 66. Ronin Pipa 720x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hu 66. Ronin Pipa 720x720.jpg</original>
+    <mtime>1709785983</mtime>
+    <size>9919</size>
+    <md5>b012905f587188773c7f6ca9f922e795</md5>
+    <crc32>9c733f55</crc32>
+    <sha1>a18ad7526086808dadf52001b8cd957bd27e876f</sha1>
+  </file>
+  <file name="Ronin Pipa. K.K.Orange 1080p.mp4" source="original">
+    <mtime>1660367668</mtime>
+    <size>60490984</size>
+    <md5>7a6ce7e7de68a127148efb0b67282405</md5>
+    <crc32>102d858b</crc32>
+    <sha1>f2106c9b16c6875e80f728bd837a7d362035a9f2</sha1>
+    <format>MPEG4</format>
+    <length>157.31</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ronin Pipa. K.K.Orange 896x560 Lv Sat.png" source="original">
+    <mtime>1716359858</mtime>
+    <size>715518</size>
+    <md5>7d542c4d7bf4da8ad4301a2c2422c900</md5>
+    <crc32>751d499d</crc32>
+    <sha1>0a22f9be9bca89f1aafbef29e566c02103c28f7e</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ronin Pipa. K.K.Orange 896x560 Lv Sat_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. K.K.Orange 896x560 Lv Sat.png</original>
+    <mtime>1716360981</mtime>
+    <size>7284</size>
+    <md5>603b2c1a04ff22bbd33ffafb0546816f</md5>
+    <crc32>b7e1b6f4</crc32>
+    <sha1>3228a84484a20d6fe057b440041197b44de95dde</sha1>
+  </file>
+  <file name="Ronin Pipa. K.K.Orange 896x560.png" source="original">
+    <mtime>1716359863</mtime>
+    <size>605266</size>
+    <md5>3e8c7762f847dab1fa59f508940e5393</md5>
+    <crc32>fdd5db50</crc32>
+    <sha1>a6bea9a5a90b45466e7c0eb634e98451ca1df289</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ronin Pipa. K.K.Orange 896x560_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. K.K.Orange 896x560.png</original>
+    <mtime>1716360979</mtime>
+    <size>6994</size>
+    <md5>2f8d2735a3195235dc2429616b64adb1</md5>
+    <crc32>310328e4</crc32>
+    <sha1>eb7f579746620acdbcfa2348303a01991fb8a152</sha1>
+  </file>
+  <file name="Ronin Pipa. K.K.Orange 964x602.jpg" source="original">
+    <mtime>1662627893</mtime>
+    <size>98414</size>
+    <md5>86de27fb610052c27ce7ab18d1023f76</md5>
+    <crc32>cafb87b0</crc32>
+    <sha1>a8278a3a22af17dedf53e8348fbb217b8df44a51</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Ronin Pipa. K.K.Orange 964x602_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. K.K.Orange 964x602.jpg</original>
+    <mtime>1662627930</mtime>
+    <size>7241</size>
+    <md5>c44f7393633e458862e6026aea6cf3c9</md5>
+    <crc32>e49c78a1</crc32>
+    <sha1>820a335e2ed2a4f271c53df1211491827a1de10a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716362181</mtime>
+    <size>11285</size>
+    <md5>2a63e5f762c9b1cdd2a5d310263125e9</md5>
+    <crc32>baca5c29</crc32>
+    <sha1>58ce488f144df41f3dc481dd6564bd7f0eb45b58</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ronin-pipa-k-k-orange.thumbs/Ronin Pipa. K.K.Orange 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. K.K.Orange 1080p.mp4</original>
+    <mtime>1660367772</mtime>
+    <size>53744</size>
+    <md5>dc0b755c56a34a47f498f8abb4cabb41</md5>
+    <crc32>12ca79d7</crc32>
+    <sha1>03221350105eb01d55a70ff42d15ffb74d02d290</sha1>
+  </file>
+  <file name="ronin-pipa-k-k-orange.thumbs/Ronin Pipa. K.K.Orange 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. K.K.Orange 1080p.mp4</original>
+    <mtime>1660367802</mtime>
+    <size>54030</size>
+    <md5>549ed538f4ab1c0df39a4af777dde672</md5>
+    <crc32>2b17de4f</crc32>
+    <sha1>c8a30775488a2ecdf225ee8038ec65105234fbd9</sha1>
+  </file>
+  <file name="ronin-pipa-k-k-orange.thumbs/Ronin Pipa. K.K.Orange 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. K.K.Orange 1080p.mp4</original>
+    <mtime>1660367833</mtime>
+    <size>105784</size>
+    <md5>ea0e53168f5037e3c6104ce347abb5af</md5>
+    <crc32>94ab288b</crc32>
+    <sha1>fca78155e65d8256530358239e13bd1f28d04d51</sha1>
+  </file>
+  <file name="ronin-pipa-k-k-orange.thumbs/Ronin Pipa. K.K.Orange 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. K.K.Orange 1080p.mp4</original>
+    <mtime>1660367867</mtime>
+    <size>81538</size>
+    <md5>bac835a2636ed5f36707b48042474b7c</md5>
+    <crc32>8f9a0419</crc32>
+    <sha1>704bfb334fb7fa615b00bb4c5f8e4b8c400690bb</sha1>
+  </file>
+  <file name="ronin-pipa-k-k-orange.thumbs/Ronin Pipa. K.K.Orange 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. K.K.Orange 1080p.mp4</original>
+    <mtime>1660367898</mtime>
+    <size>91528</size>
+    <md5>6814078ddf9bd70af7d58ca330f98f1d</md5>
+    <crc32>32451f85</crc32>
+    <sha1>1c4cd179acddd0fe9fee3b8b0008eec5cf14b9bd</sha1>
+  </file>
+  <file name="ronin-pipa-k-k-orange.thumbs/Ronin Pipa. K.K.Orange 1080p_000155.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. K.K.Orange 1080p.mp4</original>
+    <mtime>1660367906</mtime>
+    <size>86721</size>
+    <md5>6e3bebb57d24959ff0df93dc8b5d3431</md5>
+    <crc32>3b197134</crc32>
+    <sha1>4fbdf9102637893175bf226ba51a509c07818887</sha1>
+  </file>
+  <file name="ronin-pipa-k-k-orange_archive.torrent" source="metadata">
+    <btih>a215198e35191ada4610bf31333123fc82561e49</btih>
+    <mtime>1725296361</mtime>
+    <size>6767</size>
+    <md5>1af92b943e300ccd2461341bb580340e</md5>
+    <crc32>f701c39a</crc32>
+    <sha1>38450de5cfd70433acc78f7563099264adb53506</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ronin-pipa-k-k-orange_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4eee0f4d8055a8331e2dceeb5397a412</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ronin-pipa-k-k-orange_meta.sqlite" source="original">
+    <mtime>1716359885</mtime>
+    <size>32768</size>
+    <md5>6acd5b9d9a9a88fefc0ab20ec0bb1434</md5>
+    <crc32>f0d5edd3</crc32>
+    <sha1>2fbb04418f3cb3e59408f1f9d8c169105b95008b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ronin-pipa-k-k-orange_meta.xml" source="original">
+    <mtime>1725296342</mtime>
+    <size>3890</size>
+    <md5>b318c30354c97f2a7f9bbf13be79b5e2</md5>
+    <crc32>9fda7566</crc32>
+    <sha1>c7c5901af3dd873a468ffb5e5607b4c70acaff6d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

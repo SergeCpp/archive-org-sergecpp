@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Hu 66. Ronin Pipa 192k.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709826458</mtime>
+    <size>33432</size>
+    <md5>96978fa7538d625fc433378e6412a8ee</md5>
+    <crc32>e83cf751</crc32>
+    <sha1>198142054923b2a4c52e6b5cb1ea2671c9016615</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k.mp3" source="original">
+    <mtime>1709826082</mtime>
+    <size>5383917</size>
+    <md5>e0773bbf4a283d6d898f66424096887f</md5>
+    <crc32>ac2016f2</crc32>
+    <sha1>9feb5c6e5135405553384f5b0ad7450568b3aac2</sha1>
+    <format>VBR MP3</format>
+    <length>224.3</length>
+    <track>01</track>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k.png" source="derivative">
+    <format>PNG</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709826367</mtime>
+    <size>42270</size>
+    <md5>57f76bafc79125934bfdc848a7c41d09</md5>
+    <crc32>f528a686</crc32>
+    <sha1>7592d98203ef2931fba13f694f29828ce0715abc</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709826418</mtime>
+    <size>327853</size>
+    <md5>73823c1be93b5960aa1800dc4b576741</md5>
+    <crc32>7715dd57</crc32>
+    <sha1>91e72c9b169f20ed5c13cf65f9921909631c9d44</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 720x720.jpg" source="original">
+    <mtime>1709826089</mtime>
+    <size>197907</size>
+    <md5>3b5be0521fc61381d5155d07423ed571</md5>
+    <crc32>1f9a30c8</crc32>
+    <sha1>1e87958973568d3c6069745f40db32b4cba88405</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Hu 66. Ronin Pipa 720x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hu 66. Ronin Pipa 720x720.jpg</original>
+    <mtime>1709826292</mtime>
+    <size>9919</size>
+    <md5>b012905f587188773c7f6ca9f922e795</md5>
+    <crc32>9c733f55</crc32>
+    <sha1>a18ad7526086808dadf52001b8cd957bd27e876f</sha1>
+  </file>
+  <file name="Ronin Pipa. Yanxi 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373650</mtime>
+    <size>42056637</size>
+    <md5>9ef68b390674f8d29990c656ae19986b</md5>
+    <crc32>72a922da</crc32>
+    <sha1>325063f1c2502d4535d9c27d15774db803b5f7b9</sha1>
+    <length>224.47</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ronin Pipa. Yanxi 1080p.mp4" source="original">
+    <mtime>1660373331</mtime>
+    <size>42056637</size>
+    <md5>e465dcba5542caf5c15fb42a4921805e</md5>
+    <crc32>5f56f0a9</crc32>
+    <sha1>114564886929249c128d6d44a5a3eb5470a7b14a</sha1>
+    <format>MPEG4</format>
+    <length>224.47</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ronin Pipa. Yanxi 2000x1250 Lv 0p95.png" source="original">
+    <mtime>1718343381</mtime>
+    <size>4455263</size>
+    <md5>c98ba9aafa416e33cd6e87239c10b1b2</md5>
+    <crc32>911dc264</crc32>
+    <sha1>131a3e254d47eb3ebfac77cfef225be5621e1e2a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ronin Pipa. Yanxi 2000x1250 Lv 0p95_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. Yanxi 2000x1250 Lv 0p95.png</original>
+    <mtime>1718343828</mtime>
+    <size>7785</size>
+    <md5>683c82e1923f96fe8ae87e7aac098fed</md5>
+    <crc32>e539f47e</crc32>
+    <sha1>9f86a437edec6fd37fdfcb606afabce9119b482b</sha1>
+  </file>
+  <file name="Ronin Pipa. Yanxi 2000x1250.png" source="original">
+    <mtime>1718343391</mtime>
+    <size>4401326</size>
+    <md5>3906e3329e5ec4bcfb234622b8210270</md5>
+    <crc32>94908132</crc32>
+    <sha1>5b6291bc32924d72214535ea676e6088b49f9ac6</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ronin Pipa. Yanxi 2000x1250_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. Yanxi 2000x1250.png</original>
+    <mtime>1718343832</mtime>
+    <size>7718</size>
+    <md5>be6f7743ccb977ee21be2f293eb0f1ce</md5>
+    <crc32>fde40a5c</crc32>
+    <sha1>4ffbefb5357a415cd2c84f902929f798b56e3a3b</sha1>
+  </file>
+  <file name="Ronin Pipa. Yanxi 2012x1258.jpg" source="original">
+    <mtime>1662627088</mtime>
+    <size>497725</size>
+    <md5>d232d5ea841278a52c0306725f404326</md5>
+    <crc32>100a5225</crc32>
+    <sha1>d1a8ac265b016947465fb4648e34007885626e90</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Ronin Pipa. Yanxi 2012x1258_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. Yanxi 2012x1258.jpg</original>
+    <mtime>1662627113</mtime>
+    <size>8039</size>
+    <md5>34c66b274001726417c41b5629e58477</md5>
+    <crc32>3ad1f9b3</crc32>
+    <sha1>bc003ae6514fcb68404b4272c715c839fe703402</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718344945</mtime>
+    <size>16401</size>
+    <md5>701bd44ae2f448cf5c12d8d216d3eb55</md5>
+    <crc32>191bcb31</crc32>
+    <sha1>d36c7fa92acfe48cbaebb1957d4ee13a987800f7</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373583</mtime>
+    <size>70256</size>
+    <md5>e34a431064178f1a3ff2b437e555bfd4</md5>
+    <crc32>d08dcfd2</crc32>
+    <sha1>7b307b3f0a1014e20479fd2f0c13f995bc09abeb</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373587</mtime>
+    <size>67990</size>
+    <md5>22669972b27d41b2f167c9236575ac98</md5>
+    <crc32>e413334c</crc32>
+    <sha1>793a86940d24cba9919440d1db1dcccda2c2a5d5</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373591</mtime>
+    <size>107423</size>
+    <md5>bbf453cd836e510bf02ea5e05fd48814</md5>
+    <crc32>a0152ef8</crc32>
+    <sha1>008896975736a37c6734f7fb61aa6a29e140747c</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373595</mtime>
+    <size>108574</size>
+    <md5>e6c5b5c9d6d38e0b4df3827ca1afc0ae</md5>
+    <crc32>828ab135</crc32>
+    <sha1>a895aab20c78a5fce3d4c191cadfd10c3f5fef0b</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373600</mtime>
+    <size>105771</size>
+    <md5>3e20b2d03805472a31fdd8da940fc9fd</md5>
+    <crc32>b1f11c96</crc32>
+    <sha1>121e743581945860bbe9d5629b4421a93f489fc5</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000179.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373604</mtime>
+    <size>106293</size>
+    <md5>ead8bf088fae78be86db6b9ec7b88549</md5>
+    <crc32>a16f156d</crc32>
+    <sha1>96adfaba6cbd45cf2dc005f720878a71c8d4aa5e</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373608</mtime>
+    <size>108010</size>
+    <md5>35889f4321de075e2ba080e9c3f59284</md5>
+    <crc32>97cc876a</crc32>
+    <sha1>7781ec4848023865b0ba267ca9c6a3ae10bd6592</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi.thumbs/Ronin Pipa. Yanxi 1080p_000220.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Yanxi 1080p.mp4</original>
+    <mtime>1660373610</mtime>
+    <size>109289</size>
+    <md5>32929a711a6c569411c97587366691a7</md5>
+    <crc32>4a7b2132</crc32>
+    <sha1>e04c2481762c624ecc09f001faef2aaba97711a9</sha1>
+  </file>
+  <file name="ronin-pipa-yanxi_archive.torrent" source="metadata">
+    <btih>8286057b73f37cbcf3de3b58ec8565636725391c</btih>
+    <mtime>1725341592</mtime>
+    <size>8089</size>
+    <md5>06147b00030f2144c36ede796ad06730</md5>
+    <crc32>76e8338b</crc32>
+    <sha1>cea362b836f09c450ea0c16018062fd7db6f8062</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ronin-pipa-yanxi_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c7ebe6ac4408ae5fd6efb79a5b0f28ac</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ronin-pipa-yanxi_meta.sqlite" source="original">
+    <mtime>1718343394</mtime>
+    <size>32768</size>
+    <md5>3ed12335afc59662a1053e0f9a0cd9bc</md5>
+    <crc32>744acde5</crc32>
+    <sha1>dc043f7db22aa7f7cb1c12333646dd64fc708a18</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ronin-pipa-yanxi_meta.xml" source="original">
+    <mtime>1725341586</mtime>
+    <size>3974</size>
+    <md5>06f61b1f85c6786a43817e516b231439</md5>
+    <crc32>030e9165</crc32>
+    <sha1>e6076a62e7c786a854011d0a7b0d88db2ce5d661</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

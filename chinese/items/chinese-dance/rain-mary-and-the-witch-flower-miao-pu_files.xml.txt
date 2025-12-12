@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Rain. Mary and the Witch Flower. Miao Pu 1144x715 Lv15 BL45-135_itemimage.png" source="original">
+    <mtime>1738226826</mtime>
+    <size>1525177</size>
+    <md5>9ba222c7bcf33b83b63266115eb4bc56</md5>
+    <crc32>56aa3889</crc32>
+    <sha1>1f6d0eace39e9df3fa0301a38a248979fcc46e24</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Rain. Mary and the Witch Flower. Miao Pu 1144x715.png" source="original">
+    <mtime>1738226843</mtime>
+    <size>1396348</size>
+    <md5>bec5c627011b591c093c55acae27f325</md5>
+    <crc32>baf5786d</crc32>
+    <sha1>cd6eb39541198c37c600283798e4336c86783498</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Rain. Mary and the Witch Flower. Miao Pu 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 1144x715.png</original>
+    <mtime>1738229587</mtime>
+    <size>8216</size>
+    <md5>7181f781a9108c7b0794e7a5d4f99ecd</md5>
+    <crc32>c6f3a221</crc32>
+    <sha1>d437a8f99c0727de549855b69a4ed13d68282494</sha1>
+  </file>
+  <file name="Rain. Mary and the Witch Flower. Miao Pu 818p.mp4" source="original">
+    <mtime>1738227184</mtime>
+    <size>102168802</size>
+    <md5>b80cc2eb1e3f41949e736c8094d0c6bb</md5>
+    <crc32>98214cd6</crc32>
+    <sha1>4c7816fedcb9152657ecdb964332430e085c8e5b</sha1>
+    <format>MPEG4</format>
+    <length>283.76</length>
+    <width>1920</width>
+    <height>818</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1738226890</mtime>
+    <size>16091</size>
+    <md5>e8e7c59bc9fafa04eca4dcc16b6de082</md5>
+    <crc32>2eec3731</crc32>
+    <sha1>230ecc5a82f0c7aae8f177c17b5fbdb1066b1f1e</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228086</mtime>
+    <size>31544</size>
+    <md5>6aaa4380c1c9f185a2a8c79becd84c3f</md5>
+    <crc32>aa61dcf7</crc32>
+    <sha1>48f63d31cb38f8f7b1fdc7ce01c00967bd1e625e</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228089</mtime>
+    <size>85298</size>
+    <md5>e6ef3cf97e6f23a2fec84cd22717be09</md5>
+    <crc32>c58e4e46</crc32>
+    <sha1>10c2770581a979bbe1aa9e64874c5dacefd85641</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228092</mtime>
+    <size>85217</size>
+    <md5>d698262d19d6840c26ab2e79c4667710</md5>
+    <crc32>7c1913c6</crc32>
+    <sha1>41b5499fb3b8230b2c1156a4f08f5d5768b2d759</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228095</mtime>
+    <size>85920</size>
+    <md5>64c39624157ac743198d411a9c45d8c6</md5>
+    <crc32>21bce196</crc32>
+    <sha1>7d60159056444e55a931547988d886e73f205d6d</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228098</mtime>
+    <size>57187</size>
+    <md5>f7a37389ff9b03f623fbbe9ea3e6f54a</md5>
+    <crc32>7b4059d8</crc32>
+    <sha1>efb7092d2e597c40cf94842ed00ce5d39530ffd6</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228101</mtime>
+    <size>66600</size>
+    <md5>5b6e0784ad5f50da9c54cde8772d3e1a</md5>
+    <crc32>9666fbe1</crc32>
+    <sha1>6b5291c9a6527dac523834d38e8e565d0e7f4fd2</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228105</mtime>
+    <size>3343</size>
+    <md5>1c4685832fa99e4bb0d1c9c82eb4a8cb</md5>
+    <crc32>77646ebc</crc32>
+    <sha1>bf42d9aad2de623a52a417d6a2362dd5c8fb78f7</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228108</mtime>
+    <size>74589</size>
+    <md5>989c213cd9f3b261a404b8f2235c35a5</md5>
+    <crc32>ea7b176e</crc32>
+    <sha1>5aafc984dd3a3de40deee70aeba1e8b1f165ca73</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228111</mtime>
+    <size>65985</size>
+    <md5>ad0245e0d4be0b0e7cbeface8527ba0b</md5>
+    <crc32>bd1d2e1c</crc32>
+    <sha1>1e92e7cacddcf054306568fda0b9ebdc323e5e9d</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu.thumbs/Rain. Mary and the Witch Flower. Miao Pu 818p_000280.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rain. Mary and the Witch Flower. Miao Pu 818p.mp4</original>
+    <mtime>1738228113</mtime>
+    <size>49537</size>
+    <md5>a0dee97541682c07f7d5c6c8d87cb99e</md5>
+    <crc32>1307bf87</crc32>
+    <sha1>7a8c014ffba355239da1fd851f44491a40244d43</sha1>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu_archive.torrent" source="metadata">
+    <btih>51124928d9749610762050d59625657d2415575d</btih>
+    <mtime>1738229818</mtime>
+    <size>6745</size>
+    <md5>92d0cba926d1a10ce43ec0b89f5ee361</md5>
+    <crc32>74c4b981</crc32>
+    <sha1>bb3e551a4f53059bcdac87c1607d78b24cf501b1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a06a5236a49ed97813a3731641e9a36b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu_meta.sqlite" source="original">
+    <mtime>1738227194</mtime>
+    <size>61440</size>
+    <md5>50c0081cf30140a4d1ce253168e29538</md5>
+    <crc32>69a06022</crc32>
+    <sha1>96a779b594fa2dec9ae6aca3e3c81fe822c6da4f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="rain-mary-and-the-witch-flower-miao-pu_meta.xml" source="original">
+    <mtime>1738226842</mtime>
+    <size>5355</size>
+    <md5>9f5d06ae8f570acaab4d9432ea40cb1b</md5>
+    <crc32>f72de842</crc32>
+    <sha1>f3bcc1167e0053007d9cda12de82d8e0fde1a05c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

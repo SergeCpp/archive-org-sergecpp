@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Rouge. Aizi 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375752</mtime>
+    <size>51580392</size>
+    <md5>467f60251c208a6ce7f64cb94f458d45</md5>
+    <crc32>d6cb2dae</crc32>
+    <sha1>1a219ae8579c78f9bca6a4f3ad1336b700124eed</sha1>
+    <length>87.22</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Rouge. Aizi 1080p.mp4" source="original">
+    <mtime>1660375598</mtime>
+    <size>51580392</size>
+    <md5>c39df96621966c199287c4ce02b7c237</md5>
+    <crc32>d2d8b128</crc32>
+    <sha1>a348eca084b226d6a6154a451d8620ce8dcc323c</sha1>
+    <format>MPEG4</format>
+    <length>87.22</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Rouge. Aizi 1104x690.png" source="original">
+    <mtime>1718348970</mtime>
+    <size>1514428</size>
+    <md5>76637d398244cb06c700afa4d93331f4</md5>
+    <crc32>cbe74ae5</crc32>
+    <sha1>06d09c6d49b7e412ab4e3fb18972817dfadb9d5a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Rouge. Aizi 1104x690_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Rouge. Aizi 1104x690.png</original>
+    <mtime>1718349060</mtime>
+    <size>8220</size>
+    <md5>2038c98ed3757245e9a88089cc0cc892</md5>
+    <crc32>36f7c4be</crc32>
+    <sha1>43e459713e9c39a85049cce4b2b1ebf72b8118c2</sha1>
+  </file>
+  <file name="Rouge. Aizi 1146x716.jpg" source="original">
+    <mtime>1662625846</mtime>
+    <size>177898</size>
+    <md5>0a82340da2eb37af459c4d7be58a3f52</md5>
+    <crc32>cad362f4</crc32>
+    <sha1>f0bcb3e7b188c04a601ea6cff52d7a4b9ff4d1a4</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Rouge. Aizi 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Rouge. Aizi 1146x716.jpg</original>
+    <mtime>1662625858</mtime>
+    <size>8602</size>
+    <md5>6659669d6dc3bf11ee7313223fae957e</md5>
+    <crc32>fe123ecc</crc32>
+    <sha1>a0dca19f1b9f5be548abc3d5847e79e778acd46c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718349321</mtime>
+    <size>16560</size>
+    <md5>cf2006e6efc617962ca7fba3c029944d</md5>
+    <crc32>96d38780</crc32>
+    <sha1>a21441c37c965a8d0716764dbe87cce8549b38aa</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375675</mtime>
+    <size>71531</size>
+    <md5>4c96df8b336911a486ff15a9b8e5540e</md5>
+    <crc32>40856428</crc32>
+    <sha1>939c18efa12656b87a9b817f9ced46e4493b699f</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000011.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375676</mtime>
+    <size>80700</size>
+    <md5>1fe4fcdd11525d455971cc8687e8d0af</md5>
+    <crc32>4db87946</crc32>
+    <sha1>03f13f8d866c7191e5c54a192f50cdc488f7ad14</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375679</mtime>
+    <size>67644</size>
+    <md5>4628312ddc03a2e2f521bf1e2967a36d</md5>
+    <crc32>e3170f00</crc32>
+    <sha1>7ee3ddf72014464ffe6d5f076c5f757e8e99e712</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375683</mtime>
+    <size>132428</size>
+    <md5>4fd07d6710c66ed772354480a30ddedc</md5>
+    <crc32>3e2901bb</crc32>
+    <sha1>dbb3a72eb88159deb180ac9b3c6c669e49d4a5be</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375687</mtime>
+    <size>95531</size>
+    <md5>aac4a70b1658bbec8a4bd8b4ad1d47be</md5>
+    <crc32>0db3000d</crc32>
+    <sha1>e1e22ebfea38f50af7b921b257fb45543d648e5e</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375690</mtime>
+    <size>114683</size>
+    <md5>d077befaef3b39c5396ca942d0dd6c64</md5>
+    <crc32>e22d2633</crc32>
+    <sha1>6342dd56770a7b8aca1f73a71da9227c91b3c090</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375694</mtime>
+    <size>137336</size>
+    <md5>137762e907232df497f6d2e644c82817</md5>
+    <crc32>18c5e2cf</crc32>
+    <sha1>d8edfd99b9550d27dd4e909897e8966229015adf</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000041.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375697</mtime>
+    <size>105044</size>
+    <md5>d3e72b68a0b612eb89af94c845bcc717</md5>
+    <crc32>fc0d383e</crc32>
+    <sha1>ccbe3192f504e444ea1f129b7918f077b2bf81e4</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000046.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375700</mtime>
+    <size>109035</size>
+    <md5>bd8da356e21a4803192bb2891a933de5</md5>
+    <crc32>37e0bb9c</crc32>
+    <sha1>f234c03e5b861de4f14518e79dd5fd41dd444bd6</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000051.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375703</mtime>
+    <size>104483</size>
+    <md5>6373e8bb1d4b5d86519d09a1855be2f5</md5>
+    <crc32>e169b5a9</crc32>
+    <sha1>e917422c39d448cd76ca953d9167e68991d50850</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000056.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375706</mtime>
+    <size>135957</size>
+    <md5>8e0fa31b682b00df1f0c1679a68d8fc0</md5>
+    <crc32>c9774fa7</crc32>
+    <sha1>fd6fde88e32e5214452cdac73346e69f663d6454</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375711</mtime>
+    <size>88545</size>
+    <md5>91fc27d3f143155e6b48f29cac9b5c6a</md5>
+    <crc32>c59ddf83</crc32>
+    <sha1>1883bf9128c340a65dcc72ef9626bf928a350df6</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375714</mtime>
+    <size>88976</size>
+    <md5>54745f6438e8bf399cc27c46f4a241fa</md5>
+    <crc32>2fd37da5</crc32>
+    <sha1>11d9b94944c345b864b0bf9dd5fffefb4f922b5a</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000071.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375720</mtime>
+    <size>47472</size>
+    <md5>d59af9983c4e3926817c181c83ddc816</md5>
+    <crc32>9b513c25</crc32>
+    <sha1>2637038dbb4b88814c71a7eb97aeeb42238fe344</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000076.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375723</mtime>
+    <size>60861</size>
+    <md5>8e07ac5932d14c3d94f9c89f646533ee</md5>
+    <crc32>89e1ade4</crc32>
+    <sha1>42d78a88c388e5bbf3f5fbf4a9447b4f47aabe54</sha1>
+  </file>
+  <file name="rouge-aizi.thumbs/Rouge. Aizi 1080p_000082.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Rouge. Aizi 1080p.mp4</original>
+    <mtime>1660375728</mtime>
+    <size>70043</size>
+    <md5>525840950a4fc64bc9e4144457a50739</md5>
+    <crc32>88b76e00</crc32>
+    <sha1>65c8a7a8d3b3e33a67fff9b2877df311b86ec710</sha1>
+  </file>
+  <file name="rouge-aizi_archive.torrent" source="metadata">
+    <btih>c3961d704a7edad93b5c040dd8984fb307312fef</btih>
+    <mtime>1724254985</mtime>
+    <size>6716</size>
+    <md5>c22aa6d8be14be0eba1f6a617bd93a76</md5>
+    <crc32>5a3b50fc</crc32>
+    <sha1>ed616000dd843e811281efe34e6f983f96757e59</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="rouge-aizi_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8ea521803b27c0cdedad5efe5eeeb688</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="rouge-aizi_meta.sqlite" source="original">
+    <mtime>1718348999</mtime>
+    <size>28672</size>
+    <md5>3f20195fd8241a577b256c0e54187a16</md5>
+    <crc32>7a16ac91</crc32>
+    <sha1>079aa26059e92cc81dfcd7ba79c98a0347918507</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="rouge-aizi_meta.xml" source="original">
+    <mtime>1724254981</mtime>
+    <size>3033</size>
+    <md5>c61ff63a4b64a09bd8f79e94f5fa7319</md5>
+    <crc32>f9590125</crc32>
+    <sha1>ef1b4287ec8f2c5ffd68d5880fafb469f119e9d7</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Hu 66. Ronin Pipa 192k.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709798528</mtime>
+    <size>33432</size>
+    <md5>96978fa7538d625fc433378e6412a8ee</md5>
+    <crc32>e83cf751</crc32>
+    <sha1>198142054923b2a4c52e6b5cb1ea2671c9016615</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k.mp3" source="original">
+    <mtime>1709797521</mtime>
+    <size>5383917</size>
+    <md5>e0773bbf4a283d6d898f66424096887f</md5>
+    <crc32>ac2016f2</crc32>
+    <sha1>9feb5c6e5135405553384f5b0ad7450568b3aac2</sha1>
+    <format>VBR MP3</format>
+    <length>224.3</length>
+    <track>01</track>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k.png" source="derivative">
+    <format>PNG</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709798212</mtime>
+    <size>42270</size>
+    <md5>96da21c783bef4f1c13e17f04a11d439</md5>
+    <crc32>12321223</crc32>
+    <sha1>e386fb091a907652795d5ea01ae5cf44da8254c5</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 192k_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Hu 66. Ronin Pipa 192k.mp3</original>
+    <mtime>1709798420</mtime>
+    <size>327854</size>
+    <md5>dd03489d78fc56c6a583a4f73acf00be</md5>
+    <crc32>cf4aba12</crc32>
+    <sha1>c31b2762d933f2113de3a858f1a4ba7a395467ad</sha1>
+  </file>
+  <file name="Hu 66. Ronin Pipa 720x720.jpg" source="original">
+    <mtime>1709797528</mtime>
+    <size>197907</size>
+    <md5>3b5be0521fc61381d5155d07423ed571</md5>
+    <crc32>1f9a30c8</crc32>
+    <sha1>1e87958973568d3c6069745f40db32b4cba88405</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Hu 66. Ronin Pipa 720x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Hu 66. Ronin Pipa 720x720.jpg</original>
+    <mtime>1709798019</mtime>
+    <size>9919</size>
+    <md5>b012905f587188773c7f6ca9f922e795</md5>
+    <crc32>9c733f55</crc32>
+    <sha1>a18ad7526086808dadf52001b8cd957bd27e876f</sha1>
+  </file>
+  <file name="Ronin Pipa. Wu Tong 1080p.mp4" source="original">
+    <mtime>1664092033</mtime>
+    <size>43420020</size>
+    <md5>132a53f8b6a253df8e3a41d399119120</md5>
+    <crc32>a3263af6</crc32>
+    <sha1>b9fcc0530a5afdc594b3b05c76d70e4d1ca77404</sha1>
+    <format>MPEG4</format>
+    <length>128.26</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ronin Pipa. Wu Tong 1720x1075 Lv 20 1p2.png" source="original">
+    <mtime>1718209285</mtime>
+    <size>2551165</size>
+    <md5>4b51e5bcfdb5f8de66dfe9786d0ccbd0</md5>
+    <crc32>5c5f27b2</crc32>
+    <sha1>e10ab797b6b85a8004654b958dcd3385a5e68629</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ronin Pipa. Wu Tong 1720x1075 Lv 20 1p2_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. Wu Tong 1720x1075 Lv 20 1p2.png</original>
+    <mtime>1718209837</mtime>
+    <size>8586</size>
+    <md5>4c6a4860df05f227062bf30bc48ca86f</md5>
+    <crc32>fea39117</crc32>
+    <sha1>9bd900a39e1f28ae485af3d6582a3f423914a151</sha1>
+  </file>
+  <file name="Ronin Pipa. Wu Tong 1720x1075.png" source="original">
+    <mtime>1718209293</mtime>
+    <size>2455476</size>
+    <md5>560eb44f7d64826f95ca5c184115b096</md5>
+    <crc32>09eda1f0</crc32>
+    <sha1>33832e5a8540a28d903a1260391c8672e1af098e</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ronin Pipa. Wu Tong 1720x1075_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. Wu Tong 1720x1075.png</original>
+    <mtime>1718209834</mtime>
+    <size>8633</size>
+    <md5>681b96cd6bb9b974cd4934731e23bf9a</md5>
+    <crc32>58fbcd9c</crc32>
+    <sha1>888d6bb100669f199c69cb4036f967e6880c3f44</sha1>
+  </file>
+  <file name="Ronin Pipa. Wu Tong 1726x1078.jpg" source="original">
+    <mtime>1664092048</mtime>
+    <size>240410</size>
+    <md5>4a3de0407b8fe3b47df797587dfaadde</md5>
+    <crc32>307cb8ef</crc32>
+    <sha1>e9de3dab2f7d7f1ca6220b3555a75a57476a4179</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Ronin Pipa. Wu Tong 1726x1078_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ronin Pipa. Wu Tong 1726x1078.jpg</original>
+    <mtime>1664092120</mtime>
+    <size>9525</size>
+    <md5>b28c4f74eac278cd6ad788d28f47dd48</md5>
+    <crc32>9a252de9</crc32>
+    <sha1>ac7a0ebef797a2913102213de48bfe125668f60b</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718211004</mtime>
+    <size>14409</size>
+    <md5>729de1394dab3cfabf68aaeea2be113e</md5>
+    <crc32>95cf3554</crc32>
+    <sha1>153da903a3b832830e39a3f8480e719255db7d54</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ronin-pipa-wu-tong.thumbs/Ronin Pipa. Wu Tong 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Wu Tong 1080p.mp4</original>
+    <mtime>1664092084</mtime>
+    <size>46898</size>
+    <md5>2c3579cc6574a5fb0ee53985d5cbdf2e</md5>
+    <crc32>16a673e9</crc32>
+    <sha1>6029e6039592ce27d26358641c79a277a71a5633</sha1>
+  </file>
+  <file name="ronin-pipa-wu-tong.thumbs/Ronin Pipa. Wu Tong 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Wu Tong 1080p.mp4</original>
+    <mtime>1664092089</mtime>
+    <size>64263</size>
+    <md5>8fe8a719b6e1ade70af3fdcfe31cafff</md5>
+    <crc32>f6148b93</crc32>
+    <sha1>84c9a3420d918ea5149f2fbf829cfaedf06e4a1b</sha1>
+  </file>
+  <file name="ronin-pipa-wu-tong.thumbs/Ronin Pipa. Wu Tong 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Wu Tong 1080p.mp4</original>
+    <mtime>1664092094</mtime>
+    <size>74849</size>
+    <md5>e567c31a8809435530849702ae48e6c0</md5>
+    <crc32>0d5c5751</crc32>
+    <sha1>1575f6a6344e36d57b1707244b41a4e2c5bdbf71</sha1>
+  </file>
+  <file name="ronin-pipa-wu-tong.thumbs/Ronin Pipa. Wu Tong 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Wu Tong 1080p.mp4</original>
+    <mtime>1664092098</mtime>
+    <size>74646</size>
+    <md5>c02ea602ff3e298af6d493ff74f9238b</md5>
+    <crc32>02987605</crc32>
+    <sha1>074877aaf33f43b5fac5c7836ef2e60b6a3cbc34</sha1>
+  </file>
+  <file name="ronin-pipa-wu-tong.thumbs/Ronin Pipa. Wu Tong 1080p_000125.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ronin Pipa. Wu Tong 1080p.mp4</original>
+    <mtime>1664092100</mtime>
+    <size>81410</size>
+    <md5>786b591e7dea37145cfac68bf20199ef</md5>
+    <crc32>3bbecb77</crc32>
+    <sha1>c41f16cce9a5161d0f899ff8bb7fe9258a0c855c</sha1>
+  </file>
+  <file name="ronin-pipa-wu-tong_archive.torrent" source="metadata">
+    <btih>46a48776218c54eea0547e4494b58ebc9e62c6bc</btih>
+    <mtime>1725339145</mtime>
+    <size>6240</size>
+    <md5>76907c1ea6c9a2d5adebc23d243a532f</md5>
+    <crc32>a297540f</crc32>
+    <sha1>2ff55899dd1c1bdaed0607ac8e8bfee76ec0cf9b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ronin-pipa-wu-tong_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0308bce80cbf60edf3b74c85c55deb90</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ronin-pipa-wu-tong_meta.sqlite" source="original">
+    <mtime>1718209298</mtime>
+    <size>36864</size>
+    <md5>48232fd51f68ecb8798252036c90e006</md5>
+    <crc32>ed280504</crc32>
+    <sha1>f9e942ab6afbd93a0b4243d842797560a4cc9e2e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ronin-pipa-wu-tong_meta.xml" source="original">
+    <mtime>1725339144</mtime>
+    <size>3983</size>
+    <md5>6b1e4833f3f378dd333a914cc1cc0287</md5>
+    <crc32>64664a8a</crc32>
+    <sha1>3e943d09dcf47d388ecc9685d5da21787992546a</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
