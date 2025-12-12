@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cheng Jiamin. The World Is Not Worth It (Rhythm Version).afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Cheng Jiamin. The World Is Not Worth It (Rhythm Version).mp3</original>
+    <mtime>1740299288</mtime>
+    <size>45560</size>
+    <md5>2f54cc071177c6a34317e7c61366e3a1</md5>
+    <crc32>e3da5fa8</crc32>
+    <sha1>e6d4bf713f36a167da9fea1329b00ae3ff638f9b</sha1>
+  </file>
+  <file name="Cheng Jiamin. The World Is Not Worth It (Rhythm Version).mp3" source="original">
+    <mtime>1740298090</mtime>
+    <size>6110909</size>
+    <md5>c7b8d7af4263f1b598303b8be1d87b7f</md5>
+    <crc32>cde15002</crc32>
+    <sha1>b33ae7288091896f7c44929fc80f3bbc47f46d31</sha1>
+    <format>VBR MP3</format>
+    <length>254.59</length>
+  </file>
+  <file name="Cheng Jiamin. The World Is Not Worth It (Rhythm Version).png" source="derivative">
+    <format>PNG</format>
+    <original>Cheng Jiamin. The World Is Not Worth It (Rhythm Version).mp3</original>
+    <mtime>1740298858</mtime>
+    <size>44066</size>
+    <md5>bfff29edf207915edba9af95b41081ba</md5>
+    <crc32>bea5978d</crc32>
+    <sha1>a52c979b56e7f6ca52c333a3009275b4659ac2f3</sha1>
+  </file>
+  <file name="Cheng Jiamin. The World Is Not Worth It (Rhythm Version)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cheng Jiamin. The World Is Not Worth It (Rhythm Version).mp3</original>
+    <mtime>1740299233</mtime>
+    <size>302062</size>
+    <md5>a7bc073963f0dbabd8c65053706cb6c5</md5>
+    <crc32>5cae96fe</crc32>
+    <sha1>8b1c8347f36d5ff21fb070d7af169fbc759282dd</sha1>
+  </file>
+  <file name="Huang Shifu. The World Is Not Worth It.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Huang Shifu. The World Is Not Worth It.mp3</original>
+    <mtime>1740299317</mtime>
+    <size>47240</size>
+    <md5>f7bca58a7bda9607565ff8e8a7910822</md5>
+    <crc32>37cffe43</crc32>
+    <sha1>8fc0cd24d58d5404203386cf104fde68082aff99</sha1>
+  </file>
+  <file name="Huang Shifu. The World Is Not Worth It.mp3" source="original">
+    <mtime>1740298172</mtime>
+    <size>6863862</size>
+    <md5>7fd037b0dd88a2a2a0248174613c3692</md5>
+    <crc32>e5ece395</crc32>
+    <sha1>1c954ceaf7e5924cdffd98fbe42fa0edcfa0b065</sha1>
+    <format>VBR MP3</format>
+    <length>285.96</length>
+  </file>
+  <file name="Huang Shifu. The World Is Not Worth It.png" source="derivative">
+    <format>PNG</format>
+    <original>Huang Shifu. The World Is Not Worth It.mp3</original>
+    <mtime>1740299022</mtime>
+    <size>36609</size>
+    <md5>03a6c2f010f8615c48508e6703c4efb3</md5>
+    <crc32>b692536d</crc32>
+    <sha1>b8fac48b983cc7ce203904efb09388dc3b60dabf</sha1>
+  </file>
+  <file name="Huang Shifu. The World Is Not Worth It_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Huang Shifu. The World Is Not Worth It.mp3</original>
+    <mtime>1740299263</mtime>
+    <size>309695</size>
+    <md5>4b4d0d60a52098d6377a571b1f0596d1</md5>
+    <crc32>acbc122a</crc32>
+    <sha1>46cc252cf834b75d395d5587c7ce3724621eba98</sha1>
+  </file>
+  <file name="The World Is Not Worth It. Miao Pu 1144x715 BL85_itemimage.png" source="original">
+    <mtime>1740297344</mtime>
+    <size>1351035</size>
+    <md5>a219d797ebd4e38070835b5d22cd279a</md5>
+    <crc32>a610f409</crc32>
+    <sha1>70eff10058c96c0c10f66110340508fd37bcf05b</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="The World Is Not Worth It. Miao Pu 1144x715.png" source="original">
+    <mtime>1740297370</mtime>
+    <size>1314706</size>
+    <md5>07f3eafab19cd185c4db2aa9d0cef32c</md5>
+    <crc32>214d15da</crc32>
+    <sha1>e2125cacfcce7770a47e429053160d2eed3c8fcf</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="The World Is Not Worth It. Miao Pu 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>The World Is Not Worth It. Miao Pu 1144x715.png</original>
+    <mtime>1740298775</mtime>
+    <size>8790</size>
+    <md5>8052af028608a113fad0c646f5c34426</md5>
+    <crc32>d3bd6910</crc32>
+    <sha1>a86bfab8b71964d174f999ec8dc5ec71d0558da0</sha1>
+  </file>
+  <file name="The World Is Not Worth It. Miao Pu 816p.mp4" source="original">
+    <mtime>1740298017</mtime>
+    <size>48258214</size>
+    <md5>46ffe351e2d4e78abee98fd0824cdf2d</md5>
+    <crc32>1727674d</crc32>
+    <sha1>535636b276ca1a386091cecd74c17e56860658ab</sha1>
+    <format>MPEG4</format>
+    <length>137.54</length>
+    <width>1920</width>
+    <height>816</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1740297407</mtime>
+    <size>16480</size>
+    <md5>4620b5ba8f4e7ea34b1a3b0114c054b4</md5>
+    <crc32>5643fba9</crc32>
+    <sha1>61e829535d1c33b23b2a21cfb5959c7fc6944df6</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu.thumbs/The World Is Not Worth It. Miao Pu 816p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>The World Is Not Worth It. Miao Pu 816p.mp4</original>
+    <mtime>1740298315</mtime>
+    <size>53328</size>
+    <md5>ea1d8f3b8b0b60f4f03c4966598d2560</md5>
+    <crc32>06c71dd6</crc32>
+    <sha1>09646a4aaab00263d5e895c29d76d4b10fc44523</sha1>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu.thumbs/The World Is Not Worth It. Miao Pu 816p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>The World Is Not Worth It. Miao Pu 816p.mp4</original>
+    <mtime>1740298320</mtime>
+    <size>60178</size>
+    <md5>23bf9b291c3ea0623e97d2ffe4fb8698</md5>
+    <crc32>0e88c48d</crc32>
+    <sha1>56efebb101bdfe7e11ec0eed274c175f927575c3</sha1>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu.thumbs/The World Is Not Worth It. Miao Pu 816p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>The World Is Not Worth It. Miao Pu 816p.mp4</original>
+    <mtime>1740298325</mtime>
+    <size>65830</size>
+    <md5>aa9b4b27987c41af63af4e89aec3757b</md5>
+    <crc32>cb642019</crc32>
+    <sha1>98e1cadf9ea5fb3d051f3a367dbefe0f5026dbb8</sha1>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu.thumbs/The World Is Not Worth It. Miao Pu 816p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>The World Is Not Worth It. Miao Pu 816p.mp4</original>
+    <mtime>1740298330</mtime>
+    <size>85963</size>
+    <md5>d053ef82b90ed66134bd0c7986e0f12b</md5>
+    <crc32>6c2ebd91</crc32>
+    <sha1>059f8ad7d04d97ee5b20bac2ea665bb863a456ff</sha1>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu.thumbs/The World Is Not Worth It. Miao Pu 816p_000135.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>The World Is Not Worth It. Miao Pu 816p.mp4</original>
+    <mtime>1740298333</mtime>
+    <size>57429</size>
+    <md5>38d2458b4eeb2565af82ac8750c8f218</md5>
+    <crc32>2944c066</crc32>
+    <sha1>bfca1436dc7a8867b51f1d9c8290081a301af85d</sha1>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu_archive.torrent" source="metadata">
+    <btih>9241e119155e4e4ab286f2800395b349763c9718</btih>
+    <mtime>1740299349</mtime>
+    <size>6798</size>
+    <md5>3ce87313741ad4904f6f14111b6ff6c3</md5>
+    <crc32>873b7182</crc32>
+    <sha1>8d9e395931c43b8689a8766579070688719e2fa6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>27d95815ac425088fea2a4a90afa1c32</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu_meta.sqlite" source="original">
+    <mtime>1740298182</mtime>
+    <size>65536</size>
+    <md5>efa590332ad80206f65b51e6d4595993</md5>
+    <crc32>e2bb4be0</crc32>
+    <sha1>99bb8c161d4d322adff59df4fe5abb4ac6bb9765</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="the-world-is-not-worth-it-miao-pu_meta.xml" source="original">
+    <mtime>1740297356</mtime>
+    <size>3768</size>
+    <md5>7853669855a1cf77aad4f8fef1a453e9</md5>
+    <crc32>ccce3ef0</crc32>
+    <sha1>9f929ae328dce606c0b10d3dad411531e3898543</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

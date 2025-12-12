@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Tell Your World. Xiao Wu. Dance 1080p.mp4" source="original">
+    <mtime>1737392017</mtime>
+    <size>71461841</size>
+    <md5>e8909619a792990cdd6f825e8389687b</md5>
+    <crc32>2df2e4ce</crc32>
+    <sha1>29e0192c0deb034e7b5820e06fddd6943de87536</sha1>
+    <format>MPEG4</format>
+    <length>257.88</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Tell Your World. Xiao Wu. Dance 2000x1250 BL50-130_itemimage.png" source="original">
+    <mtime>1737391670</mtime>
+    <size>3378772</size>
+    <md5>403e5b93631376020b4a81070f424033</md5>
+    <crc32>a6936dec</crc32>
+    <sha1>fdaa8acf40c641d5293e81dc59caa4c9d8d90274</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Tell Your World. Xiao Wu. Dance 2000x1250.jpg" source="original">
+    <mtime>1737391691</mtime>
+    <size>299374</size>
+    <md5>da275379b6b6d0cb5a39b52e599b41ac</md5>
+    <crc32>74d09755</crc32>
+    <sha1>c323bf19804bd362e28234011a02e11d4ec30f8f</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Tell Your World. Xiao Wu. Dance 2000x1250_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Tell Your World. Xiao Wu. Dance 2000x1250.jpg</original>
+    <mtime>1737392128</mtime>
+    <size>8717</size>
+    <md5>c5159f86dae9500a88565b2358ad83f4</md5>
+    <crc32>d11b1821</crc32>
+    <sha1>8cddfd9da83502f5498558bc458307695e069d73</sha1>
+  </file>
+  <file name="Tell Your World. Xiao Wu. VLOG 1080p.mp4" source="original">
+    <mtime>1737392681</mtime>
+    <size>70477729</size>
+    <md5>0cd06205f18145a27860e2893e52001e</md5>
+    <crc32>5bd6df77</crc32>
+    <sha1>b424676735b765d11349d4a621ec65a1a8c1fc75</sha1>
+    <format>MPEG4</format>
+    <length>174.03</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Tell Your World. Xiao Wu. VLOG 2304x1440.jpg" source="original">
+    <mtime>1737392428</mtime>
+    <size>334289</size>
+    <md5>90331159871dfd4c651eff8295d65a0b</md5>
+    <crc32>56cb4ee1</crc32>
+    <sha1>270ea021a59b0cfbe0f59f11961c9a08a1b07d2c</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Tell Your World. Xiao Wu. VLOG 2304x1440_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Tell Your World. Xiao Wu. VLOG 2304x1440.jpg</original>
+    <mtime>1737392782</mtime>
+    <size>8484</size>
+    <md5>3ff91f1564d612490c4e6f8c08d150ab</md5>
+    <crc32>d77461d9</crc32>
+    <sha1>58728a544d01ab6e97473da84bf5a631b5377b83</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1737391736</mtime>
+    <size>14844</size>
+    <md5>995a3e3f5a7c56d5148245cd1704d5df</md5>
+    <crc32>0b6e35eb</crc32>
+    <sha1>2c66cc901f9f3e5482189056acc81b3dc453d0c8</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392058</mtime>
+    <size>51737</size>
+    <md5>d148b663d6a057cfeb95cf3543aca664</md5>
+    <crc32>5750737c</crc32>
+    <sha1>825d7e6f7696e7ca598fdb1bdfbd692130ceb0ea</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392061</mtime>
+    <size>96891</size>
+    <md5>675afcb398fb82d4e66128e93c69f0ad</md5>
+    <crc32>4d414a78</crc32>
+    <sha1>0f2a1346dd7c8769327e385548481014815d7da8</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392064</mtime>
+    <size>56573</size>
+    <md5>bb2b402324673bf76f370c44916c878f</md5>
+    <crc32>3cf54953</crc32>
+    <sha1>c97d9e7d3281ba6f9d848f6ea0293229943f7eaa</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392066</mtime>
+    <size>58082</size>
+    <md5>98a08417aa9d0ede018fd717e9827b73</md5>
+    <crc32>c4545ea9</crc32>
+    <sha1>e347d0682141205ffb43e1985e57a51af86cf10b</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392069</mtime>
+    <size>54903</size>
+    <md5>325731ee69e82fe3c9551c39e49b6eb7</md5>
+    <crc32>efe1554f</crc32>
+    <sha1>3f91d523a50ff3d3960c54bfc93e6142401633fd</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392072</mtime>
+    <size>72865</size>
+    <md5>e93b331a84617a487c897a5f8ce6eacf</md5>
+    <crc32>5c33c6d6</crc32>
+    <sha1>2365bff32479dea269ac5dffeef6cc36fde2b100</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392075</mtime>
+    <size>56372</size>
+    <md5>b648bf5660c92401f88fc84f2e327536</md5>
+    <crc32>85293b28</crc32>
+    <sha1>e3d2c96f4f04de1d17179b75e25fc14eab144a48</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392078</mtime>
+    <size>56496</size>
+    <md5>6cbf0858b0aa21f82b20dc7b188c5643</md5>
+    <crc32>24ff8e36</crc32>
+    <sha1>d866e0e837bbf37bfa238b4fb80833f027eb8de0</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. Dance 1080p_000255.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. Dance 1080p.mp4</original>
+    <mtime>1737392080</mtime>
+    <size>54896</size>
+    <md5>760b28c050de9b19e218650054f92201</md5>
+    <crc32>d746b318</crc32>
+    <sha1>247954c353eb698cd8c84eb1e699963b0abbb7cb</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. VLOG 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. VLOG 1080p.mp4</original>
+    <mtime>1737392728</mtime>
+    <size>19930</size>
+    <md5>5594b94f83a0e651282add8a0b62fca4</md5>
+    <crc32>1242998e</crc32>
+    <sha1>176c195adaa4ad5c588bdba9598a63fe97d39640</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. VLOG 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. VLOG 1080p.mp4</original>
+    <mtime>1737392731</mtime>
+    <size>54044</size>
+    <md5>db9613c147ebc000a226117d2eabc518</md5>
+    <crc32>76faa2e7</crc32>
+    <sha1>b8d0c115426af52a26f9f3d05ce9be9f298a6e78</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. VLOG 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. VLOG 1080p.mp4</original>
+    <mtime>1737392734</mtime>
+    <size>68104</size>
+    <md5>49f8ede31f8c7a67fdd6c4f656f8125d</md5>
+    <crc32>b93d7609</crc32>
+    <sha1>b670f72bd35aca8c0541a1e7b1cee14577726110</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. VLOG 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. VLOG 1080p.mp4</original>
+    <mtime>1737392737</mtime>
+    <size>51406</size>
+    <md5>4e1a2e32599a5e0f399fac7db5f6c99a</md5>
+    <crc32>1441f6a6</crc32>
+    <sha1>ecd904bf90ecbfcc2676431bf777cdf894efe73e</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. VLOG 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. VLOG 1080p.mp4</original>
+    <mtime>1737392740</mtime>
+    <size>64560</size>
+    <md5>bb7e582f58f808574213b333dd40a57f</md5>
+    <crc32>2480acbd</crc32>
+    <sha1>2069a4f9de69923be22a88483cbbb30be6483bed</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu.thumbs/Tell Your World. Xiao Wu. VLOG 1080p_000170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tell Your World. Xiao Wu. VLOG 1080p.mp4</original>
+    <mtime>1737392742</mtime>
+    <size>63555</size>
+    <md5>e48a2a1da4bb6537df8596c1cd93dd31</md5>
+    <crc32>0986b137</crc32>
+    <sha1>91a0ee3f43bb08a14ecc2370817d740bcd61a917</sha1>
+  </file>
+  <file name="tell-your-world-xiao-wu_archive.torrent" source="metadata">
+    <btih>93330a3524e156ad21714855f0d385fe0303de66</btih>
+    <mtime>1737394805</mtime>
+    <size>8730</size>
+    <md5>058240b80734c33880a493c54cace711</md5>
+    <crc32>11bb7ab6</crc32>
+    <sha1>8e88450cc96d9e23a26a12964ac5db99975dd3c6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tell-your-world-xiao-wu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d473b1185f8029afac8814ab9b2bcd4a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tell-your-world-xiao-wu_meta.sqlite" source="original">
+    <mtime>1737392693</mtime>
+    <size>53248</size>
+    <md5>65d650e5e7bb5db51241653263adf7d2</md5>
+    <crc32>940078fd</crc32>
+    <sha1>d985f444d49a448383624e6aa72915b9e43085cc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tell-your-world-xiao-wu_meta.xml" source="original">
+    <mtime>1737394790</mtime>
+    <size>4956</size>
+    <md5>13881722f65385273920bbc3bd1cd69e</md5>
+    <crc32>ea71056d</crc32>
+    <sha1>b7c4406aebe382072114b147cd381755945f44ac</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

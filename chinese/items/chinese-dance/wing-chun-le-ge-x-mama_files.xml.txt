@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Wing Chun. Le Ge x Mama 1080p 25fps.mp4" source="original">
+    <mtime>1662874614</mtime>
+    <size>50587466</size>
+    <md5>5381252f179027711c18b9eb8613e955</md5>
+    <crc32>4815a360</crc32>
+    <sha1>8c8455c11ca202c9d29ee98d0b6156cd1a90894f</sha1>
+    <format>MPEG4</format>
+    <length>191.28</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530427</mtime>
+    <size>73430487</size>
+    <md5>b86e3cc540295a708052b2fa296caa45</md5>
+    <crc32>9eeefe68</crc32>
+    <sha1>5607f7fce03685c5500b392a09eacf8d39a76306</sha1>
+    <length>191.4</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 1080p 60fps.mp4" source="original">
+    <mtime>1722529853</mtime>
+    <size>73430487</size>
+    <md5>0e0f063982e9553d6e36d715cc2941aa</md5>
+    <crc32>4f0f5cd5</crc32>
+    <sha1>6dc86922380992d2d1728452e972255b34756f09</sha1>
+    <format>MPEG4</format>
+    <length>191.4</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 904x565 Lv A1p1 GB235.png" source="original">
+    <mtime>1716190437</mtime>
+    <size>794354</size>
+    <md5>e38990249361bcccd089ab64a9b741d1</md5>
+    <crc32>252afb73</crc32>
+    <sha1>5f592b71bc03b9f494a9031d948f3cf8923267f2</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 904x565 Lv A1p1 GB235_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Wing Chun. Le Ge x Mama 904x565 Lv A1p1 GB235.png</original>
+    <mtime>1716190586</mtime>
+    <size>7793</size>
+    <md5>a1d8672ece65ff0ef3b87e6f9f908bd2</md5>
+    <crc32>27cde452</crc32>
+    <sha1>cf763493435470154677bb8ad56ec7fa99fce086</sha1>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 904x565.png" source="original">
+    <mtime>1716190441</mtime>
+    <size>733543</size>
+    <md5>01a675802c8207b81c6165edbf236c09</md5>
+    <crc32>bad6103c</crc32>
+    <sha1>31c03105f35365458507876b6b664ef554e65259</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 904x565_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Wing Chun. Le Ge x Mama 904x565.png</original>
+    <mtime>1716190583</mtime>
+    <size>7686</size>
+    <md5>1200e17173c6d217e2b2c858ce1e59e9</md5>
+    <crc32>24cbebe7</crc32>
+    <sha1>21d5c6697b0a66e75008d8bc97356f9e68849c73</sha1>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 960x600.jpg" source="original">
+    <mtime>1662874634</mtime>
+    <size>89547</size>
+    <md5>0f30953085787427edc59ac9f6d25bbd</md5>
+    <crc32>c1cb791f</crc32>
+    <sha1>9d8acbd81dad500c0398bbeb75d2fd5b088d22a5</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Wing Chun. Le Ge x Mama 960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Wing Chun. Le Ge x Mama 960x600.jpg</original>
+    <mtime>1662874732</mtime>
+    <size>7856</size>
+    <md5>cd5c7b838ddc195fcd8d99dd2f482b43</md5>
+    <crc32>040293c2</crc32>
+    <sha1>423a7fabed049f320b63c9c8030f2e2d71d3acc2</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716190870</mtime>
+    <size>12698</size>
+    <md5>913fddfbde972c0dd80484b34027a0a6</md5>
+    <crc32>d4a88cd5</crc32>
+    <sha1>f6087939b783ad126de8075c89eb4bc22eec35ca</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 25fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 25fps.mp4</original>
+    <mtime>1662874664</mtime>
+    <size>52253</size>
+    <md5>6a47b00559bb1e80cbc75232b002001e</md5>
+    <crc32>02e50793</crc32>
+    <sha1>540fdc627ae1a509f6fd276d32acbe59a681b53a</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 25fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 25fps.mp4</original>
+    <mtime>1662874673</mtime>
+    <size>54404</size>
+    <md5>985b2017d4dd3d4cad63de463c98cc9b</md5>
+    <crc32>a451ce0d</crc32>
+    <sha1>7858bec56d54c0a357176bac2bd941f79a3736d7</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 25fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 25fps.mp4</original>
+    <mtime>1662874681</mtime>
+    <size>85411</size>
+    <md5>0d563363b2faf77dfde8aadbab6100f4</md5>
+    <crc32>c810023f</crc32>
+    <sha1>d4bcaa1e2464cb5315e1a682e385bbe506ac05bf</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 25fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 25fps.mp4</original>
+    <mtime>1662874691</mtime>
+    <size>85378</size>
+    <md5>5a4e7e18a5d8059c3639675a8d486b2c</md5>
+    <crc32>5a4aee08</crc32>
+    <sha1>a129d3871dad90e841f9561daf41cb435eb1b076</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 25fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 25fps.mp4</original>
+    <mtime>1662874700</mtime>
+    <size>86595</size>
+    <md5>3a97376c7a28960185709c09e2713cd2</md5>
+    <crc32>19a40b4a</crc32>
+    <sha1>18aabad87a37043e188bd078f4a68a14cfd52872</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 25fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 25fps.mp4</original>
+    <mtime>1662874709</mtime>
+    <size>86719</size>
+    <md5>1e0aa503bcb86b8fdb1e14696e0f8f9f</md5>
+    <crc32>aa889448</crc32>
+    <sha1>d82fed64466806b21daf2dc6d5e1edd36a38a598</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 25fps_000190.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 25fps.mp4</original>
+    <mtime>1662874712</mtime>
+    <size>80500</size>
+    <md5>9374f6438ae68178ec049c55b0d6aedf</md5>
+    <crc32>b639d443</crc32>
+    <sha1>a29599400996aaeffc4af1c7efffd21c8daf0808</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530082</mtime>
+    <size>52330</size>
+    <md5>446318107cfcaafd1a63d3a11e8b8bb4</md5>
+    <crc32>9473ff41</crc32>
+    <sha1>665137b0354417a95d320d7787b745b264b5315e</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530094</mtime>
+    <size>52382</size>
+    <md5>cb6fd34f29b3ce05c8d9178049b8793b</md5>
+    <crc32>dca4e541</crc32>
+    <sha1>13db60e7b56cfe8823596de1921265fe72fb5dc8</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 60fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530104</mtime>
+    <size>83822</size>
+    <md5>d8ad89ed11e7ae099c9695c20e0ae043</md5>
+    <crc32>f4b2732e</crc32>
+    <sha1>e98105f15ea1baa204510a9575efb13786b1509e</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 60fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530115</mtime>
+    <size>83206</size>
+    <md5>d565f78c5e29b3e66e2a53ea67f65181</md5>
+    <crc32>ad7b57e6</crc32>
+    <sha1>d4673a144c99298712915c794ed890b94e6c29e7</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 60fps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530124</mtime>
+    <size>84693</size>
+    <md5>c8d60ceef10f50a88d025a357a419483</md5>
+    <crc32>b8870f0e</crc32>
+    <sha1>033babc9de09a0f2fa1cbe9873b746270c134f7f</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 60fps_000178.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530133</mtime>
+    <size>82912</size>
+    <md5>d4710b212a9aa98dd763fcb7b133ff0b</md5>
+    <crc32>b89118c8</crc32>
+    <sha1>5142370c70c8ec7fcfbcc8e2053f7d17658468a4</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama.thumbs/Wing Chun. Le Ge x Mama 1080p 60fps_000186.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Wing Chun. Le Ge x Mama 1080p 60fps.mp4</original>
+    <mtime>1722530138</mtime>
+    <size>7197</size>
+    <md5>c73eddd97a90bf439bfe10e94a341218</md5>
+    <crc32>b316aed7</crc32>
+    <sha1>2adf23cb7886f6ae3cd17a1b3a90934b659db1f2</sha1>
+  </file>
+  <file name="wing-chun-le-ge-x-mama_archive.torrent" source="metadata">
+    <btih>6124b06a84075ee41d3cb0f9e44099f2c448ce40</btih>
+    <mtime>1735793617</mtime>
+    <size>11090</size>
+    <md5>048b7e37f9b380c546301fe29bc92b0a</md5>
+    <crc32>b4118042</crc32>
+    <sha1>77e2aa85d42d3539b93b27556b003561f88a695e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="wing-chun-le-ge-x-mama_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b9c4f68dcebbc00501d77902d8fd7301</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="wing-chun-le-ge-x-mama_meta.sqlite" source="original">
+    <mtime>1722529858</mtime>
+    <size>49152</size>
+    <md5>aa19f711d53c66f6803b6ea04725e98c</md5>
+    <crc32>f0961fd9</crc32>
+    <sha1>4b4ed47ec85d80c3a7b607b9ad92d50567a1621a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="wing-chun-le-ge-x-mama_meta.xml" source="original">
+    <mtime>1735793616</mtime>
+    <size>5077</size>
+    <md5>19f1dc5d46909f236b1c2fbe3000fbbb</md5>
+    <crc32>ccdc4ed3</crc32>
+    <sha1>95a3dc2cd42ef6f8712a98a8398f8ea9ba6db9b7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="wing-chun-le-ge-x-mama_reviews.xml" source="original">
+    <mtime>1723819881</mtime>
+    <size>694</size>
+    <md5>3361a54298eaff0f6965a58dad26e12c</md5>
+    <crc32>1c0abdca</crc32>
+    <sha1>ff3613c6af749bc668c45140ea3008f159bdfc18</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
