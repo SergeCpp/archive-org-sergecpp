@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.mp4</original>
+    <mtime>1724143799</mtime>
+    <size>70846741</size>
+    <md5>1adc6027479854db6addb7a45103d047</md5>
+    <crc32>cb63a0d0</crc32>
+    <sha1>5508674a13d65a377dc11ae0605a1ab350652f38</sha1>
+    <length>148.98</length>
+    <width>1920</width>
+    <height>1012</height>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.mp4" source="original">
+    <mtime>1724143713</mtime>
+    <size>70846741</size>
+    <md5>5b25078dcf104800137f50e5b32327e8</md5>
+    <crc32>25feee6f</crc32>
+    <sha1>7e265569cf9819c71c9065103c6482d10a97bcae</sha1>
+    <format>MPEG4</format>
+    <length>148.98</length>
+    <width>1920</width>
+    <height>1012</height>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps.mp4" source="original">
+    <mtime>1708860746</mtime>
+    <size>60464034</size>
+    <md5>f50d3356137e3284903af8bb7ade094a</md5>
+    <crc32>836a3040</crc32>
+    <sha1>98c3f7872c0720e33c6424056972ae0ea18527b4</sha1>
+    <format>MPEG4</format>
+    <length>148.93</length>
+    <width>2048</width>
+    <height>1080</height>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2528x1580 Lv 25 1p1.png" source="original">
+    <mtime>1718373415</mtime>
+    <size>5545630</size>
+    <md5>5baae0d2d0b29c706ac93a43b54edf05</md5>
+    <crc32>1ee23f77</crc32>
+    <sha1>18b703035182dde92ebefbeec0c050ddd244334f</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2528x1580 Lv 25 1p1_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2528x1580 Lv 25 1p1.png</original>
+    <mtime>1718373896</mtime>
+    <size>7895</size>
+    <md5>d4ccc9ac48b02d13781900f1f6a306f1</md5>
+    <crc32>4054b6be</crc32>
+    <sha1>4d34c3b500d16b5c9818133435723b7b323e687c</sha1>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2528x1580.png" source="original">
+    <mtime>1718373429</mtime>
+    <size>5162937</size>
+    <md5>9b01c3d35d3bc1ab119e388f1f3c728a</md5>
+    <crc32>50b755c9</crc32>
+    <sha1>a4c2f35102c284eeaa0f3bc491204f59f87aa74d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2528x1580_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2528x1580.png</original>
+    <mtime>1718373893</mtime>
+    <size>7716</size>
+    <md5>3f2ffa2b71d4585a69f324c6e8fd4cde</md5>
+    <crc32>8739d8e9</crc32>
+    <sha1>8bb423ac31847c61827a2494fa13b74390ec267e</sha1>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2532x1582.jpg" source="original">
+    <mtime>1708860763</mtime>
+    <size>513987</size>
+    <md5>ee84983c1a103c919e48e58c942e2377</md5>
+    <crc32>5faadd09</crc32>
+    <sha1>9dc2e1335e264b8dab58b563bee717382a914c71</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2532x1582_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 2532x1582.jpg</original>
+    <mtime>1708861550</mtime>
+    <size>8014</size>
+    <md5>b21e59420176cb5e271639f2a16306b7</md5>
+    <crc32>bca60958</crc32>
+    <sha1>6830453975e2b35d0a0f54612322ca1765c05896</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718374443</mtime>
+    <size>14095</size>
+    <md5>f4a78b2b9731414cc899f3da4f738de4</md5>
+    <crc32>def3edcb</crc32>
+    <sha1>3a7aab86eb98728682a60d6e293bc5605bc290f5</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.mp4</original>
+    <mtime>1724143756</mtime>
+    <size>68601</size>
+    <md5>acdda5b393200ca2f21116facfb47eb6</md5>
+    <crc32>ddac39d2</crc32>
+    <sha1>a8f74873d08c7c77da215cdaad385d1812cb5b84</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.mp4</original>
+    <mtime>1724143765</mtime>
+    <size>78185</size>
+    <md5>de3807a1079b4dead3fec1a277a00fe5</md5>
+    <crc32>4ef2cffa</crc32>
+    <sha1>d85fdcfff30795e3b66d0c2ae65955c6b85a123c</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.mp4</original>
+    <mtime>1724143771</mtime>
+    <size>107065</size>
+    <md5>b460eeb57ceb9892cda1d66aacfe669c</md5>
+    <crc32>35425e56</crc32>
+    <sha1>72414cd841baeeabf688a671b463e7c83f14f5ad</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.mp4</original>
+    <mtime>1724143780</mtime>
+    <size>98767</size>
+    <md5>abb6d5bbcac5f203a3be6da100cd6ad0</md5>
+    <crc32>21fadd95</crc32>
+    <sha1>12607927f939d32dd866aa5210a5aac554b76cf7</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1012p 60fps.mp4</original>
+    <mtime>1724143787</mtime>
+    <size>4613</size>
+    <md5>d985d1bbcbd88efe3c8b458796d37d20</md5>
+    <crc32>22004254</crc32>
+    <sha1>dbacb98d841bfc29451d92813c48f29c27057396</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps.mp4</original>
+    <mtime>1708861162</mtime>
+    <size>69615</size>
+    <md5>e564a00505c16c41a498f87c1ef8210c</md5>
+    <crc32>8f4ccaa6</crc32>
+    <sha1>e074766d554cf9097a96d3c946174cb1376cf4d7</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps.mp4</original>
+    <mtime>1708861168</mtime>
+    <size>82976</size>
+    <md5>d5417bcf4fde85b1696f4143168828fc</md5>
+    <crc32>42cf9b4e</crc32>
+    <sha1>2b6c16f60e49ca08f0037d9e0e71560379843723</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps.mp4</original>
+    <mtime>1708861174</mtime>
+    <size>112122</size>
+    <md5>35fc93d244676ad5a6542be571be0d5b</md5>
+    <crc32>a23248f4</crc32>
+    <sha1>dca766da7a77e520bf7691b126f473dd4b673ad7</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps.mp4</original>
+    <mtime>1708861180</mtime>
+    <size>107989</size>
+    <md5>eb0ba38db644c97f41648e096ee3b0c0</md5>
+    <crc32>085ff699</crc32>
+    <sha1>961611a43319c15b03e2a85140124ae6db4960cb</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang.thumbs/ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps_000145.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ST18. Shuangjiang. Frost Descent. Shi Yuan Jiang 1080p 30fps.mp4</original>
+    <mtime>1708861186</mtime>
+    <size>49312</size>
+    <md5>88c66788bf47ece6e3d1d550484172ad</md5>
+    <crc32>cae0397c</crc32>
+    <sha1>f0eb19ed7e42495b62a3a4a59745ebae3b2ab448</sha1>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang_archive.torrent" source="metadata">
+    <btih>af83a97659d5ec9dc76b02f03537f3424c9f8782</btih>
+    <mtime>1724143845</mtime>
+    <size>12096</size>
+    <md5>ddd7f9776b2debda7f6cf274ac2de3ab</md5>
+    <crc32>61a9d14a</crc32>
+    <sha1>726051b74df6c370d663242e72bd823e7d19cf0b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7a3276da41cc85043377e15091b0988a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang_meta.sqlite" source="original">
+    <mtime>1724143720</mtime>
+    <size>45056</size>
+    <md5>bfc8b4354dbd67ce037478ed5de5a061</md5>
+    <crc32>59060631</crc32>
+    <sha1>9686b9fc6c41de3e4d7c02e9a512ae5dc1bd34ce</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="st-18-shuangjiang-frost-descent-shi-yuan-jiang_meta.xml" source="original">
+    <mtime>1724143409</mtime>
+    <size>4648</size>
+    <md5>6d18f4182eceb79784198fb90cc977b4</md5>
+    <crc32>399b7541</crc32>
+    <sha1>2532e17787123a0772e2ebff4b357ebeeb373285</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

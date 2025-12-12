@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Send the Bright Moon. Doukou 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207071</mtime>
+    <size>130762844</size>
+    <md5>932da9993deef9fe0ac65d206b72a10d</md5>
+    <crc32>c77ba89f</crc32>
+    <sha1>0034a0b3daf7d804325467baffa677fa4c5d1117</sha1>
+    <length>187.06</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Send the Bright Moon. Doukou 1080p 60fps.mp4" source="original">
+    <mtime>1704206917</mtime>
+    <size>130762844</size>
+    <md5>7cdcff5995e1e659e58a3ca0c0d169be</md5>
+    <crc32>6962eadc</crc32>
+    <sha1>be4e960be3b8e73880178012b2c35f772ac466a4</sha1>
+    <format>MPEG4</format>
+    <length>187.06</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Send the Bright Moon. Doukou 1616x1010 Lv 25 1p1 245.png" source="original">
+    <mtime>1718437736</mtime>
+    <size>1964845</size>
+    <md5>36bba686b380d72049529023eb3475b2</md5>
+    <crc32>06ae7ae0</crc32>
+    <sha1>c4de170d67c40ca2603ff73aa4b30e64d03982d0</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Send the Bright Moon. Doukou 1616x1010 Lv 25 1p1 245_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Send the Bright Moon. Doukou 1616x1010 Lv 25 1p1 245.png</original>
+    <mtime>1718437883</mtime>
+    <size>9223</size>
+    <md5>2508e197b50e29718c5f454a04468cc3</md5>
+    <crc32>807ff4b3</crc32>
+    <sha1>e96ce8a317c747fba1d9626079e02dc708b1422d</sha1>
+  </file>
+  <file name="Send the Bright Moon. Doukou 1616x1010.png" source="original">
+    <mtime>1718437743</mtime>
+    <size>1901251</size>
+    <md5>85029a556633415fd679edc25a100915</md5>
+    <crc32>66985934</crc32>
+    <sha1>d2c878acc82962e7e6afda863437ab9f7ed42dfa</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Send the Bright Moon. Doukou 1616x1010_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Send the Bright Moon. Doukou 1616x1010.png</original>
+    <mtime>1718437889</mtime>
+    <size>8941</size>
+    <md5>4d8ec04a6e4a0eadce8566671427b1d1</md5>
+    <crc32>311f165a</crc32>
+    <sha1>076ea91bab1212df9d2ae331985033fdd61da661</sha1>
+  </file>
+  <file name="Send the Bright Moon. Doukou 1619x1012.jpg" source="original">
+    <mtime>1704206950</mtime>
+    <size>306134</size>
+    <md5>f13ace3fb1dfeb8e294e5e9b9ca45790</md5>
+    <crc32>a736cbeb</crc32>
+    <sha1>d0f2a8187b1901493c204426821cfeaa121972ee</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Send the Bright Moon. Doukou 1619x1012_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Send the Bright Moon. Doukou 1619x1012.jpg</original>
+    <mtime>1704207089</mtime>
+    <size>9317</size>
+    <md5>f30b2dee708868402d86905963744705</md5>
+    <crc32>a3c3de5d</crc32>
+    <sha1>dcd85805415656058363e6d22ca61c113f1ccdd9</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718438408</mtime>
+    <size>16842</size>
+    <md5>414102b2df3c6966120acd5cfd7d190d</md5>
+    <crc32>da9c3d7d</crc32>
+    <sha1>d0d9801bea6d316e06f29ce8bacf83fbde4acc11</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="send-the-bright-moon-doukou.thumbs/Send the Bright Moon. Doukou 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207008</mtime>
+    <size>45626</size>
+    <md5>786d46d11eded43a449e011bae033439</md5>
+    <crc32>d14ee29d</crc32>
+    <sha1>36b0ae9cf2603a33b84f6bc89968b10060bace53</sha1>
+  </file>
+  <file name="send-the-bright-moon-doukou.thumbs/Send the Bright Moon. Doukou 1080p 60fps_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207015</mtime>
+    <size>62568</size>
+    <md5>7cbd90fc1cc1af527f2f0a1d24a97bb5</md5>
+    <crc32>68466e2c</crc32>
+    <sha1>ea6009c9637eddb9e2ce411cc881ed6215bfe0ee</sha1>
+  </file>
+  <file name="send-the-bright-moon-doukou.thumbs/Send the Bright Moon. Doukou 1080p 60fps_000088.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207023</mtime>
+    <size>62495</size>
+    <md5>c20438ec5d4676f78d0be303ccb7ccc8</md5>
+    <crc32>73043c92</crc32>
+    <sha1>99b3f007139d0fc638a24f215b470dc5b3257a78</sha1>
+  </file>
+  <file name="send-the-bright-moon-doukou.thumbs/Send the Bright Moon. Doukou 1080p 60fps_000119.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207031</mtime>
+    <size>89713</size>
+    <md5>fd27d0634809f5f5131e0944893ca808</md5>
+    <crc32>74fccf9c</crc32>
+    <sha1>603baea0881552854ee42db6eb46c557f3740873</sha1>
+  </file>
+  <file name="send-the-bright-moon-doukou.thumbs/Send the Bright Moon. Doukou 1080p 60fps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207038</mtime>
+    <size>89373</size>
+    <md5>7e9984fd9d61a1af456d4362f11dab0e</md5>
+    <crc32>f65a89e3</crc32>
+    <sha1>84233d441d1af72f1b4c55f5ea8aeec58b14043e</sha1>
+  </file>
+  <file name="send-the-bright-moon-doukou.thumbs/Send the Bright Moon. Doukou 1080p 60fps_000177.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207046</mtime>
+    <size>88056</size>
+    <md5>5f6be3cec37de9b9058b5a94fbf3bf17</md5>
+    <crc32>dec4a555</crc32>
+    <sha1>3fb6bde75b3dec0ec80b0fdacaa9a00f240faf52</sha1>
+  </file>
+  <file name="send-the-bright-moon-doukou.thumbs/Send the Bright Moon. Doukou 1080p 60fps_000184.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Doukou 1080p 60fps.mp4</original>
+    <mtime>1704207049</mtime>
+    <size>95107</size>
+    <md5>c594c6893f13cef2d11316942102f139</md5>
+    <crc32>4041b548</crc32>
+    <sha1>d039da184f21601240ec717eb7d25070f8eda2ab</sha1>
+  </file>
+  <file name="send-the-bright-moon-doukou_archive.torrent" source="metadata">
+    <btih>156ffc35ef76d8d328d25877171914428519bcd6</btih>
+    <mtime>1742188412</mtime>
+    <size>13537</size>
+    <md5>29c3d485ef081b25a7747b7ad3d5d183</md5>
+    <crc32>df0ef089</crc32>
+    <sha1>47b5e98cfe09b3a520516a908da1e1ade4414d4b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="send-the-bright-moon-doukou_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5190bf9031475d520ffbcbdccf9472f1</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="send-the-bright-moon-doukou_meta.sqlite" source="original">
+    <mtime>1718437749</mtime>
+    <size>45056</size>
+    <md5>167ca92c991587a6024c8f67bd4288aa</md5>
+    <crc32>199bc00e</crc32>
+    <sha1>a323b2acfc33db42f0483c01bfced948aae784b3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="send-the-bright-moon-doukou_meta.xml" source="original">
+    <mtime>1742188409</mtime>
+    <size>7010</size>
+    <md5>ae014d3afecfbd3648afb6ef73f7f609</md5>
+    <crc32>86cd2686</crc32>
+    <sha1>1f21a47011978681f8356a16d9cf9781273ee199</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Shy Flower. Miao Pu 1024x640 BL40_itemimage.png" source="original">
+    <mtime>1740308866</mtime>
+    <size>954737</size>
+    <md5>2b66031f4bb5368518655d4201903836</md5>
+    <crc32>efdb034c</crc32>
+    <sha1>2162385785e2e86ad330e32bdbe4931fd8cc2169</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Shy Flower. Miao Pu 1024x640.png" source="original">
+    <mtime>1740308888</mtime>
+    <size>921972</size>
+    <md5>902588d09258a571ce7589f7c9c67cf6</md5>
+    <crc32>eeb41ff9</crc32>
+    <sha1>c822f2c64f9af15dea0d0db7c5d99389970f0714</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Shy Flower. Miao Pu 1024x640_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Shy Flower. Miao Pu 1024x640.png</original>
+    <mtime>1740311743</mtime>
+    <size>8000</size>
+    <md5>b21ba55176c23e6207fc2a1a0f2496a1</md5>
+    <crc32>3a561cf8</crc32>
+    <sha1>e1e0fa08f0a4413ddd5747a805460b5794e27104</sha1>
+  </file>
+  <file name="Shy Flower. Miao Pu 816p.mp4" source="original">
+    <mtime>1740309813</mtime>
+    <size>72389577</size>
+    <md5>0f2a46342901ff5283fc714f1d5cbfa9</md5>
+    <crc32>d8e01ebb</crc32>
+    <sha1>97d90a06214592ad496218dd76a5483d186fe211</sha1>
+    <format>MPEG4</format>
+    <length>204.67</length>
+    <width>1920</width>
+    <height>816</height>
+  </file>
+  <file name="Tidbit. Suzhou Embroidery Girl. Miao Pu 960p.mp4" source="original">
+    <mtime>1740807532</mtime>
+    <size>11173778</size>
+    <md5>ccad4cf398e24acbc84bb1bf90be432f</md5>
+    <crc32>c8c376c7</crc32>
+    <sha1>a2b4773471f11ae4cd5962b12105c15edbcf71d8</sha1>
+    <format>MPEG4</format>
+    <length>31.34</length>
+    <width>1920</width>
+    <height>960</height>
+  </file>
+  <file name="Tidbit. Suzhou Embroidery Girl. Miao Pu 960x600.png" source="original">
+    <mtime>1740807363</mtime>
+    <size>902368</size>
+    <md5>b4fb19113fba97270537bb07ba6aff9d</md5>
+    <crc32>b7b78c68</crc32>
+    <sha1>e2078b706aa98452f7cd589cb8b2dc4ee1f307dc</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Tidbit. Suzhou Embroidery Girl. Miao Pu 960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Tidbit. Suzhou Embroidery Girl. Miao Pu 960x600.png</original>
+    <mtime>1740812847</mtime>
+    <size>8270</size>
+    <md5>ae8084e957d6e4188bda602d8c328451</md5>
+    <crc32>a4ea8446</crc32>
+    <sha1>ea13a1c057ad23928d07eda2382a02882f8d339c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1740308929</mtime>
+    <size>13072</size>
+    <md5>55a4f99abea9401a204da88fd7a814bf</md5>
+    <crc32>166629ce</crc32>
+    <sha1>9fb2e93a350cc854f4086dfc1810aadef365f46b</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Shy Flower. Miao Pu 816p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Shy Flower. Miao Pu 816p.mp4</original>
+    <mtime>1740310440</mtime>
+    <size>39041</size>
+    <md5>36d54dd652682544028486c7decf3931</md5>
+    <crc32>293110c0</crc32>
+    <sha1>dd14260643f1a3017c1810c8f5177a7667483791</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Shy Flower. Miao Pu 816p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Shy Flower. Miao Pu 816p.mp4</original>
+    <mtime>1740310445</mtime>
+    <size>83651</size>
+    <md5>eff6976040a34997dd4748243cdfe447</md5>
+    <crc32>cecc441f</crc32>
+    <sha1>247d0d7a807db7624f3c95ce97c4ea7f9331221f</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Shy Flower. Miao Pu 816p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Shy Flower. Miao Pu 816p.mp4</original>
+    <mtime>1740310449</mtime>
+    <size>48649</size>
+    <md5>5a145255119fd1c1aa843dcbb07eb37a</md5>
+    <crc32>4116f941</crc32>
+    <sha1>99913abd6372a18cd6d74ccd7856a47ee54f69a6</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Shy Flower. Miao Pu 816p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Shy Flower. Miao Pu 816p.mp4</original>
+    <mtime>1740310453</mtime>
+    <size>48671</size>
+    <md5>ba973a115aacb437cdb879754015f024</md5>
+    <crc32>9da316e1</crc32>
+    <sha1>f6cb48bd350d7310d7206ea4da915595f3cef967</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Shy Flower. Miao Pu 816p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Shy Flower. Miao Pu 816p.mp4</original>
+    <mtime>1740310459</mtime>
+    <size>87607</size>
+    <md5>86b7bf894fb4df05ce32dc09b07548b0</md5>
+    <crc32>a17351ce</crc32>
+    <sha1>d5fef782049de16d4372784b2b350ec5114d42f4</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Shy Flower. Miao Pu 816p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Shy Flower. Miao Pu 816p.mp4</original>
+    <mtime>1740310464</mtime>
+    <size>87532</size>
+    <md5>b4270d796354879bf4dfd2a663a5a8e3</md5>
+    <crc32>30a6cc86</crc32>
+    <sha1>f9d011dad6ba1037083a3bf0b3d23de01c87f85a</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Shy Flower. Miao Pu 816p_000200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Shy Flower. Miao Pu 816p.mp4</original>
+    <mtime>1740310468</mtime>
+    <size>63398</size>
+    <md5>81adca7761e3fbec0e2c5a06c0fab40d</md5>
+    <crc32>86a8417c</crc32>
+    <sha1>a91c08d7bc5b0e5bff900e0ce48521f6300afef2</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Tidbit. Suzhou Embroidery Girl. Miao Pu 960p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tidbit. Suzhou Embroidery Girl. Miao Pu 960p.mp4</original>
+    <mtime>1740809568</mtime>
+    <size>29652</size>
+    <md5>0427faec328f95db4ad130e09ea2bf92</md5>
+    <crc32>abb4897d</crc32>
+    <sha1>066cbec996cbc779272dc7b9d9c74d901741ef42</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Tidbit. Suzhou Embroidery Girl. Miao Pu 960p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tidbit. Suzhou Embroidery Girl. Miao Pu 960p.mp4</original>
+    <mtime>1740809569</mtime>
+    <size>20912</size>
+    <md5>ce6eb182da51d1c59577fb4dec217e79</md5>
+    <crc32>ab8ea991</crc32>
+    <sha1>d771f3a03fecc7cae561125ab89422ff1b40f5e9</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Tidbit. Suzhou Embroidery Girl. Miao Pu 960p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tidbit. Suzhou Embroidery Girl. Miao Pu 960p.mp4</original>
+    <mtime>1740809570</mtime>
+    <size>38999</size>
+    <md5>4a9c8f7d0d41e1787d34d2fdbc39fe71</md5>
+    <crc32>f85ca323</crc32>
+    <sha1>dcd6376329b6e037eb7ed310e23acd3e49c4391c</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Tidbit. Suzhou Embroidery Girl. Miao Pu 960p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tidbit. Suzhou Embroidery Girl. Miao Pu 960p.mp4</original>
+    <mtime>1740809571</mtime>
+    <size>91397</size>
+    <md5>b657e8596b6bc4e9acada083aeb68daf</md5>
+    <crc32>9751b61c</crc32>
+    <sha1>17f0ed40cecbf1714d1bd2e63bb1cb1b727cb09f</sha1>
+  </file>
+  <file name="shy-flower-miao-pu.thumbs/Tidbit. Suzhou Embroidery Girl. Miao Pu 960p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Tidbit. Suzhou Embroidery Girl. Miao Pu 960p.mp4</original>
+    <mtime>1740809572</mtime>
+    <size>58748</size>
+    <md5>da1ecc3307d5cf385493d4398b64edf9</md5>
+    <crc32>fc2c29b5</crc32>
+    <sha1>883500049fefe2a15e8cb932a4611a5424a865ef</sha1>
+  </file>
+  <file name="shy-flower-miao-pu_archive.torrent" source="metadata">
+    <btih>7b1a83a4bc00c42ec84b8a742141e4f125ae1b79</btih>
+    <mtime>1740814772</mtime>
+    <size>6370</size>
+    <md5>474226a90c868a7f9f1f4b976c98c95b</md5>
+    <crc32>f65d14d4</crc32>
+    <sha1>0ca73d3afa4f94fcf4b477d9cb0a957324d5a544</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="shy-flower-miao-pu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>12efbd9c0bf07ee50caa7840b3d6fdb0</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="shy-flower-miao-pu_meta.sqlite" source="original">
+    <mtime>1740807536</mtime>
+    <size>49152</size>
+    <md5>91b175dc04b3ede2533dc2917501e343</md5>
+    <crc32>e4c392f4</crc32>
+    <sha1>2ff22b5e5df4d1e1c9853ceb6153e282ef09011e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="shy-flower-miao-pu_meta.xml" source="original">
+    <mtime>1740807271</mtime>
+    <size>4400</size>
+    <md5>5f1c954bfbbf9ddb02c0d82098ec1792</md5>
+    <crc32>84118189</crc32>
+    <sha1>b6c5aebd99359881a4b255befb483ef816ecfb0e</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

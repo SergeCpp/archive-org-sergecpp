@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Send the Bright Moon. Wu Nai 1080p.mp4" source="original">
+    <mtime>1674054906</mtime>
+    <size>116600273</size>
+    <md5>660958f19233ee12b9c0cc0bcfc45280</md5>
+    <crc32>8fffbf39</crc32>
+    <sha1>5b851f9f118bdb0254c0bf99457d1e125c385a2f</sha1>
+    <format>MPEG4</format>
+    <length>273.27</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Send the Bright Moon. Wu Nai 2112x1320.png" source="original">
+    <mtime>1718452135</mtime>
+    <size>3189342</size>
+    <md5>b2684f6e1886c9a2088ba0d2c0e9468f</md5>
+    <crc32>b30f040c</crc32>
+    <sha1>a70e677e30846308a93353b4e9a8e4a935483bda</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Send the Bright Moon. Wu Nai 2112x1320_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Send the Bright Moon. Wu Nai 2112x1320.png</original>
+    <mtime>1718452612</mtime>
+    <size>8519</size>
+    <md5>82ab5dc34165990791266020e7687264</md5>
+    <crc32>4f3eddd3</crc32>
+    <sha1>a135d55f418531cc33a0b7b3d7b63ca6d27bf3b5</sha1>
+  </file>
+  <file name="Send the Bright Moon. Wu Nai 2135x1341.jpg" source="original">
+    <mtime>1718453902</mtime>
+    <size>513879</size>
+    <md5>fefbbe222c48108a45be2b52c541b242</md5>
+    <crc32>a853f320</crc32>
+    <sha1>4342ebfc5d6d4882e06bb07e140ace055748d0fb</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Send the Bright Moon. Wu Nai 2135x1341_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Send the Bright Moon. Wu Nai 2135x1341.jpg</original>
+    <mtime>1718454124</mtime>
+    <size>8890</size>
+    <md5>1940e1ee36b7ee3c5f96087ec3f13810</md5>
+    <crc32>dde03dae</crc32>
+    <sha1>fcd8f7a01f81bc584c148fdbd02c47bb45ee5aa8</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718453668</mtime>
+    <size>14435</size>
+    <md5>84f72d45678a66e5e285691347969100</md5>
+    <crc32>a4086f20</crc32>
+    <sha1>bf806986b17a1a7975f075c79a7410b30142f2bb</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674054987</mtime>
+    <size>67257</size>
+    <md5>0b6aa6e054ea8cd534cba523717e2eeb</md5>
+    <crc32>f53dd197</crc32>
+    <sha1>997ae1f64be2583c4160cc08a2fb4042a0398888</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674054993</mtime>
+    <size>65118</size>
+    <md5>1c59e8efe6d40682675dd427e7a4e395</md5>
+    <crc32>2715fa74</crc32>
+    <sha1>eedd5e777094ecdf87e2eac9bdbe93b57d3de21b</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674054999</mtime>
+    <size>115297</size>
+    <md5>b1be28b5f19e3df1ac63e55657700fd7</md5>
+    <crc32>c118cd1a</crc32>
+    <sha1>66a2a2f8df2a65734b12bf70aa5bfb88695da6ad</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674055005</mtime>
+    <size>101838</size>
+    <md5>b8264ae0a8500e0b6690ab503ddc8e0f</md5>
+    <crc32>de35e46d</crc32>
+    <sha1>e62abdb80ed5294f53f967a0c9cb1e71b25255e2</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674055011</mtime>
+    <size>115426</size>
+    <md5>9047242e70185f30574b75849e9b0309</md5>
+    <crc32>1ccc1968</crc32>
+    <sha1>01749290fdd47a48ccf4e2dd3626d640b161e0b3</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674055018</mtime>
+    <size>63040</size>
+    <md5>6619a1c8dec50d53774014a53e3d6721</md5>
+    <crc32>7879899e</crc32>
+    <sha1>53acccbc4029ef96d77b7821162ca2b1b08c706c</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674055024</mtime>
+    <size>113351</size>
+    <md5>e575eb3a9c1979e8981129cb1b9f0bf7</md5>
+    <crc32>65250138</crc32>
+    <sha1>c3144532ff7fc1186337f29c0cfe247e2dfd2f8e</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000238.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674055030</mtime>
+    <size>113941</size>
+    <md5>41f6543a1842d829ad9bee5a86c7f844</md5>
+    <crc32>91bd7e2a</crc32>
+    <sha1>32508f2ef228dc0b371a050b6648a955ba11f127</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai.thumbs/Send the Bright Moon. Wu Nai 1080p_000268.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Wu Nai 1080p.mp4</original>
+    <mtime>1674055037</mtime>
+    <size>3536</size>
+    <md5>be69d322a421b4545dd19042ba201bf1</md5>
+    <crc32>2033918f</crc32>
+    <sha1>edad44c9293f68929927c1ce1e91c01db8704ecb</sha1>
+  </file>
+  <file name="send-the-bright-moon-wu-nai_archive.torrent" source="metadata">
+    <btih>be0239058ee1b008922cd1751a80d56718f0e3cb</btih>
+    <mtime>1742201533</mtime>
+    <size>7358</size>
+    <md5>96736a26f8c8d2a4026b4384db07f9d2</md5>
+    <crc32>794878af</crc32>
+    <sha1>abde0a4084404ed63fd57482caf2752cffa10a25</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="send-the-bright-moon-wu-nai_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>31e7cea2ae232e509bd4f27cf7d1e16c</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="send-the-bright-moon-wu-nai_meta.sqlite" source="original">
+    <mtime>1718453906</mtime>
+    <size>32768</size>
+    <md5>91348b76bb39f902bf8a68eb58e520b4</md5>
+    <crc32>e58e25ad</crc32>
+    <sha1>7e1c2dc1d0044d028dadc5f188d5a986eb2c9771</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="send-the-bright-moon-wu-nai_meta.xml" source="original">
+    <mtime>1742201532</mtime>
+    <size>4195</size>
+    <md5>65414171ee3eb72c381cc75cb35f959e</md5>
+    <crc32>88b5a2ff</crc32>
+    <sha1>9469e478baefff120da30c9faaac40c5e489e55a</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

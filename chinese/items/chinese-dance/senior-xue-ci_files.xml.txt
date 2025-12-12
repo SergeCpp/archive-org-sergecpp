@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Senior. Xue Ci 1080p.mp4" source="original">
+    <mtime>1735138017</mtime>
+    <size>50165217</size>
+    <md5>67212d40d84cb3c102878958369002da</md5>
+    <crc32>7b02f26a</crc32>
+    <sha1>3dadcba70b90a58b1462b5a96d4ab2442173fb04</sha1>
+    <format>MPEG4</format>
+    <length>123.97</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Senior. Xue Ci 960x600 Lv20-1p1_itemimage.png" source="original">
+    <mtime>1735137797</mtime>
+    <size>944231</size>
+    <md5>41758b704fb5ed7883cb817a89773442</md5>
+    <crc32>3570a909</crc32>
+    <sha1>3fc659041856aa02950ebbcd85082b63f114053d</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Senior. Xue Ci 960x600.png" source="original">
+    <mtime>1735137818</mtime>
+    <size>902645</size>
+    <md5>7093cc0a258f20f317e3d26b5084c291</md5>
+    <crc32>b874782a</crc32>
+    <sha1>a52ee14d6958973b27bdd1b77291eb8e702c9c30</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Senior. Xue Ci 960x600_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Senior. Xue Ci 960x600.png</original>
+    <mtime>1735138074</mtime>
+    <size>8522</size>
+    <md5>f8300918a41f7a7c33dcfe2b51a8ace1</md5>
+    <crc32>b1716280</crc32>
+    <sha1>7d1b5e3cf425395403a6292aff89453f44e6a196</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1735137855</mtime>
+    <size>14251</size>
+    <md5>63b766c6773856d884f931f3c4dccb4c</md5>
+    <crc32>7bfe3102</crc32>
+    <sha1>1792b3979a6d2226a6009526979c61cfcb826850</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="senior-xue-ci.thumbs/Senior. Xue Ci 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Senior. Xue Ci 1080p.mp4</original>
+    <mtime>1735138044</mtime>
+    <size>71175</size>
+    <md5>669c7d676861c9cc3fe9b18fe25b77cf</md5>
+    <crc32>51f52c49</crc32>
+    <sha1>eced377b238745e80cacf0ebc6358082bd38e695</sha1>
+  </file>
+  <file name="senior-xue-ci.thumbs/Senior. Xue Ci 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Senior. Xue Ci 1080p.mp4</original>
+    <mtime>1735138047</mtime>
+    <size>69558</size>
+    <md5>fc147681ad2d339f98cedc69ba1b1b2e</md5>
+    <crc32>e0dd2181</crc32>
+    <sha1>7332ee032b1f9c25acf0209f4e8dbcdfb9679092</sha1>
+  </file>
+  <file name="senior-xue-ci.thumbs/Senior. Xue Ci 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Senior. Xue Ci 1080p.mp4</original>
+    <mtime>1735138050</mtime>
+    <size>105806</size>
+    <md5>aabcaa752272863f15ffa4256878ffaa</md5>
+    <crc32>5db77dff</crc32>
+    <sha1>0e90591faa962e564bdbf876c4aa7f8dd1bb9dfc</sha1>
+  </file>
+  <file name="senior-xue-ci.thumbs/Senior. Xue Ci 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Senior. Xue Ci 1080p.mp4</original>
+    <mtime>1735138054</mtime>
+    <size>108220</size>
+    <md5>d35eeb219d9a6100879c5d1158a22368</md5>
+    <crc32>89771ea6</crc32>
+    <sha1>79983710998cdcca0a0e490bc8dcb6d376a4694a</sha1>
+  </file>
+  <file name="senior-xue-ci_archive.torrent" source="metadata">
+    <btih>d52ab0c735b229cfa12f1b3de30b761dd1d06182</btih>
+    <mtime>1735138092</mtime>
+    <size>4386</size>
+    <md5>f213e462c86bcfd69fb30cb50827a476</md5>
+    <crc32>69910c86</crc32>
+    <sha1>3d5ba77ac1efd74ca27a205da1917a7816048b74</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="senior-xue-ci_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ccd67d2a3a50dc82c18cd2e868351c1b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="senior-xue-ci_meta.sqlite" source="original">
+    <mtime>1735138022</mtime>
+    <size>36864</size>
+    <md5>47629574076730dec2401fb6459cb202</md5>
+    <crc32>a7aa11cc</crc32>
+    <sha1>bfe18f64712fb1ef6e5cc5223302b78f6b613f3b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="senior-xue-ci_meta.xml" source="original">
+    <mtime>1735137808</mtime>
+    <size>2333</size>
+    <md5>c4294888d6499be7fde132a1be05eb01</md5>
+    <crc32>f2ef6664</crc32>
+    <sha1>f1bc98c3ad6a4445aaa3970aee58abcfaf092a4e</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Sorry for Being Lovely. Xiao Wu 1080p.mp4" source="original">
+    <mtime>1725023858</mtime>
+    <size>77659183</size>
+    <md5>aaf61e72125e29fed2bb3a63c6551b56</md5>
+    <crc32>2201c30d</crc32>
+    <sha1>dd64ebea9ac8cc122cd98f3a6f88e05d99d5b930</sha1>
+    <format>MPEG4</format>
+    <length>219.46</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu 2200x1375 BL-50-150.png" source="original">
+    <mtime>1727460195</mtime>
+    <size>5640622</size>
+    <md5>28965481dd045069b5a4aa28f2c0e538</md5>
+    <crc32>ee88f2a8</crc32>
+    <sha1>0524a1e464e87551ba6078106daa0d7bf1e045e1</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu 2200x1375 BL-50-150_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Sorry for Being Lovely. Xiao Wu 2200x1375 BL-50-150.png</original>
+    <mtime>1727464248</mtime>
+    <size>9984</size>
+    <md5>3ad7adcc9695c8adeeef05bf562177c7</md5>
+    <crc32>f3962165</crc32>
+    <sha1>957a3e7df68670d90ace800a99214d254e320166</sha1>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu 2200x1375.png" source="original">
+    <mtime>1725024059</mtime>
+    <size>5511386</size>
+    <md5>02d9edc67b15e1b06f466cf149d4917c</md5>
+    <crc32>fcebe631</crc32>
+    <sha1>4e0c17ed9f24116deda9c774153c6975e8aba2b1</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu 2200x1375_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Sorry for Being Lovely. Xiao Wu 2200x1375.png</original>
+    <mtime>1725026122</mtime>
+    <size>9972</size>
+    <md5>c58e1614964e7c78ff639b21f47c1ad0</md5>
+    <crc32>84da1439</crc32>
+    <sha1>eea6b65fce24090fbb28a8772bfe1fa165591972</sha1>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu 4500x2812.jpg" source="original">
+    <mtime>1725024096</mtime>
+    <size>1848114</size>
+    <md5>fbee8701afa3a18ab501ec6a6a65db0e</md5>
+    <crc32>8d2fa813</crc32>
+    <sha1>889e7e6e5084f787980d4261950736f154f8dd94</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu 4500x2812_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Sorry for Being Lovely. Xiao Wu 4500x2812.jpg</original>
+    <mtime>1725026128</mtime>
+    <size>10236</size>
+    <md5>73cb906c8e5e7ca2c548e404f4989cb6</md5>
+    <crc32>9d7c0021</crc32>
+    <sha1>cf7fe072ee2a900f8a951dec29abb1c205620789</sha1>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4" source="original">
+    <mtime>1725028285</mtime>
+    <size>77787888</size>
+    <md5>6b6839d85ce8e1382978f1e72416f452</md5>
+    <crc32>e246dad4</crc32>
+    <sha1>42b4396f62fb44872837d0aeba59acd1ec1ef41b</sha1>
+    <format>MPEG4</format>
+    <length>219.44</length>
+    <width>1012</width>
+    <height>1920</height>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu. Vertical Screen 4500x2812.jpg" source="original">
+    <mtime>1725026879</mtime>
+    <size>1848343</size>
+    <md5>4af4dd6a509866327fb13812559d8cd3</md5>
+    <crc32>8752e844</crc32>
+    <sha1>212e0fe65dae0969dd79b5ffe969999f7021c716</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Sorry for Being Lovely. Xiao Wu. Vertical Screen 4500x2812_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 4500x2812.jpg</original>
+    <mtime>1725029704</mtime>
+    <size>10242</size>
+    <md5>116a6a4e5708d38a91764a1cc7334057</md5>
+    <crc32>72cb45c6</crc32>
+    <sha1>fb0e9df88f4aa5c607e6756137f2591ef7fd5af7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1727505403</mtime>
+    <size>20268</size>
+    <md5>6bc37b20d506f8abfb12864f7b9678ab</md5>
+    <crc32>76fe01d7</crc32>
+    <sha1>265ae356441759e6415a2c8f92f5be6d1f566543</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025329</mtime>
+    <size>87953</size>
+    <md5>053a051305495de115ea805027055148</md5>
+    <crc32>23c22035</crc32>
+    <sha1>05e60872f2b857ed3001f3e996c654716e09f7ec</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025332</mtime>
+    <size>125803</size>
+    <md5>e2c8644ab9e3fa27d1140a92a62d95e3</md5>
+    <crc32>29f01155</crc32>
+    <sha1>83b577b7317363e0c3bc9ad7339d64e62714c2c4</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025336</mtime>
+    <size>117344</size>
+    <md5>478d150e6c809e09e4961d76487ac9c6</md5>
+    <crc32>3057ffd3</crc32>
+    <sha1>8db4cd6a820c6cebac0b97ba9f69495186522d95</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025339</mtime>
+    <size>130664</size>
+    <md5>a7c1ad13d4ddff929c55c480fcb52f2b</md5>
+    <crc32>f16e0ffe</crc32>
+    <sha1>33e619dc34037298001314a0750de9ffb9109065</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025342</mtime>
+    <size>135145</size>
+    <md5>e75251adc63c90432101cc310af9ef27</md5>
+    <crc32>ca8031c4</crc32>
+    <sha1>afd33d3a0706a0c86bc0eafb11a3805f87f633fb</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025345</mtime>
+    <size>132592</size>
+    <md5>10dcdecef78091334a013d46c0bc01f8</md5>
+    <crc32>a7243f93</crc32>
+    <sha1>78f2fa0f3f73d518c03c861b3c3fc4715ab7a804</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025348</mtime>
+    <size>125985</size>
+    <md5>3234db0baf7c43dc3aa4bb22f803446e</md5>
+    <crc32>fa772384</crc32>
+    <sha1>537bccc3c17dbf372e6f0550c524f9edce422a47</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu 1080p_000215.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu 1080p.mp4</original>
+    <mtime>1725025349</mtime>
+    <size>126632</size>
+    <md5>f9b7414c706d741652b39b53c0eb69b3</md5>
+    <crc32>838877da</crc32>
+    <sha1>b827aef4cf0eb320ca79015a18fdfc31ba431f22</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029043</mtime>
+    <size>130517</size>
+    <md5>85d3b364950d7207793ba926112f3913</md5>
+    <crc32>96daebf7</crc32>
+    <sha1>718d8c62768e211cf9962f0d10aa921098dc28ed</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029049</mtime>
+    <size>148437</size>
+    <md5>0e001b4bfa54062b39c70d5a311c7cf1</md5>
+    <crc32>c53d7611</crc32>
+    <sha1>ed26a9736fcfd973646a14ac4925700406553544</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029055</mtime>
+    <size>160988</size>
+    <md5>6f38b686b106d0d6fe505181819c2456</md5>
+    <crc32>3a1e6070</crc32>
+    <sha1>80b63b1bcebbb4e19a3ed3b732aca1d3fce6b64a</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029061</mtime>
+    <size>274641</size>
+    <md5>67bb4079b0400fd02d015c423e51d198</md5>
+    <crc32>990b071f</crc32>
+    <sha1>a94522f0e6a99f3f1758a572664c8c8ed8ee769b</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029067</mtime>
+    <size>238136</size>
+    <md5>adf69022b7eea939692ba91b10eeb19f</md5>
+    <crc32>94357451</crc32>
+    <sha1>34a623d3b0c64faeeef53ee1c3a0cd839bc9bbd9</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029073</mtime>
+    <size>245108</size>
+    <md5>60bb4b087ec5786484d4f7d65b2a07c6</md5>
+    <crc32>8ee82861</crc32>
+    <sha1>be74548edeab3fe89928e83524123197de120ff0</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029079</mtime>
+    <size>256597</size>
+    <md5>cba9d8b82f5e5d3986ec40cc177feb90</md5>
+    <crc32>0a563a72</crc32>
+    <sha1>be6d78f8cbce3c1d3073a515a85aa9f40d983e23</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu.thumbs/Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p_000215.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Sorry for Being Lovely. Xiao Wu. Vertical Screen 1920p.mp4</original>
+    <mtime>1725029081</mtime>
+    <size>250344</size>
+    <md5>a86f99beaaa747918bb06dfe5e51a8b1</md5>
+    <crc32>8b111512</crc32>
+    <sha1>507d4ad9c2931fcd46d45a5d76fe0a4b77dab625</sha1>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu_archive.torrent" source="metadata">
+    <btih>cae454b12ef6bc5e289114070d2c7c1ef80cb2c0</btih>
+    <mtime>1741155643</mtime>
+    <size>10401</size>
+    <md5>85018f61dcfdfd3d572a2966a9c1638b</md5>
+    <crc32>3d1f88ff</crc32>
+    <sha1>0e2164e32998e17ad29606498401d9a5afecb232</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fee71e936ab1f18f19fa888edf6d25eb</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu_meta.sqlite" source="original">
+    <mtime>1727505815</mtime>
+    <size>53248</size>
+    <md5>ec08871181e3a88c0c0f3d11056238ab</md5>
+    <crc32>d2714355</crc32>
+    <sha1>f51e9d4755e8c2e0900c185e448c70c8d972013d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="sorry-for-being-lovely-xiao-wu_meta.xml" source="original">
+    <mtime>1741155640</mtime>
+    <size>3821</size>
+    <md5>f04651f390db408871a020c08e53fa39</md5>
+    <crc32>f0000afa</crc32>
+    <sha1>d7f34679640623416104d5f0df425e257a8af284</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

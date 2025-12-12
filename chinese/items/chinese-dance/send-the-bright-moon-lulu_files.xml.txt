@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Send the Bright Moon. Lulu 1080p.mp4" source="original">
+    <mtime>1704213607</mtime>
+    <size>96972102</size>
+    <md5>85d4d5004f28f97ef6169bbeef958243</md5>
+    <crc32>705c2c90</crc32>
+    <sha1>698cc4f62f9c0aed4cca1e96bdd25091ed79a3a4</sha1>
+    <format>MPEG4</format>
+    <length>247.79</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Send the Bright Moon. Lulu 1280x800 Lv G250 B240.png" source="original">
+    <mtime>1718441137</mtime>
+    <size>2092270</size>
+    <md5>7d3b43e01f913d736e279234b6b69a05</md5>
+    <crc32>7bfabf8c</crc32>
+    <sha1>c713d62a4ff64f8b175f144a40dfb1b1919415cf</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Send the Bright Moon. Lulu 1280x800 Lv G250 B240_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Send the Bright Moon. Lulu 1280x800 Lv G250 B240.png</original>
+    <mtime>1718441456</mtime>
+    <size>10019</size>
+    <md5>8e58cc5f16be10efe4cfca3f9d3f747c</md5>
+    <crc32>43aafc91</crc32>
+    <sha1>7893c51df7b39cb09a88f6449cb40ed3f2798221</sha1>
+  </file>
+  <file name="Send the Bright Moon. Lulu 1280x800.jpg" source="original">
+    <mtime>1704213625</mtime>
+    <size>239867</size>
+    <md5>2784f7e848837ff4105f39ed4b8f63b2</md5>
+    <crc32>7c7c1d9e</crc32>
+    <sha1>96f74e3c681176efce6ae823c21cf8a045af9f58</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Send the Bright Moon. Lulu 1280x800_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Send the Bright Moon. Lulu 1280x800.jpg</original>
+    <mtime>1704213746</mtime>
+    <size>10255</size>
+    <md5>1bb163bd6cf081367198cc0d50d570ee</md5>
+    <crc32>f37ea76f</crc32>
+    <sha1>361164e2cf92c14d0c81f04bc662419ca2936714</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1718442745</mtime>
+    <size>21661</size>
+    <md5>f3c4a465e78cd69f0c8a2d07c798654f</md5>
+    <crc32>4006a4ef</crc32>
+    <sha1>e2e3bb2168479ce70246e568224decb97710ae1d</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213679</mtime>
+    <size>61330</size>
+    <md5>06dbebae9f7535034259fd4818f80652</md5>
+    <crc32>5e6819fb</crc32>
+    <sha1>7c4e38f5388f2b412c7026259fde256a0d39d4ef</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213682</mtime>
+    <size>83786</size>
+    <md5>9d171a1a1efc76ec3a85740d8afd6e94</md5>
+    <crc32>da46e096</crc32>
+    <sha1>ebb7e61bce8dde1ad84a73b0d2d6646185f7908a</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213685</mtime>
+    <size>119365</size>
+    <md5>5a48e4751fd30ff86d4640baaa347352</md5>
+    <crc32>1a8cac44</crc32>
+    <sha1>54274719d0c6b66ad27916eb2febf4dc4ba83999</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000122.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213688</mtime>
+    <size>116274</size>
+    <md5>6087f9ef8dbb8542d51c8cdd49c474aa</md5>
+    <crc32>e4e21f0a</crc32>
+    <sha1>46205fd53ea903f5d3eb43deeb09d132cf182395</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000152.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213691</mtime>
+    <size>108173</size>
+    <md5>e03bf806896d71fd48362898afa16069</md5>
+    <crc32>a4ace3ce</crc32>
+    <sha1>6e96925b3003f841e47ec7429a3488f33f1fe1af</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000186.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213694</mtime>
+    <size>104576</size>
+    <md5>41cd53f331be8b26925ef857e9df87cf</md5>
+    <crc32>2f1f7764</crc32>
+    <sha1>be6a42da298c5c94cd4da6773e0adb8cfc358409</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000215.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213697</mtime>
+    <size>78327</size>
+    <md5>7c2e70bac8852caa7ea0de8e8b823198</md5>
+    <crc32>3f71f356</crc32>
+    <sha1>5987a8c08c0aaedb640b1524c08e1082cf24d17e</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu.thumbs/Send the Bright Moon. Lulu 1080p_000245.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Send the Bright Moon. Lulu 1080p.mp4</original>
+    <mtime>1704213700</mtime>
+    <size>141750</size>
+    <md5>9510910921e5e11197c80127d7185865</md5>
+    <crc32>597bcd3f</crc32>
+    <sha1>ed998c4bf7f825b08e437e7910259278961b3f7c</sha1>
+  </file>
+  <file name="send-the-bright-moon-lulu_archive.torrent" source="metadata">
+    <btih>557336d7305319aafcc89acfb77c95892370f364</btih>
+    <mtime>1742193550</mtime>
+    <size>6553</size>
+    <md5>a41d29b4dc509ed4befaaa43c74d520b</md5>
+    <crc32>c650ceb8</crc32>
+    <sha1>564c66f00310b69026b0c000f1ec171f70a84741</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="send-the-bright-moon-lulu_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>91d97b6b009d5478c4eb657a725fadac</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="send-the-bright-moon-lulu_meta.sqlite" source="original">
+    <mtime>1718441142</mtime>
+    <size>45056</size>
+    <md5>5b953bd09f9a13b383ae9bad7e997b6e</md5>
+    <crc32>63cb537d</crc32>
+    <sha1>65f39c7315a7edd44232b9109b2ef2a8477d10a3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="send-the-bright-moon-lulu_meta.xml" source="original">
+    <mtime>1742193549</mtime>
+    <size>5667</size>
+    <md5>f1dba925234f84c80eb3c59c44b0b151</md5>
+    <crc32>59ead8f2</crc32>
+    <sha1>cad39147ca3007f332b9089bd2bf693bdd0db29d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
