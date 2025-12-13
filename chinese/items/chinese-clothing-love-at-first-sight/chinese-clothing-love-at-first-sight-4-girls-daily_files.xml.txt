@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv" source="original">
+    <mtime>1661796314</mtime>
+    <size>132789129</size>
+    <md5>e5195a25c66f69992d4fb2331b8dba71</md5>
+    <crc32>f926d002</crc32>
+    <sha1>3d0a79aa07bb028663bc396ba3979b01addcab49</sha1>
+    <format>Flash Video</format>
+    <length>630.38</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.mp4" source="derivative">
+    <format>h.264</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661799209</mtime>
+    <size>64345160</size>
+    <md5>271f807c86e15e70ddc8d221200b05e5</md5>
+    <crc32>9779a1cb</crc32>
+    <sha1>8f2aeb4fc161a0f1274b884eae6d8a170f799e5b</sha1>
+    <length>630.34</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4" source="original">
+    <mtime>1726205747</mtime>
+    <size>152437933</size>
+    <md5>cd4984d0f0a30ed40d608cd088301c38</md5>
+    <crc32>7b7d0bb9</crc32>
+    <sha1>672fe38d5aaac2917ff578de8ac3b6439c66d02c</sha1>
+    <format>MPEG4</format>
+    <length>630.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1168x730 Lv BL-40-150 Lv R5 GB7-249.png" source="original">
+    <mtime>1727076933</mtime>
+    <size>892477</size>
+    <md5>afc70434f93305ba51ff2035feae2b37</md5>
+    <crc32>d1b57234</crc32>
+    <sha1>87c854784a4782b2c66f9f01de47b7e7536baf2a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1168x730 Lv BL-40-150 Lv R5 GB7-249_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Love at First Sight 04 Girls Daily 1168x730 Lv BL-40-150 Lv R5 GB7-249.png</original>
+    <mtime>1727077350</mtime>
+    <size>6026</size>
+    <md5>d14a11131d481d7d7f67e0d85eee00c2</md5>
+    <crc32>0197d847</crc32>
+    <sha1>b693a077891c21e998a303fd36e6228322391ba5</sha1>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1168x730 Lv R14-1p1-214 G20-1p15-217 B27-1p2-232.png" source="original">
+    <mtime>1726217326</mtime>
+    <size>812475</size>
+    <md5>022ed622fe826b11574d906ffc81c97c</md5>
+    <crc32>b73f636e</crc32>
+    <sha1>0ce0740edee3807f03763a960425dcf29088e731</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1168x730 Lv R14-1p1-214 G20-1p15-217 B27-1p2-232_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Love at First Sight 04 Girls Daily 1168x730 Lv R14-1p1-214 G20-1p15-217 B27-1p2-232.png</original>
+    <mtime>1726217970</mtime>
+    <size>5932</size>
+    <md5>2288f6e864ad149a9832148b5d602bd1</md5>
+    <crc32>3d670e33</crc32>
+    <sha1>772b64ab033d1e2a2ff38294f3987e5bd79d86b2</sha1>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1168x730.png" source="original">
+    <mtime>1726217341</mtime>
+    <size>599182</size>
+    <md5>5b4bd1950fbc5e74e8060d2c6a22ad92</md5>
+    <crc32>7ee95930</crc32>
+    <sha1>34f7ff10760b95d810d824832241d5e54eac3134</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1168x730_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Love at First Sight 04 Girls Daily 1168x730.png</original>
+    <mtime>1726217966</mtime>
+    <size>5567</size>
+    <md5>17fa3cbe67bbbc5ed2269eda5264bc30</md5>
+    <crc32>527e3d3b</crc32>
+    <sha1>09a403b0751241a87a3e037d2f9d2e475b33223c</sha1>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1176x734.jpg" source="original">
+    <mtime>1661799567</mtime>
+    <size>63385</size>
+    <md5>d4b90597a7bd751e7141e6af9846d213</md5>
+    <crc32>6f57f413</crc32>
+    <sha1>acefeffde815526574eaa5351ec791ededb8c589</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Love at First Sight 04 Girls Daily 1176x734_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Love at First Sight 04 Girls Daily 1176x734.jpg</original>
+    <mtime>1661799612</mtime>
+    <size>5869</size>
+    <md5>3535e4036c8f3a63a85861bfad12dad5</md5>
+    <crc32>ebf18da8</crc32>
+    <sha1>03aa9da0920520168afbc05d0375fcb22870ef71</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1727077639</mtime>
+    <size>7248</size>
+    <md5>a2716975876291e5a1f5cda3b653296c</md5>
+    <crc32>bee1d0e7</crc32>
+    <sha1>56ba513a1ca6956bf07a3bac9488561a4796b448</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797519</mtime>
+    <size>15427</size>
+    <md5>a1847e5f3838a5b45b81a552e1971c58</md5>
+    <crc32>2586eb74</crc32>
+    <sha1>6ee663f2310c1e5411eaa18d1f147736b0e81bee</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797524</mtime>
+    <size>45250</size>
+    <md5>3855b34de249bdb47c9a6d51b12a3243</md5>
+    <crc32>3663ff5d</crc32>
+    <sha1>e66425f5c54b3c524e7fb1ec221f8d658a9801a5</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797529</mtime>
+    <size>76217</size>
+    <md5>13571f86ba05d72d829530f75077dc03</md5>
+    <crc32>b1747cc4</crc32>
+    <sha1>412515c99ec6ef70d775ee9e6ac912c3d5185a27</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797534</mtime>
+    <size>37144</size>
+    <md5>267321a30c665ba3801b68746ef884d6</md5>
+    <crc32>212cfc5f</crc32>
+    <sha1>925638d5377797340f1fb23fa2d259fa3a0cac0d</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797539</mtime>
+    <size>53973</size>
+    <md5>93cba98b8aa011191ce26f8fcc74c21f</md5>
+    <crc32>61dbda78</crc32>
+    <sha1>df3111e416c7d73ea1f0f08ea9c2008ecad72114</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797544</mtime>
+    <size>38528</size>
+    <md5>002008e0d9cf7d27d2b464f6332dae49</md5>
+    <crc32>d38e2877</crc32>
+    <sha1>8b4d4c44697acebbb9810a9ba027ef1779854d42</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797550</mtime>
+    <size>21903</size>
+    <md5>b7a0e5ae91acdb17432b035335d28850</md5>
+    <crc32>e80e18dd</crc32>
+    <sha1>73f80c072d96451fd113f0f81b9def3c1eb8fc52</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797555</mtime>
+    <size>35112</size>
+    <md5>d93de9516e0c28d938f8b3f9cba477ec</md5>
+    <crc32>2213d18d</crc32>
+    <sha1>95fb236bdd745740947fde71c15a004d149ac841</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797560</mtime>
+    <size>44046</size>
+    <md5>ca2ebe2cb01c30a7e21e85a9eeb9fb1b</md5>
+    <crc32>8059eacc</crc32>
+    <sha1>e3dfe78a1cb06d8611882c1b5b9e98aaf5642726</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797566</mtime>
+    <size>42985</size>
+    <md5>89baf3770acde4d6ee58a6ac931d738d</md5>
+    <crc32>6b243ea5</crc32>
+    <sha1>1468f142ce5831fd67a4e55f4d51a1a2ac7b0cfb</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797571</mtime>
+    <size>52113</size>
+    <md5>72377de6c96b2847b53dcff1c87d644f</md5>
+    <crc32>48547420</crc32>
+    <sha1>42f50e1f05b50cb57f1f27e8670e1fa82da0b94b</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797576</mtime>
+    <size>51536</size>
+    <md5>d92bfcf4fc41aa06a47efb9aec5d9094</md5>
+    <crc32>cd12ece5</crc32>
+    <sha1>b38bac7a0e3b7ce731fb8a7437f06e107ec20d56</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000391.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797582</mtime>
+    <size>47259</size>
+    <md5>d08d67b4a3e925cf22b469c0087e917b</md5>
+    <crc32>162b7eaf</crc32>
+    <sha1>5edb1a47109a36024489a31c714104aa7afbbe05</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000421.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797587</mtime>
+    <size>56700</size>
+    <md5>45dcb2592ff4e2f8dd4f3aca9d1aabe5</md5>
+    <crc32>9712f368</crc32>
+    <sha1>fe3f53c070bde3e67b1ae052870692533ef4897a</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000451.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797592</mtime>
+    <size>42185</size>
+    <md5>71896338f41a1610f90ca0a7d9caf487</md5>
+    <crc32>a3636637</crc32>
+    <sha1>174d77a0372de578aa0718f171ce2af4b4b8583d</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000481.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797597</mtime>
+    <size>36920</size>
+    <md5>8db65818144aab65aad08b5bb61c2d97</md5>
+    <crc32>b5516e57</crc32>
+    <sha1>0dbbb2d37f3579555480d2565e00f4da279de836</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000511.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797603</mtime>
+    <size>43557</size>
+    <md5>6c4b825d80c371c11d5e31bee98c16e6</md5>
+    <crc32>3acf94c8</crc32>
+    <sha1>43014d8b32f8135163327f6bfbe7160450d8999f</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000541.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797608</mtime>
+    <size>24895</size>
+    <md5>5a441719f6846d688a9a631f5e3618b0</md5>
+    <crc32>d6fce5be</crc32>
+    <sha1>4ab3ee5b656bab432f9ea877a0695d38653132cf</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000571.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797613</mtime>
+    <size>27991</size>
+    <md5>4002130a8e80135b26d9857d31616d1b</md5>
+    <crc32>8444ae92</crc32>
+    <sha1>5acfaea1125b2b4abf31a94be8b489c0f858542c</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000601.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797618</mtime>
+    <size>30072</size>
+    <md5>d13b0d46e22defd216efcbe78f16d8be</md5>
+    <crc32>02ae6728</crc32>
+    <sha1>f5b114021be9a9789d6a36b54ac6ebf2e92324f0</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps_000626.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p FLV 1.5Mbps.flv</original>
+    <mtime>1661797623</mtime>
+    <size>37008</size>
+    <md5>003ff8f3b2f9c481c8342048d3168258</md5>
+    <crc32>de67a98e</crc32>
+    <sha1>5492d8f9daee02f741e582dce7def7d510ca8453</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205827</mtime>
+    <size>16696</size>
+    <md5>53e5abdf4c399d608bb87d42b8d588ba</md5>
+    <crc32>b7efc135</crc32>
+    <sha1>98c9084c3a8f92be01c0fa937789ea25d1ef5eff</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205830</mtime>
+    <size>45287</size>
+    <md5>26544f6f358fa0740c20ae2fd1b6216b</md5>
+    <crc32>5a8b350a</crc32>
+    <sha1>d95715e692f2c621a142195bfd064f9a60e8e670</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205833</mtime>
+    <size>78962</size>
+    <md5>8ef56319d2596819b48bde5729391a5c</md5>
+    <crc32>5ab4e719</crc32>
+    <sha1>f9f1b556f7bb7d4b132e74149b3a0c6aa2e4a850</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205835</mtime>
+    <size>38127</size>
+    <md5>0dc3b139f0b599c8aa46101671bde7cd</md5>
+    <crc32>02478fc6</crc32>
+    <sha1>d274ba58f068d9f1da70a647b2adc9413753ee15</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205838</mtime>
+    <size>95697</size>
+    <md5>750d72a834be0980bc3fbb5750030fc9</md5>
+    <crc32>f1d6be5f</crc32>
+    <sha1>b83ada62d1c2dce86a3d1b7c41d3781085c48429</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205840</mtime>
+    <size>27424</size>
+    <md5>75b253c198825dec681d7e7fcfafc5c4</md5>
+    <crc32>378b25d6</crc32>
+    <sha1>69263aff61724ac70af37b62f92bcc876d6dee42</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000207.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205843</mtime>
+    <size>27127</size>
+    <md5>73210e4dac2bb4b0bd0a4c86e08be643</md5>
+    <crc32>8b3f0d45</crc32>
+    <sha1>5826de45383c3ce821998a42791d197e6a4ff03c</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000245.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205846</mtime>
+    <size>4627</size>
+    <md5>f5e0fcd44fb47d033eba6c27f9a15ef6</md5>
+    <crc32>26fe9df7</crc32>
+    <sha1>c7a7a8fa96d8ce02d7e6f5060a942325f55b1762</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000272.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205849</mtime>
+    <size>44275</size>
+    <md5>31e370018c7b5be8096a4654a45d2467</md5>
+    <crc32>1d22e088</crc32>
+    <sha1>cf197774cc545f757efdf2eb256fea8d1a26e7f4</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000299.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205852</mtime>
+    <size>43148</size>
+    <md5>fad32d13f8347cddbd92f1f463479c66</md5>
+    <crc32>c68c5fae</crc32>
+    <sha1>650f04537e4ea3d6787eb3cc394c095c4188a7a1</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000327.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205854</mtime>
+    <size>52320</size>
+    <md5>8da12ce9b14417b09fd5af877f214f25</md5>
+    <crc32>967e46ee</crc32>
+    <sha1>da20dafcc175faa91210d08282ee0483e2c03175</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000358.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205857</mtime>
+    <size>52166</size>
+    <md5>758360c6f5cce805cc93b780a5642305</md5>
+    <crc32>1ad86652</crc32>
+    <sha1>a0c6458ea6595a29b8c187f61e960e83b36c0b37</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000395.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205860</mtime>
+    <size>47261</size>
+    <md5>51cb6ab0b65ac697f6d3211bb133e9cc</md5>
+    <crc32>bd620570</crc32>
+    <sha1>7d0e163e6b32a89a15f39aac36646370ec2cf85f</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000418.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205862</mtime>
+    <size>58458</size>
+    <md5>b63cc416df33d6c985d84d9ea0a5012e</md5>
+    <crc32>2add300a</crc32>
+    <sha1>c37bd482e5da28a1bfd97f6a148aa31a7fef9333</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000448.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205866</mtime>
+    <size>44250</size>
+    <md5>730998bea93be03b0e5b98feee291877</md5>
+    <crc32>d5d7087a</crc32>
+    <sha1>f808b753de13f7852719ff38af88f8ca268dbbea</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000478.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205869</mtime>
+    <size>30291</size>
+    <md5>6c073757c9fb1ab62e38d5dc1580c609</md5>
+    <crc32>612cfa52</crc32>
+    <sha1>8a051c672edceae4fe430e250453734eab1054ef</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000511.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205871</mtime>
+    <size>43645</size>
+    <md5>248168efffc496021e4570395cb37bd1</md5>
+    <crc32>78c204d4</crc32>
+    <sha1>3f54f725ad370e9d2f72d22999f4d089082f219d</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000541.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205874</mtime>
+    <size>21342</size>
+    <md5>d3367e9e620877e3f27369d0567c8e9d</md5>
+    <crc32>f37ff13f</crc32>
+    <sha1>ec1bad36420bb89e939a64d1f0b1ceb8703afd49</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000572.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205877</mtime>
+    <size>30055</size>
+    <md5>15884ec630429ad640b6b9d457e33c17</md5>
+    <crc32>24710769</crc32>
+    <sha1>42aff8ff887b7a81a7e69f598bd3ef2a8edf6f00</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000603.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205881</mtime>
+    <size>29501</size>
+    <md5>afbeb530b8a48a318b0a119bd0714edf</md5>
+    <crc32>9aa115b7</crc32>
+    <sha1>89dcd4d2cd083926ab03666b7366e9cef13e7279</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000628.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205883</mtime>
+    <size>25239</size>
+    <md5>60a0671d229e15093c0c1b450a182eab</md5>
+    <crc32>5e874192</crc32>
+    <sha1>ef2a6a3bd6a2f92e9ae173c1fed6adc20f64f8fa</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily.thumbs/Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps_000629.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Love at First Sight 04 Girls Daily 1080p MP4 1.7Mbps.mp4</original>
+    <mtime>1726205883</mtime>
+    <size>9605</size>
+    <md5>a3611b9209b88288bcd07df9d2f57f09</md5>
+    <crc32>a88bb825</crc32>
+    <sha1>0e810472ca17c9ec284018b1a5f2a7415383184b</sha1>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily_archive.torrent" source="metadata">
+    <btih>e48b8c7a1466ce0da427174372f41a709d024a86</btih>
+    <mtime>1727077642</mtime>
+    <size>17818</size>
+    <md5>e8ad8719096a2023d4f1cc521ec9ee06</md5>
+    <crc32>10c44339</crc32>
+    <sha1>fe640277643551ab9f84842a4c8d82babbb111e3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6d817868cffb909ce4cafc34c58c2ba7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily_meta.sqlite" source="original">
+    <mtime>1727076940</mtime>
+    <size>36864</size>
+    <md5>58319bfdd7ddd6725d24a67e6f0202ec</md5>
+    <crc32>84524837</crc32>
+    <sha1>ff181da6c52507f2eca595b6b03d53cb42ea739e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="chinese-clothing-love-at-first-sight-4-girls-daily_meta.xml" source="original">
+    <mtime>1727077635</mtime>
+    <size>1961</size>
+    <md5>c9e970c4f554589df4594a7119a3a041</md5>
+    <crc32>4b8a5d1c</crc32>
+    <sha1>d4d74bbf5ce49cf3ae7893d21a297c5894f7589d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
