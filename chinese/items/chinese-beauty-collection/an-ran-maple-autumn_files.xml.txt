@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="An Ran. Maple Autumn 1146x716 Lv G242 B240.png" source="original">
+    <mtime>1715340238</mtime>
+    <size>1277828</size>
+    <md5>855c3a174927b71075772d88d6300011</md5>
+    <crc32>bcbdaaa9</crc32>
+    <sha1>c4c84c9766ae92c90651f899f2effd81c58048b8</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="An Ran. Maple Autumn 1146x716 Lv G242 B240_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>An Ran. Maple Autumn 1146x716 Lv G242 B240.png</original>
+    <mtime>1715340344</mtime>
+    <size>8524</size>
+    <md5>d29608980a9f3ef9d39df5e36de3d5f3</md5>
+    <crc32>dae20374</crc32>
+    <sha1>457e2c468689be96313400237388ac3b1eceaf1f</sha1>
+  </file>
+  <file name="An Ran. Maple Autumn 1146x716.jpg" source="original">
+    <mtime>1694129065</mtime>
+    <size>120474</size>
+    <md5>d1c06d41a9c240fde64d79d8420341db</md5>
+    <crc32>d0094c0c</crc32>
+    <sha1>4c99addb65b4231d1ebb232062df02a4a3344b29</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="An Ran. Maple Autumn 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>An Ran. Maple Autumn 1146x716.jpg</original>
+    <mtime>1694129588</mtime>
+    <size>8743</size>
+    <md5>614861ef9aa0743db11e9a3455033762</md5>
+    <crc32>9bddf60d</crc32>
+    <sha1>a5203728bee566bc1ac2565749015a79cfe9905f</sha1>
+  </file>
+  <file name="An Ran. Maple Autumn. Bilibili 1080p 30fps.mp4" source="original">
+    <mtime>1700462692</mtime>
+    <size>46013726</size>
+    <md5>3c1916c26d32c8323dccb24c85ddd363</md5>
+    <crc32>5fdd8d34</crc32>
+    <sha1>ef4e641c205b36932ffe9dea069808a5a480ae1f</sha1>
+    <format>MPEG4</format>
+    <length>159.08</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="An Ran. Maple Autumn. YouTube 1080p 60fps.mp4" source="original">
+    <mtime>1694129047</mtime>
+    <size>95116193</size>
+    <md5>23960b2482b8ea34f49752fb8566afe0</md5>
+    <crc32>53918c38</crc32>
+    <sha1>f7caad1e288cb61fdc5b734b020dcc68858a6305</sha1>
+    <format>MPEG4</format>
+    <length>159.06</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1715341286</mtime>
+    <size>14683</size>
+    <md5>850f1d25f380e0cb3e3250454088d9ed</md5>
+    <crc32>51680023</crc32>
+    <sha1>7782ebee421bcb189429f51f2aa2f5102abb3e70</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1694129431</mtime>
+    <size>44503</size>
+    <md5>759ee2c0e87b84feba722b0650ba4940</md5>
+    <crc32>53816530</crc32>
+    <sha1>7826eefd99a1acf00bb18f354157c845ae33a1ee</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1694129460</mtime>
+    <size>69970</size>
+    <md5>c47add653db321c764828ea558158e56</md5>
+    <crc32>cd07eefb</crc32>
+    <sha1>0558f627365185038c5617379368f3c9bf13e4e0</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1694129488</mtime>
+    <size>43352</size>
+    <md5>80c8aa0f967b260cfb10545d1db3fc0a</md5>
+    <crc32>37038320</crc32>
+    <sha1>26850ca156dfb79f98916f274592f4b3c8772266</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn 1080p 60fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1694129514</mtime>
+    <size>87228</size>
+    <md5>d69f8049ec8b6e6a1be5ace637795397</md5>
+    <crc32>4d83326b</crc32>
+    <sha1>4b32b3b55d1359aa3395110aa8d11fbc51976533</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn 1080p 60fps_000152.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1694129541</mtime>
+    <size>54139</size>
+    <md5>d9d195eb527dfd87025df1ccdb6b2a99</md5>
+    <crc32>369c05c0</crc32>
+    <sha1>9254e60f60aea3af1dc2548c8ebec41d4ab20d6c</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn 1080p 60fps_000157.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1694129547</mtime>
+    <size>111057</size>
+    <md5>b3e2a6e8b1a2e9cccb3d43187a03e522</md5>
+    <crc32>29b3db92</crc32>
+    <sha1>bfa82ad69a441c79711bf06e9c5d8ffd24355a47</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. Bilibili 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. Bilibili 1080p 30fps.mp4</original>
+    <mtime>1700462902</mtime>
+    <size>44558</size>
+    <md5>13972bec269ab8af164f986f102d567b</md5>
+    <crc32>2220f88c</crc32>
+    <sha1>a986cb053a5effe4bb27f2a3beefdcf57c99cef4</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. Bilibili 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. Bilibili 1080p 30fps.mp4</original>
+    <mtime>1700462912</mtime>
+    <size>75839</size>
+    <md5>29327c1d4f8aa5e128a521273ffbad31</md5>
+    <crc32>d327a4ec</crc32>
+    <sha1>3b8241a66815548c214cf420b829ae20f06b365d</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. Bilibili 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. Bilibili 1080p 30fps.mp4</original>
+    <mtime>1700462922</mtime>
+    <size>49902</size>
+    <md5>7747c5af4c10c1659e4e3cb13a916d5b</md5>
+    <crc32>bd093232</crc32>
+    <sha1>a932a48b22eae29483961df41c7d6ca8b47e8ae5</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. Bilibili 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. Bilibili 1080p 30fps.mp4</original>
+    <mtime>1700462931</mtime>
+    <size>75940</size>
+    <md5>daf2538f6fccf393554391863f0ecdd2</md5>
+    <crc32>d2aef90d</crc32>
+    <sha1>82f89aed4f00af25e1d218dd4a6597a2156d2732</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. Bilibili 1080p 30fps_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. Bilibili 1080p 30fps.mp4</original>
+    <mtime>1700462940</mtime>
+    <size>66317</size>
+    <md5>fd343d5ebfc13a0cf202dc3b977279f4</md5>
+    <crc32>6efd6aa9</crc32>
+    <sha1>8c856fb29c64411e33102d2ad359dde062b19ac1</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. Bilibili 1080p 30fps_000155.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. Bilibili 1080p 30fps.mp4</original>
+    <mtime>1700462943</mtime>
+    <size>115108</size>
+    <md5>f5319eb9d9ccca91b0111e0008f508ce</md5>
+    <crc32>3a37e7d5</crc32>
+    <sha1>41564560e88bedcbef1b9e17f5c4c453a211ddc3</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. YouTube 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1700462646</mtime>
+    <size>44503</size>
+    <md5>759ee2c0e87b84feba722b0650ba4940</md5>
+    <crc32>53816530</crc32>
+    <sha1>7826eefd99a1acf00bb18f354157c845ae33a1ee</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. YouTube 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1700462659</mtime>
+    <size>69970</size>
+    <md5>c47add653db321c764828ea558158e56</md5>
+    <crc32>cd07eefb</crc32>
+    <sha1>0558f627365185038c5617379368f3c9bf13e4e0</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. YouTube 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1700462674</mtime>
+    <size>43352</size>
+    <md5>80c8aa0f967b260cfb10545d1db3fc0a</md5>
+    <crc32>37038320</crc32>
+    <sha1>26850ca156dfb79f98916f274592f4b3c8772266</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. YouTube 1080p 60fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1700462687</mtime>
+    <size>87228</size>
+    <md5>d69f8049ec8b6e6a1be5ace637795397</md5>
+    <crc32>4d83326b</crc32>
+    <sha1>4b32b3b55d1359aa3395110aa8d11fbc51976533</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. YouTube 1080p 60fps_000152.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1700462701</mtime>
+    <size>54139</size>
+    <md5>d9d195eb527dfd87025df1ccdb6b2a99</md5>
+    <crc32>369c05c0</crc32>
+    <sha1>9254e60f60aea3af1dc2548c8ebec41d4ab20d6c</sha1>
+  </file>
+  <file name="an-ran-maple-autumn.thumbs/An Ran. Maple Autumn. YouTube 1080p 60fps_000157.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>An Ran. Maple Autumn. YouTube 1080p 60fps.mp4</original>
+    <mtime>1700462705</mtime>
+    <size>111057</size>
+    <md5>b3e2a6e8b1a2e9cccb3d43187a03e522</md5>
+    <crc32>29b3db92</crc32>
+    <sha1>bfa82ad69a441c79711bf06e9c5d8ffd24355a47</sha1>
+  </file>
+  <file name="an-ran-maple-autumn_archive.torrent" source="metadata">
+    <btih>1f4242ce48bee2c5872e97b82b2fbdd7676b1ecd</btih>
+    <mtime>1715341288</mtime>
+    <size>8325</size>
+    <md5>085ee0b0eed9975ad4ba342e2230de5f</md5>
+    <crc32>2d78f81f</crc32>
+    <sha1>8afd26a451710f50cf4f106faf248157191e23e5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="an-ran-maple-autumn_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8dc82d9644d63181368ad1ff8ab82c50</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="an-ran-maple-autumn_meta.sqlite" source="original">
+    <mtime>1715340244</mtime>
+    <size>32768</size>
+    <md5>1bef413d7659d4adf7ca7d50b9927432</md5>
+    <crc32>85dd8191</crc32>
+    <sha1>80f92ac3da0bbf0dab514644920d97a36d2d980b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="an-ran-maple-autumn_meta.xml" source="original">
+    <mtime>1715341256</mtime>
+    <size>2014</size>
+    <md5>82e3aa82f0b854765345b72eb0e9ed04</md5>
+    <crc32>bfd76375</crc32>
+    <sha1>9bcbf6b0a20d024e4eed71cbb4dbb6e57eb5dd90</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
