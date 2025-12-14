@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. First Meeting 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694792390</mtime>
+    <size>10909398</size>
+    <md5>4bc691a81308a6d2ca742e15815a80a4</md5>
+    <crc32>bf2c6bb7</crc32>
+    <sha1>cbd6ce0c107c49eb18b7a5cde9a01c9c374fc090</sha1>
+    <length>119.98</length>
+    <width>1152</width>
+    <height>480</height>
+  </file>
+  <file name="Doukou. First Meeting 1080p.mp4" source="original">
+    <mtime>1694791158</mtime>
+    <size>48053412</size>
+    <md5>1c5a7bd8cb9ba8d72ec49e72cbdd6545</md5>
+    <crc32>a42e5878</crc32>
+    <sha1>3f95bdf972c75d899f67e3d354cdd4561bcf7aac</sha1>
+    <format>MPEG4</format>
+    <length>119.93</length>
+    <width>2592</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. First Meeting 1600x1000 Lv A5 A1p05 R245 G250.png" source="original">
+    <mtime>1716529822</mtime>
+    <size>2815601</size>
+    <md5>2623b4d2190e298e12481213c3a9f504</md5>
+    <crc32>2cb1095f</crc32>
+    <sha1>fc67854fb5d73e1a48e3e4bb52e593217a2b3a80</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. First Meeting 1600x1000 Lv A5 A1p05 R245 G250_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. First Meeting 1600x1000 Lv A5 A1p05 R245 G250.png</original>
+    <mtime>1716529857</mtime>
+    <size>8582</size>
+    <md5>519a8bf4d28832b1f51fd522b3764af8</md5>
+    <crc32>ed5d9fe4</crc32>
+    <sha1>5ead8cbdc122ce3e228fa83c73a87225a222b8a6</sha1>
+  </file>
+  <file name="Doukou. First Meeting 1600x1000.jpg" source="original">
+    <mtime>1694751943</mtime>
+    <size>517376</size>
+    <md5>17217043ca85a04cecd0faba39c8d7f4</md5>
+    <crc32>5a931c70</crc32>
+    <sha1>45a4d319daaee7c704708a4f303d4a9739742815</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Doukou. First Meeting 1600x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. First Meeting 1600x1000.jpg</original>
+    <mtime>1694752080</mtime>
+    <size>8886</size>
+    <md5>84003e51c7daeaca4ff6e752a46b2755</md5>
+    <crc32>b0c9e9b5</crc32>
+    <sha1>ad198ee9826e9854b6c391b2b307878b84ad3417</sha1>
+  </file>
+  <file name="Doukou. First Meeting 800p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752069</mtime>
+    <size>36443523</size>
+    <md5>54b8167aaef9f1302ef7f7a3dec1d246</md5>
+    <crc32>ad04f97d</crc32>
+    <sha1>8be3184cb5c9e29d142566c4e4b7d0204964a64e</sha1>
+    <length>119.33</length>
+    <width>1920</width>
+    <height>800</height>
+  </file>
+  <file name="Doukou. First Meeting 800p.mp4" source="original">
+    <mtime>1694751925</mtime>
+    <size>36443523</size>
+    <md5>50b6f549c5c10310459b940d57fd2888</md5>
+    <crc32>5e7f5767</crc32>
+    <sha1>6a97dd4091c754c559423b23af5464d2a9061172</sha1>
+    <format>MPEG4</format>
+    <length>119.33</length>
+    <width>1920</width>
+    <height>800</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716529995</mtime>
+    <size>13549</size>
+    <md5>fe2505ede458ec5f4621c8ad58420476</md5>
+    <crc32>a0ca2cd6</crc32>
+    <sha1>ecd7c9b075a023afe2723504b8c04e2568f47a96</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791928</mtime>
+    <size>39008</size>
+    <md5>9d77a8c2a3b62ea0a9a48168009230d8</md5>
+    <crc32>1bc86a5d</crc32>
+    <sha1>f968d7119dcd587c5cdc3571fe525961201f96b8</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791928</mtime>
+    <size>17308</size>
+    <md5>d8438e0a66dd3937815db9bec84cf347</md5>
+    <crc32>9aed623f</crc32>
+    <sha1>2d1d0622bc2fce6035649545a3e62026f83cb574</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791929</mtime>
+    <size>35402</size>
+    <md5>9bc66642579df3a9c9eac35727355c73</md5>
+    <crc32>b50f4bc4</crc32>
+    <sha1>f200af93d87a5a12dff6f2df2a370a31d24e9fa3</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791930</mtime>
+    <size>40222</size>
+    <md5>4c45170456a7408319911feadb811db0</md5>
+    <crc32>078e3804</crc32>
+    <sha1>5092480f16ea0d34ddf40551443a79e964eca4df</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791931</mtime>
+    <size>39119</size>
+    <md5>f7ba47f201edb06b970af0e2f7f026a9</md5>
+    <crc32>8f5494f8</crc32>
+    <sha1>6964ee38f7bb4e209d490084612c6302a9120a21</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791932</mtime>
+    <size>41968</size>
+    <md5>58325d33b4151abba5343c41561cad64</md5>
+    <crc32>34ab65e7</crc32>
+    <sha1>766bff8dab02353a975fe46fb2b249ad247aa0fb</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791932</mtime>
+    <size>26476</size>
+    <md5>55b55cf7857707626c23a35be6a1e24d</md5>
+    <crc32>fdf6c014</crc32>
+    <sha1>342024bc3756d02873c01b2825a7d1c77461add8</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791933</mtime>
+    <size>45642</size>
+    <md5>b62964da0ce0d74bd8e476bfb059546f</md5>
+    <crc32>6837faf0</crc32>
+    <sha1>873faab436a27fc5069a88f37c80efe554d465ba</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791934</mtime>
+    <size>43992</size>
+    <md5>0e5110a6bbd9a89731b79e00d5bb733c</md5>
+    <crc32>592e7640</crc32>
+    <sha1>01e88b7a561dd281b924c5ad6e52f01880537c7d</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791935</mtime>
+    <size>67041</size>
+    <md5>94155873559b60b8ff7032f108f98399</md5>
+    <crc32>2d5c0f11</crc32>
+    <sha1>7edb4112e3dac8718fe4b6260b9a94cfc7fe0d28</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791935</mtime>
+    <size>29083</size>
+    <md5>98ed746b54a45aa88e54341aa4ac19e8</md5>
+    <crc32>7bcc0288</crc32>
+    <sha1>336b7918c18acd09b566947d2e6aa0c75a828c34</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791936</mtime>
+    <size>29932</size>
+    <md5>1e6380c694748fe6277b69d89ebecd6e</md5>
+    <crc32>c720bc5a</crc32>
+    <sha1>f9b0410571cf16f3e87a23ce83a9c81163a1b8bb</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791936</mtime>
+    <size>18008</size>
+    <md5>191bc09a1f90bf364a95a5330ffe3e84</md5>
+    <crc32>47a1f7d5</crc32>
+    <sha1>03c17a718b8d3d5ba17c92cd51ed46dc03266d56</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791937</mtime>
+    <size>24927</size>
+    <md5>d86b1aea2fef2981ee31d6070b0bf803</md5>
+    <crc32>74d221b8</crc32>
+    <sha1>6fed4de55d94ee4e25562bf693e4482a223f2988</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791938</mtime>
+    <size>43099</size>
+    <md5>65ebcd826c50b86a4b791ab1e7881d5e</md5>
+    <crc32>773c6f83</crc32>
+    <sha1>64c5c2bf2e9bca3ddd3b0a27267bca523068cd8e</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791939</mtime>
+    <size>51900</size>
+    <md5>3b938eb6b0c4490f3c9b59f07081cac2</md5>
+    <crc32>0c45f50f</crc32>
+    <sha1>02909dfe76d5d42755a530509b1e31ac4bd39744</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791939</mtime>
+    <size>52415</size>
+    <md5>0be0a67a31a331c3a8baeba99ea7161d</md5>
+    <crc32>133aed2c</crc32>
+    <sha1>83bb9bbcd2ae7d777b53969c07b076901da09368</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791940</mtime>
+    <size>56099</size>
+    <md5>ec498812010f07e8aed3c208b3ac3729</md5>
+    <crc32>05c7d416</crc32>
+    <sha1>2dc57031571a19ac249b035e1d7fd05aa2923589</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791941</mtime>
+    <size>65595</size>
+    <md5>0c3a355652714702c231084c6a5f45a7</md5>
+    <crc32>afff3ab4</crc32>
+    <sha1>da46ccfed689a50bc788fa96c0ce600cf8c96e5e</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000105.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791941</mtime>
+    <size>30681</size>
+    <md5>11890515034b4833781e9b2d671a213d</md5>
+    <crc32>92e22484</crc32>
+    <sha1>6abc4c54d86f4ce92442f71c3e27fe03716a5092</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791942</mtime>
+    <size>5879</size>
+    <md5>ef5e2d393f1155d0a0d0689153094734</md5>
+    <crc32>f114f053</crc32>
+    <sha1>b13356011e01eef00c28ecb9d1cd0fe26ac56906</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 1080p_000115.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 1080p.mp4</original>
+    <mtime>1694791943</mtime>
+    <size>5178</size>
+    <md5>9f66c860212878df472ceb46887c608a</md5>
+    <crc32>0e694e8a</crc32>
+    <sha1>ddfc208f5b3fc7787d324dba674e09c2902f6a8b</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752016</mtime>
+    <size>36363</size>
+    <md5>cd42f3840260b8d18b555a6dc61880f8</md5>
+    <crc32>bb9cfd91</crc32>
+    <sha1>aa45db8eca67697a13665318d117448aa632cb1c</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752017</mtime>
+    <size>54376</size>
+    <md5>d5831a50aed3a80ef74e2b0c021d9313</md5>
+    <crc32>948422d8</crc32>
+    <sha1>8675e61aa428c1578cf92df4a63d23c0b2189ad5</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000016.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752018</mtime>
+    <size>29116</size>
+    <md5>69925bb9c96f2f74bb565e6157e7f379</md5>
+    <crc32>a4853737</crc32>
+    <sha1>75a41652bbf8c4cab27a238c9f050fce07a2e50f</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000021.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752019</mtime>
+    <size>46627</size>
+    <md5>dfcc032661ff072b2d8a5913d563e466</md5>
+    <crc32>1786f196</crc32>
+    <sha1>dddf3086b4499a50729388c0861ba19b397edb9a</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000024.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752020</mtime>
+    <size>24220</size>
+    <md5>412ef750a5d9fa35ac098bcad2f067d0</md5>
+    <crc32>28af4a92</crc32>
+    <sha1>7d56ea87d9ab1a51ca94647f004d3dd7d2252874</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752021</mtime>
+    <size>37022</size>
+    <md5>005f031de5fe0f56976850c3a0ffb6d6</md5>
+    <crc32>c0f957e0</crc32>
+    <sha1>cd3ed1837cc5b8ccaedf0d362d8b51768e86defd</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752022</mtime>
+    <size>22923</size>
+    <md5>5590faf43bcb083fccbd035b25d61b79</md5>
+    <crc32>51466031</crc32>
+    <sha1>319f0481739b9e1d602bcc15b076ab1deab6f0ab</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000041.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752024</mtime>
+    <size>43567</size>
+    <md5>2dc5d89bc503e1967e8289087df15b11</md5>
+    <crc32>ca6ae654</crc32>
+    <sha1>86ddd14ecc2af229715dd198b9c7b65e1c6bbffd</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752025</mtime>
+    <size>43066</size>
+    <md5>5dffe5f0f489cd7e27920ee8cfade640</md5>
+    <crc32>ba151684</crc32>
+    <sha1>2af003393448e6a02ce2e0c5bf33e4be6b88a317</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752026</mtime>
+    <size>30103</size>
+    <md5>4dd874802703830a8b34105110ad4f98</md5>
+    <crc32>7c4aee23</crc32>
+    <sha1>ea84795cb29be41598e67e3409da3ef2aac56fb3</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752027</mtime>
+    <size>51288</size>
+    <md5>58e0f46c0e9e5777e1eaea5890631378</md5>
+    <crc32>3fd97058</crc32>
+    <sha1>4f923d7b3c32b31bc4337481e4deb0e9e08c92e7</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752028</mtime>
+    <size>27458</size>
+    <md5>a1a2e7b409aed8ca701bd07ad7834142</md5>
+    <crc32>69bf54be</crc32>
+    <sha1>17ff30046254cb00b7d8f0134c676870d14c4f18</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752029</mtime>
+    <size>16810</size>
+    <md5>c01ca9721dff3d5f280f0462e62a70d0</md5>
+    <crc32>03841580</crc32>
+    <sha1>350fc5ac0b576434a2a8e1e2400547117faeb487</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000071.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752030</mtime>
+    <size>23520</size>
+    <md5>90d1029a3472f0b6a962ac230cc544df</md5>
+    <crc32>f0d2a912</crc32>
+    <sha1>61db97f797373949290528d7c68af82920ec63f3</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752031</mtime>
+    <size>37327</size>
+    <md5>8d4d8bdd14d29e4faf2c07cd77c67ed1</md5>
+    <crc32>3749c41b</crc32>
+    <sha1>489645e7248c879d908067f01b37db8699797f61</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000079.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752032</mtime>
+    <size>40250</size>
+    <md5>cba4226e6bccbdb39edc87b90d5f3371</md5>
+    <crc32>f154934d</crc32>
+    <sha1>9b83bc574f940b0304242d582ce84030d93d0088</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752033</mtime>
+    <size>43979</size>
+    <md5>d2c3748e9be9df04e61d207f57c97129</md5>
+    <crc32>a2a28b9a</crc32>
+    <sha1>9417b32f9e510b5898841774e35598058362c191</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752035</mtime>
+    <size>52683</size>
+    <md5>52390cfeb50c128764b76a4d427afa2d</md5>
+    <crc32>1f22de0e</crc32>
+    <sha1>1064feb40dc7b4d727ddbd116db9497cc3657018</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000096.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752036</mtime>
+    <size>35742</size>
+    <md5>2348b9de6ac6d47a1b6837e856321f90</md5>
+    <crc32>36ba1fc2</crc32>
+    <sha1>a69ada30f9d04439bbfc1b7977f3b57d2f74fa7d</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000101.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752037</mtime>
+    <size>65764</size>
+    <md5>b07acf3dde827605d9af93f898c07c86</md5>
+    <crc32>331de62e</crc32>
+    <sha1>c1e496df2cfebaaa5cbf0eaf6e4cac23475851ed</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000106.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752038</mtime>
+    <size>34501</size>
+    <md5>0eea8b2893e4339ae16494f50a470253</md5>
+    <crc32>a66c8732</crc32>
+    <sha1>e49b3f1a0ebe4beebfcc2959089ff05d1731a006</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000112.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752039</mtime>
+    <size>3889</size>
+    <md5>fdfb33c374261c3d417c6e6f6ed0a6fa</md5>
+    <crc32>511199d4</crc32>
+    <sha1>e7c35aed7af7203801b91623cf02cd642e128411</sha1>
+  </file>
+  <file name="doukou-first-meeting.thumbs/Doukou. First Meeting 800p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. First Meeting 800p.mp4</original>
+    <mtime>1694752040</mtime>
+    <size>4885</size>
+    <md5>6169f27c82659137dea28965633a3496</md5>
+    <crc32>7f9de7da</crc32>
+    <sha1>db0c988f71252fa997e964c5f4f085a4242b76dd</sha1>
+  </file>
+  <file name="doukou-first-meeting_archive.torrent" source="metadata">
+    <btih>bc1c7ce257778313db189570298387cc6f880b7b</btih>
+    <mtime>1716529996</mtime>
+    <size>8431</size>
+    <md5>82d79623c43d0e0160e1f44236c145dd</md5>
+    <crc32>3a37d7f5</crc32>
+    <sha1>6e60b369fa0e0f3089acd741c44959cd02644168</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-first-meeting_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e9a2f0257170e4a6520ac6cd767778f1</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-first-meeting_meta.sqlite" source="original">
+    <mtime>1716529836</mtime>
+    <size>32768</size>
+    <md5>a36d9b604efabbd187159ef807efac53</md5>
+    <crc32>e2d1b295</crc32>
+    <sha1>cf53683ba7938da23c4b5a0bacb0b42f3f139914</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-first-meeting_meta.xml" source="original">
+    <mtime>1716529983</mtime>
+    <size>2225</size>
+    <md5>427ed35cb643e7b8e08fd4d1cf1bbce6</md5>
+    <crc32>b74ce3a1</crc32>
+    <sha1>d47693a6da2bdc799725e2421221ae6dc9aa10f6</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

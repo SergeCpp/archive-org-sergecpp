@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Yang Ke Ai. Luzhou Moon 1080p 50fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177247</mtime>
+    <size>113784198</size>
+    <md5>12ebb146606aa59ce14aa52ced9d346c</md5>
+    <crc32>7dedfdf3</crc32>
+    <sha1>9304ea627b441ff3f61c67d56e89ff48731d5b67</sha1>
+    <length>251.38</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4" source="original">
+    <mtime>1703176658</mtime>
+    <size>113784198</size>
+    <md5>48952bc8e88e727780a9fc682cf64717</md5>
+    <crc32>c73a3ef4</crc32>
+    <sha1>143338e72f790e504564b426d5091e77dae0da70</sha1>
+    <format>MPEG4</format>
+    <length>251.38</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Yang Ke Ai. Luzhou Moon 1576x985 Lv 1p05 240.png" source="original">
+    <mtime>1716728396</mtime>
+    <size>1467783</size>
+    <md5>e5cd6b77a392abe023cfa99a0d777038</md5>
+    <crc32>0c5fb42e</crc32>
+    <sha1>8070991c6c74401f101d80e88c0ef9e533210fd3</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Yang Ke Ai. Luzhou Moon 1576x985 Lv 1p05 240_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yang Ke Ai. Luzhou Moon 1576x985 Lv 1p05 240.png</original>
+    <mtime>1716728641</mtime>
+    <size>7230</size>
+    <md5>7cd1573388fe9a03a6fdabe9e52bc9bd</md5>
+    <crc32>92cef61a</crc32>
+    <sha1>7c39236423c443a38863451474de02e02694c8bb</sha1>
+  </file>
+  <file name="Yang Ke Ai. Luzhou Moon 1576x985.png" source="original">
+    <mtime>1716728404</mtime>
+    <size>1411140</size>
+    <md5>da37b957ba229288a43446452e4a7ac6</md5>
+    <crc32>e9f0ebaf</crc32>
+    <sha1>644548ad9ea753e2ccb48bf7d63ff144348e7148</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Yang Ke Ai. Luzhou Moon 1576x985_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yang Ke Ai. Luzhou Moon 1576x985.png</original>
+    <mtime>1716728644</mtime>
+    <size>7163</size>
+    <md5>debc6aed5b0747b455b9e525098efca9</md5>
+    <crc32>b72039b0</crc32>
+    <sha1>df76a0b632bafb1e010cb0092d37b7ba9fa42052</sha1>
+  </file>
+  <file name="Yang Ke Ai. Luzhou Moon 1582x989.jpg" source="original">
+    <mtime>1703176679</mtime>
+    <size>289565</size>
+    <md5>fd7fc3a2c9dcd65a25c2c2d25421c1ce</md5>
+    <crc32>2bd684ef</crc32>
+    <sha1>11386a3c8bb71aedc2b749abeab9fbdd45a45cfd</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Yang Ke Ai. Luzhou Moon 1582x989_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yang Ke Ai. Luzhou Moon 1582x989.jpg</original>
+    <mtime>1703177280</mtime>
+    <size>7581</size>
+    <md5>9e46b5936b53a969b5e6d2f7c955598b</md5>
+    <crc32>e3486a3a</crc32>
+    <sha1>0392cae61422a19c844f38d39341d8465a6bd5c0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716729178</mtime>
+    <size>10583</size>
+    <md5>b10dd0d8a2e21d39f43e9d937883df73</md5>
+    <crc32>df5e836d</crc32>
+    <sha1>2de812d884dcf7d342688b027c33405034d50cf8</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177035</mtime>
+    <size>39118</size>
+    <md5>40f1d8a405ac2c7459b8b9b68b3ac227</md5>
+    <crc32>0ee1253b</crc32>
+    <sha1>2dc96608ad60eaad3b3516486a3c825bc4ade7de</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000061.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177050</mtime>
+    <size>59876</size>
+    <md5>793aa0193a7e64da67c0adc59b7908e6</md5>
+    <crc32>d45b0e2c</crc32>
+    <sha1>f387101b622f72c5c0cdafd655c72c18ea10d9d1</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177062</mtime>
+    <size>47553</size>
+    <md5>e7b4cdab70796141e97394f8fd165275</md5>
+    <crc32>14a1bc48</crc32>
+    <sha1>26557e5a3ff1b2a2bc1f28ad593d2eae7d0e1504</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177075</mtime>
+    <size>61911</size>
+    <md5>1056fa56633c88df35f80853d99707fa</md5>
+    <crc32>e1a66f3a</crc32>
+    <sha1>ff546961919c91f766c390ecf13323b4ef0805dc</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177089</mtime>
+    <size>56401</size>
+    <md5>6c4d862b2b884f3601962a989ac45d28</md5>
+    <crc32>141d9a59</crc32>
+    <sha1>29cf105b08c7e02c120776f1eed9c503e8938f46</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000178.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177103</mtime>
+    <size>44832</size>
+    <md5>05b11eb80627f1818c33e1fac5cf1f4f</md5>
+    <crc32>8d94e62d</crc32>
+    <sha1>6e4ac30285b45561b72892a5efdd8976166b8549</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177118</mtime>
+    <size>52927</size>
+    <md5>be5f7ebef50a1863708f9184114db1cb</md5>
+    <crc32>f31b9232</crc32>
+    <sha1>f25c509931206fd517276b73bc737b1538331909</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177132</mtime>
+    <size>52886</size>
+    <md5>3519cb24f7ecec5556b7ef57b9a88546</md5>
+    <crc32>9624af30</crc32>
+    <sha1>b817a62e2ff4100d6e6ec1a320c2c9295eaa9496</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon.thumbs/Yang Ke Ai. Luzhou Moon 1080p 50fps_000246.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yang Ke Ai. Luzhou Moon 1080p 50fps.mp4</original>
+    <mtime>1703177137</mtime>
+    <size>13265</size>
+    <md5>133261e011df4b22be20410d13cb2850</md5>
+    <crc32>0bd1f1c1</crc32>
+    <sha1>bdb1ccf6f8f810bfa2812bda798f5b214528e61f</sha1>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon_archive.torrent" source="metadata">
+    <btih>54694cb71a5c62e8c675576ecb866c2feac72675</btih>
+    <mtime>1716729190</mtime>
+    <size>12119</size>
+    <md5>2c0bfd5f07158eb8638cd26d7de6d829</md5>
+    <crc32>aeaffb2d</crc32>
+    <sha1>7260f95de4434dfa283e670fb39082655b0895f0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ed4d75bb9f92ce0f1f714f02944bad5f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon_meta.sqlite" source="original">
+    <mtime>1716728406</mtime>
+    <size>40960</size>
+    <md5>bbccc6248e9e3967371001fa1bef5953</md5>
+    <crc32>5efceb75</crc32>
+    <sha1>3b7984d09cd31aae396589eb6b5e06efdc5dcd13</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yang-ke-ai-luzhou-moon_meta.xml" source="original">
+    <mtime>1716729153</mtime>
+    <size>4388</size>
+    <md5>ab0af0f1f431a8f4389bebe8fd46845c</md5>
+    <crc32>b648452f</crc32>
+    <sha1>cbfe684428231b709f2e37a191738e084a7be434</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

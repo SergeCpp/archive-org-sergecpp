@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Kit Chan. Best Age 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068754</mtime>
+    <size>108265897</size>
+    <md5>56fd93f885827201a369c701aff826ea</md5>
+    <crc32>eb8905bc</crc32>
+    <sha1>585a9b1401aace1b46aa82bde6f8bc6668a687d3</sha1>
+    <length>279.42</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Kit Chan. Best Age 1080p.mp4" source="original">
+    <mtime>1702068266</mtime>
+    <size>108265897</size>
+    <md5>a1e46df18c6ddcb834e495e49e3def91</md5>
+    <crc32>b3ab9f00</crc32>
+    <sha1>814d491f99432352c2879bf641a8bf8d5a454638</sha1>
+    <format>MPEG4</format>
+    <length>279.42</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Kit Chan. Best Age 1104x690 Lv 1p4.png" source="original">
+    <mtime>1716696550</mtime>
+    <size>635576</size>
+    <md5>0781ad020d174fdff331641aa505af9e</md5>
+    <crc32>c790c66f</crc32>
+    <sha1>ba5686a241a260e771fcbebba6779f7b98e5bb35</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Kit Chan. Best Age 1104x690 Lv 1p4_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Kit Chan. Best Age 1104x690 Lv 1p4.png</original>
+    <mtime>1716696683</mtime>
+    <size>7944</size>
+    <md5>23c82107a0b4bddc805cce961e0d6c76</md5>
+    <crc32>7553e566</crc32>
+    <sha1>f484db76684dfc722451d5566a903f448b1aaaba</sha1>
+  </file>
+  <file name="Kit Chan. Best Age 1280x720.jpg" source="original">
+    <mtime>1702068288</mtime>
+    <size>101193</size>
+    <md5>52e062ca21dff5261627bc728035dc06</md5>
+    <crc32>2235f146</crc32>
+    <sha1>b55393ea7bdccaf4b818d2ba57ae21ab0ad32bf2</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Kit Chan. Best Age 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Kit Chan. Best Age 1280x720.jpg</original>
+    <mtime>1702068771</mtime>
+    <size>7886</size>
+    <md5>b48c34ff8729e707b321bd915753aedd</md5>
+    <crc32>3b44d72f</crc32>
+    <sha1>20ccbef04c2370b1c588d6206eaba6da60ae56c7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716696887</mtime>
+    <size>10757</size>
+    <md5>2861890733d2db81837bdcc04f4a8268</md5>
+    <crc32>62bb2bf9</crc32>
+    <sha1>2ba2af8e7dfce4373b456215c7c4871048f5cd7b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068574</mtime>
+    <size>12990</size>
+    <md5>83f27ec8469e70e43de84aae6b2a4104</md5>
+    <crc32>e11b6699</crc32>
+    <sha1>ec0e4a994a33d51d51df75941635bc76e68c4a09</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068589</mtime>
+    <size>55080</size>
+    <md5>d555157f98a229434b8e3adfa42eb107</md5>
+    <crc32>35b5a477</crc32>
+    <sha1>69c1ad359fac24fdaffe7f3b8201694f9d5248dd</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000088.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068610</mtime>
+    <size>36896</size>
+    <md5>1fb44ce88020ea3e2aaa6a8238e61216</md5>
+    <crc32>2ef5d126</crc32>
+    <sha1>f2246399a176a0f5da647c089d55da011a51dfda</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068633</mtime>
+    <size>54967</size>
+    <md5>1a30f66271b4a15e77a469d477500444</md5>
+    <crc32>7e89b1df</crc32>
+    <sha1>41f473db4717d0650cd948ad8147eca892faf0fd</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068651</mtime>
+    <size>58944</size>
+    <md5>e0d452bf1813516b97d3d3efafb07ec4</md5>
+    <crc32>1c7072cf</crc32>
+    <sha1>203624cd855f923fffab16bcac664065c075f5c9</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000179.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068670</mtime>
+    <size>52292</size>
+    <md5>0701e0b80b9408debbad8d2442f3fea0</md5>
+    <crc32>2c323fed</crc32>
+    <sha1>4645227293b986283cd0994460cc5573991205a2</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068689</mtime>
+    <size>48392</size>
+    <md5>a38449ead48970ec992b1bc68ff9febb</md5>
+    <crc32>e3ebdc76</crc32>
+    <sha1>48295baa3755465df1e877ee52512624081dcd4a</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000238.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068707</mtime>
+    <size>42235</size>
+    <md5>2a1b1e38163b3476c4e59859032d9d6f</md5>
+    <crc32>b8a7b51b</crc32>
+    <sha1>8eae98cf59fdbe15c875cf01d5ae7891ceb4f47a</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000268.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068730</mtime>
+    <size>41139</size>
+    <md5>54e8a88f9046ceb6dcf745dbb9802714</md5>
+    <crc32>af3307c9</crc32>
+    <sha1>3c94ec569541a02b29de25a1a72fad9b70f174f5</sha1>
+  </file>
+  <file name="kit-chan-best-age.thumbs/Kit Chan. Best Age 1080p_000278.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kit Chan. Best Age 1080p.mp4</original>
+    <mtime>1702068736</mtime>
+    <size>46455</size>
+    <md5>8007812a7e9846fd5ceba5a65d82ddcd</md5>
+    <crc32>a5a50dc3</crc32>
+    <sha1>fb4d68b4f1e81ea5eefce75c96cb1050e739ebda</sha1>
+  </file>
+  <file name="kit-chan-best-age_archive.torrent" source="metadata">
+    <btih>2de1d17ca9a8b5ad46fb0640d25962ade7ddf1c0</btih>
+    <mtime>1716697087</mtime>
+    <size>11116</size>
+    <md5>bcd055f2d7b83844c1aa97738c3ebb89</md5>
+    <crc32>85985b36</crc32>
+    <sha1>dfec1b39cc9204ca0420a84c33017caa43b9c701</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="kit-chan-best-age_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c4bdaf5b3ce45f653a02342b181d6ef7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="kit-chan-best-age_meta.sqlite" source="original">
+    <mtime>1716697083</mtime>
+    <size>32768</size>
+    <md5>485270fafd64d089aae5670de2ca77f6</md5>
+    <crc32>01fcafdf</crc32>
+    <sha1>8c4d5afcd6aa68371b0de53c90978570ff98d0ef</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="kit-chan-best-age_meta.xml" source="original">
+    <mtime>1716696858</mtime>
+    <size>1316</size>
+    <md5>527911606b7d953dffa552bb2202b16e</md5>
+    <crc32>000d4aee</crc32>
+    <sha1>6a0622d628d4fb8e66f92c4d31f40e25c5c50c90</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

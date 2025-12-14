@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ren Ran. Falling Into the Ocean 1072x670 Lv R25-230 G15-215 B5-210.png" source="original">
+    <mtime>1715662853</mtime>
+    <size>629330</size>
+    <md5>c3adb9db69f08aa4ab505ab90e24fb1c</md5>
+    <crc32>d41ac2a5</crc32>
+    <sha1>f4cd78f1a7f1aa27a8a5e2a4f6e543a5afb64f92</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ren Ran. Falling Into the Ocean 1072x670 Lv R25-230 G15-215 B5-210_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ren Ran. Falling Into the Ocean 1072x670 Lv R25-230 G15-215 B5-210.png</original>
+    <mtime>1715662961</mtime>
+    <size>6739</size>
+    <md5>63af030799b31d916c377eca0fafe6f4</md5>
+    <crc32>50e7b616</crc32>
+    <sha1>d992860e360ac0466f3b4d4851bebd71ad748f3e</sha1>
+  </file>
+  <file name="Ren Ran. Falling Into the Ocean 1072x670.png" source="original">
+    <mtime>1715662857</mtime>
+    <size>572613</size>
+    <md5>3ce22dc7b80f13daa2ab7f4eac3d6c32</md5>
+    <crc32>0acb4723</crc32>
+    <sha1>1c7ebf883aefa025963c738e9137af3e770f3e9b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ren Ran. Falling Into the Ocean 1072x670_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ren Ran. Falling Into the Ocean 1072x670.png</original>
+    <mtime>1715662964</mtime>
+    <size>6414</size>
+    <md5>55afe5df3dde30870a2123199588595b</md5>
+    <crc32>d80fa4df</crc32>
+    <sha1>c5a1edb62cf4e43410d356e36b45b8e00a39dc75</sha1>
+  </file>
+  <file name="Ren Ran. Falling Into the Ocean 1080p.mp4" source="original">
+    <mtime>1702109416</mtime>
+    <size>78628739</size>
+    <md5>3cca59561f089279b922489c5f8a4a1b</md5>
+    <crc32>62ea1389</crc32>
+    <sha1>97c34bc9346475f0132abf7a104b180aa05810d0</sha1>
+    <format>MPEG4</format>
+    <length>227.67</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ren Ran. Falling Into the Ocean 1092x682.jpg" source="original">
+    <mtime>1702109435</mtime>
+    <size>63848</size>
+    <md5>7d374539ee4846e7ac01d5bce80eb6aa</md5>
+    <crc32>65871032</crc32>
+    <sha1>5069daf5c14ffa6c739c5d6338f7cec7eca83ace</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Ren Ran. Falling Into the Ocean 1092x682_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ren Ran. Falling Into the Ocean 1092x682.jpg</original>
+    <mtime>1702109910</mtime>
+    <size>6696</size>
+    <md5>a669f4c2d268d947eb590b609e63e0ba</md5>
+    <crc32>f901ffe1</crc32>
+    <sha1>a4038da3eea647e69b4cc6a483e03f9f2581b000</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1715663780</mtime>
+    <size>9771</size>
+    <md5>e19e08c849c7aeb8ebe156bfb535ff8c</md5>
+    <crc32>49b746d6</crc32>
+    <sha1>672cb98c8e1224215edcdd5755906e0b0234e6a1</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109786</mtime>
+    <size>35486</size>
+    <md5>e7324ce053ca852e70600f3760b639e1</md5>
+    <crc32>277c2386</crc32>
+    <sha1>b239f0fd6bc43d3e105835feef26b1d5287ba896</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109794</mtime>
+    <size>18560</size>
+    <md5>ba6d2e9a7234615e31e83f3cf20d4a5d</md5>
+    <crc32>377c7863</crc32>
+    <sha1>fd157f18f2154506abacbadc919d1d0aeca3e4c4</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109801</mtime>
+    <size>33718</size>
+    <md5>e7a9eed00698ea39e8abb5db5ddccc6d</md5>
+    <crc32>984fd825</crc32>
+    <sha1>cb9c15d592cabf3b815c5ff1d838b82ed5790d43</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109809</mtime>
+    <size>24095</size>
+    <md5>901f137ea8bbd297831da0973d23c967</md5>
+    <crc32>0549c079</crc32>
+    <sha1>a40197864cb16ca040ab5698e2c2a3109631c770</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109817</mtime>
+    <size>57459</size>
+    <md5>43a98a5f6a213e24b80a7579b433099b</md5>
+    <crc32>33db1c58</crc32>
+    <sha1>3afa0a20a7442b60a5e0330fb50b99ca5807b45a</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109826</mtime>
+    <size>55020</size>
+    <md5>d42dca80f657d4fb634af77040638d81</md5>
+    <crc32>9a8e538a</crc32>
+    <sha1>3fab788d2c0c42f87f480c8665df635fa76fc7e1</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109833</mtime>
+    <size>13832</size>
+    <md5>4c134feb568c5229136254b41a577e1e</md5>
+    <crc32>4780824a</crc32>
+    <sha1>8b8b3cb5df0e156c80ac4c9eda6c2de34060df41</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video.thumbs/Ren Ran. Falling Into the Ocean 1080p_000225.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Falling Into the Ocean 1080p.mp4</original>
+    <mtime>1702109839</mtime>
+    <size>9711</size>
+    <md5>9b065b2d9e8ab19cb0fc5d102ac2654b</md5>
+    <crc32>24d92aea</crc32>
+    <sha1>665a4c91ae72df6e953ccd67f396afb2e8b127a8</sha1>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video_archive.torrent" source="metadata">
+    <btih>cfe97bef87f912f26f13b4b81622d4875a2f7edf</btih>
+    <mtime>1736507128</mtime>
+    <size>6412</size>
+    <md5>4dbd9251750431ae0d39f8efb18d4288</md5>
+    <crc32>6bc55d2c</crc32>
+    <sha1>a17b6fb49fdc78228aa2fe1946f86d874dc54797</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9509144ccb1011e3b0010963e5cbc4b5</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video_meta.sqlite" source="original">
+    <mtime>1715662881</mtime>
+    <size>32768</size>
+    <md5>4057bda6b770c84c03907052a6cc1395</md5>
+    <crc32>4f6639ae</crc32>
+    <sha1>e73121115d16947ba516db19e918cffbb485aaa8</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ren-ran-falling-into-the-ocean-music-video_meta.xml" source="original">
+    <mtime>1736507126</mtime>
+    <size>5475</size>
+    <md5>39b394a762290399b76923910efc4b29</md5>
+    <crc32>f367388c</crc32>
+    <sha1>42e3fb0faa8686ddfa7117fc8cd651151ddcea83</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

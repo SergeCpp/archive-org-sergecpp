@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Buddhism Sounds 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842493</mtime>
+    <size>10964896</size>
+    <md5>3991da87a39cfabade11515e1469d65f</md5>
+    <crc32>0f126209</crc32>
+    <sha1>e4bc4eb1b51fe7f10cfb90064b9ce1676db88cb9</sha1>
+    <length>116.54</length>
+    <width>1152</width>
+    <height>480</height>
+  </file>
+  <file name="Doukou. Buddhism Sounds 1080p.mp4" source="original">
+    <mtime>1694841909</mtime>
+    <size>30512376</size>
+    <md5>751397971db054fe6fe5951531d19ad3</md5>
+    <crc32>97e12cdd</crc32>
+    <sha1>cd4b4d314474bf292b8543e470d2fe1e44d2a653</sha1>
+    <format>MPEG4</format>
+    <length>116.5</length>
+    <width>2592</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Buddhism Sounds 1600x1000 Lv R250 G230 B240.png" source="original">
+    <mtime>1716469807</mtime>
+    <size>1907726</size>
+    <md5>58bf3ffd3ca89ca8ddd914d6f41555cb</md5>
+    <crc32>6829bb79</crc32>
+    <sha1>8a7991015a3ab848fbebad56a685c721f853f714</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Buddhism Sounds 1600x1000 Lv R250 G230 B240_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Buddhism Sounds 1600x1000 Lv R250 G230 B240.png</original>
+    <mtime>1716469927</mtime>
+    <size>7131</size>
+    <md5>6c9a05a20b05c53b3fcff5c6f481f27b</md5>
+    <crc32>40473b5f</crc32>
+    <sha1>c1a0eeebf52585ae18c644236cc0d21203950479</sha1>
+  </file>
+  <file name="Doukou. Buddhism Sounds 1600x1000.png" source="original">
+    <mtime>1716469820</mtime>
+    <size>1865112</size>
+    <md5>1d1ab18f261c9b1131490bfc115895bb</md5>
+    <crc32>7b46b90d</crc32>
+    <sha1>582f4d3ef03b2e27dbda0b908df917271822ee39</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Doukou. Buddhism Sounds 1600x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Buddhism Sounds 1600x1000.png</original>
+    <mtime>1716469931</mtime>
+    <size>7062</size>
+    <md5>09f709d538eb485583d70b4a98d16295</md5>
+    <crc32>1b6b553b</crc32>
+    <sha1>5f119766c8a8299ee15ad9a011e55dabfc5a21a8</sha1>
+  </file>
+  <file name="Doukou. Buddhism Sounds 1619x1012.jpg" source="original">
+    <mtime>1694841925</mtime>
+    <size>383820</size>
+    <md5>12aa664448b9ee86b1423182f3159f3d</md5>
+    <crc32>16b45d79</crc32>
+    <sha1>97bbf71ff229487daff8951712646700a469d12f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Doukou. Buddhism Sounds 1619x1012_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Buddhism Sounds 1619x1012.jpg</original>
+    <mtime>1694842504</mtime>
+    <size>7379</size>
+    <md5>17a4c6968feaa0d67aee3528bcda7a1d</md5>
+    <crc32>b5f06943</crc32>
+    <sha1>0ebc5fed8659252a186d532a524faaf0c36b39dd</sha1>
+  </file>
+  <file name="Doukou. Buddhism Sounds. VLOG 1080p.mp4" source="original">
+    <mtime>1737655136</mtime>
+    <size>308415554</size>
+    <md5>f70e48863d88799bea0544048321eacf</md5>
+    <crc32>f95edd00</crc32>
+    <sha1>08392726af784c502772c9c0ef06b4801b78b7d1</sha1>
+    <format>MPEG4</format>
+    <length>821.43</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Buddhism Sounds. VLOG 3105x1941.jpg" source="original">
+    <mtime>1737657333</mtime>
+    <size>531978</size>
+    <md5>d4378984e08ee6c485abe64d72ed0e09</md5>
+    <crc32>e8048dd5</crc32>
+    <sha1>41270e1269ad3091ccba3795472dd0df265d0bb1</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Buddhism Sounds. VLOG 3105x1941_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Buddhism Sounds. VLOG 3105x1941.jpg</original>
+    <mtime>1737658646</mtime>
+    <size>7625</size>
+    <md5>44b7f042ada06318408742ff51f9aa4f</md5>
+    <crc32>b1cf95f1</crc32>
+    <sha1>63ead161d48cc348c847dc6584d9144eb12a4fc1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716470186</mtime>
+    <size>11609</size>
+    <md5>5405ceb78dda2df6cd98d9a2929783ac</md5>
+    <crc32>f7d4c53a</crc32>
+    <sha1>b57def08a00e2fa75eb52f4a69a9571d4b1d5609</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841985</mtime>
+    <size>18497</size>
+    <md5>7485ef50543cf17e9f9d089626e3a511</md5>
+    <crc32>dcc11d2c</crc32>
+    <sha1>af3770b3016248910f3f9b02bd5a17c48740ab3d</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841987</mtime>
+    <size>20510</size>
+    <md5>63ac6992a7c0a94f20aeec565848a120</md5>
+    <crc32>7815a86c</crc32>
+    <sha1>cf8a880e03da4ff0cc15757bf2878e070f79ed64</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841988</mtime>
+    <size>29846</size>
+    <md5>fd1b60ffcee6ff316dd5883903d27c42</md5>
+    <crc32>b186f088</crc32>
+    <sha1>63d836590a156cfb9ad1695239c6ace95c4db80a</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841990</mtime>
+    <size>31644</size>
+    <md5>faa934c98ab002ad7d8ff423fc9a8f38</md5>
+    <crc32>2149862d</crc32>
+    <sha1>719a2449b0688ffe217be1d1b95684947f2d4173</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841992</mtime>
+    <size>32234</size>
+    <md5>bad3f4faa66922614cb2c10e1e2b5ccb</md5>
+    <crc32>53ba29a8</crc32>
+    <sha1>3a51ea0c0588c788dcc2ccbbec9fff32f27ee0b0</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841993</mtime>
+    <size>16908</size>
+    <md5>f7520ec5dd3eb87d1ba6674bc3c3f4a5</md5>
+    <crc32>66a81922</crc32>
+    <sha1>e7caa534fccdf8154c45e13be16c930759156333</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841995</mtime>
+    <size>22747</size>
+    <md5>d523501712ae1f39b50a8f8fe060f722</md5>
+    <crc32>806ef879</crc32>
+    <sha1>74a4b98cef0b0bee01f74ab8494114c34a1a682c</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694841997</mtime>
+    <size>27982</size>
+    <md5>d3d78fac33f23db6db71cc2bed7bd131</md5>
+    <crc32>d280c3e4</crc32>
+    <sha1>2bffb3105615e53f18e894c5f76db3298aa77e96</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842000</mtime>
+    <size>20964</size>
+    <md5>5b94177b34c662131d68ef47e5a7bbfb</md5>
+    <crc32>965fc32c</crc32>
+    <sha1>77e893ba6066993797e00919e716437851adf472</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842003</mtime>
+    <size>44226</size>
+    <md5>210003103aa51036efe94830c40a6ae1</md5>
+    <crc32>922a256c</crc32>
+    <sha1>87658650fb214e2795a443c2f50de13a1c04511a</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842005</mtime>
+    <size>67757</size>
+    <md5>2bee5857e085334f8cd79d32e6e36cce</md5>
+    <crc32>399837e6</crc32>
+    <sha1>d9e3ec50994f5379a2baf5f7e3c669d902377c41</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842007</mtime>
+    <size>46719</size>
+    <md5>1e42fd97be7ca29bc94e663205cc412a</md5>
+    <crc32>c8a4876d</crc32>
+    <sha1>efd00491eedeea51948524652d09645ae4cc92fd</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842008</mtime>
+    <size>31662</size>
+    <md5>cadfb90468dab924cee1e4692d8f7e92</md5>
+    <crc32>c518f2df</crc32>
+    <sha1>141d71265bb53be5370c0d72694dcea211d3f169</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842010</mtime>
+    <size>37619</size>
+    <md5>14a441f2cc06530d062d6da64ca25655</md5>
+    <crc32>221210f4</crc32>
+    <sha1>5caf63dee5ea415de210e35453b9df702a65fa5d</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842012</mtime>
+    <size>26475</size>
+    <md5>d9f7c0c97c69a495d2eeaa2dd512398e</md5>
+    <crc32>18aed6c1</crc32>
+    <sha1>10695539563cda1c557ee9e9cca3e82dff8cb57c</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842014</mtime>
+    <size>45646</size>
+    <md5>fea3cf7a79d648b0e08e2d50e72825ec</md5>
+    <crc32>4e0c91c3</crc32>
+    <sha1>8b72c06ff4f9877c3babd51eb7ffda12bcaafee6</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842016</mtime>
+    <size>23486</size>
+    <md5>150c679e494fbc1b487575f6776cf10c</md5>
+    <crc32>4e92fa6a</crc32>
+    <sha1>252510b990724ebe659f5ca42e4b435d900b9529</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842018</mtime>
+    <size>31087</size>
+    <md5>dcbe7c3bc7d5684f8f5425c62b03eb4c</md5>
+    <crc32>ab35947d</crc32>
+    <sha1>5f687f2202fa742077024a6d37fd60979dfb46f2</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842020</mtime>
+    <size>16885</size>
+    <md5>ccdad9d8267c76f63b4aa3c29d67e386</md5>
+    <crc32>941cd5a8</crc32>
+    <sha1>95dcc13107ba5010f7ec32691ef19759c8b93c4f</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000105.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842022</mtime>
+    <size>21580</size>
+    <md5>9a0b0d92b59f10c9e58277da5dbec106</md5>
+    <crc32>9b7fea2b</crc32>
+    <sha1>99969f9e41ef5f88aa43bfb55eb7c8bd462aeea2</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842024</mtime>
+    <size>54108</size>
+    <md5>12d7bda490b8cd75254a9b41cdb51b70</md5>
+    <crc32>2e5117dd</crc32>
+    <sha1>d084941f660280cf5feef42f34d8124b599e8e1e</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds 1080p_000115.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds 1080p.mp4</original>
+    <mtime>1694842026</mtime>
+    <size>4320</size>
+    <md5>fb65f10e664ea5451cc9d639cb8ddada</md5>
+    <crc32>8034edff</crc32>
+    <sha1>5397db0da1fead27401264bace0d7470f7dd42b0</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655336</mtime>
+    <size>29583</size>
+    <md5>b377ea48fb703a84ef0e46c2efd83d1f</md5>
+    <crc32>cfa8868d</crc32>
+    <sha1>17238188441c53c6e9ad6c1a1c30b5dcfb9c1ba5</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655340</mtime>
+    <size>38499</size>
+    <md5>bddf984faea974447ef13320d07f837d</md5>
+    <crc32>0f781d34</crc32>
+    <sha1>293fc106b5e3bfa9c470653f3102556f4d990f6e</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655343</mtime>
+    <size>59974</size>
+    <md5>a48bb521f656de1620a89410323f0bad</md5>
+    <crc32>49308f17</crc32>
+    <sha1>928fd8fc7e04c3996801b3730e4be87d137bd606</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655347</mtime>
+    <size>72507</size>
+    <md5>9351901a3d829dd03b258a1675962dd0</md5>
+    <crc32>5519232b</crc32>
+    <sha1>ba65338bb33becdc21052e9c6cc9e232b9a61313</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655350</mtime>
+    <size>54308</size>
+    <md5>c8af4fb103007bf40345086802c7cfa2</md5>
+    <crc32>1abdff96</crc32>
+    <sha1>0545664f53ad7c1d96a2f730fce2a0d4bc1c3947</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655353</mtime>
+    <size>39282</size>
+    <md5>526f7d494316f7507210f9856630a5fe</md5>
+    <crc32>34a8a90e</crc32>
+    <sha1>2f01de9f738a9e387b8b6a9ce77dd0c7772b8527</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655357</mtime>
+    <size>54458</size>
+    <md5>541864e65fee16d1b97746f702e9e0ce</md5>
+    <crc32>559399a5</crc32>
+    <sha1>b5e391d0be2e8a2deb0bc023f0fb600fed68be5a</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655360</mtime>
+    <size>72129</size>
+    <md5>04662685f6e00de778946f59b7bb69ed</md5>
+    <crc32>f1cfd7ee</crc32>
+    <sha1>ec49cee769eaa2766532f66d9dbde1a9a3d7da07</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655364</mtime>
+    <size>63687</size>
+    <md5>ea5a96ef08936a15de8a4751496ff0a5</md5>
+    <crc32>cc195e59</crc32>
+    <sha1>623d23df7cab07d7e2826b6940f77d712cfef0a8</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655367</mtime>
+    <size>33001</size>
+    <md5>c3d02e079b6a2f7d9e70dde661cfa6d2</md5>
+    <crc32>e75f0cea</crc32>
+    <sha1>33b25df83370b46be32bb288ef637f1f1127c6a0</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655371</mtime>
+    <size>55847</size>
+    <md5>2cad17bcb232a4dbe8a401b512fdd4ed</md5>
+    <crc32>038a7d0b</crc32>
+    <sha1>e66ff978ba7811f3c8fde7d89979c3c7f64a4e13</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655374</mtime>
+    <size>50623</size>
+    <md5>96b8b3b36f291e013bbd72a4c823d37f</md5>
+    <crc32>6a231697</crc32>
+    <sha1>29d7b3433ca0587f8cb446914b5856440bf9d517</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655377</mtime>
+    <size>61858</size>
+    <md5>65de61b506c94b1c458cfa8c37636e7b</md5>
+    <crc32>a2eb5f33</crc32>
+    <sha1>a4fc95760a4e0b3cc33260bac952dd577aaabbfe</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655380</mtime>
+    <size>31073</size>
+    <md5>c91f13666dcec56cfa1b70f37a7099f9</md5>
+    <crc32>b191271a</crc32>
+    <sha1>312d0796b270d0f54debce170a7ff4f18c4672da</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655384</mtime>
+    <size>93941</size>
+    <md5>1099e1d8b5f75a7c1166399254c76bef</md5>
+    <crc32>c75f1425</crc32>
+    <sha1>c387bf28f960b1950b8df1b5e25803c25f2b7fab</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655388</mtime>
+    <size>65320</size>
+    <md5>bba903ad2bcc364070c350f3d2343326</md5>
+    <crc32>4dadc673</crc32>
+    <sha1>4181782a3d89002363bd6d0a8686fb05d0e2af07</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655392</mtime>
+    <size>43959</size>
+    <md5>02a731429614d5dd6df55e858b5df4e0</md5>
+    <crc32>1a61f22a</crc32>
+    <sha1>ab94af2a72fba55c6f4ece9b817fbe6eeb84ac70</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655396</mtime>
+    <size>43413</size>
+    <md5>ca210d84c44b5aa1bbd15dbb3d7c65ac</md5>
+    <crc32>98f1118b</crc32>
+    <sha1>91f6b0e17ea8979b92d6d902415e67113631c0d0</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655400</mtime>
+    <size>51798</size>
+    <md5>65c3cfb752467a34d1c5717f9a1dc296</md5>
+    <crc32>48340c8a</crc32>
+    <sha1>e06421c1d60f0b97aca6b76e1e3dadadd3b5cb25</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655404</mtime>
+    <size>74890</size>
+    <md5>b3b44db5104add24f869da8332cff336</md5>
+    <crc32>607e5b65</crc32>
+    <sha1>24188233c37f09005ecb16ef9b4d97cd974ded1c</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655407</mtime>
+    <size>81940</size>
+    <md5>d571bb5ba3a0f24f227d726d6ea5db47</md5>
+    <crc32>99a7ea29</crc32>
+    <sha1>1f60564ce0b3b7eef460b034eb4e7de6efe7554a</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000660.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655411</mtime>
+    <size>63240</size>
+    <md5>8b9c52aecd137b4527722a16b5007a8b</md5>
+    <crc32>4b8bcef6</crc32>
+    <sha1>5c3d4e82b24d591df05cbb2dffb66512cb0271dc</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655415</mtime>
+    <size>65073</size>
+    <md5>91ea6bc4b2c06222717881c17fae7a52</md5>
+    <crc32>d4bc99ce</crc32>
+    <sha1>0f775ed846be7e9c971893ce6fcf1360135a4e9c</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000720.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655419</mtime>
+    <size>38091</size>
+    <md5>6b7d212202f743dcec4017ba6b8666b2</md5>
+    <crc32>d8c04cc6</crc32>
+    <sha1>3704d7e6ff672fd3875dbf6971cfb7b886aa7445</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655422</mtime>
+    <size>35273</size>
+    <md5>d4d6c1491928f35d2a699aedaef5bbfc</md5>
+    <crc32>a2bddbfb</crc32>
+    <sha1>7d4aef781eec4f3c0259d878cc3b5d3d4c40a2ec</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000780.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655426</mtime>
+    <size>48868</size>
+    <md5>dea81c445cbd5629c0b16a2d892fa58f</md5>
+    <crc32>5f8235d6</crc32>
+    <sha1>de55630d59319d67249f6823da551f426b058964</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655430</mtime>
+    <size>38130</size>
+    <md5>3ae6336766a6ab14acc6d07f139638b4</md5>
+    <crc32>e28a292f</crc32>
+    <sha1>03c8d966e66f27ab5adfcc2ed3040c5010b9a08f</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds.thumbs/Doukou. Buddhism Sounds. VLOG 1080p_000820.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Buddhism Sounds. VLOG 1080p.mp4</original>
+    <mtime>1737655431</mtime>
+    <size>24893</size>
+    <md5>7d08818768c37bfb72d66ecea56e63ab</md5>
+    <crc32>2f48c79c</crc32>
+    <sha1>3ba20753985390d51e32d4f8e8c2aa01c18ef121</sha1>
+  </file>
+  <file name="doukou-buddhism-sounds_archive.torrent" source="metadata">
+    <btih>ad3636f885371118950642fe634c1c20d3c6a5c8</btih>
+    <mtime>1737660668</mtime>
+    <size>17443</size>
+    <md5>4f3d15bbc0965ddd9b14e1a18610d90d</md5>
+    <crc32>e99a519a</crc32>
+    <sha1>f3836a699b27c5db5c27b9eae000ed627695bb56</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-buddhism-sounds_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>231b806518af4d052bbc0948c7d4bd66</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-buddhism-sounds_meta.sqlite" source="original">
+    <mtime>1737657339</mtime>
+    <size>36864</size>
+    <md5>281510bf4ac67a3ea9557b1e205f0a68</md5>
+    <crc32>ce5ec1af</crc32>
+    <sha1>2d6632c4ebc19ff11e61655cf1411cd6e8dce29a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-buddhism-sounds_meta.xml" source="original">
+    <mtime>1737660664</mtime>
+    <size>5305</size>
+    <md5>7c14c8274cc9004582aaaf5e0c1c5754</md5>
+    <crc32>e2f2b9f4</crc32>
+    <sha1>460389bec1258c09bf088be95805623b2f4e6bbd</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

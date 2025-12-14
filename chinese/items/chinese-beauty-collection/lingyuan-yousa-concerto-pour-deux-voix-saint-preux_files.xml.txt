@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Lingyuan Yousa 633x1000.jpg" source="original">
+    <mtime>1703332575</mtime>
+    <size>69792</size>
+    <md5>b460edb0d9f39c10c297e30c2babcd36</md5>
+    <crc32>3d11f530</crc32>
+    <sha1>77e8896da468d5946dfc41572d15b314c2ae198b</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Lingyuan Yousa 633x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lingyuan Yousa 633x1000.jpg</original>
+    <mtime>1703333384</mtime>
+    <size>7825</size>
+    <md5>ef8bb32a69e2b242044dc8a4bced608b</md5>
+    <crc32>3c6a3e6d</crc32>
+    <sha1>584ac7bfef4ba2410c3cccba3a585217d8b06c0e</sha1>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703333195</mtime>
+    <size>75998740</size>
+    <md5>2539fa828e018e8e72d9b36fa3d6023c</md5>
+    <crc32>663927a0</crc32>
+    <sha1>cdb02233b3716e0d8d171eebfb08ca058e9edc57</sha1>
+    <length>254.2</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4" source="original">
+    <mtime>1703332546</mtime>
+    <size>75998740</size>
+    <md5>f9d1b7a0a6a096e9efffe9b6eec9ce62</md5>
+    <crc32>9a0720d2</crc32>
+    <sha1>190bf3536c8a5c4b8f6a8570ddf7e71c8f4ee959</sha1>
+    <format>MPEG4</format>
+    <length>254.2</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. Bilibili 1144x715.png" source="original">
+    <mtime>1716700926</mtime>
+    <size>1131356</size>
+    <md5>d5def6fea9362c84af0a1f69647cbf15</md5>
+    <crc32>984d8f72</crc32>
+    <sha1>0f29a8da058bf95ea138b55aba0094f4f2243c3d</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. Bilibili 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. Bilibili 1144x715.png</original>
+    <mtime>1716701023</mtime>
+    <size>9575</size>
+    <md5>6507626fdce65c47c56046b17b1e4608</md5>
+    <crc32>619b166f</crc32>
+    <sha1>562953e8df88aa12e767bcf7f166cfcc5a86b4c8</sha1>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. Bilibili 1146x716.jpg" source="original">
+    <mtime>1703332563</mtime>
+    <size>129458</size>
+    <md5>8691c48668dd1fc6cde2483bd9006b4d</md5>
+    <crc32>0c876c81</crc32>
+    <sha1>9b6b466f796e4ca7bf5eec74c38790da1a7c3a4c</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. Bilibili 1146x716_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. Bilibili 1146x716.jpg</original>
+    <mtime>1703333278</mtime>
+    <size>9862</size>
+    <md5>c4c2548db7746aa42a4c7077370a49f8</md5>
+    <crc32>8238d6b7</crc32>
+    <sha1>d6a1c2ca5ee769561004f7cc2ce82a4d40c2f259</sha1>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. YouTube 1280x720.jpg" source="original">
+    <mtime>1703332569</mtime>
+    <size>141415</size>
+    <md5>780356e5e78f00b1a5a6b3fbc011210b</md5>
+    <crc32>ddedcdd1</crc32>
+    <sha1>ed7d03c6f9ad51802c9153465dd3254b3de3a93c</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. YouTube 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux. YouTube 1280x720.jpg</original>
+    <mtime>1703333340</mtime>
+    <size>9275</size>
+    <md5>12544730124c73ae3e574f219ee924b1</md5>
+    <crc32>a0c45988</crc32>
+    <sha1>52f75d0dfc405b0b7d52990692771bf6a475e1c2</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716701434</mtime>
+    <size>17958</size>
+    <md5>c8dc64764626bb8c07a0c393a7ba5d2f</md5>
+    <crc32>8dc15ea1</crc32>
+    <sha1>21991cc7dd55547be7fec6ff2329903c80367447</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332972</mtime>
+    <size>5493</size>
+    <md5>4accd7078cc7fd4ff856eabeaa4dc496</md5>
+    <crc32>0e07dd3f</crc32>
+    <sha1>bd3e6c4c65b3d2fc83d45e6e6581f083896f1be7</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332975</mtime>
+    <size>26817</size>
+    <md5>d6aa86170deb5fe5b224ad0c2d379bfb</md5>
+    <crc32>a12dcb78</crc32>
+    <sha1>901650f7fdb70acc52bacba45e1383d195a024b3</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332978</mtime>
+    <size>53883</size>
+    <md5>037ef8076c75a82c0c78fb146a86ab72</md5>
+    <crc32>8abb3747</crc32>
+    <sha1>0b77ad34942404231ea0789e80edefc1b3aaa462</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332981</mtime>
+    <size>59515</size>
+    <md5>28994cc59b7fb6847ed2be7a15d1b371</md5>
+    <crc32>7fc94937</crc32>
+    <sha1>4b03a5d412c54659d39750c954b62438b274b058</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332984</mtime>
+    <size>45194</size>
+    <md5>d19acea26af2c13e34c713f2abffab8f</md5>
+    <crc32>7eaf31ba</crc32>
+    <sha1>c22924223f4447e7ea1e24719955a0de0c8d17b0</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000181.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332988</mtime>
+    <size>66474</size>
+    <md5>bce705731651324de671ff46e42d2f4b</md5>
+    <crc32>9ab06d7c</crc32>
+    <sha1>62becf760bc7b10c97e82f1c7bf4bd1596e7d051</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332991</mtime>
+    <size>42559</size>
+    <md5>a6440857c1d3ee01c6671d92f566f7bd</md5>
+    <crc32>5c69d62b</crc32>
+    <sha1>3fe48877155b239b421daf7300637b3043716f86</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332994</mtime>
+    <size>51059</size>
+    <md5>ed2fb04837450e521a2da6a47d9bde19</md5>
+    <crc32>458b2b5d</crc32>
+    <sha1>3e67de9b33a60210fdc94dba3171c959a0775e0c</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux.thumbs/Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p_000250.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. Concerto Pour Deux Voix. Saint-Preux 1080p.mp4</original>
+    <mtime>1703332996</mtime>
+    <size>70911</size>
+    <md5>dd959995f554b2609b1458b9886eb269</md5>
+    <crc32>776940be</crc32>
+    <sha1>0889b58161daf4ab84b8eab35fb01f4e8ef6487f</sha1>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux_archive.torrent" source="metadata">
+    <btih>a76046edfb6afe483b5198ff95edf65e69842618</btih>
+    <mtime>1721747213</mtime>
+    <size>10031</size>
+    <md5>00bc5c48fc3e1a6e8ce3ca070ad3e79f</md5>
+    <crc32>59a8007f</crc32>
+    <sha1>86bc33716a46317641b96e01adf4dbc668649a7d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e381052841ce03649a014e843d6102bb</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux_meta.sqlite" source="original">
+    <mtime>1716700934</mtime>
+    <size>45056</size>
+    <md5>2b24b40a582d15c084693545c2c8770f</md5>
+    <crc32>f656eb76</crc32>
+    <sha1>e0f17429094e32ccbf9a33f8a05c355879e37735</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="lingyuan-yousa-concerto-pour-deux-voix-saint-preux_meta.xml" source="original">
+    <mtime>1721747211</mtime>
+    <size>2417</size>
+    <md5>ed8e732f1cbb0ee75104ad6605d2cb97</md5>
+    <crc32>c6ec58f7</crc32>
+    <sha1>18888af443a4e799a5a9c5e1529a47a3bce7ac75</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

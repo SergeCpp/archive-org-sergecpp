@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Green and Red 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830572</mtime>
+    <size>64547834</size>
+    <md5>ffc3d02ae769b7213e551d541b8480ff</md5>
+    <crc32>92d926f8</crc32>
+    <sha1>64f4a471e80104afffd5db89370763e6546b5917</sha1>
+    <length>104.34</length>
+    <width>2592</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Green and Red 1080p.mp4" source="original">
+    <mtime>1694829868</mtime>
+    <size>64547834</size>
+    <md5>b10c15b0ce3e6492d2bf96aa804ba662</md5>
+    <crc32>53174308</crc32>
+    <sha1>7f55e02849e7600264c5801d1fa8e72c31e4b2cd</sha1>
+    <format>MPEG4</format>
+    <length>104.34</length>
+    <width>2592</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Green and Red 1584x990 Lv R250 G245 B240.png" source="original">
+    <mtime>1716541631</mtime>
+    <size>2458700</size>
+    <md5>1f93c384ecb0677298c4ad036aa4d237</md5>
+    <crc32>c6d482bf</crc32>
+    <sha1>22390651d6d5e501afe628699b3ecc2a86720766</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Green and Red 1584x990 Lv R250 G245 B240_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Green and Red 1584x990 Lv R250 G245 B240.png</original>
+    <mtime>1716541902</mtime>
+    <size>8623</size>
+    <md5>c1219385bcc195faf7bc9cec22f20516</md5>
+    <crc32>30e766a6</crc32>
+    <sha1>f66608ffbc2c88440243ad699e9cac5d21b799de</sha1>
+  </file>
+  <file name="Doukou. Green and Red 1584x990.png" source="original">
+    <mtime>1716541640</mtime>
+    <size>2377863</size>
+    <md5>905b00d0665937cd01e8892740dd1f17</md5>
+    <crc32>ba68ba84</crc32>
+    <sha1>147dadebc56e9b7a416e27222798854732ff0658</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Doukou. Green and Red 1584x990_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Green and Red 1584x990.png</original>
+    <mtime>1716541904</mtime>
+    <size>8531</size>
+    <md5>8f7ee0a308819405f028cb6b927ed462</md5>
+    <crc32>479d4523</crc32>
+    <sha1>fa94eb3aff655baa4a6c3e04afd10deae805f8d6</sha1>
+  </file>
+  <file name="Doukou. Green and Red 1590x994.jpg" source="original">
+    <mtime>1694701934</mtime>
+    <size>454795</size>
+    <md5>4660c0e8cf57487763d47d57afa54208</md5>
+    <crc32>4223c238</crc32>
+    <sha1>e02f3333eb46f65192ea08995954287928be44d5</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Doukou. Green and Red 1590x994_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Green and Red 1590x994.jpg</original>
+    <mtime>1694702040</mtime>
+    <size>8892</size>
+    <md5>c26d8639940bc4f89ad368b224fb0618</md5>
+    <crc32>e138557d</crc32>
+    <sha1>11b84b613a337893ad8611701ad4166a72f2b8e2</sha1>
+  </file>
+  <file name="Doukou. Green and Red 800p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694702030</mtime>
+    <size>30509286</size>
+    <md5>ab7d06ca0843b700f020f9d813826322</md5>
+    <crc32>6c546847</crc32>
+    <sha1>b57d0ecc2c162e8e116ddd34dd81c8ef35387d8a</sha1>
+    <length>104.28</length>
+    <width>1920</width>
+    <height>800</height>
+  </file>
+  <file name="Doukou. Green and Red 800p.mp4" source="original">
+    <mtime>1694701916</mtime>
+    <size>30509286</size>
+    <md5>7b63fab9f6415dd8560d78df7715f861</md5>
+    <crc32>23fa67b7</crc32>
+    <sha1>e1264647582265989f0aca5178014206f846c1ea</sha1>
+    <format>MPEG4</format>
+    <length>104.28</length>
+    <width>1920</width>
+    <height>800</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716542407</mtime>
+    <size>14710</size>
+    <md5>a70fac3193645a0342b8d8af061a2718</md5>
+    <crc32>0b45446f</crc32>
+    <sha1>2031cbdd507fc1a1799d5e19be17b12f54928f4a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830480</mtime>
+    <size>60572</size>
+    <md5>e0dadd342bc1dbc30cb8c2342108b299</md5>
+    <crc32>ce52e631</crc32>
+    <sha1>d67140823533bf037e1cd69635479d1807123b95</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830482</mtime>
+    <size>29012</size>
+    <md5>a41f7d1e36810a5a7c39e0a93feade96</md5>
+    <crc32>8bbbc474</crc32>
+    <sha1>359f103a7a1d528600af7a82c19888607c764791</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830485</mtime>
+    <size>41933</size>
+    <md5>e4f95af9121740d1faa03fd6bb0ecdc9</md5>
+    <crc32>51a740eb</crc32>
+    <sha1>91de3264ad1cdef71f46051ce4f183de874c3a90</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830488</mtime>
+    <size>42266</size>
+    <md5>e895a0d0696f7896984c06ad22bad9ce</md5>
+    <crc32>75c1668f</crc32>
+    <sha1>079196d6f2077e33013dfb07e6cd116e4aee8034</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830490</mtime>
+    <size>21608</size>
+    <md5>0b3a583592db665290610de9233afd11</md5>
+    <crc32>00467118</crc32>
+    <sha1>79e4676c59938e68ea2271294363613c998455ee</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830493</mtime>
+    <size>33016</size>
+    <md5>739ecaa85bec5c18086ecc720b6530ea</md5>
+    <crc32>cfae6299</crc32>
+    <sha1>e74d27912ba8ed3e6c8928b83840eef3a48c1d44</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830496</mtime>
+    <size>27102</size>
+    <md5>889ea0246724ed0d802a6cb9300a8ddf</md5>
+    <crc32>43c6d45f</crc32>
+    <sha1>7254d348770ccc11f13922e6f77d42ac1ddba081</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830498</mtime>
+    <size>16011</size>
+    <md5>6fa3efd5714fe48365f7d66dbc691968</md5>
+    <crc32>d469525d</crc32>
+    <sha1>2d67695ce997341f4e382c83f0a74de1b87d3d81</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830501</mtime>
+    <size>48087</size>
+    <md5>e0b2d085d0935efea7e5b92426b2d8b3</md5>
+    <crc32>516cf58d</crc32>
+    <sha1>7c549dd7b21869397dda4ca9d84d00a692888bf2</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830504</mtime>
+    <size>44860</size>
+    <md5>fe300577ca954352080af2554be4a4a6</md5>
+    <crc32>06f5b9fd</crc32>
+    <sha1>5cd0d03b00f0787e924eae519ace34cf1f87ddf7</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830507</mtime>
+    <size>46513</size>
+    <md5>86aadd6995e03e90ad6e606a143cbb98</md5>
+    <crc32>f526a91e</crc32>
+    <sha1>46105a7598ea562d8c3833bd92efd8a767eb483a</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830510</mtime>
+    <size>40595</size>
+    <md5>b95beca063285f0a8232374e860899e3</md5>
+    <crc32>23d2d591</crc32>
+    <sha1>f22f51db86e9c161d582e7f3ea973b18f19044b3</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830512</mtime>
+    <size>33047</size>
+    <md5>89432ecb13c171d1001d91c410668d25</md5>
+    <crc32>b8309747</crc32>
+    <sha1>1f9c75af8325d92dcc43e95b21a4719c631219a6</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830515</mtime>
+    <size>66050</size>
+    <md5>39cffcb7fe86c407bed17e977a8f45d7</md5>
+    <crc32>388eab3c</crc32>
+    <sha1>723d137d896f13229b91989b43170c0fd0bd86a4</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830517</mtime>
+    <size>27213</size>
+    <md5>eff1478fe0b9710a0ecd21bc8156e27f</md5>
+    <crc32>1d235020</crc32>
+    <sha1>7db3ee0ecc4f474588bde0eb2d8af2c5bdf29ff0</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830520</mtime>
+    <size>38549</size>
+    <md5>f329eaff8f3aa666a6504f8f0c2d349e</md5>
+    <crc32>37e241aa</crc32>
+    <sha1>5b15334ffa92f2a9aae06d09958dbce43d08cc26</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830522</mtime>
+    <size>71288</size>
+    <md5>ff7561e851e7533f1dcbcb17e8717a68</md5>
+    <crc32>bb550c43</crc32>
+    <sha1>082fe6315435f00fd04119b979fa1af4f08803d9</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830525</mtime>
+    <size>5326</size>
+    <md5>a55a473a2754e018d80ce04a4963c073</md5>
+    <crc32>32630c88</crc32>
+    <sha1>67dcef19423f0715fe8d7e7e2de6b76a7de96205</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 1080p_000100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 1080p.mp4</original>
+    <mtime>1694830529</mtime>
+    <size>5119</size>
+    <md5>34fdcb559c2460e78dacfa98864c1261</md5>
+    <crc32>39b09632</crc32>
+    <sha1>16767f3198cc43ab36feba79e53dc5f941ed2e70</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701977</mtime>
+    <size>57639</size>
+    <md5>3cb75b1555c8ffb80e5f8519b61ab547</md5>
+    <crc32>7327b3e4</crc32>
+    <sha1>2f65acf8337b6ef32e3b204eccf222086a0cf047</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000009.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701978</mtime>
+    <size>27632</size>
+    <md5>68ee9b646b635de33e50d60f298eba80</md5>
+    <crc32>f606d60e</crc32>
+    <sha1>e2851fbb9abb00d174532b01f9a80606ff6ec185</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701980</mtime>
+    <size>28856</size>
+    <md5>639cdf7e4c4d35556091e54c5667d8b5</md5>
+    <crc32>5d352792</crc32>
+    <sha1>628117e8a97a0cb0ca878fc3642f11320bee0f41</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000019.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701982</mtime>
+    <size>55772</size>
+    <md5>c5b81a2bd167f051b92f9e969e38b2f3</md5>
+    <crc32>49cc0472</crc32>
+    <sha1>2acb2e90b509a5221ae413fd402cb73d448e9d9d</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000024.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701983</mtime>
+    <size>41249</size>
+    <md5>cbbde5a5be16d563c0e44f832a5df6bf</md5>
+    <crc32>47f9c86c</crc32>
+    <sha1>d07b4ceea53d731182eb34e607f4a3cf7d109d40</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000029.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701985</mtime>
+    <size>65443</size>
+    <md5>55de099010a47cce8a999ed3dd668d27</md5>
+    <crc32>9157de6d</crc32>
+    <sha1>6a7c2877e1d82c7138d3ec11c002bf266668dafd</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701987</mtime>
+    <size>31024</size>
+    <md5>238b2fff65cae5c2a14c43d2ad1ab236</md5>
+    <crc32>5ebffdde</crc32>
+    <sha1>2b04e804375f0f0a09685271b9a7a7959015ba5f</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000039.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701988</mtime>
+    <size>32556</size>
+    <md5>11f0afc5911f85c1c1ab354ac3746f41</md5>
+    <crc32>9a1b4d8a</crc32>
+    <sha1>ddb2af854a59d7d89bd84f421503eba67dd50335</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000044.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701990</mtime>
+    <size>14803</size>
+    <md5>c0d6790c7c4f631fc924ae5260c77d2b</md5>
+    <crc32>5e48e793</crc32>
+    <sha1>e96799a6f3159ca461b2aeef7c5fe14e160f6c9b</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000049.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701992</mtime>
+    <size>46310</size>
+    <md5>431e6fa0dbc24d6838e6b75b8204ff51</md5>
+    <crc32>cae03dd4</crc32>
+    <sha1>52ae12a2f7f6369d8d02bc3e22f6f7273842c1a9</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701993</mtime>
+    <size>45715</size>
+    <md5>6bfb3f542923222f13199ef9de6c4eeb</md5>
+    <crc32>730f2a44</crc32>
+    <sha1>d89246642f914234509135274a71a73725a1b51f</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000059.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701996</mtime>
+    <size>46075</size>
+    <md5>768511cc1339346c2997ee090d13d96b</md5>
+    <crc32>baa471fa</crc32>
+    <sha1>4ace3e69511ad010860bab599b7b7d694179d197</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694701997</mtime>
+    <size>34493</size>
+    <md5>a4e7629f24c92617d2df3af2fb31ef74</md5>
+    <crc32>2f9971d4</crc32>
+    <sha1>91edc47e51a654d394367c6d4aba3a902b491486</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000071.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694702000</mtime>
+    <size>31904</size>
+    <md5>1e36e17dc0de3707267489c39aacbdda</md5>
+    <crc32>c38e1b2e</crc32>
+    <sha1>b934c6b7a41e50ac205aafac6100da58f1e7375e</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694702001</mtime>
+    <size>38619</size>
+    <md5>99b5aad63ef685d908024c86bbe583c8</md5>
+    <crc32>ae2164bc</crc32>
+    <sha1>8fc1b464d1c8953b0338df6b3bf49e6ede3f3846</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000081.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694702003</mtime>
+    <size>34708</size>
+    <md5>1b2bf25c39dce5ee1c547f5496b4ba66</md5>
+    <crc32>7a88badf</crc32>
+    <sha1>6790fef12f0e7e119c40d349333c3b7b14ef148f</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000089.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694702006</mtime>
+    <size>38052</size>
+    <md5>e840b8b7ce0126e7d1d735cce61198fc</md5>
+    <crc32>52696499</crc32>
+    <sha1>e919095d7b2939846bea227b82c331c5d50b51ac</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694702007</mtime>
+    <size>5234</size>
+    <md5>8ce6ec9d0f8ca2e420601b7095e33b79</md5>
+    <crc32>1f900b93</crc32>
+    <sha1>a7ebf778ae2b681fe6f8675c1e50f2b030cb0b42</sha1>
+  </file>
+  <file name="doukou-green-and-red.thumbs/Doukou. Green and Red 800p_000099.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Green and Red 800p.mp4</original>
+    <mtime>1694702011</mtime>
+    <size>3507</size>
+    <md5>0188961e909ec975d97469cf73ff7e30</md5>
+    <crc32>96cd567c</crc32>
+    <sha1>223acc5fdd22596e7ddc4ccd306a0dab75e1fde9</sha1>
+  </file>
+  <file name="doukou-green-and-red_archive.torrent" source="metadata">
+    <btih>46e72f7551c962bca483347d04a344a2e5252b9a</btih>
+    <mtime>1737745854</mtime>
+    <size>11102</size>
+    <md5>073df8aa11789e28b204d1c10abd0042</md5>
+    <crc32>2d756802</crc32>
+    <sha1>2fbc36ef92c207ec0a17c000e4360cf6e3965d2c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-green-and-red_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d0a895ae18f0072598fc324e3ac5b85f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-green-and-red_meta.sqlite" source="original">
+    <mtime>1716541643</mtime>
+    <size>32768</size>
+    <md5>5bb1450cddf5879bf874ade76a0b5e3e</md5>
+    <crc32>be7ed1ab</crc32>
+    <sha1>a0bd5747154c2fbe1ed29418d76de53497970312</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-green-and-red_meta.xml" source="original">
+    <mtime>1737745851</mtime>
+    <size>2308</size>
+    <md5>3e051676cbbbf02de40ce0b73cb6d058</md5>
+    <crc32>ac163c0c</crc32>
+    <sha1>75b190a0bf9f408908d254d06a769e7502912973</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
