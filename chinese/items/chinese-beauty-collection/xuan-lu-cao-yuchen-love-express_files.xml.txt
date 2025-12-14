@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620364</mtime>
+    <size>109941663</size>
+    <md5>0b1e448537388fee5a95d241a354053d</md5>
+    <crc32>2c4f6e3e</crc32>
+    <sha1>c283306075cac27e4c75086a53031e6afb29a75d</sha1>
+    <length>295.36</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4" source="original">
+    <mtime>1704620280</mtime>
+    <size>109941663</size>
+    <md5>c28cb206255d0d346666572b452a8389</md5>
+    <crc32>9f5ef4be</crc32>
+    <sha1>a90d4be048257f1d9635a4653d52e3bac0b8cba2</sha1>
+    <format>MPEG4</format>
+    <length>295.36</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.srt" source="original">
+    <mtime>1720710327</mtime>
+    <size>4090</size>
+    <md5>698919aa72ffd3e82ec75b0e4b119987</md5>
+    <crc32>cb232fb8</crc32>
+    <sha1>5dd5007b75a4b884024f32aac6d25e037defec3c</sha1>
+    <format>SubRip</format>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Audio 192k.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express. Audio 192k.mp3</original>
+    <mtime>1704622358</mtime>
+    <size>50608</size>
+    <md5>1656983e438793facba6d246d73ddbef</md5>
+    <crc32>e318cd51</crc32>
+    <sha1>701a204d9bee995b65474fb857c19c4adc8ae50e</sha1>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Audio 192k.mp3" source="original">
+    <mtime>1704622165</mtime>
+    <size>6880940</size>
+    <md5>75193819cf48d504a235de4a85dacbce</md5>
+    <crc32>fc0d853a</crc32>
+    <sha1>51e270a9cc902bb115b53218f1628cde70e0e0f4</sha1>
+    <format>VBR MP3</format>
+    <length>286.68</length>
+    <track>01</track>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Audio 192k.png" source="derivative">
+    <format>PNG</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express. Audio 192k.mp3</original>
+    <mtime>1704622221</mtime>
+    <size>42338</size>
+    <md5>7d1275788e5734d6ab2de8e4d2067430</md5>
+    <crc32>97b1347d</crc32>
+    <sha1>627b3b031bf9849fdbefc448658e36b6a8d3a55b</sha1>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Audio 192k_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express. Audio 192k.mp3</original>
+    <mtime>1704622249</mtime>
+    <size>324220</size>
+    <md5>9363bb509cbadb38448925168ee0643f</md5>
+    <crc32>e1400d1e</crc32>
+    <sha1>6cbc7e38653d6dfc7ba9668cd3689c927977b6a4</sha1>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Audio 720x720.jpg" source="original">
+    <mtime>1704622169</mtime>
+    <size>189888</size>
+    <md5>2f2c76714d2e519e86c9e47127908afb</md5>
+    <crc32>d0dc4374</crc32>
+    <sha1>4373f0cefb0a0938cbe5d7e53c6a3c3936724af4</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Audio 720x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express. Audio 720x720.jpg</original>
+    <mtime>1704622198</mtime>
+    <size>9905</size>
+    <md5>55a74c814ed046ca272b0fcbfe73b186</md5>
+    <crc32>ea3d3b8a</crc32>
+    <sha1>350fa8b77775857c92b5ac46c1490c99f19a4e1c</sha1>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Cover A 1752x1095.png" source="original">
+    <mtime>1716731015</mtime>
+    <size>2270010</size>
+    <md5>2ae3605d2b96a894c70c290219c33438</md5>
+    <crc32>dfd4b937</crc32>
+    <sha1>1bcfa42e5bb0222672810835491b7ac26716c041</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Cover A 1752x1095_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express. Cover A 1752x1095.png</original>
+    <mtime>1716731208</mtime>
+    <size>8190</size>
+    <md5>ac90c7d5faf1498bff0a5a5d070de193</md5>
+    <crc32>34544d12</crc32>
+    <sha1>ef7b2f823ed4322914f4fb7efb426776fc1d16d7</sha1>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Cover A 1799x1125.jpg" source="original">
+    <mtime>1704620297</mtime>
+    <size>476661</size>
+    <md5>64e2f463a54d378f088fdb3a21bef6c9</md5>
+    <crc32>0779eafc</crc32>
+    <sha1>968338d65c26711e6958104bfc72d52556d30161</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Cover A 1799x1125_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express. Cover A 1799x1125.jpg</original>
+    <mtime>1704620376</mtime>
+    <size>8548</size>
+    <md5>8dd53f709c896c1284a35e1306f53a65</md5>
+    <crc32>ea496f8b</crc32>
+    <sha1>1aa68b03cf2e17ea60b7cd85858b91bb86c7561e</sha1>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Cover B 1728x1080.jpg" source="original">
+    <mtime>1704620301</mtime>
+    <size>253452</size>
+    <md5>34ea57399f8e7c05f2a9da0aa8cae44f</md5>
+    <crc32>76fa37df</crc32>
+    <sha1>cc089747056b81279678428a12434b95458e814b</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Xuan Lu x Cao Yuchen. Love Express. Cover B 1728x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express. Cover B 1728x1080.jpg</original>
+    <mtime>1704620377</mtime>
+    <size>8718</size>
+    <md5>008bce6b1083ce3c21c9c27f951e8f7e</md5>
+    <crc32>e3032a05</crc32>
+    <sha1>28472085806fcb85d2aa9aacae6b9e09e486975c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716731675</mtime>
+    <size>13740</size>
+    <md5>49e2cee9ab16cffe845d797cfde1fa7a</md5>
+    <crc32>38a01aea</crc32>
+    <sha1>bf651b921738d49867455ead4dd414019a8d3164</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620328</mtime>
+    <size>25685</size>
+    <md5>55d7398344113f181fff5faab4a178fb</md5>
+    <crc32>eaf8e848</crc32>
+    <sha1>55008834db279405d65059c14b1a5ee01e60460e</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620330</mtime>
+    <size>45586</size>
+    <md5>1cb1c3ec18e319b5e1eb2f4500b16cbe</md5>
+    <crc32>f5a17727</crc32>
+    <sha1>5037b96c93a67d47a69418003b23023429261b4a</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620333</mtime>
+    <size>47422</size>
+    <md5>fc6df7c162fb3965f9d39e96931ed53d</md5>
+    <crc32>51a7e845</crc32>
+    <sha1>ae00abed3749d4d2614eea76f29eabb105a9f7e4</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620336</mtime>
+    <size>51095</size>
+    <md5>09b453b53a39454450fbd72742021a17</md5>
+    <crc32>6369b865</crc32>
+    <sha1>d8ca6931244fbcb544789f63acb39fa9928c5d15</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000148.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620338</mtime>
+    <size>41296</size>
+    <md5>7a51c672f082d8d4d8268262516429b9</md5>
+    <crc32>bc790e2c</crc32>
+    <sha1>f6c9b6a78b11b6be784bf7535feedb18b1afce1f</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000178.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620341</mtime>
+    <size>16454</size>
+    <md5>ff599f729be452937b497440f8ce8eee</md5>
+    <crc32>a3979cd8</crc32>
+    <sha1>367f5efd172d0eb92ab967be961aa0e6843d3ab6</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000207.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620343</mtime>
+    <size>113964</size>
+    <md5>1d504fdfcd40f07d1692ef0597e45140</md5>
+    <crc32>7c5f27a9</crc32>
+    <sha1>12feda49260d95e3f89bb430b4f4a3a1f3ecee49</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000237.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620346</mtime>
+    <size>38255</size>
+    <md5>87bae97c074c24ca49f7a5371e14a08f</md5>
+    <crc32>15f34496</crc32>
+    <sha1>32a8c40b7eaf5a1ed653fa0205dd5dd66de89259</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000271.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620348</mtime>
+    <size>32434</size>
+    <md5>a3292548cc89e2076c0a9ee285f4a053</md5>
+    <crc32>5fde12a3</crc32>
+    <sha1>69c6bb57f94fa63fee3c1d95ff3ae100a342ba13</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express.thumbs/Xuan Lu x Cao Yuchen. Love Express 1080p 25fps_000291.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Xuan Lu x Cao Yuchen. Love Express 1080p 25fps.mp4</original>
+    <mtime>1704620350</mtime>
+    <size>55772</size>
+    <md5>d8a7da10954fccd5eb63dbb080d9126a</md5>
+    <crc32>6946ca12</crc32>
+    <sha1>6dd318162be70569fa4e243e200b9dd1f3da3668</sha1>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express_archive.torrent" source="metadata">
+    <btih>55ea7deee553cbffd2d165588ac3e972e93a6637</btih>
+    <mtime>1720710336</mtime>
+    <size>13758</size>
+    <md5>888bcfb6e6c43d38a49cc71adaadc644</md5>
+    <crc32>02043a13</crc32>
+    <sha1>16eee444ac0077573bf511fb62363601998afdda</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>acb6caf1b8267607231b96530b5b5115</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express_meta.sqlite" source="original">
+    <mtime>1720710331</mtime>
+    <size>40960</size>
+    <md5>c48cf9c5b4fb71359f39059d8f25d0f9</md5>
+    <crc32>20d30603</crc32>
+    <sha1>a1a13d265c2caf26d9bbe8a9167b4ae7cd7134a2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="xuan-lu-cao-yuchen-love-express_meta.xml" source="original">
+    <mtime>1716731656</mtime>
+    <size>2208</size>
+    <md5>a26ffc20f20f0ef3b227be5d83761742</md5>
+    <crc32>26c9d82e</crc32>
+    <sha1>9fc4d0f3a9681f31e73b0dfb068fa033b87516ad</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

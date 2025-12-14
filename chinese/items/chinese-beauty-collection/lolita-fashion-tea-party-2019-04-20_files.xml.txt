@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791365</mtime>
+    <size>137408449</size>
+    <md5>d0dc49bc84233653198e3580dc1b7a16</md5>
+    <crc32>296f921e</crc32>
+    <sha1>08879b87d728c873f376dad8888d162ee21ea2bd</sha1>
+    <length>200.81</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4" source="original">
+    <mtime>1704790730</mtime>
+    <size>137408449</size>
+    <md5>f38f136dd2c31bfe5f7adc682b59ad61</md5>
+    <crc32>36e5ced2</crc32>
+    <sha1>c7e5fe67dab375e2c15af2eeb18b336343d20d0c</sha1>
+    <format>MPEG4</format>
+    <length>200.81</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 A 1280x720.jpg" source="original">
+    <mtime>1704790896</mtime>
+    <size>154844</size>
+    <md5>6c4a2cca7854b46dcfcf9f4d8344f961</md5>
+    <crc32>4be9578f</crc32>
+    <sha1>5e4aed7bcb0ec73e9a4fd84c2825b5c16b157d14</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 A 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1280x720.jpg</original>
+    <mtime>1704791430</mtime>
+    <size>8435</size>
+    <md5>e74e14a32cccaa2a168f71d7a8a4f386</md5>
+    <crc32>be5554fa</crc32>
+    <sha1>9eb4869910c8e9be3ee5a943e1893ea4ddbe70db</sha1>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 B 00m03s 1600x1000.png" source="original">
+    <mtime>1713932730</mtime>
+    <size>1755019</size>
+    <md5>6d694651f520f330a33a0b009abab405</md5>
+    <crc32>e2ccd348</crc32>
+    <sha1>7d11049fe03e86216d90987e134c1506e9ce063a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 B 00m03s 1600x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 00m03s 1600x1000.png</original>
+    <mtime>1713932887</mtime>
+    <size>8639</size>
+    <md5>cc27abc7c40641552ce8b8ae6dbed990</md5>
+    <crc32>d5419ef3</crc32>
+    <sha1>5b0ffa8530b4c937ccd84adc423025c985273140</sha1>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794828</mtime>
+    <size>541419070</size>
+    <md5>e30ec5c064f39b5552f7bd048c70e349</md5>
+    <crc32>09e12434</crc32>
+    <sha1>5de51d2f5747ed25b190aa0323904edfc0cea764</sha1>
+    <length>823.5</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4" source="original">
+    <mtime>1704793453</mtime>
+    <size>541419070</size>
+    <md5>d3409487bab00ea1edbcbbb55a271201</md5>
+    <crc32>a1bede15</crc32>
+    <sha1>1ff75ec2f29aceb5dfcd0c1aae19f701564adc3d</sha1>
+    <format>MPEG4</format>
+    <length>823.5</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 B 1280x720.jpg" source="original">
+    <mtime>1704791808</mtime>
+    <size>112472</size>
+    <md5>1fc61d2ce3c729a31be35d50d1ae3c7b</md5>
+    <crc32>efa0d8ee</crc32>
+    <sha1>a9ddc62295056bb7ac969e910ae054521681e8aa</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Lolita Fashion Tea Party 2019-04-20 B 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1280x720.jpg</original>
+    <mtime>1704791871</mtime>
+    <size>7032</size>
+    <md5>a4f7550ca740bf8b1312d4e51430cec0</md5>
+    <crc32>7f167626</crc32>
+    <sha1>c493632f18e99d66f5d6fb146d9976bd22a82309</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1713935109</mtime>
+    <size>13791</size>
+    <md5>763bd82aa48a5e780f412f027a35f3fc</md5>
+    <crc32>4bc82bfc</crc32>
+    <sha1>eae79e6c0bba71c0f042e27a0392c188703565f3</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791116</mtime>
+    <size>36272</size>
+    <md5>221bb57807f4a55d81339cbcfdfd86fe</md5>
+    <crc32>4de4733f</crc32>
+    <sha1>e38f13c809f7051d28cde4097efb617973b2eb05</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791139</mtime>
+    <size>70288</size>
+    <md5>6e273fbda3c4068778cc05f49924aa91</md5>
+    <crc32>c16af60d</crc32>
+    <sha1>160a7463d8db2ecf0f62a595700052cf2120d8b1</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791159</mtime>
+    <size>70835</size>
+    <md5>a5bb80eb70b5c946de5f8961d06f15a3</md5>
+    <crc32>b2ee1de5</crc32>
+    <sha1>be05d984c7c2736f3f42117a7c9aa2f71c48428e</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791183</mtime>
+    <size>71601</size>
+    <md5>3e196b99f743d0d633d3e71f69da8e07</md5>
+    <crc32>13ac3ba2</crc32>
+    <sha1>fccc6fd4e5d36d6495c13c4f886cedd5e894d518</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791208</mtime>
+    <size>73268</size>
+    <md5>ad2e4b099960a9d3139d41c6d55e634e</md5>
+    <crc32>cc7e5d2c</crc32>
+    <sha1>4a6029d03d84ccc4d4785dfb10850c03e7f88eb2</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps_000177.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791234</mtime>
+    <size>62493</size>
+    <md5>ed64a20593ad70c92ae1888559c96fb0</md5>
+    <crc32>95187cc2</crc32>
+    <sha1>6c13231e2185d2ac800197a840efc8769d0a1c87</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps_000200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 A 1080p 60fps.mp4</original>
+    <mtime>1704791252</mtime>
+    <size>41728</size>
+    <md5>2bd344834fe8611e094157bf9752de7c</md5>
+    <crc32>fc89ce79</crc32>
+    <sha1>62d5e6b8fdd2b2ae1179fa80cb2c51c1b2e793c1</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794105</mtime>
+    <size>38853</size>
+    <md5>8992363897d4cba07ec72337bde4b509</md5>
+    <crc32>e268eaed</crc32>
+    <sha1>30ed6b656a7f343e0b1bc3e6487ba616a52c0082</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794112</mtime>
+    <size>19470</size>
+    <md5>d2842c30aa43909963a47d8bd99b9c3a</md5>
+    <crc32>818fe904</crc32>
+    <sha1>3598030b55cce7d6507dc746aae6149ade19172d</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794119</mtime>
+    <size>75332</size>
+    <md5>51f460eeb086b7034cfacb20e4829745</md5>
+    <crc32>44843462</crc32>
+    <sha1>a122b59d42e541224c7d276b26b35b3425831918</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000121.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794125</mtime>
+    <size>77018</size>
+    <md5>56938cad61fa1633422b10a98739cd53</md5>
+    <crc32>423017e9</crc32>
+    <sha1>5aeb0c7e3e95e39396389300837e1bf9c7e675a3</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794132</mtime>
+    <size>87308</size>
+    <md5>28d361508f1b8256aaf842b3e260c23f</md5>
+    <crc32>9b3bce8c</crc32>
+    <sha1>49e07dba02ae9d752d30e726013284e1cd1e80f1</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000177.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794138</mtime>
+    <size>80742</size>
+    <md5>e3bfd7c9f9673de0e2d797ef755af1cf</md5>
+    <crc32>6971bc6a</crc32>
+    <sha1>1515aeeadd5c67b639937ee31757a8eac33eaa3e</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000207.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794145</mtime>
+    <size>89845</size>
+    <md5>bfa7ca079c77555563a56a9f534a831d</md5>
+    <crc32>79f87fcc</crc32>
+    <sha1>ba46efcc819739703ce73a16ed8f66588bd44ff9</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000238.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794151</mtime>
+    <size>87996</size>
+    <md5>72a6bdee2ca63b0ada911c8992c74b29</md5>
+    <crc32>9b0b6df5</crc32>
+    <sha1>dab692fceef893ee8402c26a9a79df2fac5d4860</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000267.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794158</mtime>
+    <size>78995</size>
+    <md5>955cd226d0b5c1243e5fe4d426b04009</md5>
+    <crc32>cad2b97c</crc32>
+    <sha1>4736ea147e31e1ce641024dfc00536043de12551</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000299.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794166</mtime>
+    <size>15887</size>
+    <md5>9a4370c4b6cf60ddb2803c173288f60d</md5>
+    <crc32>4fde784d</crc32>
+    <sha1>488d8458f333422d502751cddcebe70c8f23a3bc</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000329.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794173</mtime>
+    <size>86916</size>
+    <md5>39494fa9c6294190618b544a1518e3a0</md5>
+    <crc32>6fecbede</crc32>
+    <sha1>5cca0c296513617167262eb72cb48c0e2f7dc79c</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794180</mtime>
+    <size>75213</size>
+    <md5>bdb6e2ebd59f7ffc331387971d10808a</md5>
+    <crc32>7e7aef77</crc32>
+    <sha1>81c368152d97b2157d3c18bd05a831d034a6a438</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794186</mtime>
+    <size>69743</size>
+    <md5>35d47526fb250f17aa6d0fe8b2c2ec34</md5>
+    <crc32>218ce764</crc32>
+    <sha1>0dcee6b1dd2907152170dd7038a8da19ce8a890c</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794194</mtime>
+    <size>88659</size>
+    <md5>b8f3c2ebf86aa3379d90ca2d507dd80b</md5>
+    <crc32>1693994e</crc32>
+    <sha1>8eba19cda8673ca99daab4cd8fa16acb7232e221</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000451.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794201</mtime>
+    <size>87721</size>
+    <md5>082613a987a9bdd9525fa4cdc8713cf7</md5>
+    <crc32>bce555f5</crc32>
+    <sha1>c52e6deecdde7870dff0612e050a6ea60598c771</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000481.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794207</mtime>
+    <size>83517</size>
+    <md5>77fc7536c08b7d279bf112f71d7d8177</md5>
+    <crc32>63bd2621</crc32>
+    <sha1>2a13e81202b367bbf78fa480d2be59310166defb</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000507.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794213</mtime>
+    <size>82665</size>
+    <md5>779b6c4efedf79cf878fdf6cb2b3078c</md5>
+    <crc32>463fb675</crc32>
+    <sha1>95ab0c23d9cc7b03cca0e897127ecc2a36d1cfd1</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000537.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794220</mtime>
+    <size>81179</size>
+    <md5>0f9e08b3962b30c4cb10009711810544</md5>
+    <crc32>d4b717f7</crc32>
+    <sha1>28e9ab818cd829e4000c41c5ad20f119889aebfc</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000568.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794226</mtime>
+    <size>82910</size>
+    <md5>6452a5a702bbbddaeba51ccd754edc4e</md5>
+    <crc32>3cfffe4c</crc32>
+    <sha1>4f99ab2f453fdfe9fad7dc3a49ded31b8a08f80f</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000598.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794233</mtime>
+    <size>85110</size>
+    <md5>24aecd2b4bc1aaccba51f63cdbe35d69</md5>
+    <crc32>c0d5a0e1</crc32>
+    <sha1>f22008254ae3d968f939a56d938f655fb441d9bb</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000628.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794240</mtime>
+    <size>77049</size>
+    <md5>e4bb58270fa8ab10e0354e9cb8ff213d</md5>
+    <crc32>b6de8bb3</crc32>
+    <sha1>e2f47d23238fe3670c8f3e803a6be2d66924b075</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000659.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794248</mtime>
+    <size>82070</size>
+    <md5>112918f6881eba85aba723667ec5b3c6</md5>
+    <crc32>b9801626</crc32>
+    <sha1>2863d8fdb03cca378be146ce382da0d89c0f59e2</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000687.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794254</mtime>
+    <size>86991</size>
+    <md5>f2778430dc18d539db25a36528724525</md5>
+    <crc32>98c3b6bd</crc32>
+    <sha1>895fb726b9e1dd933a9df26b9b1102c99fa85d52</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000718.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794265</mtime>
+    <size>78373</size>
+    <md5>8d61857c0c0d6efa7c1524cd95f41f17</md5>
+    <crc32>70ec36b1</crc32>
+    <sha1>b734de95318be6ad5244bda62b39d550e524cc8a</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000748.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794272</mtime>
+    <size>44155</size>
+    <md5>0d502ee8a1049a8212cf89188ce77e80</md5>
+    <crc32>ed45ff23</crc32>
+    <sha1>de17244df2946e20740b66cdc11ab22e831f72a6</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000778.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794278</mtime>
+    <size>2712</size>
+    <md5>490cb0ab2339d15046aa75f5296405b4</md5>
+    <crc32>dd781073</crc32>
+    <sha1>70d9fe1093d5865e5b6336acd43d8e5e2a20aa3c</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000811.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794286</mtime>
+    <size>75739</size>
+    <md5>320ba0fc69a300341c471a72bf376ffd</md5>
+    <crc32>3498ff0b</crc32>
+    <sha1>0e3a8623142be149a8afd6be5ccbd922de0aeab8</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20.thumbs/Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps_000822.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2019-04-20 B 1080p 60fps.mp4</original>
+    <mtime>1704794288</mtime>
+    <size>46376</size>
+    <md5>2734939789dfab8c5f9243dd6f73a714</md5>
+    <crc32>a8773f9a</crc32>
+    <sha1>ccf53686e3963e130f1fa3fa5fff54050611562a</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20_archive.torrent" source="metadata">
+    <btih>e8e301dbee5aca204cc3c21bbf5d28795b4425c5</btih>
+    <mtime>1737180213</mtime>
+    <size>29888</size>
+    <md5>31f561f9d2c2f1c51e4b5d78803c316c</md5>
+    <crc32>38e53294</crc32>
+    <sha1>c88cf51cc9a7628b024e8ba94c83ce707ed7b4e7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d0b8c657b64cec0313a8c4b2527c1e29</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20_meta.sqlite" source="original">
+    <mtime>1713932734</mtime>
+    <size>49152</size>
+    <md5>adb5345cd1adb50e54500711c2a64002</md5>
+    <crc32>70ba8290</crc32>
+    <sha1>7b8fe4083f08c3c269da38790faa17c28b9a6470</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="lolita-fashion-tea-party-2019-04-20_meta.xml" source="original">
+    <mtime>1737180206</mtime>
+    <size>4681</size>
+    <md5>50de730134a5289ca4a86c7df8b5e0ca</md5>
+    <crc32>1c3f7266</crc32>
+    <sha1>421a81ff19299c434fe7e5f1132672daa848ec97</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

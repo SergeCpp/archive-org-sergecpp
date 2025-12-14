@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Dream of Mountains and Seas 1080p.mp4" source="original">
+    <mtime>1704132458</mtime>
+    <size>80001472</size>
+    <md5>23b4a3c91297f92eb6d9f5ee1b8699ba</md5>
+    <crc32>55c72a97</crc32>
+    <sha1>c4ba57e200c5a6e36c20d08ee43d990419287479</sha1>
+    <format>MPEG4</format>
+    <length>188.01</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Dream of Mountains and Seas 2872x1795.png" source="original">
+    <mtime>1716474665</mtime>
+    <size>6060517</size>
+    <md5>e76f9540de8d0239ab11217d17a1638c</md5>
+    <crc32>5a592809</crc32>
+    <sha1>b4989ba2639120e695051867bff8329d106a5bf0</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Dream of Mountains and Seas 2872x1795_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Dream of Mountains and Seas 2872x1795.png</original>
+    <mtime>1716475297</mtime>
+    <size>8375</size>
+    <md5>dc493a041bdc2f89ee15f7276eee85f9</md5>
+    <crc32>d453bf2f</crc32>
+    <sha1>65b803e3ee0f76cd1b62cf7c89785ccba02c1993</sha1>
+  </file>
+  <file name="Doukou. Dream of Mountains and Seas 2873x1795.jpg" source="original">
+    <mtime>1704132482</mtime>
+    <size>1132054</size>
+    <md5>a185592fd26c173543946d10fd0b399e</md5>
+    <crc32>e1205a97</crc32>
+    <sha1>b31a6b86d79b8ad1deaa376f5bd790ec1b5dfd64</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Doukou. Dream of Mountains and Seas 2873x1795_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Dream of Mountains and Seas 2873x1795.jpg</original>
+    <mtime>1704132806</mtime>
+    <size>8782</size>
+    <md5>e998ab448723ef18bfef72de185a31df</md5>
+    <crc32>f7c2d0f6</crc32>
+    <sha1>47bbabefb8ac4614431243505b2a883c38a7a115</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716477046</mtime>
+    <size>13049</size>
+    <md5>4a86201e934168c330e20c10bbf0594a</md5>
+    <crc32>c6b7e919</crc32>
+    <sha1>92f6c2fd6e014673815d49f8e3c679036ce7ddf4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas.thumbs/Doukou. Dream of Mountains and Seas 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Mountains and Seas 1080p.mp4</original>
+    <mtime>1704132506</mtime>
+    <size>13418</size>
+    <md5>21010d90ad4d908a9bb9497e21655eb9</md5>
+    <crc32>4ba61f81</crc32>
+    <sha1>2e45e5e640a2f1cd285271e2dfa27997cca96b7f</sha1>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas.thumbs/Doukou. Dream of Mountains and Seas 1080p_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Mountains and Seas 1080p.mp4</original>
+    <mtime>1704132510</mtime>
+    <size>44776</size>
+    <md5>88cf9182ce8ebbe0c3e8231837696b24</md5>
+    <crc32>9f3d0a05</crc32>
+    <sha1>83520ac6a4ead39b9eca0fde3fc57b7a73ff198f</sha1>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas.thumbs/Doukou. Dream of Mountains and Seas 1080p_000089.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Mountains and Seas 1080p.mp4</original>
+    <mtime>1704132515</mtime>
+    <size>95317</size>
+    <md5>2dde3a10a97d59fa8a40b94ccd2581d7</md5>
+    <crc32>8d1dc421</crc32>
+    <sha1>2ebc25686c6cd169ff977fb734771af14b52a56a</sha1>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas.thumbs/Doukou. Dream of Mountains and Seas 1080p_000119.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Mountains and Seas 1080p.mp4</original>
+    <mtime>1704132518</mtime>
+    <size>53213</size>
+    <md5>45f64eb0baa928f25387503a3f11b10c</md5>
+    <crc32>4f1780df</crc32>
+    <sha1>04ee6ec57d03ab26812cd77c288206ccb5fe43c0</sha1>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas.thumbs/Doukou. Dream of Mountains and Seas 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Mountains and Seas 1080p.mp4</original>
+    <mtime>1704132522</mtime>
+    <size>49879</size>
+    <md5>bbf214813426248e2bb0c859ac96ae86</md5>
+    <crc32>921413f0</crc32>
+    <sha1>3a21e990072d4ed99a40c591b501cf441ba78803</sha1>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas.thumbs/Doukou. Dream of Mountains and Seas 1080p_000181.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Mountains and Seas 1080p.mp4</original>
+    <mtime>1704132527</mtime>
+    <size>7643</size>
+    <md5>7d42d602a37b80820e740f0379ba90fe</md5>
+    <crc32>17d2193b</crc32>
+    <sha1>34eb2383e1d997979d20bfa5f59dbacedc74d083</sha1>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas_archive.torrent" source="metadata">
+    <btih>315772e6702bcefde94aa80e995ecd9c9e982d42</btih>
+    <mtime>1716477047</mtime>
+    <size>6194</size>
+    <md5>1d884a261ab4dd0f6641178e5bb089d7</md5>
+    <crc32>ed43506a</crc32>
+    <sha1>d3b98d233b68dd683741d2291f13e1e043af72d3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9d17f549af6bda6b7c27dbbd8569c789</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas_meta.sqlite" source="original">
+    <mtime>1716474678</mtime>
+    <size>32768</size>
+    <md5>3b820cf177f6937f7ddf06570655b09b</md5>
+    <crc32>3470faf4</crc32>
+    <sha1>3117398d1a660941e406ff4fc7262f3f6904675d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-dream-of-mountains-and-seas_meta.xml" source="original">
+    <mtime>1716477012</mtime>
+    <size>2642</size>
+    <md5>4a02745dadc60f434e7fbe4c4d8d4fab</md5>
+    <crc32>262528bc</crc32>
+    <sha1>11ee365b8d885a1bf91147f92d9fb0d26a44bb70</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

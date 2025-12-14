@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Yun Xin. Rain Breaks Jiangnan 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705222015</mtime>
+    <size>76233751</size>
+    <md5>940220751a4e9553066e2d5ffc44b3b9</md5>
+    <crc32>173793eb</crc32>
+    <sha1>de7873a3f11acc848c5acceeceddcb315008fbd2</sha1>
+    <length>269.21</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Yun Xin. Rain Breaks Jiangnan 1080p.mp4" source="original">
+    <mtime>1705221568</mtime>
+    <size>76233751</size>
+    <md5>cb537cff1c86c0b229be42784ee767c9</md5>
+    <crc32>a2e099e6</crc32>
+    <sha1>ce1457daa6aa7230d4ae86ece40b52310fa8235b</sha1>
+    <format>MPEG4</format>
+    <length>269.21</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Yun Xin. Rain Breaks Jiangnan. Bilibili 680x425.png" source="original">
+    <mtime>1716878172</mtime>
+    <size>569753</size>
+    <md5>fdc16e8d61ec83442831299ebd2e35b4</md5>
+    <crc32>665ba81a</crc32>
+    <sha1>68bf673cb781edbf655970c46bdc4ff428ecf717</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Yun Xin. Rain Breaks Jiangnan. Bilibili 680x425_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yun Xin. Rain Breaks Jiangnan. Bilibili 680x425.png</original>
+    <mtime>1716878309</mtime>
+    <size>7896</size>
+    <md5>1e9cba622bc2ce966350d5ae06100b44</md5>
+    <crc32>2d4c92e3</crc32>
+    <sha1>60b5979a2403a85567371be85536c6d130e4db35</sha1>
+  </file>
+  <file name="Yun Xin. Rain Breaks Jiangnan. Bilibili 696x435.jpg" source="original">
+    <mtime>1705221592</mtime>
+    <size>381355</size>
+    <md5>226d4a3a5e39693320755346d4822846</md5>
+    <crc32>b28b4d78</crc32>
+    <sha1>5cab0413d705550fa5a39ead5e9d4d28c65177ce</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Yun Xin. Rain Breaks Jiangnan. Bilibili 696x435_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yun Xin. Rain Breaks Jiangnan. Bilibili 696x435.jpg</original>
+    <mtime>1705222084</mtime>
+    <size>8273</size>
+    <md5>c101a8b3231a15eb4d42066b5bd606ac</md5>
+    <crc32>1f84e220</crc32>
+    <sha1>f563d3a25ee7a1de2c9c10eb2f9b2f74882193e1</sha1>
+  </file>
+  <file name="Yun Xin. Rain Breaks Jiangnan. YouTube 640x357.jpg" source="original">
+    <mtime>1705221585</mtime>
+    <size>134778</size>
+    <md5>31ca3fccc4631ed4e17f2a939e73b85f</md5>
+    <crc32>641e7427</crc32>
+    <sha1>55483918bbbb42c0a7d0062d6590fec39c40d0fe</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Yun Xin. Rain Breaks Jiangnan. YouTube 640x357_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Yun Xin. Rain Breaks Jiangnan. YouTube 640x357.jpg</original>
+    <mtime>1705222089</mtime>
+    <size>7472</size>
+    <md5>6ee69bd8e35541a2f681c1c4e244672a</md5>
+    <crc32>ff9255d4</crc32>
+    <sha1>c98abfe71739e04d31379070754f77002f38324c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716878904</mtime>
+    <size>13383</size>
+    <md5>db9acb01710989e884bac37c88da9bf1</md5>
+    <crc32>f7fb0386</crc32>
+    <sha1>2ab08224adb99b33ae177dfebea4996b42c0fdbd</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221749</mtime>
+    <size>45173</size>
+    <md5>a0caabed218afffa1901830f0ec9ff65</md5>
+    <crc32>ce775ad7</crc32>
+    <sha1>5eda4a988f36ad1a2dccb38d2a469dae4c6bd686</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221761</mtime>
+    <size>44824</size>
+    <md5>966026fb792a0b0befb350a6fd1523a5</md5>
+    <crc32>6681039a</crc32>
+    <sha1>26b536bace65041f7078a57700effacf431344f3</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221775</mtime>
+    <size>69337</size>
+    <md5>1bbd7eb7fd18778e970066fc3e3fda0a</md5>
+    <crc32>c3144101</crc32>
+    <sha1>0a9e107d427f016cae2ccaf60a684416d9a88b36</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221789</mtime>
+    <size>68680</size>
+    <md5>ef37a7bc001fd7ba117bee4266f22e8f</md5>
+    <crc32>277ded84</crc32>
+    <sha1>11eece767725616c4c8212249bedb886d5aae8aa</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221803</mtime>
+    <size>67893</size>
+    <md5>a0f006d5005ccda062b6267546f6ff17</md5>
+    <crc32>710b3b0b</crc32>
+    <sha1>c9dd3ec7eb35b8c386576fd4c02596e8736f6485</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000181.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221824</mtime>
+    <size>67874</size>
+    <md5>fb51d6795d307352f7a200755d24e685</md5>
+    <crc32>48b5a871</crc32>
+    <sha1>ffcbb0045ef42dd3e4150e91e9ddb0661dab47a5</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221838</mtime>
+    <size>68297</size>
+    <md5>6e8cde609b9777ba5958854580b5b5f4</md5>
+    <crc32>a82490a8</crc32>
+    <sha1>d8340ab02321dda504da8b94818fafe86cae5df6</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221871</mtime>
+    <size>68722</size>
+    <md5>07605c56490d55a497883bb3229133f9</md5>
+    <crc32>f6486671</crc32>
+    <sha1>c17628fcb958bde544c3058d705ed42248e4ebeb</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan.thumbs/Yun Xin. Rain Breaks Jiangnan 1080p_000266.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Yun Xin. Rain Breaks Jiangnan 1080p.mp4</original>
+    <mtime>1705221886</mtime>
+    <size>68437</size>
+    <md5>545316499e3b80e4e13bdfa5c8e6dbed</md5>
+    <crc32>f8b956e6</crc32>
+    <sha1>e846c486665349c15a2e5f7f0d6f43d56bb95f4a</sha1>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan_archive.torrent" source="metadata">
+    <btih>3f8347b270cf72f63229a5961f659e8c663f2aba</btih>
+    <mtime>1716878905</mtime>
+    <size>9293</size>
+    <md5>3a237e5faa267b7b4432d1e550847007</md5>
+    <crc32>2861c6ab</crc32>
+    <sha1>d5570480f5cefdda8f96cd012837c7e6a758acb9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>38b6557b50a84481e0d6f7dcd8061214</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan_meta.sqlite" source="original">
+    <mtime>1716878177</mtime>
+    <size>36864</size>
+    <md5>a96bd1e379b93800ee3daa3fc23ce09e</md5>
+    <crc32>189af132</crc32>
+    <sha1>9f9093185ccdeb46988f32c5acb05eaa0abc37e3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yun-xin-rain-breaks-jiangnan_meta.xml" source="original">
+    <mtime>1716878900</mtime>
+    <size>2327</size>
+    <md5>b0001c47e503725c4486f8a00e6e9294</md5>
+    <crc32>9beb78e9</crc32>
+    <sha1>3206c41278606d964fa0c3e8f7f69fdbec3ba16c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

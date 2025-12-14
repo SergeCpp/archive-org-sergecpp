@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Dream of Red Mansions 1160x725 Lv 250.png" source="original">
+    <mtime>1716475438</mtime>
+    <size>874532</size>
+    <md5>e90bfb11fa46971980dcba303d93b693</md5>
+    <crc32>546ab3e4</crc32>
+    <sha1>121fc57748bba3b52180b21a540221e3e8cf1406</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Dream of Red Mansions 1160x725 Lv 250_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Dream of Red Mansions 1160x725 Lv 250.png</original>
+    <mtime>1716475700</mtime>
+    <size>7799</size>
+    <md5>07b3b88d1b93f2f20e895cc26075fd9c</md5>
+    <crc32>9a158426</crc32>
+    <sha1>5c3b30eaf402330826deaed8fe890917752ef6d8</sha1>
+  </file>
+  <file name="Doukou. Dream of Red Mansions 1160x725.png" source="original">
+    <mtime>1716475442</mtime>
+    <size>846067</size>
+    <md5>2c0c79c34b14992a5c2546c38ce82202</md5>
+    <crc32>65506eee</crc32>
+    <sha1>cce3c3f22b286d17b1ef0c1a305fd8a775fe0475</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Doukou. Dream of Red Mansions 1160x725_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Dream of Red Mansions 1160x725.png</original>
+    <mtime>1716475703</mtime>
+    <size>7754</size>
+    <md5>e99a79d60cc21fd6eabf8ba5ba9daba9</md5>
+    <crc32>248daf53</crc32>
+    <sha1>743dc3f22149720e4ffa8d24f1fd18d9df090aca</sha1>
+  </file>
+  <file name="Doukou. Dream of Red Mansions 1165x728.jpg" source="original">
+    <mtime>1704168980</mtime>
+    <size>138234</size>
+    <md5>2fdc19654de6b87eb0cb983ba7fd498d</md5>
+    <crc32>a5a33287</crc32>
+    <sha1>7aefdcf36a568ca66c9fc0658901974a181f252d</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Doukou. Dream of Red Mansions 1165x728_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Dream of Red Mansions 1165x728.jpg</original>
+    <mtime>1704169055</mtime>
+    <size>8165</size>
+    <md5>8ab874e1aa4c01526559577f2cbff10d</md5>
+    <crc32>31f79c2c</crc32>
+    <sha1>a7211b78a0be5229e6e08f652a17b09081b28b16</sha1>
+  </file>
+  <file name="Doukou. Dream of Red Mansions 800p.mp4" source="original">
+    <mtime>1704168960</mtime>
+    <size>68150365</size>
+    <md5>405941226684115a7ce2bc09207f3fef</md5>
+    <crc32>fe5de1f0</crc32>
+    <sha1>2582fc487a440e1536577c74a068db23cb18279d</sha1>
+    <format>MPEG4</format>
+    <length>247.74</length>
+    <width>1920</width>
+    <height>800</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716477130</mtime>
+    <size>11731</size>
+    <md5>fc980f733cef4141c8084587bedaad55</md5>
+    <crc32>b0fddd51</crc32>
+    <sha1>456c7c10cdbef2bf0a8290e15fa75cd52c3fdc87</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169017</mtime>
+    <size>13874</size>
+    <md5>58c652f516fd94f97fee62fe15aa7ccf</md5>
+    <crc32>d5d8a015</crc32>
+    <sha1>77a9f8a04b0d2f5d56b6e6113b64e9ec2a443cc8</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169020</mtime>
+    <size>29444</size>
+    <md5>bf8a052b65f0fd22dd5c853860b36646</md5>
+    <crc32>e3481e6e</crc32>
+    <sha1>a2a93c182c4774b2c374f181dc80d504e8a84906</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169023</mtime>
+    <size>47078</size>
+    <md5>6600b41e8b04b7ff737c576c825952a7</md5>
+    <crc32>52742fdd</crc32>
+    <sha1>f17b12e14fbf43af93e519099957112949d51ab1</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169025</mtime>
+    <size>21523</size>
+    <md5>c471e4aa50b7ca104d98a0de84bb7ba1</md5>
+    <crc32>d931cc4e</crc32>
+    <sha1>2a470e9828b01873b07dc8c3db0d36aba68f841c</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169028</mtime>
+    <size>61460</size>
+    <md5>fbb8b9aa8a296d695a2c5e3de6bc9432</md5>
+    <crc32>c2f1e0c8</crc32>
+    <sha1>9a102a72ece149ab1297ea6d3ffbaa9a017c2814</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169031</mtime>
+    <size>34435</size>
+    <md5>f932e34c4f33b04d4058386096c6a937</md5>
+    <crc32>19550519</crc32>
+    <sha1>7fcf043451513a11a8d8e6aa7bde9979e85d2cab</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169033</mtime>
+    <size>46658</size>
+    <md5>36232b95a431c7b88e2210a1f9ed4fcf</md5>
+    <crc32>e90cd670</crc32>
+    <sha1>39e85256b168a7b6cf91341b645f5d7fb35b2722</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169036</mtime>
+    <size>26126</size>
+    <md5>1b8e466941c20e68130559b18561d631</md5>
+    <crc32>f028f5f4</crc32>
+    <sha1>a998233b3028aad90c00a1c802578d787e1ef3b3</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions.thumbs/Doukou. Dream of Red Mansions 800p_000245.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Dream of Red Mansions 800p.mp4</original>
+    <mtime>1704169037</mtime>
+    <size>17032</size>
+    <md5>1a14797adbfaeb5c4fe3702752e8f89f</md5>
+    <crc32>f3e01e68</crc32>
+    <sha1>e30b7844d8524fd9314f2687ab298b6c291d52f7</sha1>
+  </file>
+  <file name="doukou-dream-of-red-mansions_archive.torrent" source="metadata">
+    <btih>2d0ea60f2671b3a0a69c02fa7f813befafd45363</btih>
+    <mtime>1716477131</mtime>
+    <size>5857</size>
+    <md5>17755f0406ae9495983f8557ac69064b</md5>
+    <crc32>bf928ccd</crc32>
+    <sha1>dcf64f6fbfe1ffdd5c051651f0ea084271196609</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-dream-of-red-mansions_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>adce7c1c8f1c5bcca247cccc85e086f2</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-dream-of-red-mansions_meta.sqlite" source="original">
+    <mtime>1716475452</mtime>
+    <size>36864</size>
+    <md5>0bfbeebfce243905f97d383655151fa8</md5>
+    <crc32>ed3e8829</crc32>
+    <sha1>221668cadc1d3aa3c10293af2b3eea0377cfc390</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-dream-of-red-mansions_meta.xml" source="original">
+    <mtime>1716477104</mtime>
+    <size>3039</size>
+    <md5>2d92a1e7178546d559c90fd0266f9e8c</md5>
+    <crc32>92227448</crc32>
+    <sha1>4e40b069c33e50edf461dfa52617f9fb184a7fb3</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
