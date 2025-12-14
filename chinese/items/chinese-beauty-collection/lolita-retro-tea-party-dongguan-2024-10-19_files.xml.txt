@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 1918x1080.jpg" source="original">
+    <mtime>1736101560</mtime>
+    <size>553073</size>
+    <md5>c14db1a1bef23876d8065c943c348c56</md5>
+    <crc32>650a8670</crc32>
+    <sha1>41dccc82a7297fc581fa7195ad391889f96ecb08</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 1918x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 1918x1080.jpg</original>
+    <mtime>1736102111</mtime>
+    <size>8970</size>
+    <md5>b19f065a47c6fd2f3cab1c6faa9c629b</md5>
+    <crc32>1b1a9e61</crc32>
+    <sha1>2492fba3b2b90bdc785e455cf22365b83a4f5a91</sha1>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4" source="original">
+    <mtime>1736102040</mtime>
+    <size>50956532</size>
+    <md5>6abefcd54524e74e785d20e29600d231</md5>
+    <crc32>912d5408</crc32>
+    <sha1>6e766d1b7eec287a137b7787ae27c604f703bd7c</sha1>
+    <format>MPEG4</format>
+    <length>191.45</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Record 1912x1195 BL80_itemimage.png" source="original">
+    <mtime>1736101479</mtime>
+    <size>4991586</size>
+    <md5>7e33c5275f6b13d98e33d3c94726e214</md5>
+    <crc32>9382a2c5</crc32>
+    <sha1>68b4acffe8f7759b16bd194672e7ea2994a4efce</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Record 1912x1195.png" source="original">
+    <mtime>1736101544</mtime>
+    <size>4821249</size>
+    <md5>be25dc06d0745bac5559ac6cbb22f186</md5>
+    <crc32>f73b8d6c</crc32>
+    <sha1>65e8095bee597d9d4760b0c52f7671b6995ce3ae</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Record 1912x1195_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 1912x1195.png</original>
+    <mtime>1736102106</mtime>
+    <size>9507</size>
+    <md5>2f68b6a329a6004376edfbec74eef283</md5>
+    <crc32>1692fbfa</crc32>
+    <sha1>4547308e850545fb7f55bde9b111ae18c09de534</sha1>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Record 1919x1280.jpg" source="original">
+    <mtime>1736101554</mtime>
+    <size>1040048</size>
+    <md5>dda8f17397578a41503f9c1cda4a3fd0</md5>
+    <crc32>86533450</crc32>
+    <sha1>de046e67d3557e69b18c194c7442e847afa3c6f3</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Record 1919x1280_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 1919x1280.jpg</original>
+    <mtime>1736102117</mtime>
+    <size>10256</size>
+    <md5>83d992bd82a25f0203f3abf3cffb830d</md5>
+    <crc32>c61632ba</crc32>
+    <sha1>7dd55ee79c54a1b684d47e24d603f5f63e1ff7c4</sha1>
+  </file>
+  <file name="Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4" source="original">
+    <mtime>1736107017</mtime>
+    <size>451109762</size>
+    <md5>a63bc923f901aa00399baeddee748f8e</md5>
+    <crc32>ab2d30d7</crc32>
+    <sha1>7671aac04648743dd18140c2f6695cfdb4766b74</sha1>
+    <format>MPEG4</format>
+    <length>3135.3</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1736101541</mtime>
+    <size>19533</size>
+    <md5>4ec79e0804418885364c9c314733607c</md5>
+    <crc32>daeb1cf6</crc32>
+    <sha1>be0e72f6df95fb11a9784480f3fd8b24fdc53879</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4</original>
+    <mtime>1736102076</mtime>
+    <size>55733</size>
+    <md5>d0f37b7df986036aaf8796a4dc4f6c23</md5>
+    <crc32>07e7d123</crc32>
+    <sha1>91810c2d544788ea240188027be0605397c27152</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4</original>
+    <mtime>1736102078</mtime>
+    <size>44984</size>
+    <md5>43695dd4195cb240823e4a68312f8ea6</md5>
+    <crc32>6cf72dbc</crc32>
+    <sha1>dbef257ddaf5378ff3332b11f96ad552bacdd9cc</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4</original>
+    <mtime>1736102080</mtime>
+    <size>67963</size>
+    <md5>e640913b750ab1042b9d3a0f752c6f90</md5>
+    <crc32>74364035</crc32>
+    <sha1>50811c6c185f64b9e8c0b8ff0530d7896d180c9e</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4</original>
+    <mtime>1736102082</mtime>
+    <size>80180</size>
+    <md5>caf3323012ea3ab81d4e5de586dcd380</md5>
+    <crc32>cef351b0</crc32>
+    <sha1>fec1cc9f4575d7a29ecba429d32934260763e62e</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4</original>
+    <mtime>1736102084</mtime>
+    <size>106039</size>
+    <md5>d2702108cbd3b71fc3743a62e9f6333f</md5>
+    <crc32>717d39b9</crc32>
+    <sha1>55faac4d7b6d2d8491e977a59976b0de111f3a05</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4</original>
+    <mtime>1736102086</mtime>
+    <size>105933</size>
+    <md5>996e7f4c2dd574d88c1fd304771c73b9</md5>
+    <crc32>554b8ad5</crc32>
+    <sha1>9c5e7ce88070dbdec5241d79edaa584010e67b65</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p_000190.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Catwalk 720p.mp4</original>
+    <mtime>1736102086</mtime>
+    <size>88686</size>
+    <md5>1820c64ce40185b31224534c51f7bb73</md5>
+    <crc32>1e4b7c81</crc32>
+    <sha1>0654be65b71d6cf136c8e2508d9661511c36223f</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107076</mtime>
+    <size>33769</size>
+    <md5>17e2f80cc9301cf377f1c237d1e426d3</md5>
+    <crc32>d44cc43c</crc32>
+    <sha1>cea8a8abe20279b9772a2fe613726a79f417e79c</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107080</mtime>
+    <size>42470</size>
+    <md5>3bf16a634f41c9f358647a6979486fef</md5>
+    <crc32>c2887732</crc32>
+    <sha1>02b555553c1299ff9921bed9b1ae0f0a4e4543c4</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107083</mtime>
+    <size>81440</size>
+    <md5>928db201049faa008bfe08b31fa5b872</md5>
+    <crc32>0a02893b</crc32>
+    <sha1>721ce7a77d6de3a51db93dc520205172e2f6a3ee</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107087</mtime>
+    <size>60821</size>
+    <md5>44c97f6f4e8a0da6aaf24b5f68971fc8</md5>
+    <crc32>1b043287</crc32>
+    <sha1>32a88777e321cafa6c1303008babdedcce7bd132</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107090</mtime>
+    <size>46528</size>
+    <md5>627a6a925b4dd3e4405a8488cf7b9ab5</md5>
+    <crc32>c16437d1</crc32>
+    <sha1>52e34b583646ecdfb57b49b0fa0e6203870232d4</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107094</mtime>
+    <size>53512</size>
+    <md5>c1632988a545f4c7ca2f114638c053b9</md5>
+    <crc32>41210009</crc32>
+    <sha1>d78eda412f4b6dc3b851b2d180a90a942bbc0172</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000418.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107098</mtime>
+    <size>45058</size>
+    <md5>ceb89f6b2c0d7e6418e62f3f4b0b2d55</md5>
+    <crc32>82780862</crc32>
+    <sha1>f65cb327dbc2b788b3da4b5971defaf4e6710d27</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000478.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107102</mtime>
+    <size>60012</size>
+    <md5>66317bfa291bfff68f9c7b02e38ae4f1</md5>
+    <crc32>e0191dcc</crc32>
+    <sha1>88911c3bc03754398bdb30c2ff99901e50fdeb43</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107105</mtime>
+    <size>65331</size>
+    <md5>def04e6602ada467c32683dbfacaccb9</md5>
+    <crc32>c1272e68</crc32>
+    <sha1>9e1a603a098427a96e760ccf47924c38a9686e3f</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107108</mtime>
+    <size>55591</size>
+    <md5>41ac88e73b90b982b96bc2f11fa6d891</md5>
+    <crc32>d93d392d</crc32>
+    <sha1>c4c54e4a136a82502ba3445dec4c9fe7f96225af</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107111</mtime>
+    <size>83403</size>
+    <md5>d94da262449762c9ba0f353324013125</md5>
+    <crc32>40f99096</crc32>
+    <sha1>21cbc027a5abff40f845907f080a0988f621333c</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107115</mtime>
+    <size>55569</size>
+    <md5>c79afa9005bb84eb93e44661a7ca64fb</md5>
+    <crc32>3f151bd9</crc32>
+    <sha1>888441e0697a527dd269069c9672fb029e131246</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107118</mtime>
+    <size>112302</size>
+    <md5>9145fe884df1ee346c2100203c262aca</md5>
+    <crc32>98a540c6</crc32>
+    <sha1>7d3b537f1b20a3283a2d472b4532084bfb292ccb</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107121</mtime>
+    <size>57487</size>
+    <md5>3dc5bf6a37bca4a0a16d7b1eb46ead8e</md5>
+    <crc32>3b0b191c</crc32>
+    <sha1>ca56a8a78c67ac31325abd417d3192afa99131f3</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107125</mtime>
+    <size>46066</size>
+    <md5>fa69735d2d25c904e0d926792c42a127</md5>
+    <crc32>e213dea8</crc32>
+    <sha1>9f8237d1afc4bf4560682dd47dcd0991772a084f</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_000958.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107129</mtime>
+    <size>64044</size>
+    <md5>ccb52af44021859127604eb37fca6bd4</md5>
+    <crc32>2ff5c648</crc32>
+    <sha1>fc271657e1dd1fd32888b31b492fa0d32dda2484</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001018.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107133</mtime>
+    <size>104880</size>
+    <md5>baf067f1da1a4f7778322babf78797b0</md5>
+    <crc32>de27c47d</crc32>
+    <sha1>4d8c0cf745c46d4fa67224c767c113815eeef2b0</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001078.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107137</mtime>
+    <size>68312</size>
+    <md5>20e1053c62d0f4e27f37da1952c2638c</md5>
+    <crc32>25ad6dcc</crc32>
+    <sha1>75cae68a9d6858d9f6fc03ac64003df78f5d6079</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001138.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107141</mtime>
+    <size>78452</size>
+    <md5>951df22f13c907eee52274c708c6cf5a</md5>
+    <crc32>252a6af1</crc32>
+    <sha1>f1c7935b1345e493030c46267b1cf929bbb1e76a</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001198.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107144</mtime>
+    <size>65847</size>
+    <md5>9755cf6d126083ee69d014f2e7ead81e</md5>
+    <crc32>785d5249</crc32>
+    <sha1>4748a9d48b9aeb7b9b454bcfddfa014d47258059</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107147</mtime>
+    <size>75470</size>
+    <md5>a2ca3f82bdf971d1915b971d82be43fc</md5>
+    <crc32>498d97e8</crc32>
+    <sha1>cf5683c7839ced73b63cb120193995bb766e50fe</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107151</mtime>
+    <size>60062</size>
+    <md5>49cc86f6af3bc21925cfd68f6f1b63df</md5>
+    <crc32>823281f2</crc32>
+    <sha1>0e5eaed5cd7fe52d1ad18e1022c5cb7e27b2c926</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107154</mtime>
+    <size>50929</size>
+    <md5>4efd022d694146a259586ffc93b9a4f3</md5>
+    <crc32>9576b8c7</crc32>
+    <sha1>061b7a78fe954d45ab416a7949b11cb4ed892e7c</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107158</mtime>
+    <size>47166</size>
+    <md5>210aead738475f1fd343f5bf43790861</md5>
+    <crc32>fb3bbbf8</crc32>
+    <sha1>9b55b493d8a10441fc6bb6087aa4d7686fa65e10</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107162</mtime>
+    <size>65906</size>
+    <md5>7bf67747c8706f9ffe0ca4dd20e399df</md5>
+    <crc32>5772f951</crc32>
+    <sha1>11dba026a600158daf99f6bbf22b12c05e42684b</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107165</mtime>
+    <size>48257</size>
+    <md5>efa751b4abce8ddd840d9a26d369ad5c</md5>
+    <crc32>77d3a0f7</crc32>
+    <sha1>14f5563825f348d37812100da735b37122032ce5</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107169</mtime>
+    <size>67729</size>
+    <md5>17aa3ae4c3b89d29c4c24f11dacb14d7</md5>
+    <crc32>3c3212ea</crc32>
+    <sha1>7c4aaa7d36a73aaf2dedf01fe6c6831f155185f4</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107172</mtime>
+    <size>55620</size>
+    <md5>689f3b075374c6cdd75edcb73bdcff4b</md5>
+    <crc32>f4906fc7</crc32>
+    <sha1>ea2b14fe2eb0df93c8280e2049f41bbec0d3a49e</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107176</mtime>
+    <size>51158</size>
+    <md5>847a18d5c6cc6052acc5b1c40de0b7b7</md5>
+    <crc32>3511b862</crc32>
+    <sha1>b039830b80853ac9a032bf89af9c8d34e956ab2a</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107180</mtime>
+    <size>57303</size>
+    <md5>287b85f76607f29e73e303e18fc3a583</md5>
+    <crc32>13ef25cb</crc32>
+    <sha1>0d9f139c32a662679cb7ee4bd0afac7821bf562e</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107184</mtime>
+    <size>69653</size>
+    <md5>e986e98b234a573ca6570d6699abe815</md5>
+    <crc32>998dcf06</crc32>
+    <sha1>e6c1290c33cebf2fb25670e19fb7f8af60fbeb4f</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107188</mtime>
+    <size>79984</size>
+    <md5>2cd3d5dc8a6ef67368c10b3b970d7ad2</md5>
+    <crc32>904e23d7</crc32>
+    <sha1>4ba63ffcd9a24b1badfb08768feeb4a9c34a2d68</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_001974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107191</mtime>
+    <size>70167</size>
+    <md5>23b28b232cb7c1315a68f8c211da98f7</md5>
+    <crc32>4fae8085</crc32>
+    <sha1>6aaed91c06e79df89ac35fad8dbf479879761900</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107195</mtime>
+    <size>77199</size>
+    <md5>acddf245c98866743f95d7f94022e3d0</md5>
+    <crc32>fbaffa43</crc32>
+    <sha1>f1e18709cb338d767362576728dfb1713c39bc6b</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107198</mtime>
+    <size>60803</size>
+    <md5>a83898ad552a02dde7b0dac2ee086853</md5>
+    <crc32>246fcf54</crc32>
+    <sha1>1fb5aeaa8b9225e979377953a228e488ef8fe385</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107202</mtime>
+    <size>69664</size>
+    <md5>3fd43510875be703b6521f285eacc9cd</md5>
+    <crc32>cb462da5</crc32>
+    <sha1>6e8273df9ef56f1ec1a93730edae741a6cf771f0</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107205</mtime>
+    <size>64009</size>
+    <md5>8d6b9c074f82d7366a097f1d3a0079af</md5>
+    <crc32>73f4c71e</crc32>
+    <sha1>d8d770dec04fd09e1305ad5faf525a50e9623d6a</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107209</mtime>
+    <size>71810</size>
+    <md5>4013141221ec17ac92cccada4b61d365</md5>
+    <crc32>d49b77e8</crc32>
+    <sha1>a647cf0d7a353031bb140a97ff44c06b946528bb</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107212</mtime>
+    <size>74067</size>
+    <md5>3df612179d03deaee61956f0087bfd13</md5>
+    <crc32>5bca50b8</crc32>
+    <sha1>6f3369734f166a7ed3c65d224715f6091a2abc99</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107216</mtime>
+    <size>68703</size>
+    <md5>364288703a8426f118a592fcfdf64c34</md5>
+    <crc32>845b12e1</crc32>
+    <sha1>e1af317ea53ab72aa44226181147d923c90a1bd9</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107220</mtime>
+    <size>72901</size>
+    <md5>056e95cfec50a499877748cee9dec0c2</md5>
+    <crc32>25d5d29a</crc32>
+    <sha1>88dced1e6b54a5109e4408024dd52747ecf9251b</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107223</mtime>
+    <size>70945</size>
+    <md5>28295d7c346c352655e4db33060f15a8</md5>
+    <crc32>7d6c4ff1</crc32>
+    <sha1>08c11eb9a0615043af5ca636b33715b82019987d</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107227</mtime>
+    <size>55618</size>
+    <md5>3a11396a265bf27a83361d8b4c322736</md5>
+    <crc32>ec030b20</crc32>
+    <sha1>5bd67c8d9e87e33399640fcd8be24f4d1c36bcd3</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107230</mtime>
+    <size>59863</size>
+    <md5>b31b7d0b1d3fc742b32e0b6628306c86</md5>
+    <crc32>d4cae448</crc32>
+    <sha1>5f657050c67f74519af03bd48b1462e1929fc75e</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107233</mtime>
+    <size>66537</size>
+    <md5>dc920e0fc169f1310e6c8a2b631a151a</md5>
+    <crc32>15794ee8</crc32>
+    <sha1>cc52f1c88b19c3b266b7974f9bc76c129468300a</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107237</mtime>
+    <size>63668</size>
+    <md5>601f225dbf3e1a321fa97dcdd9d2be2a</md5>
+    <crc32>a0347a54</crc32>
+    <sha1>c7cc49faf2d3d06c315f307feff1e43d3c1343f2</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107240</mtime>
+    <size>71074</size>
+    <md5>b506ff6c83f3ccfdb95ebc2d27711d49</md5>
+    <crc32>b0e67f74</crc32>
+    <sha1>b6db87c7c5c294b4eb84e3df65b1df2a0987f5b4</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107243</mtime>
+    <size>70146</size>
+    <md5>90a1262ab85775dc7fd5015994f98cd7</md5>
+    <crc32>93422803</crc32>
+    <sha1>abe65b9111be2affd7c457688a6741e40aaeb469</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107247</mtime>
+    <size>67407</size>
+    <md5>9e9c60bacb6002d547dfa8a8ca8de9f7</md5>
+    <crc32>89343118</crc32>
+    <sha1>235704622903634552230d4c467d612f5869f58c</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_002994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107250</mtime>
+    <size>61299</size>
+    <md5>621dd3e449129424df021275f260417b</md5>
+    <crc32>30e0d923</crc32>
+    <sha1>2bf7cea859e0ddae56852dcbd5ac24bb2f6f66a9</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_003054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107254</mtime>
+    <size>52030</size>
+    <md5>a0f842eb197464301794f13ca19b495d</md5>
+    <crc32>5dca7613</crc32>
+    <sha1>5b1b3e9bf791702d3b3e64ea410fb7fca23e435f</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_003114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107258</mtime>
+    <size>55186</size>
+    <md5>96bad6b5640d29951c69945b60e01f35</md5>
+    <crc32>abc73991</crc32>
+    <sha1>57500edd0fd6f31883c27feb5308c676dc08d321</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19.thumbs/Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p_003134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Retro Tea Party. Dongguan 2024-10-19 Record 720p.mp4</original>
+    <mtime>1736107259</mtime>
+    <size>93832</size>
+    <md5>f428a2a2c3ce9eca19185fc3fb9a17c8</md5>
+    <crc32>1108737b</crc32>
+    <sha1>4b179267404fe5dbab201009eb7067760cb097e0</sha1>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19_archive.torrent" source="metadata">
+    <btih>b8a97680fd1dec710f8a55f9ad499df859409b70</btih>
+    <mtime>1736107318</mtime>
+    <size>23499</size>
+    <md5>b6b2b1d284cb87074e4bbdfa9d65c3b3</md5>
+    <crc32>5a7b71af</crc32>
+    <sha1>5875da3533b010496bab132475f6e79b8a8896a5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8c1a5cc3e54a40baeabbb35457891ee4</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19_meta.sqlite" source="original">
+    <mtime>1736107039</mtime>
+    <size>53248</size>
+    <md5>9272704fd362fb774742418390368538</md5>
+    <crc32>391684a3</crc32>
+    <sha1>76b5651c27472bee3ff88d15a7ad60b78750567e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="lolita-retro-tea-party-dongguan-2024-10-19_meta.xml" source="original">
+    <mtime>1736101496</mtime>
+    <size>2851</size>
+    <md5>dd5febf930d3505cadff4492c81039ca</md5>
+    <crc32>f98689fe</crc32>
+    <sha1>f407ad366e5795af34822af21033e00d52383538</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

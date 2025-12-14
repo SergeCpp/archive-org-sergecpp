@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Lolita Tea Party in a 18th-tier City 1080p.mp4" source="original">
+    <mtime>1736148253</mtime>
+    <size>35945972</size>
+    <md5>3298297cb04aa769f331f683d5f4c228</md5>
+    <crc32>2a6ad021</crc32>
+    <sha1>d8ed430abb8dc799277b3c94c1ba563f29ccb79c</sha1>
+    <format>MPEG4</format>
+    <length>99.47</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lolita Tea Party in a 18th-tier City 1728x1080 Lv30 BL60_itemimage.png" source="original">
+    <mtime>1736147906</mtime>
+    <size>2556933</size>
+    <md5>b319670f6aec65c201ee415587827459</md5>
+    <crc32>a796d2f7</crc32>
+    <sha1>c36dbfeee07458e70bdab8a8c832fd96a252ab43</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Lolita Tea Party in a 18th-tier City 1728x1080 Lv30.png" source="original">
+    <mtime>1736147930</mtime>
+    <size>2419481</size>
+    <md5>b843aac759170b1cac09bccfe0c5edf9</md5>
+    <crc32>e9e626b6</crc32>
+    <sha1>8cab943c69614435091cd9236ec40934800be5af</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Lolita Tea Party in a 18th-tier City 1728x1080 Lv30_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Tea Party in a 18th-tier City 1728x1080 Lv30.png</original>
+    <mtime>1736148326</mtime>
+    <size>8392</size>
+    <md5>af2270a63d4c4996e551e7b5e5b8ba50</md5>
+    <crc32>38879129</crc32>
+    <sha1>ddc52252a95bb6f7981addf6cf34973b8f613e5a</sha1>
+  </file>
+  <file name="Lolita Tea Party in a 18th-tier City 1728x1080.png" source="original">
+    <mtime>1736147947</mtime>
+    <size>2130008</size>
+    <md5>15c2469f44b3570b2d7530f94fb0f87d</md5>
+    <crc32>23733a0f</crc32>
+    <sha1>00df78dfd7cfdcc89a54682a62a2739896f1f4bf</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Lolita Tea Party in a 18th-tier City 1728x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Tea Party in a 18th-tier City 1728x1080.png</original>
+    <mtime>1736148331</mtime>
+    <size>8031</size>
+    <md5>372fe1a064e0c8f7f89de923183f38ad</md5>
+    <crc32>b040dc29</crc32>
+    <sha1>cba13a9b49514a51456bb01aad381042f88907a3</sha1>
+  </file>
+  <file name="Lolita Tea Party in a 18th-tier City 1920x1080.jpg" source="original">
+    <mtime>1736147951</mtime>
+    <size>273253</size>
+    <md5>69d59e7bf7716f7a618c46eea70a45e8</md5>
+    <crc32>d0fb1aa7</crc32>
+    <sha1>a3de739ef54f9e3822b87b9ca1d2a1d89aa471e8</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Lolita Tea Party in a 18th-tier City 1920x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Tea Party in a 18th-tier City 1920x1080.jpg</original>
+    <mtime>1736148337</mtime>
+    <size>7961</size>
+    <md5>345ee146f1e6d6381f728d6e041650a8</md5>
+    <crc32>258e9012</crc32>
+    <sha1>045f98eac544af1b756b9ddddb80b635fa4d0ebe</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1736147988</mtime>
+    <size>14709</size>
+    <md5>d5002d07b461e201d14193171f848fe7</md5>
+    <crc32>15f3ae09</crc32>
+    <sha1>0ee69012c43ad9256bd7f6861655a4a9826a9ea4</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148293</mtime>
+    <size>18181</size>
+    <md5>cf3f2467f0daca71e4ae6eef74b71eb8</md5>
+    <crc32>3ba5a1a4</crc32>
+    <sha1>935f5c8d2094119d41f77823c8a7e66b381c6320</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148294</mtime>
+    <size>31218</size>
+    <md5>5a819dcc1a80fab4b9dac6ac2807be7d</md5>
+    <crc32>218b8509</crc32>
+    <sha1>40f15eebe4feda82a01dc64f9a00819d4fa0b7ed</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148295</mtime>
+    <size>52683</size>
+    <md5>26992f59d7dd91a86715c244ba74d2e8</md5>
+    <crc32>4d8884e2</crc32>
+    <sha1>283122f010ea5bcfc231279bb809bb5fbb9508f2</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148295</mtime>
+    <size>73748</size>
+    <md5>15dc278aece5932d1161cf8f7717b4db</md5>
+    <crc32>2f3990c2</crc32>
+    <sha1>1491ffe6e4884db607abdb474bda9732c69cf1fd</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148296</mtime>
+    <size>78920</size>
+    <md5>dd3f12fe48a754b038aa95a5b2f954ed</md5>
+    <crc32>6aee7918</crc32>
+    <sha1>ce58a3da89116a915ea0f599ab20ebd6b5fc3d18</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148296</mtime>
+    <size>77657</size>
+    <md5>26f671624c33d011905cfa45602bff3c</md5>
+    <crc32>832cf61d</crc32>
+    <sha1>965b30b1630b808c3b266f091353d6918b0fd6f9</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148297</mtime>
+    <size>52656</size>
+    <md5>ed6b0dc98a64ea830895eade696df8bd</md5>
+    <crc32>695eb9b8</crc32>
+    <sha1>056df9bb122aadc3228c7acf1f64f25f340155a9</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148297</mtime>
+    <size>26673</size>
+    <md5>32b7c223d12abd79d4150231784c3c10</md5>
+    <crc32>acd62206</crc32>
+    <sha1>cd8370931a220db78607817772b51314cfdb2ed0</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148298</mtime>
+    <size>19464</size>
+    <md5>8cdc36edb642f81c8a9718a54db473db</md5>
+    <crc32>78c3d1f2</crc32>
+    <sha1>a7e85771da4253bd8aa8083bafde5872e00930f4</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148298</mtime>
+    <size>72125</size>
+    <md5>faa5bc185c100542376fda8654af3065</md5>
+    <crc32>0c1c24ee</crc32>
+    <sha1>1ef7348bc17205ad53e9f66db61adaab4de383ad</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148299</mtime>
+    <size>45106</size>
+    <md5>75991cf6f5ef26e12f3f7bac1815e6fe</md5>
+    <crc32>9e051a11</crc32>
+    <sha1>404a72ad9ca9cf301dd0f2b1759b3caa893787f0</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148300</mtime>
+    <size>31873</size>
+    <md5>3e3df3006792f39e195d684f0fd24078</md5>
+    <crc32>1fbac926</crc32>
+    <sha1>d0481af75da25d7573e3914daa225188cf373ee1</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148300</mtime>
+    <size>35291</size>
+    <md5>d2aa192fdd94443dda7d96ff9f100f19</md5>
+    <crc32>118b43e4</crc32>
+    <sha1>abc8dc7e94db15fa8b48a64a4a59d686aff66e67</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148301</mtime>
+    <size>24887</size>
+    <md5>20d3dd2704a28dc905abca97facf2f00</md5>
+    <crc32>795d4f68</crc32>
+    <sha1>1d3bf46374b11e1c98ecd5bc7af6284cf4cf725d</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148302</mtime>
+    <size>61366</size>
+    <md5>a3094eedcad67fc6ac3a67e251cc0dbd</md5>
+    <crc32>a895de89</crc32>
+    <sha1>5ca22c45ee6cc567af8781e486ad55aae1cc1ed5</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148302</mtime>
+    <size>42912</size>
+    <md5>b90adeadafe30d58c9b7936c6a080fda</md5>
+    <crc32>03af29f3</crc32>
+    <sha1>0da6fd08ff349a05af11ca538d589bf2729f0818</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148303</mtime>
+    <size>47239</size>
+    <md5>ebe2510f4a78818ffd34070dde8248e1</md5>
+    <crc32>5aba8c15</crc32>
+    <sha1>a601b4f67ecf83ee82ac5fd141cc7f9230e50faa</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city.thumbs/Lolita Tea Party in a 18th-tier City 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Tea Party in a 18th-tier City 1080p.mp4</original>
+    <mtime>1736148305</mtime>
+    <size>86958</size>
+    <md5>9ba4288dc680420f6a3ff1950dc30ed5</md5>
+    <crc32>2771fb90</crc32>
+    <sha1>c5da117af16a91f512415184f3d75b50efe18bee</sha1>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city_archive.torrent" source="metadata">
+    <btih>a5db80a8aa2e3bf74e270ebd29fbf85d74d2c11d</btih>
+    <mtime>1736228985</mtime>
+    <size>5189</size>
+    <md5>0f4bc2a0300b5376a3d6f4d3af19b70b</md5>
+    <crc32>a7cf286a</crc32>
+    <sha1>ba0797fb0922e6a4c3102e8b1ed3ea1bab015e4b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>93e51560e0fb06cd4c64001ac0f75658</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city_meta.sqlite" source="original">
+    <mtime>1736148258</mtime>
+    <size>45056</size>
+    <md5>67dd10c07fba3365b6b406a4e0c33fa4</md5>
+    <crc32>7e9f1356</crc32>
+    <sha1>4189c4888cde086e3d98c15eae503a6b67e2b604</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="lolita-tea-party-in-a-18th-tier-city_meta.xml" source="original">
+    <mtime>1736228984</mtime>
+    <size>2681</size>
+    <md5>d42919f30409b6001be781ef8495b91f</md5>
+    <crc32>6cf748d7</crc32>
+    <sha1>4fcbb89efa293ea6c3df9a76c1cca1d2f384dd58</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

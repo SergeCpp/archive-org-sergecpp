@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Hanfu Meets Morocco 1080p.mp4" source="original">
+    <mtime>1737527335</mtime>
+    <size>46198404</size>
+    <md5>0527855594c2633ebd3ad89cde81ef2f</md5>
+    <crc32>713b88e9</crc32>
+    <sha1>b705cd08b98953a6b9c6f338a718e273b5c8bb75</sha1>
+    <format>MPEG4</format>
+    <length>114.18</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets Morocco 1600x1000 BL40_itemimage.png" source="original">
+    <mtime>1737527088</mtime>
+    <size>2975450</size>
+    <md5>15bb962bcfac84347f6a657e3a0eae8d</md5>
+    <crc32>42dbdbaf</crc32>
+    <sha1>75eaa43dc8f2d460e6a98a25e16b5807cf664fc8</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Morocco 1600x1000.jpg" source="original">
+    <mtime>1737527104</mtime>
+    <size>353022</size>
+    <md5>5b48a860ee0570e5fdb757e29369324d</md5>
+    <crc32>0471676c</crc32>
+    <sha1>206dd68d3412350ce0cf47fcd322b499a1a426f7</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Morocco 1600x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Hanfu Meets Morocco 1600x1000.jpg</original>
+    <mtime>1737527496</mtime>
+    <size>9845</size>
+    <md5>0c03c6791ba6e99e795b66d4fe7cbf93</md5>
+    <crc32>8c85171d</crc32>
+    <sha1>31cd436d36e8f1bd6daec44479d98cd1fda92fba</sha1>
+  </file>
+  <file name="Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4" source="original">
+    <mtime>1737606044</mtime>
+    <size>236324871</size>
+    <md5>b7b81ecf0e76f0d483a1afda57d0d008</md5>
+    <crc32>d04f3333</crc32>
+    <sha1>826e64f54250cc4803711b7ce746ed00c5b9fc63</sha1>
+    <format>MPEG4</format>
+    <length>621.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets Morocco. VLOG 2880x1800.jpg" source="original">
+    <mtime>1737605295</mtime>
+    <size>1410136</size>
+    <md5>fb913094881bfb70ebf8aaf3a7b0fb14</md5>
+    <crc32>2690995a</crc32>
+    <sha1>f5c81778eedf4c91608b54fc674d5250d374d21c</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Morocco. VLOG 2880x1800_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 2880x1800.jpg</original>
+    <mtime>1737606210</mtime>
+    <size>10840</size>
+    <md5>2fc39ab3fa8488c754845342d9b3951c</md5>
+    <crc32>bf9f4d20</crc32>
+    <sha1>1fd93a2c81aabefc704ba7578b0661affe037253</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1737527151</mtime>
+    <size>18948</size>
+    <md5>dd2543f8c08142fe8ae021bd2e94e07a</md5>
+    <crc32>e9fb63cc</crc32>
+    <sha1>b24fb1c1b5b43a1d7b6244cad735b842c27dd329</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527445</mtime>
+    <size>39249</size>
+    <md5>c8ce9265cc7378cae094fee90468d813</md5>
+    <crc32>13ea2dc8</crc32>
+    <sha1>f014fe70c00568b4617364233df1f02b3cba6b62</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527446</mtime>
+    <size>21112</size>
+    <md5>588e6d280ce6576a9e7b41dd91f54e7a</md5>
+    <crc32>1cdc3dea</crc32>
+    <sha1>fddbd26f06c0426f5330de8d8beb9901449f2cb9</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527446</mtime>
+    <size>73406</size>
+    <md5>086154ab8d0679a1afa069bb6d63bc9a</md5>
+    <crc32>329b45bf</crc32>
+    <sha1>903203d07930f5380db1f89f29c714e71dd69d00</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527447</mtime>
+    <size>28677</size>
+    <md5>f401a7400f3c548c5d8b384dcd309872</md5>
+    <crc32>a1a2111e</crc32>
+    <sha1>b82b0c7e83825730a16943f1aca16c34e841cc72</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527447</mtime>
+    <size>29877</size>
+    <md5>05cf1928bac2e7f7784778d31f126f8c</md5>
+    <crc32>3562ab9e</crc32>
+    <sha1>f6cf1a2169e7ca2af2da5d43c5b62a7bd479e89c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527448</mtime>
+    <size>11392</size>
+    <md5>3c57f6e28746a658a0762515c2824aa5</md5>
+    <crc32>dd2041ac</crc32>
+    <sha1>30fd4d8ff6ed73c76b0e943b20c0e5fac5170997</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527449</mtime>
+    <size>97334</size>
+    <md5>e9507b40c586fc9f0f92d1acd00ce254</md5>
+    <crc32>9e8715f0</crc32>
+    <sha1>0228102c1badfacd974ba59e9845cbf1665dc947</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527450</mtime>
+    <size>69076</size>
+    <md5>6c60e4b01ce07340cbdfbb9f17b82518</md5>
+    <crc32>a1ae62ce</crc32>
+    <sha1>62e68875e0f4bb3a6cd1fb801820a331bd528aa9</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527450</mtime>
+    <size>56084</size>
+    <md5>55336c1b5246d7730aa9d99068109a45</md5>
+    <crc32>20acab45</crc32>
+    <sha1>9943a3c9d120fc9a6043669bb9acbc78a5ce5041</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527451</mtime>
+    <size>102339</size>
+    <md5>a430a303fa3bff5e995ffd9af447936e</md5>
+    <crc32>7254444e</crc32>
+    <sha1>6d7b34afea4b5c8c6175ef2794953b82763ddf2b</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527452</mtime>
+    <size>63299</size>
+    <md5>732aeb09e3d7a61f28d738ad8e8d8f1a</md5>
+    <crc32>af4964a5</crc32>
+    <sha1>9fa2b7b195e3e104055832904876c43328934cf0</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527453</mtime>
+    <size>64877</size>
+    <md5>4ada2eecf16f74a88f006dc09aaa0df5</md5>
+    <crc32>d7a1e085</crc32>
+    <sha1>39f86ee9a059c91887c51580668246413cdf7192</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527453</mtime>
+    <size>80300</size>
+    <md5>fd07dcfd19f2e4f4888c95021485b8b3</md5>
+    <crc32>f2da0fb8</crc32>
+    <sha1>b67ccc29c9e3feb2f3563b763560f94fa8757e4c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527454</mtime>
+    <size>53537</size>
+    <md5>69957a03dc334591f6ee0797c2eb16ff</md5>
+    <crc32>04e197f0</crc32>
+    <sha1>b8004481734585662dcb121800eaad9184d72097</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527455</mtime>
+    <size>62259</size>
+    <md5>ca3ffd7fadcaad9ab21ee265829fc920</md5>
+    <crc32>2bbb2628</crc32>
+    <sha1>4ac9523c16b8c720542dcb614a4d84deb0bd8a84</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527455</mtime>
+    <size>63103</size>
+    <md5>bf5af53755a1a79934512ecbad1c52ee</md5>
+    <crc32>a30a11e2</crc32>
+    <sha1>488f367e29ea8d53c33cbd058f041bf0c1d8b147</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527456</mtime>
+    <size>37354</size>
+    <md5>a4ea8c5547fa399999fadb8938a16498</md5>
+    <crc32>e7871295</crc32>
+    <sha1>bc8fbe6c63515921276e2c6dbc6e272b6b91bffe</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527457</mtime>
+    <size>43367</size>
+    <md5>f6d5edf3f1f5d4ccc5acb023af4a8221</md5>
+    <crc32>3cfedfb6</crc32>
+    <sha1>b8572721a228ede657f6b06c9999773b52e96bde</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527457</mtime>
+    <size>36581</size>
+    <md5>d3d960f858ea04f4f468343749429dce</md5>
+    <crc32>26c732e2</crc32>
+    <sha1>5a66e5db358c29b5a27aeed636b2ae91e7c96668</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000105.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527458</mtime>
+    <size>29494</size>
+    <md5>ab2879a55ad7bd912de40e4993e94c07</md5>
+    <crc32>81e25c4e</crc32>
+    <sha1>449f0c407fc83c41bbe50218fa7b9b236219e0f1</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco 1080p_000110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco 1080p.mp4</original>
+    <mtime>1737527459</mtime>
+    <size>4890</size>
+    <md5>6c2a2503315159dfd5e2c22521e6f5ed</md5>
+    <crc32>284f615d</crc32>
+    <sha1>453a23c6c01111e15b3c356e8ca64f3727c6157f</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606114</mtime>
+    <size>26477</size>
+    <md5>435ea7d87f26917f5e8e33a179fa6724</md5>
+    <crc32>e4859974</crc32>
+    <sha1>f4707225a532cf5db409aa2d308deae25aadab03</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606117</mtime>
+    <size>69066</size>
+    <md5>955885ecb1068247db01192e41cd00cb</md5>
+    <crc32>28542763</crc32>
+    <sha1>122faabd083a862e8cfc885574b6f354014b398c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606120</mtime>
+    <size>55728</size>
+    <md5>ee4c1a96f8faf6b627e21d5184e07fc4</md5>
+    <crc32>2ee578db</crc32>
+    <sha1>a32f2049cd09aca1dc6fab998f1fb2f78e902e48</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606123</mtime>
+    <size>44520</size>
+    <md5>8762c3fc68e87bc5eea4f6c2b5f92653</md5>
+    <crc32>2e30946a</crc32>
+    <sha1>9297be6d98f08034a57cfaeb98fc00d0a9d9b456</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606126</mtime>
+    <size>60761</size>
+    <md5>3b2e12019bd73a302e7bb85291069912</md5>
+    <crc32>2b0a50c1</crc32>
+    <sha1>f43d8606a5a45eba5b49654be3cfe8ba0e72dc21</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606129</mtime>
+    <size>67229</size>
+    <md5>9bf202d3a9207ac27d588cfc3812934d</md5>
+    <crc32>92553162</crc32>
+    <sha1>c10acb38c936113cf3733b53d231a1de27057510</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606132</mtime>
+    <size>50735</size>
+    <md5>5dd5a1587c15ddf65cdb3a3403a8f7db</md5>
+    <crc32>01891dc6</crc32>
+    <sha1>c9eb8ec181eb5978cc6da3664d96e8eacdc4561c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606135</mtime>
+    <size>68287</size>
+    <md5>6a3d014d0e756d7606abb7c959fb269f</md5>
+    <crc32>7c5ec708</crc32>
+    <sha1>9058375e14cb60f9d24fa2f93b1d0f2f81dfcae2</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606137</mtime>
+    <size>63056</size>
+    <md5>a7de49d9329844e6a88dc107447d8271</md5>
+    <crc32>cc528f4b</crc32>
+    <sha1>241fc9ee9cdcf038ce7d2f3165f6f9ffde7f3194</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606140</mtime>
+    <size>31132</size>
+    <md5>a3c23f5b926230344955f952c8f081e7</md5>
+    <crc32>7b0db285</crc32>
+    <sha1>1231f3bd795a46ad3478d89ec976e9f121cc9a62</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606143</mtime>
+    <size>57427</size>
+    <md5>e70e3732773a8123f8c522c5be95e193</md5>
+    <crc32>a3fb3a18</crc32>
+    <sha1>c5049796d673c3337eb4313c8b1bc105a64c93fb</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606146</mtime>
+    <size>53468</size>
+    <md5>151b2f63437b5fc83fa96f80cd05a26b</md5>
+    <crc32>58bbdaa7</crc32>
+    <sha1>e6b1c9ec021214b074a33f56b4bca519709f26e4</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606149</mtime>
+    <size>24312</size>
+    <md5>0efa955aad44e99aa81b66f02fc512c5</md5>
+    <crc32>d3c511cc</crc32>
+    <sha1>692351ff34950bb18f6e5ddb4ba79d6f9586fc3d</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606152</mtime>
+    <size>97538</size>
+    <md5>5631216d41b9bdad6ab809145b4c733a</md5>
+    <crc32>26773e2f</crc32>
+    <sha1>a652b279765167113cbcbe9a6bc66054eaf8af5c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606155</mtime>
+    <size>69012</size>
+    <md5>3151534d5e94237bc944de337920bb11</md5>
+    <crc32>865ebf4f</crc32>
+    <sha1>1d97012f29b193981f2f46f0c4a31efccc272bcc</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606158</mtime>
+    <size>54519</size>
+    <md5>fee81fce7c88a8762f16e51272af7395</md5>
+    <crc32>113023e0</crc32>
+    <sha1>0598a1d5530115e87c3f38a99c94591bd2bea82c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606161</mtime>
+    <size>53067</size>
+    <md5>31a5cde57f19e5e58d93faab6e29b2ca</md5>
+    <crc32>d98f2bd7</crc32>
+    <sha1>2310163cd2ebc36ebda8329979b0793f3474279d</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606164</mtime>
+    <size>45037</size>
+    <md5>c47f67faef756e01adc350bda7326b6d</md5>
+    <crc32>0ea9f3be</crc32>
+    <sha1>b4417298c431703807210322d7a6fae0ed3b5422</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606167</mtime>
+    <size>64028</size>
+    <md5>6be3714b6ccb04a7e7d6acd4382c74f0</md5>
+    <crc32>5b82e554</crc32>
+    <sha1>06565acf22910d2d2e270c9a7a4ea9e3a25f598a</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606170</mtime>
+    <size>48534</size>
+    <md5>545cac68ca0b5f911b01de2fb39e70e5</md5>
+    <crc32>77b9f582</crc32>
+    <sha1>649511da71743a6e4f0fdfcbc94d7a3d5a7118ce</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco.thumbs/Doukou. Hanfu Meets Morocco. VLOG 1080p_000620.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Morocco. VLOG 1080p.mp4</original>
+    <mtime>1737606171</mtime>
+    <size>82037</size>
+    <md5>bad3e47b742584ebedb5b6f0d76728aa</md5>
+    <crc32>baa0b6dc</crc32>
+    <sha1>1a51e8e27f278c34224111c49b14c2f70b94b011</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-morocco_archive.torrent" source="metadata">
+    <btih>f5ca9c8f9341c42dd594966220b37d3829ec4e67</btih>
+    <mtime>1737606252</mtime>
+    <size>14150</size>
+    <md5>ff4323789a2911223107d213898ef1fc</md5>
+    <crc32>6ad9a075</crc32>
+    <sha1>705b1125b123cb3f817993e9e686a3821e65bf3b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-hanfu-meets-morocco_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>594f4f8ce6aacbc0ca857a37d286954a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-hanfu-meets-morocco_meta.sqlite" source="original">
+    <mtime>1737606064</mtime>
+    <size>40960</size>
+    <md5>8a9fed1b49fbc469616c04758ffdf623</md5>
+    <crc32>cad535fb</crc32>
+    <sha1>bbacf1583eeb3f488d7faf351d1fe66e2361d5bf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-hanfu-meets-morocco_meta.xml" source="original">
+    <mtime>1737604943</mtime>
+    <size>3576</size>
+    <md5>53336d83d6a1232777bd0045611de5d0</md5>
+    <crc32>8591115a</crc32>
+    <sha1>aa7fd47e35a8c6b9a4a59cd2b8b8fac66d56e07c</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

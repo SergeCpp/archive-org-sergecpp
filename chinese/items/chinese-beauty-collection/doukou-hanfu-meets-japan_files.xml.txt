@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Hanfu Meets Japan 1080p.mp4" source="original">
+    <mtime>1737535513</mtime>
+    <size>48658493</size>
+    <md5>eebbc0ba05372b13777a1ab3d405e5be</md5>
+    <crc32>59791295</crc32>
+    <sha1>51c5bdae7bdeaf38e8fa1c0159f81cc86162f27a</sha1>
+    <format>MPEG4</format>
+    <length>120.02</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets Japan 1728x1080_itemimage.jpg" source="original">
+    <mtime>1737535294</mtime>
+    <size>490672</size>
+    <md5>3bb13c60d624b31c15532c7e7592c51d</md5>
+    <crc32>91d0aeb5</crc32>
+    <sha1>bc823dc05fd19156463c55bf021ebcf4e6a6c919</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Japan. VLOG 1080p.mp4" source="original">
+    <mtime>1737562229</mtime>
+    <size>89854811</size>
+    <md5>208a808e86cf89b26e7319157c6d7864</md5>
+    <crc32>4c92b77d</crc32>
+    <sha1>25cae4d26aac1d1668b2efac05312c9be7cb6d75</sha1>
+    <format>MPEG4</format>
+    <length>235.26</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets Japan. VLOG 1920x1200.jpg" source="original">
+    <mtime>1737561811</mtime>
+    <size>682736</size>
+    <md5>46f43459cc2f079fb1667c0a84ba1789</md5>
+    <crc32>22b97107</crc32>
+    <sha1>744b904facb0f7bbb07b5b78276c76c692128630</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Japan. VLOG 1920x1200_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1920x1200.jpg</original>
+    <mtime>1737562755</mtime>
+    <size>9728</size>
+    <md5>d28e4011c37446a96947728df5417290</md5>
+    <crc32>694f72bd</crc32>
+    <sha1>40ff3127ce51dee08840c1079dd6346d43374b76</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1737535354</mtime>
+    <size>10770</size>
+    <md5>5c1389e0a231164d122d2a054aa14a2a</md5>
+    <crc32>7400d733</crc32>
+    <sha1>821a1c8ad98c721d9528e9afd704641dd9d4053b</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan 1080p.mp4</original>
+    <mtime>1737535579</mtime>
+    <size>15883</size>
+    <md5>b34f5227a5b991e91d0617f39fa2ec7c</md5>
+    <crc32>8f05218c</crc32>
+    <sha1>825243930dd48e828e270ac22ae9392f1a58d0f1</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan 1080p.mp4</original>
+    <mtime>1737535582</mtime>
+    <size>51280</size>
+    <md5>50e1d24ed116c98bc71449c69e965fdb</md5>
+    <crc32>201c81ad</crc32>
+    <sha1>747b9202fa74bf376468891c75be9c1a9a9656b3</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan 1080p.mp4</original>
+    <mtime>1737535586</mtime>
+    <size>80458</size>
+    <md5>f3d1f4682f020cd75984ea3741a478a8</md5>
+    <crc32>a7b47cc8</crc32>
+    <sha1>3c26eecb9f254f66399dcab8cbd2c66b0a9b5914</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan 1080p_000115.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan 1080p.mp4</original>
+    <mtime>1737535589</mtime>
+    <size>57121</size>
+    <md5>dfb9d15637d5567540b3cfe0aeb9ceb5</md5>
+    <crc32>9968057b</crc32>
+    <sha1>1f80d4f65e8e96b2dc076b791d32f8ee93f84e61</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562700</mtime>
+    <size>60005</size>
+    <md5>ecc3763e8fbc8b07e7b9aa6d960cdfe3</md5>
+    <crc32>6fc605d9</crc32>
+    <sha1>6f937fe3af905192a359e3fcfaf2edb3b6a7b533</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562704</mtime>
+    <size>44259</size>
+    <md5>0d665d6198b1f81238f20e0a9441309d</md5>
+    <crc32>9c6c5e51</crc32>
+    <sha1>8ce652afd877f6f0047beea56fcc1caf37a48e06</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562708</mtime>
+    <size>90185</size>
+    <md5>f7ddae2b4870ab037b71d4b20a3e44f6</md5>
+    <crc32>2aebc597</crc32>
+    <sha1>848544227ca494d25c17a205b19e9b83af7dc76f</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562712</mtime>
+    <size>64654</size>
+    <md5>5312d0b1099f336b0ea8128b96c5fd31</md5>
+    <crc32>4e6a05f3</crc32>
+    <sha1>02fecf4f63a043b17da5c4ea144858f0e39dd726</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562715</mtime>
+    <size>34151</size>
+    <md5>e7beb2a220a29e7c94840d9eb1e7955c</md5>
+    <crc32>fd7949c3</crc32>
+    <sha1>41f4762765235dfedb8d14f670e2ea1a440e4b8d</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562718</mtime>
+    <size>34942</size>
+    <md5>2df78fd65f97dd69f7e4689f43a0b08f</md5>
+    <crc32>1b8191cc</crc32>
+    <sha1>f8b286054687215dcfd1949ce9fd4f739d723719</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562721</mtime>
+    <size>126280</size>
+    <md5>c097d43a70643cb3589d7f09c3adb7bc</md5>
+    <crc32>3dd332cc</crc32>
+    <sha1>eb7146868e7476d3dfb228945f2517fe3fbb571b</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan.thumbs/Doukou. Hanfu Meets Japan. VLOG 1080p_000230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Japan. VLOG 1080p.mp4</original>
+    <mtime>1737562724</mtime>
+    <size>50367</size>
+    <md5>5d60e2854dfa55726c7ee921653533f9</md5>
+    <crc32>8bd63b9f</crc32>
+    <sha1>cea41ff76c5faae49251d8f83572e6e23ba4129c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-japan_archive.torrent" source="metadata">
+    <btih>d735aaa6850ca344f560669e0db3352610806db1</btih>
+    <mtime>1737600301</mtime>
+    <size>8076</size>
+    <md5>b0f68370d65826e4e7d6c4a27fb75855</md5>
+    <crc32>10403db8</crc32>
+    <sha1>5ac927f9dc757c86bff197fe791f850b988947e3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-hanfu-meets-japan_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c0fc24a7e6837c0a5d8e4eb16e21498c</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-hanfu-meets-japan_meta.sqlite" source="original">
+    <mtime>1737562574</mtime>
+    <size>36864</size>
+    <md5>01399b40adedba663b5090f87432938e</md5>
+    <crc32>b10ed4fa</crc32>
+    <sha1>620bf5aaa362086d6b4ea7385f4f57c6b252ce2c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-hanfu-meets-japan_meta.xml" source="original">
+    <mtime>1737600299</mtime>
+    <size>3424</size>
+    <md5>fb570d40073a376e4f3464b959d32d8e</md5>
+    <crc32>b701cbe4</crc32>
+    <sha1>7923b2587f9e1069d1883459177e0c6178e3a473</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

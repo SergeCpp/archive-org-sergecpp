@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Mao Zi. First Meeting (Eastern Palace) 1080p.mp4" source="original">
+    <mtime>1736072812</mtime>
+    <size>20358380</size>
+    <md5>587718c42c87061651eb3067902c9cd8</md5>
+    <crc32>0ae56168</crc32>
+    <sha1>438224d28c3d2b1364eb819493315eb706af2a48</sha1>
+    <format>MPEG4</format>
+    <length>61.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Mao Zi. First Meeting (Eastern Palace) 3128x1955_itemimage.png" source="original">
+    <mtime>1736072682</mtime>
+    <size>6562487</size>
+    <md5>c9504aec6af5f993fd66f51027d64d90</md5>
+    <crc32>ea0aa263</crc32>
+    <sha1>71bed804f972ad95e80c55dad3a4460fce10044a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Mao Zi. First Meeting (Eastern Palace) 3134x1960.jpg" source="original">
+    <mtime>1736072705</mtime>
+    <size>1012593</size>
+    <md5>8dced468cfc3635f6b5feda17b455bfc</md5>
+    <crc32>072a9c86</crc32>
+    <sha1>ac3d8607f24c733b9145b696a1168d372a6ff737</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Mao Zi. First Meeting (Eastern Palace) 3134x1960_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 3134x1960.jpg</original>
+    <mtime>1736072870</mtime>
+    <size>7292</size>
+    <md5>27d404ed53c4976fcb916eca1a61094f</md5>
+    <crc32>509404f0</crc32>
+    <sha1>a6d97f9dd68d0016411d44a8260d9b49238a571f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1736072745</mtime>
+    <size>10319</size>
+    <md5>a03b40e6ba2fafd54c65ef33c143ca42</md5>
+    <crc32>ace2d047</crc32>
+    <sha1>5f97a4534f7e916625f33297d9ad8f5ae8b81bae</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072844</mtime>
+    <size>19059</size>
+    <md5>c52657b9139a62fff50a1320c7fa3076</md5>
+    <crc32>31021a21</crc32>
+    <sha1>6a57f83518dbab07ca66a71cdad89de4063e859a</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072845</mtime>
+    <size>56465</size>
+    <md5>36fe55572d5784c365ca9892f84727f0</md5>
+    <crc32>b9aa5700</crc32>
+    <sha1>113820619366918c1f1710a4a49baf3148215f7a</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072845</mtime>
+    <size>57086</size>
+    <md5>082448d18a3130eeb6b91287f6bf2163</md5>
+    <crc32>c360ab72</crc32>
+    <sha1>b9a04820f7af4cf2fb69f4bd9c9e58859ce3ad3b</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072846</mtime>
+    <size>52221</size>
+    <md5>0acb791de51d4fc94d62e39015a10c8e</md5>
+    <crc32>26934a1c</crc32>
+    <sha1>70e5af8d28f435c85324697753667622b53ada2d</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072846</mtime>
+    <size>36410</size>
+    <md5>7e754e189bd2f8a53267f14564f218c9</md5>
+    <crc32>06a2a981</crc32>
+    <sha1>7eed4370d695222fc8cb0d4fb3a247fb26bc838a</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072846</mtime>
+    <size>51391</size>
+    <md5>766b8ee7d9df16d2a913f3ec6757b682</md5>
+    <crc32>c9c83f84</crc32>
+    <sha1>74ce9e1e095a4120fddbebbddd5d9d36fb1bb189</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072847</mtime>
+    <size>43716</size>
+    <md5>d76b5057912952675404b5c6db45eb96</md5>
+    <crc32>06490596</crc32>
+    <sha1>077c99709917f6c97bc2b2aec6aa3d8eeb53452d</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072847</mtime>
+    <size>44688</size>
+    <md5>842a7c4639042a86510a7553c5228cde</md5>
+    <crc32>98ddd114</crc32>
+    <sha1>6bd68d19eea031179d0f4c7b2097eccdd5d944f4</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072848</mtime>
+    <size>35052</size>
+    <md5>21534a588f5d78f8bd7b3f2cebbd7040</md5>
+    <crc32>747160a7</crc32>
+    <sha1>be2a49ca89a9d655f1d830161013126a05d7b6ec</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072848</mtime>
+    <size>49327</size>
+    <md5>56697918986129cfd45473e4f294130f</md5>
+    <crc32>ec44a46f</crc32>
+    <sha1>0c2c509f7535c8a9279cd9b3d848a71424530de8</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace.thumbs/Mao Zi. First Meeting (Eastern Palace) 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Mao Zi. First Meeting (Eastern Palace) 1080p.mp4</original>
+    <mtime>1736072848</mtime>
+    <size>8703</size>
+    <md5>4467b72c535c8aab6251ea457c930505</md5>
+    <crc32>71d99b30</crc32>
+    <sha1>9a7b60d39a20119238d9e4e2182e4ae3041c2325</sha1>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace_archive.torrent" source="metadata">
+    <btih>9f42f33fb1ae9201a6c6a52d46714d15f76bbaa3</btih>
+    <mtime>1737744191</mtime>
+    <size>3757</size>
+    <md5>0a11accd91ab96c28a18435380fb25b7</md5>
+    <crc32>70c18dbd</crc32>
+    <sha1>2cb98f5172811b6d357103510bfa9e21a03e6b03</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fed613be023f0b5509191f363b57a5c8</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace_meta.sqlite" source="original">
+    <mtime>1736072821</mtime>
+    <size>49152</size>
+    <md5>8e31bbd75f0c46692a7a2451cc1b1b96</md5>
+    <crc32>8f0d48a8</crc32>
+    <sha1>7bd561ec282879a6aa53314b65177bec7e01040b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="mao-zi-first-meeting-eastern-palace_meta.xml" source="original">
+    <mtime>1737744190</mtime>
+    <size>3768</size>
+    <md5>05d6a6010189708d67140a4577af8890</md5>
+    <crc32>2316d11b</crc32>
+    <sha1>97ba9c11d43b8f4627a31c468c5ab6bf03e02fe2</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

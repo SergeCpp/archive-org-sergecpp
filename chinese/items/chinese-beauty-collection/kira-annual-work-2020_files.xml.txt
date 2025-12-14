@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Kira. Annual Work 2020 1080p.mp4" source="original">
+    <mtime>1739704752</mtime>
+    <size>105621885</size>
+    <md5>2b736c2ea46f5eaa238b89267d466e29</md5>
+    <crc32>23e4b5b8</crc32>
+    <sha1>656a20e935e389ed1597a18cc93a5550032c7ff7</sha1>
+    <format>MPEG4</format>
+    <length>286.7</length>
+    <width>2538</width>
+    <height>1080</height>
+  </file>
+  <file name="Kira. Annual Work 2020 1144x715 BL60_itemimage.png" source="original">
+    <mtime>1739703869</mtime>
+    <size>1175770</size>
+    <md5>dcdb0628aac5305003a94e321d8992f3</md5>
+    <crc32>5d7532d4</crc32>
+    <sha1>0a22d906840c48c339ca5a43e21fb49f7c72dab1</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Kira. Annual Work 2020 1144x715.png" source="original">
+    <mtime>1739703889</mtime>
+    <size>1075564</size>
+    <md5>0d62f9f0c828a4ce7145aeec297c2cd6</md5>
+    <crc32>294cd41f</crc32>
+    <sha1>f8afadc2d1c4eca9f455ed2e0377444c810ea6ba</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Kira. Annual Work 2020 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Kira. Annual Work 2020 1144x715.png</original>
+    <mtime>1739705002</mtime>
+    <size>8900</size>
+    <md5>079c238110e779e85aa15f393292ae55</md5>
+    <crc32>2dadb185</crc32>
+    <sha1>3caf1a4fd3ef90c47689f73ea714f5e77dbb68d0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1739703943</mtime>
+    <size>15347</size>
+    <md5>0750c26cccd45521b7076578200c0dea</md5>
+    <crc32>70ea142d</crc32>
+    <sha1>fca5661d45ebfc9b20c1393e86f0d49d3a55ed9f</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704804</mtime>
+    <size>44053</size>
+    <md5>d213d1bacf753d33c9021c5ef4034e6d</md5>
+    <crc32>dc1b9944</crc32>
+    <sha1>2d1096a3cd7420d04bdc4196e210fbf6a7022876</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704807</mtime>
+    <size>36508</size>
+    <md5>1af494f4d65087bcfaab03422c944203</md5>
+    <crc32>280bf2aa</crc32>
+    <sha1>13fffccd31be611015446b9e4872c9f663d8ccd7</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704810</mtime>
+    <size>77307</size>
+    <md5>d36377db2fc2dc22676e36a341473877</md5>
+    <crc32>bb9a86a0</crc32>
+    <sha1>6f2bb04bcb13eb27ce6c7d51c34e93a13bffd1a4</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704813</mtime>
+    <size>75676</size>
+    <md5>b1fe25a474b2135477b9d8cb925e94d4</md5>
+    <crc32>e704a622</crc32>
+    <sha1>2ccac6acdf9b39d0066fddf5944fd0ae08659384</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704816</mtime>
+    <size>74162</size>
+    <md5>2b0bd70c146eabaf9eb49649df4818ae</md5>
+    <crc32>95ad869b</crc32>
+    <sha1>a492e192acd3aeeb8519f41a7fb0763e8bd0ed18</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704819</mtime>
+    <size>64884</size>
+    <md5>262fc8df250a1b6561db177d092ed25a</md5>
+    <crc32>03c39481</crc32>
+    <sha1>7cfe3206d588efd4d19af6e0425cfc4b47d8dc25</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704823</mtime>
+    <size>68706</size>
+    <md5>b3b5e357cf65a4cc36d61bc821f6ed6e</md5>
+    <crc32>1b4cebaf</crc32>
+    <sha1>fd813d68ee2117f1c1df8167d496ae2ecad09b2f</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704826</mtime>
+    <size>72803</size>
+    <md5>cb269c9a17b1d8506fb4b1d3bbd18bc2</md5>
+    <crc32>13db24be</crc32>
+    <sha1>ebacc26c076bc248104943537697b025e899cac8</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704830</mtime>
+    <size>77210</size>
+    <md5>907ef9a1567accab5468cb6a9d77b44c</md5>
+    <crc32>4bc11a9b</crc32>
+    <sha1>f0e4c94904cd023b449648ab4bfeddd1fd635bd1</sha1>
+  </file>
+  <file name="kira-annual-work-2020.thumbs/Kira. Annual Work 2020 1080p_000285.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira. Annual Work 2020 1080p.mp4</original>
+    <mtime>1739704831</mtime>
+    <size>3327</size>
+    <md5>ae9bc8b75e5e25e6a54991089f3925a1</md5>
+    <crc32>35b39efd</crc32>
+    <sha1>07d77dba1c87fed0897d296cc43c92c309fe40c1</sha1>
+  </file>
+  <file name="kira-annual-work-2020_archive.torrent" source="metadata">
+    <btih>2f1a1dffe76a92057967f170f0f6c1873e42e9ea</btih>
+    <mtime>1739705142</mtime>
+    <size>6612</size>
+    <md5>533d1c119a29f25dfa381251e6c6773f</md5>
+    <crc32>1d303f9c</crc32>
+    <sha1>5dc5cfa05dc7f4b281f0ff6c7389cc8db0005828</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="kira-annual-work-2020_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b7cd5f32b7c569c250433978becfbd22</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="kira-annual-work-2020_meta.sqlite" source="original">
+    <mtime>1739704758</mtime>
+    <size>36864</size>
+    <md5>bcfebaf8e10b74ec140526ab4888f4fb</md5>
+    <crc32>a26e3af4</crc32>
+    <sha1>3cffb4b3eaf2346ac35ae6d66f289ba328022825</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="kira-annual-work-2020_meta.xml" source="original">
+    <mtime>1739703883</mtime>
+    <size>2453</size>
+    <md5>fbc6aacf00a140380eea88977e8f18b5</md5>
+    <crc32>e893e218</crc32>
+    <sha1>ad4530cdd3855326078f313be3d662def651d4cf</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

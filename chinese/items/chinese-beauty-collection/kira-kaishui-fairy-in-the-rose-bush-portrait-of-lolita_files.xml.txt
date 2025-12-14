@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4" source="original">
+    <mtime>1739427881</mtime>
+    <size>293879327</size>
+    <md5>70dc9888b2a3188230d140ab4ffc7e4a</md5>
+    <crc32>df5c7c0c</crc32>
+    <sha1>27ba04fdaa2bf9e6020c6294afeadcb17eebd08a</sha1>
+    <format>MPEG4</format>
+    <length>799.38</length>
+    <width>2170</width>
+    <height>1080</height>
+  </file>
+  <file name="Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1144x715 BL60_itemimage.png" source="original">
+    <mtime>1739426920</mtime>
+    <size>1398654</size>
+    <md5>404420c86b241a82ad44d497cb6ecec7</md5>
+    <crc32>a6deaf0a</crc32>
+    <sha1>0fef00b26f37829d6cdeab2bd587f9a869286525</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1144x715.png" source="original">
+    <mtime>1739426944</mtime>
+    <size>1361953</size>
+    <md5>139601c0e91009c3a0a869bef75e91bc</md5>
+    <crc32>6a736a09</crc32>
+    <sha1>7871291c811e531bac0de85402097b533cf1341b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1144x715_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1144x715.png</original>
+    <mtime>1739428491</mtime>
+    <size>8905</size>
+    <md5>5a4bf0be764a1ebef0253dcbcdbcc2ce</md5>
+    <crc32>84aa7452</crc32>
+    <sha1>2ae04e6b970f2f5a963b6f6d4c7aff5d59395c11</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1739426985</mtime>
+    <size>16885</size>
+    <md5>268f175d9c18c706caad5360537e13c9</md5>
+    <crc32>c36f633c</crc32>
+    <sha1>cd75c0a630661742bb87a4110254b84dd3be91f1</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428262</mtime>
+    <size>30118</size>
+    <md5>5651a5fa6958e5ad3fc949cbe3508699</md5>
+    <crc32>3bcf3306</crc32>
+    <sha1>cb863a99022bbeaa6b9127bb378a0926141d2e34</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428267</mtime>
+    <size>26192</size>
+    <md5>554295137f8fab881633cb97f4644f53</md5>
+    <crc32>0df56b27</crc32>
+    <sha1>5c54f21479895b04a780bb16625d643a045b843f</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428271</mtime>
+    <size>78733</size>
+    <md5>3746a4d899de6355cacc03918de78913</md5>
+    <crc32>2e138c5d</crc32>
+    <sha1>fa21fd417806f13ccb19e23a080f449f855204f0</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428276</mtime>
+    <size>74926</size>
+    <md5>ba896dcb7a4c3b1e03724d5d445e8078</md5>
+    <crc32>66711ff2</crc32>
+    <sha1>996b263ff71d69328c9a6a57e9a51c1f8ca1cab8</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428280</mtime>
+    <size>79663</size>
+    <md5>8066f02c9dd84a3115cb057819e2d90b</md5>
+    <crc32>969c7a2e</crc32>
+    <sha1>254246e3e9bb0c7d7f617c5877c8b85d333c46d2</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428284</mtime>
+    <size>59101</size>
+    <md5>28d33485da6d39f91379b818e26c4c18</md5>
+    <crc32>c242f665</crc32>
+    <sha1>1a83e3a8891238198b7a360d3673eb75e5190a46</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428288</mtime>
+    <size>50252</size>
+    <md5>53a4594323e2c889f68c94721afec23f</md5>
+    <crc32>344fe2c8</crc32>
+    <sha1>9f0b2160e31dd5e340f3c3018d48bcc6433b75e7</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428292</mtime>
+    <size>56409</size>
+    <md5>3e324f6fd6dc3004918a81630c2d01dc</md5>
+    <crc32>5ca0f372</crc32>
+    <sha1>d22a482bb06529ca5422bbe404b88b7b26340b80</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428297</mtime>
+    <size>68162</size>
+    <md5>f61d83259924eb00f2ba4350c237cea1</md5>
+    <crc32>f6e89166</crc32>
+    <sha1>a362d0c5da6ad3cfcf7089d8b527e5ad08e86169</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428302</mtime>
+    <size>65077</size>
+    <md5>2b6bce2eecace919faa5731476f936e9</md5>
+    <crc32>67d7334d</crc32>
+    <sha1>ee9fc041a06e5875f830e206e5c0d9cc9d62b845</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428306</mtime>
+    <size>74374</size>
+    <md5>afa896e02384c53bf9431f34084f124d</md5>
+    <crc32>38ba9eef</crc32>
+    <sha1>bafc0bf497776f3116197d964072350f4dad7f17</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428310</mtime>
+    <size>78248</size>
+    <md5>ad832293bb02e6a6b27158453b56fc89</md5>
+    <crc32>58a37874</crc32>
+    <sha1>6ef52d8180f12f7d02b1a44861b66625820a87d7</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428314</mtime>
+    <size>80482</size>
+    <md5>5b710b7e9f6d35e3d31252d7f118abc0</md5>
+    <crc32>f1b5f485</crc32>
+    <sha1>13063a1811bbd881eb1151eda97cc099f87d2c05</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428318</mtime>
+    <size>65139</size>
+    <md5>44049dcd40fdd6ca5111c76e2a4a66eb</md5>
+    <crc32>413d6dd5</crc32>
+    <sha1>b1ee0bd5a66eed35aa0a9cc7ed14ae714112eab6</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428324</mtime>
+    <size>39011</size>
+    <md5>8986f809bec128ee83464260966fcd4f</md5>
+    <crc32>127019ba</crc32>
+    <sha1>499d5b10d3d1a748e9f28425d14bd1e9a403c541</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428329</mtime>
+    <size>60217</size>
+    <md5>f4d455b6d7bce2f03787b33ac03d44c9</md5>
+    <crc32>67f94c26</crc32>
+    <sha1>c07825b728398692b099c807bbea95f21903de31</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428333</mtime>
+    <size>67304</size>
+    <md5>120b9cbef9ab8e5775c485d2df0ce514</md5>
+    <crc32>2e6ecfee</crc32>
+    <sha1>7c85c4cfbcc2434c25ab5d147f5db099749f7da0</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428338</mtime>
+    <size>72698</size>
+    <md5>6039ab9628e0b33db1707e16da67bfc4</md5>
+    <crc32>3a8425ce</crc32>
+    <sha1>cac58c80494ee94229c4dd3da45db0135e98ac26</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428342</mtime>
+    <size>60947</size>
+    <md5>b0ea6592453f957098c804a4d117be86</md5>
+    <crc32>e2b0484d</crc32>
+    <sha1>7db5d19b93001be794813fe55d6975200b4c8f89</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428347</mtime>
+    <size>53803</size>
+    <md5>f609a600e205390ea38fdeed25571806</md5>
+    <crc32>4212001c</crc32>
+    <sha1>f3d443f8ec15c13cb81e199289b7d5f2eca61f00</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428351</mtime>
+    <size>45026</size>
+    <md5>9a8c39dc7d8b0fe52d5d145dea1b93e2</md5>
+    <crc32>bf47a667</crc32>
+    <sha1>7c9178ff3d069c02c7e7f6887e7991ce4af778c0</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000660.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428355</mtime>
+    <size>70127</size>
+    <md5>122cd23396b54514b26fc649d04b7525</md5>
+    <crc32>5a5b3775</crc32>
+    <sha1>b8cb36e612b4846155da7f692a7c069e678b8920</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428360</mtime>
+    <size>65588</size>
+    <md5>3ab171f32262d2b27a2c142185e34469</md5>
+    <crc32>e8e6d466</crc32>
+    <sha1>c8f141656d986e692b9934e7f3ad9de4f786fa3b</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000720.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428364</mtime>
+    <size>99624</size>
+    <md5>b137eb239456ff1da7439ff742a880cf</md5>
+    <crc32>a22e887d</crc32>
+    <sha1>e7fc939e4cf6c889962d7df8378c783c65bf38aa</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428368</mtime>
+    <size>89211</size>
+    <md5>4ccf41a32cb2f8b6c0bc5bec57aafa3d</md5>
+    <crc32>5ebcd64a</crc32>
+    <sha1>a23bdfbfad882d4bbda14084f84b204ae7ffa40f</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000780.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428373</mtime>
+    <size>56547</size>
+    <md5>762656e22141718ef21206cb747c0d03</md5>
+    <crc32>f954883b</crc32>
+    <sha1>2c2fef8c6327d2b504f30120c64fd1ea84c1c1fc</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita.thumbs/Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p_000795.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Kira x Kaishui. Fairy in the Rose Bush. Portrait of Lolita 1080p.mp4</original>
+    <mtime>1739428375</mtime>
+    <size>63072</size>
+    <md5>bfc40b4c823c598a0bd2366c4d331217</md5>
+    <crc32>c215dada</crc32>
+    <sha1>add6d668c6f15d8e0e9e0ecfdddef90724a4d836</sha1>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita_archive.torrent" source="metadata">
+    <btih>60749b5e6db2b701f867f19e8c8a1b90fb58fac7</btih>
+    <mtime>1739428690</mtime>
+    <size>14252</size>
+    <md5>11744ada201c22672aaa789fb758f020</md5>
+    <crc32>fc3e51bc</crc32>
+    <sha1>4185c716d871f431e5ac0ae8a693f9a83f3d9407</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6a67c7dd8b8ef78059fc022f8f860813</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita_meta.sqlite" source="original">
+    <mtime>1739427894</mtime>
+    <size>36864</size>
+    <md5>610b5fc463e8a203434244f5d3d32e06</md5>
+    <crc32>3541c650</crc32>
+    <sha1>d6832b6f4fffe5f13a22ef4f15d6201109cb400b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="kira-kaishui-fairy-in-the-rose-bush-portrait-of-lolita_meta.xml" source="original">
+    <mtime>1739426933</mtime>
+    <size>2492</size>
+    <md5>a5a35890653a7b9cb1df9b1020883a2e</md5>
+    <crc32>6f698e70</crc32>
+    <sha1>c1c41bfbcdb19a4f07f3ca70d56f4c3bc046aea8</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

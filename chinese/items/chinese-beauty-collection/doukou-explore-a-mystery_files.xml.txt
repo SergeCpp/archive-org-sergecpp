@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Explore a Mystery 1060x509.png" source="original">
+    <mtime>1737741641</mtime>
+    <size>1013675</size>
+    <md5>83ef9cfb7ebbb7694074f33c24b4e027</md5>
+    <crc32>7acefd32</crc32>
+    <sha1>1e6c8ecf7484aa689ae45f60dee3f60dbc1c14aa</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Doukou. Explore a Mystery 1060x509_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Explore a Mystery 1060x509.png</original>
+    <mtime>1737741896</mtime>
+    <size>7984</size>
+    <md5>6c7a43573fcd7f0374f28dac3ae6ba7a</md5>
+    <crc32>12554a99</crc32>
+    <sha1>5ba734e35262b7420756def89ef1c7fbb52ad211</sha1>
+  </file>
+  <file name="Doukou. Explore a Mystery 1080p.mp4" source="original">
+    <mtime>1737741821</mtime>
+    <size>45765401</size>
+    <md5>c3cd6b0eedb7c9c51df05f27ff53e7ef</md5>
+    <crc32>f27252c2</crc32>
+    <sha1>5271bb80ebe0739af90a2e5d8b6e6a051323b61e</sha1>
+    <format>MPEG4</format>
+    <length>138.41</length>
+    <width>2592</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Explore a Mystery 800x500 BL40_itemimage.png" source="original">
+    <mtime>1737741599</mtime>
+    <size>832176</size>
+    <md5>42ea6e925c944c9a08dd27074997264b</md5>
+    <crc32>b8490857</crc32>
+    <sha1>8f6efaf39474e0c507e0b52c0e0a1382f1a8f08a</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Explore a Mystery 800x500.png" source="original">
+    <mtime>1737741631</mtime>
+    <size>798898</size>
+    <md5>289272af4ca19675d3f35ae0f173a841</md5>
+    <crc32>234f1216</crc32>
+    <sha1>e03d0c1055024b87603e750f2367507d0587b7cc</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Doukou. Explore a Mystery 800x500_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Explore a Mystery 800x500.png</original>
+    <mtime>1737741906</mtime>
+    <size>9392</size>
+    <md5>42178e82bc78594c2741da968fa32345</md5>
+    <crc32>f9352979</crc32>
+    <sha1>b03c2f32677853728f9af053e0013d1e45a21628</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1737741686</mtime>
+    <size>16838</size>
+    <md5>ec7bbbdfaafa78cfdd644d022c99c432</md5>
+    <crc32>ff8b4aa2</crc32>
+    <sha1>27946d5f96bc9dfe8d3f3262e663cda8bdc60658</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="doukou-explore-a-mystery.thumbs/Doukou. Explore a Mystery 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Explore a Mystery 1080p.mp4</original>
+    <mtime>1737741863</mtime>
+    <size>30811</size>
+    <md5>6501546ac515032878599e6cff645ab6</md5>
+    <crc32>f326045e</crc32>
+    <sha1>d33f9f60bc32103c1a5dee117d0e04acfa24d751</sha1>
+  </file>
+  <file name="doukou-explore-a-mystery.thumbs/Doukou. Explore a Mystery 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Explore a Mystery 1080p.mp4</original>
+    <mtime>1737741867</mtime>
+    <size>38880</size>
+    <md5>f66c88159189d2f5c591c56e2278101a</md5>
+    <crc32>f93e7e3b</crc32>
+    <sha1>d2418a859ea1f1ae42b087555a330ce93820f816</sha1>
+  </file>
+  <file name="doukou-explore-a-mystery.thumbs/Doukou. Explore a Mystery 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Explore a Mystery 1080p.mp4</original>
+    <mtime>1737741871</mtime>
+    <size>12838</size>
+    <md5>c0c1850cf9b3e3054c7c7ce183d20b8d</md5>
+    <crc32>67ca10f5</crc32>
+    <sha1>e1620a1fb8289f539f59da813f86762a156e0429</sha1>
+  </file>
+  <file name="doukou-explore-a-mystery.thumbs/Doukou. Explore a Mystery 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Explore a Mystery 1080p.mp4</original>
+    <mtime>1737741875</mtime>
+    <size>53163</size>
+    <md5>8067d905cfbcd187d4bfeca5d95683d8</md5>
+    <crc32>84fcab8a</crc32>
+    <sha1>1fe23cf56d261970a42f93ea5be37c1e6bbfd194</sha1>
+  </file>
+  <file name="doukou-explore-a-mystery.thumbs/Doukou. Explore a Mystery 1080p_000135.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Explore a Mystery 1080p.mp4</original>
+    <mtime>1737741877</mtime>
+    <size>83294</size>
+    <md5>955fb496d4c0eb249dd654840508277f</md5>
+    <crc32>cac0f89e</crc32>
+    <sha1>bd8c6773947135eafe3249634867b0eca1a04024</sha1>
+  </file>
+  <file name="doukou-explore-a-mystery_archive.torrent" source="metadata">
+    <btih>77e617732d5d749a5b40523c5f8ad1b7f828b33c</btih>
+    <mtime>1737741924</mtime>
+    <size>4774</size>
+    <md5>8bf4f4405a7fa3882c0b504bdd36bd71</md5>
+    <crc32>6322d68c</crc32>
+    <sha1>ea04f58e5eaa22fee18e5704fea2da0bcff9cd5c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-explore-a-mystery_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6fa898503c582e606a27f5b855ccf06f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-explore-a-mystery_meta.sqlite" source="original">
+    <mtime>1737741829</mtime>
+    <size>49152</size>
+    <md5>ea9951d81184590375a51bf34161af80</md5>
+    <crc32>cd5096bf</crc32>
+    <sha1>9ed9eacea6241eedd1d065edcbe0e0a34200e5ce</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-explore-a-mystery_meta.xml" source="original">
+    <mtime>1737741626</mtime>
+    <size>3027</size>
+    <md5>9c1320ff99c9b857029e227e05a12c2d</md5>
+    <crc32>842c3493</crc32>
+    <sha1>0d993c4f2781034ef0236d17153b5979ddab8158</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Hanfu Meets Thailand 1080p.mp4" source="original">
+    <mtime>1737542012</mtime>
+    <size>39864522</size>
+    <md5>4eb248807a451eb8fc1de1b3e4b9719e</md5>
+    <crc32>66c70b0a</crc32>
+    <sha1>ef46a224e65ad58427b315d95b03c9f49c01d080</sha1>
+    <format>MPEG4</format>
+    <length>114.8</length>
+    <width>2174</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets Thailand 1728x1080 BL30-120_itemimage.png" source="original">
+    <mtime>1737541857</mtime>
+    <size>1051102</size>
+    <md5>52a86ccf90dbbb9d7d8a78f74dae8b7f</md5>
+    <crc32>093a405d</crc32>
+    <sha1>72129675bc52c6842d4d388ed15fe36837f49834</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Thailand 1728x1080.jpg" source="original">
+    <mtime>1737541870</mtime>
+    <size>135594</size>
+    <md5>bacc35faaed6e897f9a77d268706938d</md5>
+    <crc32>ae729530</crc32>
+    <sha1>4b2d02ea727f41bfd090224b663bbca14d7233ba</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Thailand 1728x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Hanfu Meets Thailand 1728x1080.jpg</original>
+    <mtime>1737542068</mtime>
+    <size>5900</size>
+    <md5>70e9f2c86f786b333ac37b3b447c4f93</md5>
+    <crc32>55d50263</crc32>
+    <sha1>94c1e42a4683246a61506803e15bb01339243461</sha1>
+  </file>
+  <file name="Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4" source="original">
+    <mtime>1737558814</mtime>
+    <size>273508609</size>
+    <md5>e0ca6956491acb8412e16d3c390a7f7c</md5>
+    <crc32>299d914d</crc32>
+    <sha1>da407defaa3887eb43fa5e753e1cd2a0fefbf220</sha1>
+    <format>MPEG4</format>
+    <length>718.75</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets Thailand. VLOG 1921x1200.jpg" source="original">
+    <mtime>1737557419</mtime>
+    <size>356048</size>
+    <md5>2b16d43c933e82053ab8bd3624834d27</md5>
+    <crc32>43a9386c</crc32>
+    <sha1>99c5b0cd638da508a1298b0e9bdd18db42362873</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Hanfu Meets Thailand. VLOG 1921x1200_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1921x1200.jpg</original>
+    <mtime>1737559039</mtime>
+    <size>8429</size>
+    <md5>107764d8465d0da77ce8a95653621d58</md5>
+    <crc32>13e26932</crc32>
+    <sha1>8f19969060ed1a4578f7ebbacdf6af077a079e27</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1737541912</mtime>
+    <size>7866</size>
+    <md5>67b77741b06393e0fb3cfea8fe8eb4b3</md5>
+    <crc32>403c805b</crc32>
+    <sha1>ef8234c6974408a89658fb7617e7227280eab28b</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542038</mtime>
+    <size>28350</size>
+    <md5>7eb084bc1efdeedb9a3cf171545d8877</md5>
+    <crc32>561c0302</crc32>
+    <sha1>7adf98cd140ad7c625f8cfb2b83274fd58f8f79d</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000015.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542039</mtime>
+    <size>37388</size>
+    <md5>4ea05ba9ffa2a270459b8446674b255b</md5>
+    <crc32>e43fdb82</crc32>
+    <sha1>d629934bf8dfc800615ed85733f685899c5b72ec</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542040</mtime>
+    <size>26194</size>
+    <md5>051146b788d75223957985315f004068</md5>
+    <crc32>a576bc0e</crc32>
+    <sha1>e5fce6ba0c5ba3c79a1ae7069066c7b97e75e897</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000025.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542040</mtime>
+    <size>24390</size>
+    <md5>953e54aba4017a4ed6de7ebda3e589d7</md5>
+    <crc32>f037dbf0</crc32>
+    <sha1>ca163ef5d802fb3436418b7f3fc4d550c62bb736</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542041</mtime>
+    <size>49937</size>
+    <md5>d65084438d02752475bf9bed059f298a</md5>
+    <crc32>808de285</crc32>
+    <sha1>b25a083b821f475c26221bc63fe6890c7b238bf3</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000035.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542041</mtime>
+    <size>72269</size>
+    <md5>c4613b67b02ca9d874e84726346dccbe</md5>
+    <crc32>39bc2f3e</crc32>
+    <sha1>c571aeca9f5552e257c645007361279618503a13</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542042</mtime>
+    <size>64755</size>
+    <md5>bdd741ec13ad0cf2f402418b3a66693f</md5>
+    <crc32>59c368c3</crc32>
+    <sha1>2cbdac1bbc9c98f4a93dbb030cafa2efa3b1cb21</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000045.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542042</mtime>
+    <size>34669</size>
+    <md5>7fd091e203578012221d8d65c8d94c35</md5>
+    <crc32>4024e011</crc32>
+    <sha1>ecedba7fcea40d58813c9139722b0396016559c7</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542043</mtime>
+    <size>30769</size>
+    <md5>ea70e7dae94a19808f65552c3c52816d</md5>
+    <crc32>3a179866</crc32>
+    <sha1>a0d4146ddb63fd093ce5c8bda42628950b9fe439</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000055.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542043</mtime>
+    <size>53025</size>
+    <md5>0230380e54bf6c9c6b807b3a1903091f</md5>
+    <crc32>bb1729b5</crc32>
+    <sha1>043dd9630f38e31c7ff1ccced54cb49b0a3d9215</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542044</mtime>
+    <size>40677</size>
+    <md5>eb5bb69a1131c3560520990d0c7089f7</md5>
+    <crc32>f1ec931e</crc32>
+    <sha1>e69da685cb1480a2ebf0b3001c5611724c8aab1b</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000065.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542044</mtime>
+    <size>29621</size>
+    <md5>7b25b0e0de4643db9780a6b0c526c39f</md5>
+    <crc32>1f7202c2</crc32>
+    <sha1>f2d9a04f0c43de453e96640206ad84dd38707db9</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542045</mtime>
+    <size>41011</size>
+    <md5>7159bc37c410276ad16694d9df9f488c</md5>
+    <crc32>81839e42</crc32>
+    <sha1>ba876ceaa24d01f1f945d0599953e23994fec8f1</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000075.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542045</mtime>
+    <size>34353</size>
+    <md5>80ed40016ac1c822407d13b394300ef0</md5>
+    <crc32>5a592697</crc32>
+    <sha1>b1896ccd11af8b6a1f77c1df99c714aa973bf0f3</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542046</mtime>
+    <size>34905</size>
+    <md5>25a4450d983b96932347d31bf7f00883</md5>
+    <crc32>3b05e79c</crc32>
+    <sha1>144cf045e1035beeef5bd93161a6bc2c033ed960</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000085.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542047</mtime>
+    <size>87827</size>
+    <md5>082b877ba5c7766caf27be6051dc16a7</md5>
+    <crc32>c29b26cd</crc32>
+    <sha1>f84f10797c7276194132864d6e4deb5122859320</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542047</mtime>
+    <size>65919</size>
+    <md5>048205cc6270704c4e446f631d13e0b8</md5>
+    <crc32>5634901d</crc32>
+    <sha1>8e99c73853c7932ac8b433e8c6283831a9af26ee</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000095.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542048</mtime>
+    <size>43067</size>
+    <md5>24e093c72576fb49f4463e4474b95b86</md5>
+    <crc32>10752693</crc32>
+    <sha1>e107401a7c0bc79635d9c573ece2b53abb859ba7</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542048</mtime>
+    <size>18088</size>
+    <md5>240b85c712279db860955874e5b55aec</md5>
+    <crc32>d5754b70</crc32>
+    <sha1>b945a308773a8f1b43e110efb411226de5776452</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000105.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542049</mtime>
+    <size>35611</size>
+    <md5>415929b128a929560baa5bff3668d90c</md5>
+    <crc32>01fdb404</crc32>
+    <sha1>59b53235f2e23648b0a97bbdc8c21b88fe4e7409</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand 1080p_000110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand 1080p.mp4</original>
+    <mtime>1737542050</mtime>
+    <size>3510</size>
+    <md5>4b81310954351070cd63fcadd209cb59</md5>
+    <crc32>2b21b411</crc32>
+    <sha1>f4926092946c4c39b377b6fd9358cfe86a24b0ba</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558922</mtime>
+    <size>51621</size>
+    <md5>04fb48ae829511f7690cedd1973c1323</md5>
+    <crc32>aa978d0c</crc32>
+    <sha1>a543f45aa80c29abf5bb352f82f5b962c1a564c5</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558925</mtime>
+    <size>49464</size>
+    <md5>67d3e5a313539435a51eeb63ef3fea2e</md5>
+    <crc32>ed98c0e2</crc32>
+    <sha1>cdb4bcc481c044970614707dc25597ea04f667f2</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558929</mtime>
+    <size>59880</size>
+    <md5>367cc72c750995555927f75cd2907b33</md5>
+    <crc32>12036797</crc32>
+    <sha1>4fb2c91b27e5283a5840cd6dafc53613a072598f</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558932</mtime>
+    <size>76383</size>
+    <md5>f802bb5d91239c0b135e6696e9b875ad</md5>
+    <crc32>c101a7a4</crc32>
+    <sha1>9f90280856633b4b6d0ad74b9107eb0f71089905</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558936</mtime>
+    <size>67103</size>
+    <md5>5a1d8407b89d4abec6a3dacb6ab1729a</md5>
+    <crc32>0262ba50</crc32>
+    <sha1>879c85dfce54d25428573c5376b01dbbb1237f64</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558939</mtime>
+    <size>85991</size>
+    <md5>04b3df2702f593be931b0b0212cb55fe</md5>
+    <crc32>fda34d04</crc32>
+    <sha1>f1ec2dd1e2fdc4305e4a7be6c8e8730fe07f4693</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558943</mtime>
+    <size>65454</size>
+    <md5>894d5630178344780b4569ddcfcfc03c</md5>
+    <crc32>c13e402e</crc32>
+    <sha1>36854ee6defe9a4e7e5ddeeec3f9c68f108d22dd</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558946</mtime>
+    <size>128608</size>
+    <md5>1da3bd95660ea7da3e539f9b548c1608</md5>
+    <crc32>1595b966</crc32>
+    <sha1>76040411093d65138e63aa51e86413a0d89034bb</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558950</mtime>
+    <size>66248</size>
+    <md5>0c9411018d2cba9058b96e36c443d010</md5>
+    <crc32>a7181c35</crc32>
+    <sha1>efbb85249ddff8e03d15a05070d28aa3ee63cd1d</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558954</mtime>
+    <size>68775</size>
+    <md5>00506d1d445165841df2f7533f417b19</md5>
+    <crc32>5c09e560</crc32>
+    <sha1>c7800d33d2882a2b122439e3eccae991f393f4b1</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558958</mtime>
+    <size>40885</size>
+    <md5>9b73dfb7f12a64c4f10a1a32add91ed8</md5>
+    <crc32>a909835b</crc32>
+    <sha1>c7b0c29608359c19b11bee0e72f78479e021c16d</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558962</mtime>
+    <size>58802</size>
+    <md5>a1f8bb6f46334278d7a824bc66179a99</md5>
+    <crc32>4e7baaf1</crc32>
+    <sha1>2e782a658e14829ea5d74737a29ad15d5af925f0</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558966</mtime>
+    <size>51469</size>
+    <md5>e9117ea5f51946f29539b11c9c5999c3</md5>
+    <crc32>4f2154b5</crc32>
+    <sha1>ee4ed03072493efa9880c52547467d372d2b5f57</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558969</mtime>
+    <size>28233</size>
+    <md5>4f6c5cfe092813fa4749a83e70e69096</md5>
+    <crc32>6cdb2849</crc32>
+    <sha1>ef35f6869e767fcf821ede7712445a22c764f262</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558974</mtime>
+    <size>59115</size>
+    <md5>94f3fe49238077836b2fdd1e081b2194</md5>
+    <crc32>3ee93caa</crc32>
+    <sha1>c8eda8dc5719e62b5875942059a0e5331f660025</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558978</mtime>
+    <size>101258</size>
+    <md5>491e871d8d0852880df652b3e9a9dc51</md5>
+    <crc32>4db9100d</crc32>
+    <sha1>1c3bc062e5b3bf0ef14c6f73b1ce66c9935cfb44</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558981</mtime>
+    <size>83207</size>
+    <md5>ead8061e3e8c226d0fa765df89df9a87</md5>
+    <crc32>ce832f91</crc32>
+    <sha1>0d08d5a7243f68b942cedc343273d8ade0407740</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558985</mtime>
+    <size>91894</size>
+    <md5>b0e9243414a45278035a697c0769ce55</md5>
+    <crc32>9cf227a5</crc32>
+    <sha1>ea217ec3388cc79ffdccb012be269d0428779686</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558989</mtime>
+    <size>99739</size>
+    <md5>27b862d88229c6dca71161e88f109a3d</md5>
+    <crc32>c6b56ee2</crc32>
+    <sha1>656840e5a8c29f0bcd49c93082e64ed59ba9c715</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558993</mtime>
+    <size>80917</size>
+    <md5>37584b250efbe4e36883db4baf17e92a</md5>
+    <crc32>2ad868d3</crc32>
+    <sha1>145415163346b2c96194d7135569bdf74f16390e</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737558996</mtime>
+    <size>40709</size>
+    <md5>d52fb4d553fa663b84592911907d2f7b</md5>
+    <crc32>45ae6fdf</crc32>
+    <sha1>286c677d2928403707537d3c08cf82db638a79dd</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000660.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737559000</mtime>
+    <size>61433</size>
+    <md5>1579e950a0470286862a2cb80abb9b8b</md5>
+    <crc32>4aec4bad</crc32>
+    <sha1>02ee4c23b32f725706c1b446c1e79a3f5ba039c7</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737559003</mtime>
+    <size>87593</size>
+    <md5>1ce48746f2bdf03c712e6270a1e35794</md5>
+    <crc32>dec034df</crc32>
+    <sha1>c61aa49a4ed925e3bdc4e217b9f75e45386fc7da</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand.thumbs/Doukou. Hanfu Meets Thailand. VLOG 1080p_000715.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets Thailand. VLOG 1080p.mp4</original>
+    <mtime>1737559006</mtime>
+    <size>56113</size>
+    <md5>8562ff8776a43e8ed59b5096ca3be1d3</md5>
+    <crc32>a74d82b6</crc32>
+    <sha1>9880602048e2dc4fce73e7e28ff5d840e9572002</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-thailand_archive.torrent" source="metadata">
+    <btih>55ce75354b867d3819659aafea55e28cb8923ff9</btih>
+    <mtime>1737559620</mtime>
+    <size>15207</size>
+    <md5>67eae476a9247e8c884d47a3b509027b</md5>
+    <crc32>fb930f30</crc32>
+    <sha1>c760f94357595ce46c59a0836110e1c853237e19</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-hanfu-meets-thailand_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>badb896b1f6085402c08225bcbd5acef</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-hanfu-meets-thailand_meta.sqlite" source="original">
+    <mtime>1737558848</mtime>
+    <size>40960</size>
+    <md5>d4d8131ea5a85b39430012fa9554e150</md5>
+    <crc32>19d794aa</crc32>
+    <sha1>78d430285244a55e97d45d8a28d0d7b9ccc9f401</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-hanfu-meets-thailand_meta.xml" source="original">
+    <mtime>1764423347</mtime>
+    <size>3380</size>
+    <md5>604add2d706dbff09d2800b1df918b0b</md5>
+    <crc32>aa74b879</crc32>
+    <sha1>e09f3ffede4de72b68a3983e86ae175745e1dd76</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

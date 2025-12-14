@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doukou. Hanfu Meets France 1080p.mp4" source="original">
+    <mtime>1737617936</mtime>
+    <size>48656929</size>
+    <md5>e9d11a08050476ab04af1e78ece1bff2</md5>
+    <crc32>4f2360ab</crc32>
+    <sha1>3ea442e0437dc9c4893de1f2747acdc249b56623</sha1>
+    <format>MPEG4</format>
+    <length>120.04</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets France 1600x1000 BL40-130_itemimage.png" source="original">
+    <mtime>1737617776</mtime>
+    <size>2102662</size>
+    <md5>7a77833052175ee7bde90823eb32d505</md5>
+    <crc32>ccb26791</crc32>
+    <sha1>73fe4bf09618ad2ddfb71174b635169d2306be9e</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Doukou. Hanfu Meets France 1600x1000.jpg" source="original">
+    <mtime>1737617794</mtime>
+    <size>328327</size>
+    <md5>8c923e0640463f0dece90388055a91dd</md5>
+    <crc32>309e0e2d</crc32>
+    <sha1>3696c05eeecb86d5bddbb59a30a2fedf3936ad71</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Hanfu Meets France 1600x1000_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Hanfu Meets France 1600x1000.jpg</original>
+    <mtime>1737618035</mtime>
+    <size>8294</size>
+    <md5>92b50cd6ae2b68a121c856abcb34f4b8</md5>
+    <crc32>9ab6323c</crc32>
+    <sha1>c888ee0dc22ca33afa78c4c5ee302ce0807b5c63</sha1>
+  </file>
+  <file name="Doukou. Hanfu Meets France. VLOG 1080p.mp4" source="original">
+    <mtime>1737619140</mtime>
+    <size>406242927</size>
+    <md5>5d1202ca20a8078dd25eb60b32d5303a</md5>
+    <crc32>4427da6c</crc32>
+    <sha1>7a4d2c1fa5cedec2dc36f9396daf691eea33d581</sha1>
+    <format>MPEG4</format>
+    <length>815.25</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Doukou. Hanfu Meets France. VLOG 1827x1142.jpg" source="original">
+    <mtime>1737618129</mtime>
+    <size>683994</size>
+    <md5>d9565b45ef9cfe348c0ff4667ca2e910</md5>
+    <crc32>944c2a54</crc32>
+    <sha1>03ec76a7fec5682b4edce5398d93f131d1c9a265</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Doukou. Hanfu Meets France. VLOG 1827x1142_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1827x1142.jpg</original>
+    <mtime>1737619828</mtime>
+    <size>9212</size>
+    <md5>8d4994ed3b8efc5a1f363a8f2a61099a</md5>
+    <crc32>6bf03f62</crc32>
+    <sha1>99e71b7a50458cca79a21d6864995ef4d2b7824e</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1737617841</mtime>
+    <size>12732</size>
+    <md5>b0ba1e00e2aa86b12db579ce7a8ef8f7</md5>
+    <crc32>4a4477a3</crc32>
+    <sha1>b70e0b93bc0871382d8941f4ad75aac57a4478cb</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France 1080p.mp4</original>
+    <mtime>1737618000</mtime>
+    <size>63385</size>
+    <md5>fc132bf907ca50a4f8b1165642815742</md5>
+    <crc32>213ed4dc</crc32>
+    <sha1>8ab1158a4086ca3b7666c93d2f4d9b3fb409a79e</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France 1080p.mp4</original>
+    <mtime>1737618006</mtime>
+    <size>53598</size>
+    <md5>ad3c2533e6b13812f5228417c272a54c</md5>
+    <crc32>f67a4dcb</crc32>
+    <sha1>fbc76c23c0bf43856d3f0ca228661409c12122b2</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France 1080p.mp4</original>
+    <mtime>1737618011</mtime>
+    <size>55177</size>
+    <md5>1891ca1bd9aaf84397330785b397885c</md5>
+    <crc32>dba72ba6</crc32>
+    <sha1>1b8119d4b3df35225bbbc145bbfb7ad5c0f2101c</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France 1080p.mp4</original>
+    <mtime>1737618016</mtime>
+    <size>8988</size>
+    <md5>9409c4539411a4c8884a93788b3f23c7</md5>
+    <crc32>d95b22a4</crc32>
+    <sha1>61e3bf30e4d8d2d14f0c47170977313396abd096</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619440</mtime>
+    <size>28471</size>
+    <md5>9997fb90b73bfa018245a8ec86bc43f2</md5>
+    <crc32>b7a83d24</crc32>
+    <sha1>2eae234abe15841cc59c773dde5a2b5d93df91f4</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619444</mtime>
+    <size>83608</size>
+    <md5>fa57cb6d30ccf71f70d9dc6f0d6e4449</md5>
+    <crc32>e57ca4bd</crc32>
+    <sha1>89505ad25f62afb10ac3b969462d530413ceab9f</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619448</mtime>
+    <size>57502</size>
+    <md5>309c026c3e04897e4431ac7be20a5f4d</md5>
+    <crc32>18cc0652</crc32>
+    <sha1>7c1ed07886eb30eae4c6b67b88f06fbfa2eb51b9</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619451</mtime>
+    <size>52306</size>
+    <md5>5b9bd0d197196d101ddd6101e54832ef</md5>
+    <crc32>971a8c6a</crc32>
+    <sha1>52cb777888a9b6183bf636c520d1f22c2f651e6f</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000147.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619455</mtime>
+    <size>10588</size>
+    <md5>0d581b9ca6de4ca416d987930b9e1230</md5>
+    <crc32>af69f264</crc32>
+    <sha1>b2ca250b46cad3bdd9354d0b3c8fdd319f033123</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000177.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619458</mtime>
+    <size>31147</size>
+    <md5>5973343093ddd05934d52e504906f514</md5>
+    <crc32>a3a1423f</crc32>
+    <sha1>894b519a3252d5a6f94b56d28655e69d7f6bcb7e</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619462</mtime>
+    <size>99297</size>
+    <md5>28c897e11caddc2b20e69bafbaf024bd</md5>
+    <crc32>7c3521a3</crc32>
+    <sha1>e0ca9bc3ec211acce7f2a9e81baeda308fc4f353</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619466</mtime>
+    <size>61261</size>
+    <md5>b08e5cddd28550a44615666ca99f3d8c</md5>
+    <crc32>88a50923</crc32>
+    <sha1>7d68329ee76b836c27cb9994e964c2114da8647f</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619470</mtime>
+    <size>54106</size>
+    <md5>0bac7b79dd8f3d27697390aa1c13ab21</md5>
+    <crc32>192228b5</crc32>
+    <sha1>72fec3d58dcf59eaeae97956eed49553d27be362</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000298.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619474</mtime>
+    <size>73491</size>
+    <md5>3d8f42bee49736886e7887d16cc9c26b</md5>
+    <crc32>594c376c</crc32>
+    <sha1>9e8fb773fc4a52e6150737e4e80e2efba75c0f27</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000329.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619478</mtime>
+    <size>63805</size>
+    <md5>07d7d989bc8a4c66d23038e3756b1d0f</md5>
+    <crc32>f0b542c8</crc32>
+    <sha1>a561eb33d4d06f3da9e37bd73bcd21147fd4bc5a</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000357.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619481</mtime>
+    <size>98664</size>
+    <md5>d216529516a77d0e8cb51933198a55b1</md5>
+    <crc32>8a1ca44c</crc32>
+    <sha1>bcd40b916ca5d177458bcd5f5e2cd763160caefa</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000388.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619486</mtime>
+    <size>48883</size>
+    <md5>e8e7286250c7cc6401b5cc70accb0460</md5>
+    <crc32>d326f613</crc32>
+    <sha1>584e7b80eab24283217b2baeea00ad1c90d90c7e</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619490</mtime>
+    <size>36895</size>
+    <md5>1dd9a8f7943de0335c823d2d09fd71ff</md5>
+    <crc32>f418349a</crc32>
+    <sha1>b1131f038de61964dcce3f5cc59c17d7955de5f4</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000448.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619493</mtime>
+    <size>65932</size>
+    <md5>7f65d9c74fa7bbf9ec3508fd45b34832</md5>
+    <crc32>cb69dfc6</crc32>
+    <sha1>dad0e34c831ebfc50ef2965deb9d12c8f6329208</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619498</mtime>
+    <size>56955</size>
+    <md5>f974163c23247488ea2d5ce955d53960</md5>
+    <crc32>b32eb290</crc32>
+    <sha1>5b9236066b2d80f291a69b42420a03a93beb3ff8</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000507.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619501</mtime>
+    <size>75729</size>
+    <md5>957920285c4a86f6f75ba75abc879ea3</md5>
+    <crc32>7c31ed3f</crc32>
+    <sha1>b1262a86f9bf29df3aeda127aa7c8c353788976f</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000537.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619504</mtime>
+    <size>24808</size>
+    <md5>6439371d3c3d46685b9874946e5582c5</md5>
+    <crc32>40acbd06</crc32>
+    <sha1>21c2c37a6fc78c672ce058f62046476f78141c70</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619509</mtime>
+    <size>88790</size>
+    <md5>50cb250d3f9478ea89d05b06ff7ce6c2</md5>
+    <crc32>e8b886bc</crc32>
+    <sha1>39bdd98ba0cc698cc9eec48a2273bb46b53e38e1</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000597.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619512</mtime>
+    <size>112970</size>
+    <md5>9be7d430773eb153fc7137f54a1daea8</md5>
+    <crc32>e324d6b0</crc32>
+    <sha1>e86b952eedbb054cdc214b2170898b51240f5614</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619515</mtime>
+    <size>70940</size>
+    <md5>92b1b692f47f1d544d04b6ec5992ccb2</md5>
+    <crc32>e802b968</crc32>
+    <sha1>7d09bbece7c6b2633ff8dfec4840a2da9ac356ef</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000658.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619519</mtime>
+    <size>77125</size>
+    <md5>0079a73b7fd296e2942775c1bd6e6eb2</md5>
+    <crc32>b590c235</crc32>
+    <sha1>2219f7b03f430f4fca63d12678b1fb31d1f0a880</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000688.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619522</mtime>
+    <size>78762</size>
+    <md5>a034bf0717396be1fe389ee9543c9eca</md5>
+    <crc32>a72e040f</crc32>
+    <sha1>10e1eb83a2394ca1410e1882b2fa13575affe423</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000717.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619526</mtime>
+    <size>79793</size>
+    <md5>8fc66c13b1bc357256af64a296ea95c7</md5>
+    <crc32>7e1da602</crc32>
+    <sha1>0534ca761c0fc4a4f84e9b6da1611f0029226fd6</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000747.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619530</mtime>
+    <size>64471</size>
+    <md5>551c1cd9ed8a5b640c3aba588720dede</md5>
+    <crc32>1e2f1320</crc32>
+    <sha1>139f6d4e32efa6f9f8adfbc82e2fd8eb67c5ba94</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000777.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619534</mtime>
+    <size>56913</size>
+    <md5>a559dde8538dc9074c49735544d1e3ea</md5>
+    <crc32>a01145fe</crc32>
+    <sha1>8a894f38f4d80d93c2811c2cbd878bde7efbe1b0</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000807.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619537</mtime>
+    <size>61204</size>
+    <md5>fc207545ab11c777b5ecae40d0b557bc</md5>
+    <crc32>2ea965c7</crc32>
+    <sha1>d51383deea83f669b17b4c1147f8e0974f45ece8</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france.thumbs/Doukou. Hanfu Meets France. VLOG 1080p_000811.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Doukou. Hanfu Meets France. VLOG 1080p.mp4</original>
+    <mtime>1737619539</mtime>
+    <size>8608</size>
+    <md5>044ff4b7bf88f331e056c782e391ec71</md5>
+    <crc32>e3a71710</crc32>
+    <sha1>3b2a0d279ba017211299e55f12cc604ff69568dc</sha1>
+  </file>
+  <file name="doukou-hanfu-meets-france_archive.torrent" source="metadata">
+    <btih>241740ef08e32901a6e6d9a24110af5a99eb02e9</btih>
+    <mtime>1737619870</mtime>
+    <size>20636</size>
+    <md5>bcf99f7ceebf58d0c99c1101df52db25</md5>
+    <crc32>86cedac5</crc32>
+    <sha1>f08bbc1d45e1fc415575e5a9d8155ac075db0dc5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doukou-hanfu-meets-france_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7bea8ad82e1326c734c6f95f967e3b05</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doukou-hanfu-meets-france_meta.sqlite" source="original">
+    <mtime>1737619151</mtime>
+    <size>49152</size>
+    <md5>fc74ebabf52e65bfc344bb772ed33b02</md5>
+    <crc32>c1adeda4</crc32>
+    <sha1>6d903d4b0a544d06e4f203d424d4cc966953e1df</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doukou-hanfu-meets-france_meta.xml" source="original">
+    <mtime>1737617791</mtime>
+    <size>4186</size>
+    <md5>1fd3d6298af3763926cc2f1d79923c9f</md5>
+    <crc32>addc5abd</crc32>
+    <sha1>56a9399fd6e5265d4ed432c83513ce8e1af80a38</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
