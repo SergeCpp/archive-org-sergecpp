@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Lingyuan Yousa. A Bit Affected 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214693</mtime>
+    <size>130615734</size>
+    <md5>9f39a6920039b90e0cecc71cd9ae720c</md5>
+    <crc32>1d5eb970</crc32>
+    <sha1>9dd11acb9d26b80b94e903a0fdb0602068d134d2</sha1>
+    <length>238.96</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lingyuan Yousa. A Bit Affected 1080p.mp4" source="original">
+    <mtime>1735214581</mtime>
+    <size>130615734</size>
+    <md5>2c6cec8e55996925904c1f19141989a2</md5>
+    <crc32>2c724dbd</crc32>
+    <sha1>3ce2eb2dad03b9d8ed2587cfd6bfa33e9b2aa079</sha1>
+    <format>MPEG4</format>
+    <length>238.96</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lingyuan Yousa. A Bit Affected 1200x750_itemimage.png" source="original">
+    <mtime>1735213009</mtime>
+    <size>1130008</size>
+    <md5>55f9ebccc5a1e9c84bf01d213b190540</md5>
+    <crc32>97889c1e</crc32>
+    <sha1>bb79d9066cb12e1d9f167ef5a911f84aec3bd18c</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Lingyuan Yousa. A Bit Affected 1200x900.jpg" source="original">
+    <mtime>1735213029</mtime>
+    <size>137569</size>
+    <md5>14fd14e8231ef90f28446e9e49834b2a</md5>
+    <crc32>4e5d7236</crc32>
+    <sha1>e90526b8936992cdb20ecd7b8109dd0d245e47ee</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Lingyuan Yousa. A Bit Affected 1200x900_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lingyuan Yousa. A Bit Affected 1200x900.jpg</original>
+    <mtime>1735214711</mtime>
+    <size>10244</size>
+    <md5>151ace3bf3984926028538d48e6fe123</md5>
+    <crc32>db3c1421</crc32>
+    <sha1>20a640fa6feee6776fe3a54f575db5eea1e776ac</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1735213072</mtime>
+    <size>15170</size>
+    <md5>858b03e6c72a05070fb47880670a7c19</md5>
+    <crc32>8215250c</crc32>
+    <sha1>fedf7aa17236c874aff5cd343cf3884fd8421db0</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214621</mtime>
+    <size>15875</size>
+    <md5>b70b663c4304edbb4c564492108243db</md5>
+    <crc32>e3847613</crc32>
+    <sha1>af1d2dd2a21afa871646ef94b5ced19ced80c09e</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214625</mtime>
+    <size>40833</size>
+    <md5>f781c552fbe110a3af2d7e243984e712</md5>
+    <crc32>ed2f0c1c</crc32>
+    <sha1>3b866cec9b6c9be00914880019bc49cedaa64a5c</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214628</mtime>
+    <size>71442</size>
+    <md5>5d03e66c6d98b2ff5f6764e58c250fd8</md5>
+    <crc32>d957c216</crc32>
+    <sha1>c1043298c4474fb26db0082ed553d79ae6a0ecdc</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214631</mtime>
+    <size>74198</size>
+    <md5>b1f2a537618fd8fa0c8df249871d8944</md5>
+    <crc32>03ea902f</crc32>
+    <sha1>f5e02161a604c2eac8aef8a2767fc316bacad037</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000151.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214635</mtime>
+    <size>81280</size>
+    <md5>62d16d26ca87973e7f24aaafd6987f5e</md5>
+    <crc32>df7d7c63</crc32>
+    <sha1>2785d8cdd3e6be9fdc3475da63fc1a8b0500cb19</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214638</mtime>
+    <size>92641</size>
+    <md5>676a7343c93c0afa2726c15f7dfb581c</md5>
+    <crc32>5f1721cc</crc32>
+    <sha1>673bac3e3a8bf35735e0cab0da534ca41f7efef4</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214641</mtime>
+    <size>57125</size>
+    <md5>87958531168bc4a36d2a17ca96e20b04</md5>
+    <crc32>0608d270</crc32>
+    <sha1>678d9af2a703299aecc7948ad36c6c5890a857ea</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected.thumbs/Lingyuan Yousa. A Bit Affected 1080p_000233.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lingyuan Yousa. A Bit Affected 1080p.mp4</original>
+    <mtime>1735214644</mtime>
+    <size>74855</size>
+    <md5>64a40ae0deb717ef3952e816f759bb37</md5>
+    <crc32>f6981ffb</crc32>
+    <sha1>f530a305f1ba72ccc65659d7566ced5b2a4f2111</sha1>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected_archive.torrent" source="metadata">
+    <btih>8c833e2c8468725a57dd97e46ff82e34f5fd9165</btih>
+    <mtime>1735214719</mtime>
+    <size>12811</size>
+    <md5>7a123d48872d24cb7d031e69a2ac8103</md5>
+    <crc32>0d057a5a</crc32>
+    <sha1>838d13799921422aa7a91954781cc7f00288d14d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>131b20b029f635aae9b05b9360ea5df6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected_meta.sqlite" source="original">
+    <mtime>1735214588</mtime>
+    <size>36864</size>
+    <md5>ea18a91d55dc79033491abdc9e77fa8f</md5>
+    <crc32>7f3158b4</crc32>
+    <sha1>26ef19e1ceee4569f568275c76bcc218247fd2f0</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="lingyuan-yousa-a-bit-affected_meta.xml" source="original">
+    <mtime>1735213026</mtime>
+    <size>2347</size>
+    <md5>c149ed0c0ce5141dd9733c23879ef50f</md5>
+    <crc32>b15f8d21</crc32>
+    <sha1>33dc49d8972126bb8d5395a40658826a7bc425f8</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

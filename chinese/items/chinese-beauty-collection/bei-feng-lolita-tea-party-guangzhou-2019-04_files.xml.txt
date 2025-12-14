@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1072x670 Lv R30-240 G225 B10-225 Lv GB245.png" source="original">
+    <mtime>1715672673</mtime>
+    <size>752735</size>
+    <md5>33b4e8cef9d217a3ee8e007bf15e9f32</md5>
+    <crc32>5c5eefb4</crc32>
+    <sha1>281e17680361f863f581b21dd235f37463b5b47d</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1072x670 Lv R30-240 G225 B10-225 Lv GB245_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1072x670 Lv R30-240 G225 B10-225 Lv GB245.png</original>
+    <mtime>1715672786</mtime>
+    <size>7033</size>
+    <md5>9272385e058aaff9d719b807c933daf2</md5>
+    <crc32>ee7ea873</crc32>
+    <sha1>1cb618e17caa64425b91a16316ac90d7308b7662</sha1>
+  </file>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1072x670.png" source="original">
+    <mtime>1713799685</mtime>
+    <size>683787</size>
+    <md5>3bba22e41afb2d32bd08108f34861b0e</md5>
+    <crc32>e1031b9f</crc32>
+    <sha1>c342e90678dffb17acf1f0a87ba576737a613b66</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1072x670_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1072x670.png</original>
+    <mtime>1713799716</mtime>
+    <size>6760</size>
+    <md5>8d2cc1f9037ac925c1956a8bc5110ee6</md5>
+    <crc32>7d010e2b</crc32>
+    <sha1>6bc5440ac22fa8910b9d2afa4a0108d16f3a5166</sha1>
+  </file>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.mp4</original>
+    <mtime>1707326962</mtime>
+    <size>69683155</size>
+    <md5>915cdb33f3ca04b421be1bf68ce2cfc6</md5>
+    <crc32>a8fd961e</crc32>
+    <sha1>ef4f6920ff8a22ecb06004d18cafc4a7c29b62e0</sha1>
+    <length>129.5</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.mp4" source="original">
+    <mtime>1707326544</mtime>
+    <size>69683155</size>
+    <md5>06d755c0ffc652b19cc29ad386449a46</md5>
+    <crc32>f9bb9760</crc32>
+    <sha1>fa4c327ec110e5d53ace03681121cb16ff736a2e</sha1>
+    <format>MPEG4</format>
+    <length>129.5</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1280x720.jpg" source="original">
+    <mtime>1707326560</mtime>
+    <size>104192</size>
+    <md5>43b9a04ad3b4c8d0e4d95c02368cc6d3</md5>
+    <crc32>8d6614c5</crc32>
+    <sha1>0891a3199be0d07749cf5a73e01356b55f6bd301</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1280x720.jpg</original>
+    <mtime>1707326981</mtime>
+    <size>6580</size>
+    <md5>01c7eff5c93a11aad2f79f82e0a0fd5c</md5>
+    <crc32>57965c85</crc32>
+    <sha1>82291e45bbefcce6005298cf88aafc43ec8a0766</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1715673134</mtime>
+    <size>11508</size>
+    <md5>bd004282fac3566f9920ebbc6df4db6b</md5>
+    <crc32>00b77fcb</crc32>
+    <sha1>4ed182d3abb9d99f264683470fdda1bcb636103b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04.thumbs/Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.mp4</original>
+    <mtime>1707326660</mtime>
+    <size>29632</size>
+    <md5>057576e6665020a2f16a1a450ab681ac</md5>
+    <crc32>e919004a</crc32>
+    <sha1>adb8228c8eaf976062e42a2e0ab06059c579287e</sha1>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04.thumbs/Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.mp4</original>
+    <mtime>1707326682</mtime>
+    <size>23488</size>
+    <md5>7671514fd98f784b28f26ea69f7c80bd</md5>
+    <crc32>77a55d8d</crc32>
+    <sha1>e5105954dc811f06bc8ec9d6bd3b9278087cee8c</sha1>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04.thumbs/Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps_000091.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.mp4</original>
+    <mtime>1707326701</mtime>
+    <size>42069</size>
+    <md5>c9a06cb383e2ccf2dfa60d231209352b</md5>
+    <crc32>9435bf57</crc32>
+    <sha1>0178302d05de2d2b221938466cc6dd218553378b</sha1>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04.thumbs/Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps_000118.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.mp4</original>
+    <mtime>1707326718</mtime>
+    <size>43021</size>
+    <md5>e581e39d6ff318055b244b72c144fa95</md5>
+    <crc32>d1e69466</crc32>
+    <sha1>07217c12d4a5d3116d7962ad3e87e0839259128d</sha1>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04.thumbs/Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps_000126.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bei Feng. Lolita Tea Party. Guangzhou 2019-04 1080p 60fps.mp4</original>
+    <mtime>1707326727</mtime>
+    <size>38199</size>
+    <md5>50940e2bb3d91b5a1a6fa8fc3ff34905</md5>
+    <crc32>1eae43f8</crc32>
+    <sha1>dd958e7d32672cfec379fb765850790c946e89b6</sha1>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04_archive.torrent" source="metadata">
+    <btih>ff9d34e37fe10eb3c6992666f0b262ba5b687224</btih>
+    <mtime>1742093609</mtime>
+    <size>9084</size>
+    <md5>1b52b7ab4b39ddf6ac677179fb913f1d</md5>
+    <crc32>ffdac442</crc32>
+    <sha1>6684ba594741ffe72f9ca95a7de343475dfbe9fd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>670a55e82aa94e2fdce2f8e104eac89d</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04_meta.sqlite" source="original">
+    <mtime>1715672682</mtime>
+    <size>32768</size>
+    <md5>37fc9b5f46d79e59bb543253578487c7</md5>
+    <crc32>eaaa4892</crc32>
+    <sha1>395c01998cb720ab69cd7e1d8babff8c4b7663de</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="bei-feng-lolita-tea-party-guangzhou-2019-04_meta.xml" source="original">
+    <mtime>1742093607</mtime>
+    <size>2980</size>
+    <md5>830a5ccbc5ba749ccea4e7e2936d72a0</md5>
+    <crc32>535d974e</crc32>
+    <sha1>524a08d7c6397c1b0fda887b9a05590d68fe71c9</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ruiyao. Red Leaves of Early Winter 1080p.mp4" source="original">
+    <mtime>1707228486</mtime>
+    <size>165332783</size>
+    <md5>0a107815a85f94a5ff8522dcd4ff2424</md5>
+    <crc32>d601cb3a</crc32>
+    <sha1>4715cce213c69624eed5b815f79ebb11e37f6860</sha1>
+    <format>MPEG4</format>
+    <length>462.78</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ruiyao. Red Leaves of Early Winter 3136x1960 Image Lv 230.png" source="original">
+    <mtime>1715704259</mtime>
+    <size>9506810</size>
+    <md5>08e13348a26e84669ccd577dbac9b6db</md5>
+    <crc32>d6f163f7</crc32>
+    <sha1>7650d54bddd2412910ff76304c08c6583357cbc8</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ruiyao. Red Leaves of Early Winter 3136x1960 Image Lv 230_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ruiyao. Red Leaves of Early Winter 3136x1960 Image Lv 230.png</original>
+    <mtime>1715704621</mtime>
+    <size>9606</size>
+    <md5>1d3576c67117d3d8f8d850bff2d6d433</md5>
+    <crc32>f21192e7</crc32>
+    <sha1>cef495ffe11f0f0857f49806417173c7a605a6f9</sha1>
+  </file>
+  <file name="Ruiyao. Red Leaves of Early Winter 3136x1960.png" source="original">
+    <mtime>1715704299</mtime>
+    <size>9415237</size>
+    <md5>daa0b1cf2d1cfdc2574469fcf704b324</md5>
+    <crc32>525b8ddd</crc32>
+    <sha1>cfd7bdec6151aaaafdc85efb9648761a4a06209c</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ruiyao. Red Leaves of Early Winter 3136x1960_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ruiyao. Red Leaves of Early Winter 3136x1960.png</original>
+    <mtime>1715704618</mtime>
+    <size>9577</size>
+    <md5>1f2ba8e91a55d0ad9caa62e9bc69e92d</md5>
+    <crc32>ee6a852e</crc32>
+    <sha1>60396c752a40a5fb17bd09473be7c79116f2a1f3</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1715705526</mtime>
+    <size>21384</size>
+    <md5>8076c9677a862eba31b4128388fb0ac1</md5>
+    <crc32>04ce0605</crc32>
+    <sha1>12374c189413191e8ea96007fbc4a165973b1553</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228535</mtime>
+    <size>68601</size>
+    <md5>20a9353c9c26c5cc4e6b14e5ad992ee5</md5>
+    <crc32>8d634abc</crc32>
+    <sha1>62e2766d3c4fb07b47ca4d8ce38de4ec54b5b3f8</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228538</mtime>
+    <size>32202</size>
+    <md5>8c9b6abcf3bce18645b9b1a39aec6a1f</md5>
+    <crc32>7eac1d51</crc32>
+    <sha1>0a70c24d29cdf4de4bb516f6dad6241a6a1df88e</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228541</mtime>
+    <size>51424</size>
+    <md5>ec456383121b95546dcb8be11a419655</md5>
+    <crc32>02741d32</crc32>
+    <sha1>86e37e6c23ca883eb5985f468926ff3b6e4199fc</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228544</mtime>
+    <size>61380</size>
+    <md5>8116e755e9c622705399e263e4c66330</md5>
+    <crc32>55fd77bf</crc32>
+    <sha1>de58776b55be1cab8264b13d60da639c98f76975</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228546</mtime>
+    <size>73730</size>
+    <md5>9f470314e87a4816d3998bee3221ac43</md5>
+    <crc32>f3f92548</crc32>
+    <sha1>25b2c109f143a6d0660456ab630418bdb21e965f</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228549</mtime>
+    <size>73758</size>
+    <md5>018699cc2834484ec85964f8f144c5bd</md5>
+    <crc32>9152ed0b</crc32>
+    <sha1>541571c5445e309bb829563eb4fd105662c3f75c</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228551</mtime>
+    <size>45342</size>
+    <md5>f3d62f99c23491cff737a9fe872fea32</md5>
+    <crc32>ddac860d</crc32>
+    <sha1>ee57037b3145d893161433de424f0eeeec58e4a9</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228554</mtime>
+    <size>112678</size>
+    <md5>0f774a502371103eab6a87e7365b6bcf</md5>
+    <crc32>3024083f</crc32>
+    <sha1>83c64dae2754f95e0c3ddd9fbfd82f0eebec4727</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228557</mtime>
+    <size>45612</size>
+    <md5>43ce1449f5dcc769072d32e013cd8234</md5>
+    <crc32>90e7ddea</crc32>
+    <sha1>7ad5d0c7da85fbd978059a5b5db81b56380037ee</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228560</mtime>
+    <size>98095</size>
+    <md5>01c4751abb67a48f36f140d266287a86</md5>
+    <crc32>e3995e71</crc32>
+    <sha1>9b84e8d1efd14875d8edbdfa1c9268875595c856</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228563</mtime>
+    <size>87812</size>
+    <md5>8375baccd7357feed7944014d2f724ee</md5>
+    <crc32>0ac91199</crc32>
+    <sha1>48b66b2055c91ff423c64524cec5ce43998bf2f6</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228566</mtime>
+    <size>122447</size>
+    <md5>cf88917a020f7b3e4bfbf67ace3bcda7</md5>
+    <crc32>9dcf3abb</crc32>
+    <sha1>4060aee94881d3f9b66ee60627874501336b56c4</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228568</mtime>
+    <size>45734</size>
+    <md5>77445a05c3080d0843082b460b063fce</md5>
+    <crc32>abaeb4d5</crc32>
+    <sha1>313ce7e23c2004e99169325d080382a7abda556b</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228571</mtime>
+    <size>55464</size>
+    <md5>8664d16749954bb4ff673889f1bcf19f</md5>
+    <crc32>d5705bd4</crc32>
+    <sha1>b711cd691166254b7631a139e0443593e979bee5</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228574</mtime>
+    <size>85646</size>
+    <md5>52ec590f3b5267dcc4dd8cebab91a9de</md5>
+    <crc32>a6ac9ad0</crc32>
+    <sha1>3be22882d49f32cf12b99eb60be498fbe2d30e06</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter.thumbs/Ruiyao. Red Leaves of Early Winter 1080p_000460.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Red Leaves of Early Winter 1080p.mp4</original>
+    <mtime>1707228575</mtime>
+    <size>60747</size>
+    <md5>01fb16a53b7da7de033f10ce118114d2</md5>
+    <crc32>30e169b8</crc32>
+    <sha1>fbf272d7fdf219fe149b294d8d686f4434a19651</sha1>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter_archive.torrent" source="metadata">
+    <btih>3cd2ad4ae37e0ae8f246fb8cf3bc8f8459c60eee</btih>
+    <mtime>1715705692</mtime>
+    <size>9909</size>
+    <md5>2ad499f5b06f2b75c44b7389aeadb31b</md5>
+    <crc32>1e032354</crc32>
+    <sha1>a6333019eebb421050e4cc9a23d6e9fd6b2264c5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>52aaba70906fd972f859e208b38883cc</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter_meta.sqlite" source="original">
+    <mtime>1715705689</mtime>
+    <size>32768</size>
+    <md5>089e41c088c405ffe2cc1eb0205d8eff</md5>
+    <crc32>8e86b4a3</crc32>
+    <sha1>f0cb37ca07f9aade733149f85b18da064fd65fbc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ruiyao-red-leaves-of-early-winter_meta.xml" source="original">
+    <mtime>1715705514</mtime>
+    <size>1758</size>
+    <md5>673d2cad3bb59993e57a9f3f54235ebe</md5>
+    <crc32>2dbed57c</crc32>
+    <sha1>10cdd79914ba009a449c777c267ac6408f0d1d69</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Cat Walking 1280x720.jpg" source="original">
+    <mtime>1725990031</mtime>
+    <size>146550</size>
+    <md5>8ad74d9d4842cdc8b301c1418840b894</md5>
+    <crc32>6fe0dbc6</crc32>
+    <sha1>04cb970c883309d6a5b36c56679789868ad69cc4</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Cat Walking 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 1280x720.jpg</original>
+    <mtime>1725993637</mtime>
+    <size>8127</size>
+    <md5>93a96a3d097a6fc8073bdd1b508dead2</md5>
+    <crc32>ed55aedd</crc32>
+    <sha1>e1bff0ccecc6b10decccbdf4b33cb9aee2285fc5</sha1>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725993582</mtime>
+    <size>140829558</size>
+    <md5>2bec9d8ef37749349578ab76310bdec7</md5>
+    <crc32>f83ba3dc</crc32>
+    <sha1>a6277b5214e24f5ff7808897c665a820f2cca02c</sha1>
+    <length>668.88</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4" source="original">
+    <mtime>1725990015</mtime>
+    <size>140829558</size>
+    <md5>6efc3246592aea74fc86a0ce44d7c2d2</md5>
+    <crc32>34bd7ef5</crc32>
+    <sha1>d53c96ed229c064480385b418ecc20b2329248e1</sha1>
+    <format>MPEG4</format>
+    <length>668.88</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Record 1152x720.png" source="original">
+    <mtime>1725990039</mtime>
+    <size>970644</size>
+    <md5>c1206d0a3d4574d60fd220fe18d8649d</md5>
+    <crc32>55c96c0e</crc32>
+    <sha1>b5ef9b662c6e86a3062e86347440a81160f0a1d2</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Record 1152x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 1152x720.png</original>
+    <mtime>1725993627</mtime>
+    <size>8202</size>
+    <md5>ef2497c075a9345f8ff5c7a5ceb89c92</md5>
+    <crc32>a17d3a3e</crc32>
+    <sha1>9e38fccb5912d82064ab2ee51f989eee22b04207</sha1>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Record 1280x720.jpg" source="original">
+    <mtime>1725990043</mtime>
+    <size>153357</size>
+    <md5>08165ced5263f309408a21e28c44235c</md5>
+    <crc32>8e84bc12</crc32>
+    <sha1>5ad319852348b496709f71154b5c67cb849bfcd4</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Record 1280x720_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 1280x720.jpg</original>
+    <mtime>1725993641</mtime>
+    <size>7982</size>
+    <md5>2593d05a4d2526bb142a8bcc0e6653bb</md5>
+    <crc32>ce2fc655</crc32>
+    <sha1>88d0d9fcc0c52fe3d0f0b4c1e4d5bbb9cbad2b1b</sha1>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1726000118</mtime>
+    <size>606644000</size>
+    <md5>51ece399db229cbf198fad99be8d61c0</md5>
+    <crc32>4313e710</crc32>
+    <sha1>9ece99a53c26ab5118d26434885d8b23aa1e3f8b</sha1>
+    <length>3622.65</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4" source="original">
+    <mtime>1725999186</mtime>
+    <size>606644000</size>
+    <md5>c0b01a21de29f7cef1fd17ae0779c61a</md5>
+    <crc32>57ac845f</crc32>
+    <sha1>38cf319c4eb4ae80b8b3b75963d1bfaa3c78488b</sha1>
+    <format>MPEG4</format>
+    <length>3622.65</length>
+    <width>1280</width>
+    <height>720</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1725993862</mtime>
+    <size>12327</size>
+    <md5>747dd390ca3037b068e85898a0f666e3</md5>
+    <crc32>94b672c2</crc32>
+    <sha1>478ce5e758681d696b4b227fbb828417bf51fc99</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991953</mtime>
+    <size>21406</size>
+    <md5>e8d793830d2f3fac7174030988cc7410</md5>
+    <crc32>7e1433f3</crc32>
+    <sha1>c96c17d203dc58b13df26d47191c8d766b2ab917</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991957</mtime>
+    <size>67590</size>
+    <md5>09c5da857bba4bb1318fb5807019c63f</md5>
+    <crc32>9018865f</crc32>
+    <sha1>801c74497b6895e801ac18238188c4aed5302bb3</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000089.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991962</mtime>
+    <size>69769</size>
+    <md5>8d1e386b812b42b2108422fbf21a73c0</md5>
+    <crc32>a5d8bd73</crc32>
+    <sha1>09385bc5a76a73f491556fba1572b53fb5b76227</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991966</mtime>
+    <size>49057</size>
+    <md5>cea3c7d47a8f97a2156911db131d66b4</md5>
+    <crc32>d3e4f39f</crc32>
+    <sha1>ed21ab2653ae4f999c18a44d7d2cb1b123827897</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000149.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991973</mtime>
+    <size>63692</size>
+    <md5>6f6b70b868d4fb1e54ef7a600431809e</md5>
+    <crc32>fc536ea7</crc32>
+    <sha1>a80bf33a6759da4449148c5846e415b8acfa91dd</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991979</mtime>
+    <size>71285</size>
+    <md5>78d6c7a80ee9c68de3d2879b191cd16b</md5>
+    <crc32>1ac78e48</crc32>
+    <sha1>4d67d08357425b3af9cb2ab1f8a9de52f3ebd113</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000208.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991982</mtime>
+    <size>69690</size>
+    <md5>905e7306acbd12b0537e9cc8695f237e</md5>
+    <crc32>58ecd46d</crc32>
+    <sha1>000501e11a59a4c08a4504d803e1fb03d42c09be</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000238.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991985</mtime>
+    <size>73055</size>
+    <md5>35bc5d4b5da58173534e919c1ae77bdd</md5>
+    <crc32>4f314680</crc32>
+    <sha1>8729b53e98b694a67e61879a9467428c0cd271ea</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991990</mtime>
+    <size>64074</size>
+    <md5>2f89f245dfe11fdb5f318726ed6f9764</md5>
+    <crc32>27e671d5</crc32>
+    <sha1>74c689a5ea3ad7386f9ec403d6ea615c07cc93bb</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000298.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725991995</mtime>
+    <size>68989</size>
+    <md5>5dd7360b8e63ca059ba22c6b638a344a</md5>
+    <crc32>2fdd0318</crc32>
+    <sha1>ef0f55377074d73540639c68ab071209fe483428</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992001</mtime>
+    <size>75580</size>
+    <md5>529f182727453198895c94fc24c67c6c</md5>
+    <crc32>08e16a70</crc32>
+    <sha1>98c4be84162b2fc601215188d117872a11a695da</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000357.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992007</mtime>
+    <size>62644</size>
+    <md5>7ef2aa305068a8750c463d00176de1ab</md5>
+    <crc32>2fe63403</crc32>
+    <sha1>3fc4d273c6dad148a1b1988ccf9cf6250d72db57</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000389.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992013</mtime>
+    <size>73345</size>
+    <md5>f8ef27f44b9c92648d97f15eec25b334</md5>
+    <crc32>f71812f2</crc32>
+    <sha1>a8934bc445bb1ce20cbd0c3494b6bd6c79b53343</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000421.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992017</mtime>
+    <size>73549</size>
+    <md5>42e3c99bdfa9db6eebc4b174d714e581</md5>
+    <crc32>10dd2d4a</crc32>
+    <sha1>c362647142def7332a16e24107fb484236426c5a</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000448.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992022</mtime>
+    <size>61489</size>
+    <md5>34cd1906a98167786932212cc8310886</md5>
+    <crc32>6473cda3</crc32>
+    <sha1>5406426e46b13b1cb0cc3284adffed53aaa931f7</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992027</mtime>
+    <size>71138</size>
+    <md5>f880e73a210d78b22e1ee5d62de4e844</md5>
+    <crc32>064db713</crc32>
+    <sha1>a4562edcbc895cae738f74943aa0bd4015cacd89</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000509.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992031</mtime>
+    <size>71091</size>
+    <md5>eb3e19b52679d9026eaa33e426030425</md5>
+    <crc32>f0d5480c</crc32>
+    <sha1>b644dad103889f43639406c78a4b7f2b8d8f1164</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000538.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992036</mtime>
+    <size>70169</size>
+    <md5>32671accd1855e39334463716a919e7d</md5>
+    <crc32>5df6d723</crc32>
+    <sha1>26ba2270e6b9bed96081dd298343520227aa2fda</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992040</mtime>
+    <size>73175</size>
+    <md5>94384b498f0320f316fbb994fe2742c2</md5>
+    <crc32>8f59e4a5</crc32>
+    <sha1>3cc3f04d5c139f9e50dc9682d97fd568e7cee28e</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000597.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992042</mtime>
+    <size>67976</size>
+    <md5>4769acd4f3c1eda9b7cb85f5c3c87639</md5>
+    <crc32>b8d6a44f</crc32>
+    <sha1>2cb8b7454f283753f348dd6cd16f0dda4c0bc7ca</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000629.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992043</mtime>
+    <size>50840</size>
+    <md5>e1f5427248a749d49e9b8287b0fde240</md5>
+    <crc32>c36b753d</crc32>
+    <sha1>74efdf1f2c17d3c147f9a124b24e6ea14fcc22ec</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000658.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992045</mtime>
+    <size>56737</size>
+    <md5>293a349eba8e60df591b037a7de3d906</md5>
+    <crc32>57a97af6</crc32>
+    <sha1>065842f51e826fc37f3af04f81e2fa9527a8fd4d</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps_000666.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Cat Walking 720p 24fps.mp4</original>
+    <mtime>1725992045</mtime>
+    <size>56884</size>
+    <md5>e5d864084be9138c5ff680c610532f36</md5>
+    <crc32>936e1edb</crc32>
+    <sha1>1f1a6a081b5d1671f12bb6ba7d509831c02d8150</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999728</mtime>
+    <size>17808</size>
+    <md5>e249d79d34e0a3f288f6f0d226247228</md5>
+    <crc32>8de068dd</crc32>
+    <sha1>86e75521f05a1975d2e4e35d868420eb14705a65</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999731</mtime>
+    <size>58125</size>
+    <md5>070855da3c75678e0e953a65d7962491</md5>
+    <crc32>4bb88bba</crc32>
+    <sha1>421750b4ea87e2b8a3018bc3b59b1b8cd9a05e3b</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999735</mtime>
+    <size>61520</size>
+    <md5>5fbde1cbfc68b83aeb284be868a6794d</md5>
+    <crc32>c1110259</crc32>
+    <sha1>daa474bbeedbf2894e517f0f2f549ed1c558def6</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000298.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999738</mtime>
+    <size>42185</size>
+    <md5>178276c91b6155a4bf0576a49884f345</md5>
+    <crc32>6a0db53a</crc32>
+    <sha1>1089ecc89a8a4819329290cf4ac6454383e99964</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000357.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999741</mtime>
+    <size>49824</size>
+    <md5>868e8693489c01fae7b90b1ac2fb93c5</md5>
+    <crc32>592a7d59</crc32>
+    <sha1>f1750a15e5e7ebe9b0b4361f1c8945db23965346</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000416.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999745</mtime>
+    <size>39785</size>
+    <md5>d1043cc4758e2ab4a45476ade70b9eb4</md5>
+    <crc32>35e9d580</crc32>
+    <sha1>ff87bf720d7f37e2f30cf34e5a7fd035d27ae753</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000475.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999749</mtime>
+    <size>71219</size>
+    <md5>7b9f89a9387dcf10976e59c8a58bb6d6</md5>
+    <crc32>c5906332</crc32>
+    <sha1>50e2d339bd3edf8f29c73f84f804494eea488946</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000537.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999752</mtime>
+    <size>75281</size>
+    <md5>6bd0a71b6684dba0dcd85a40801f6d68</md5>
+    <crc32>04ed657a</crc32>
+    <sha1>a1fed291437b84724f7a5c2eb6a96406ba4ea5d0</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000597.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999756</mtime>
+    <size>72801</size>
+    <md5>88b4a119aac3d9526107edc1852f8ddc</md5>
+    <crc32>7c89e339</crc32>
+    <sha1>3c0923d16b90318891d8715034f7d00bc7d6416f</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000656.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999759</mtime>
+    <size>59511</size>
+    <md5>3a50f5dae51b3a35b924e8aad818b062</md5>
+    <crc32>4f5b606d</crc32>
+    <sha1>c83ed6c041115fb2b98625b12936a2ab20ad223b</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000715.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999762</mtime>
+    <size>63794</size>
+    <md5>55707db6e0c6c9663713f8319f92cf6c</md5>
+    <crc32>356f7cb2</crc32>
+    <sha1>eec99c6fee38451654dd360b61952eb95775e13f</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999766</mtime>
+    <size>80504</size>
+    <md5>24372636605a620b907d89f1dee965f0</md5>
+    <crc32>2ad24c2b</crc32>
+    <sha1>babab7c159d0cdea2fbcb863d7cfcac32aa27109</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000838.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999770</mtime>
+    <size>61499</size>
+    <md5>4ddfb62330186c66df1a4628e663da00</md5>
+    <crc32>ee563eeb</crc32>
+    <sha1>e4317bbfe69420af2f5b7448038bdb8d9d362289</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000896.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999773</mtime>
+    <size>72312</size>
+    <md5>551728896cf3c668b24f536756c09bfe</md5>
+    <crc32>b363af72</crc32>
+    <sha1>da10ac0c1ac729c4a4425124e6accd96e296ebf8</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_000955.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999777</mtime>
+    <size>81382</size>
+    <md5>54b2379e39d2a2a77f5e07ded564f758</md5>
+    <crc32>f1a19bc8</crc32>
+    <sha1>06fd119ecfeefba55bbed984b91ae03276a230bd</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999780</mtime>
+    <size>69556</size>
+    <md5>150eeab31b45faacafa785301271ad45</md5>
+    <crc32>93d7de46</crc32>
+    <sha1>ea68d6bda25d1bf3700204849f8dbbd7373dfbc9</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001078.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999783</mtime>
+    <size>68385</size>
+    <md5>14da7cea41e76b089db56271a18c8914</md5>
+    <crc32>2ea05613</crc32>
+    <sha1>9f0f236942775ccc12a5471f716dfec31523604c</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001137.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999787</mtime>
+    <size>56278</size>
+    <md5>7d066c3804d1fcbd077be7978e06e730</md5>
+    <crc32>423518dd</crc32>
+    <sha1>c51e1322d5505aa7f5ccbd30c9779f739e2a6f00</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001195.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999790</mtime>
+    <size>77540</size>
+    <md5>3aa617aec9da41ce3ba97b8752285105</md5>
+    <crc32>333db003</crc32>
+    <sha1>65914395e6bf4eb997e96c3a3c1019892791346f</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999793</mtime>
+    <size>75601</size>
+    <md5>34e76ac727b470cc047d7edb923b20d0</md5>
+    <crc32>318f6a94</crc32>
+    <sha1>7ccd1f3cda98fea624433ceaf33372f057cfd710</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001317.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999797</mtime>
+    <size>71884</size>
+    <md5>e140dd51985b82f5e30e1854e7a5083b</md5>
+    <crc32>67d89351</crc32>
+    <sha1>6e7c1e135601139387ac10918978a3155b2dd910</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001377.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999800</mtime>
+    <size>68064</size>
+    <md5>4bbe194120f321b13d7803d8148ba2da</md5>
+    <crc32>c28cbde5</crc32>
+    <sha1>a9bb20bfbf4ab966cbbb945b5587c63870c0e683</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001436.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999802</mtime>
+    <size>56792</size>
+    <md5>93c58caa83a9562288c1319c5dbbc31d</md5>
+    <crc32>b12ab4f3</crc32>
+    <sha1>8136cf71c355fd09f0c0d2c1e31586e06b0ac1c1</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999806</mtime>
+    <size>64999</size>
+    <md5>a76545425caa7f80112da10ed9e38e9e</md5>
+    <crc32>067e226a</crc32>
+    <sha1>62dc427ac30f74331f5464bb313ec5242de6ef6e</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001558.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999809</mtime>
+    <size>70968</size>
+    <md5>eae26523e9d73efc447a9c17da6cf1d4</md5>
+    <crc32>39dc351d</crc32>
+    <sha1>d10d1dd3cf4d39aced80efbdd11e89682b23c5ca</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001617.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999812</mtime>
+    <size>69817</size>
+    <md5>f5aa44d67e34c69e96a9617eb9857cd4</md5>
+    <crc32>362b7bd2</crc32>
+    <sha1>72bcdd68347d0850c755d501e323cc222933e5d6</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001676.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999815</mtime>
+    <size>56566</size>
+    <md5>c966085b4c90fba85a2331ce385a709f</md5>
+    <crc32>6e8a3c3d</crc32>
+    <sha1>2dbaaefc5d43a47a115cda8c18be211492f5703d</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001735.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999818</mtime>
+    <size>73981</size>
+    <md5>129d337f42fbd8732b1328bd7bd8c630</md5>
+    <crc32>529bd1c9</crc32>
+    <sha1>9ed0342f6712c8efe7cdb81b7ae9cca9cd713412</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001799.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999822</mtime>
+    <size>73530</size>
+    <md5>65dfd78b917edae5f3d8b2def95039f7</md5>
+    <crc32>cff7e88e</crc32>
+    <sha1>9bef34caa842bc7a8366823396037c3f060e4471</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001857.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999825</mtime>
+    <size>62170</size>
+    <md5>36a3d8940f16bfcd988bbdb68c2a0898</md5>
+    <crc32>73d27ce0</crc32>
+    <sha1>7050f8f34b69f5df52105d7316165c4d83e91326</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001916.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999828</mtime>
+    <size>61718</size>
+    <md5>1ae73f1497aed8e159817098d45e99b1</md5>
+    <crc32>a827ee60</crc32>
+    <sha1>e39915a0f74dd45fd7871670801c3350387ddeac</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_001975.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999831</mtime>
+    <size>70771</size>
+    <md5>1b101069d136962164dff8ab599efe54</md5>
+    <crc32>181085af</crc32>
+    <sha1>bb9a78591dc10cf6da5b67f0e1f8dcad37cd2dcd</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999835</mtime>
+    <size>40611</size>
+    <md5>399abd749953412712ce390f8c26e703</md5>
+    <crc32>fa8a473a</crc32>
+    <sha1>2c3c1c564476ef3f42b07655e8324cc5c5ee06d1</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002098.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999839</mtime>
+    <size>95746</size>
+    <md5>0c3753c1acd6b140d8cd0df3b34321c6</md5>
+    <crc32>e381cefc</crc32>
+    <sha1>c0b18fa92633bc33f4898aea675c4142305b745b</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002155.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999842</mtime>
+    <size>74016</size>
+    <md5>fefea107c30cf1a1d29ad91d70c9c834</md5>
+    <crc32>aff36ff0</crc32>
+    <sha1>6e0e550223c7b7c5b6138fc2314bffb238d705c2</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002215.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999845</mtime>
+    <size>79424</size>
+    <md5>8195ddcfc71adec1dfb053a26134438c</md5>
+    <crc32>d3901082</crc32>
+    <sha1>d0ffdf0acd161113399b4291426e693b1239d576</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999848</mtime>
+    <size>45047</size>
+    <md5>a5ea3b8e6623255c27d8d282a5a74401</md5>
+    <crc32>6ba7848b</crc32>
+    <sha1>5dad5951187addc5654a8f8082af08d408c8cd37</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002338.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999851</mtime>
+    <size>64598</size>
+    <md5>1a12680b44878a88089e83eee97c6251</md5>
+    <crc32>a4616105</crc32>
+    <sha1>957d9b6b78d9a8c0ac1b214d9bfd2fe23fdcac47</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002397.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999854</mtime>
+    <size>70576</size>
+    <md5>d8fd11d7bb09a70d625bfe9f85def0ea</md5>
+    <crc32>e1ef63c3</crc32>
+    <sha1>a8af71397f4e66752e9e5965a377e201b36ddcfd</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999857</mtime>
+    <size>51862</size>
+    <md5>0e9f62518ca3ba613d3aceba9fca947f</md5>
+    <crc32>2c401a0d</crc32>
+    <sha1>ada3f017659e088d61848391ec7dc72a858b5bdf</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999860</mtime>
+    <size>61124</size>
+    <md5>60e769ef003153c1d43b059443241363</md5>
+    <crc32>84f265e6</crc32>
+    <sha1>a1fa3c04cbc9f7416bb26606a8a53224acafe9a4</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002578.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999863</mtime>
+    <size>59985</size>
+    <md5>bc648a6e9b16200b0cb6645acfaab30d</md5>
+    <crc32>08d456bf</crc32>
+    <sha1>2b2fa98eb63f4cb94b6e629acabbbbcdb73851b5</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002637.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999865</mtime>
+    <size>63037</size>
+    <md5>07ec64edca6d09ce962a332c77b0a707</md5>
+    <crc32>90d686d8</crc32>
+    <sha1>4cf9aec707921f62cb97e97064a65edfd81f3c74</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002696.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999868</mtime>
+    <size>71530</size>
+    <md5>b7ca5294469c5c151b4ede0965f6347c</md5>
+    <crc32>0843606b</crc32>
+    <sha1>41179a30d70818f67492dbe8fdd8a38f8c8ac70e</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999871</mtime>
+    <size>53017</size>
+    <md5>d0ede94ba2db3a3029c0edb8080c61e5</md5>
+    <crc32>4e804d0c</crc32>
+    <sha1>6c9b210e099ccc4cc2090826348fb9a698eeed23</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999874</mtime>
+    <size>48401</size>
+    <md5>45c17f70b1f6848e08ab2c084d8c3525</md5>
+    <crc32>e9218dcf</crc32>
+    <sha1>dc2043b1237a938cac636d541f28689b65ed5fd8</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002877.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999877</mtime>
+    <size>48602</size>
+    <md5>3bfab6237ef5702f05e75d41cda12b11</md5>
+    <crc32>f7c1399f</crc32>
+    <sha1>1620421bdfd092ab526fe7d1d9801a4eaf7eaa26</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002936.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999880</mtime>
+    <size>62455</size>
+    <md5>21de4f7c9c7270b7bfe3b7b362b81fae</md5>
+    <crc32>71a1ef0f</crc32>
+    <sha1>7a8d6d9c0aacf60c1a6b8c4a6c9eafec404fb200</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_002995.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999883</mtime>
+    <size>55726</size>
+    <md5>c3c1e1391c74e50539da78f727814050</md5>
+    <crc32>680307fe</crc32>
+    <sha1>f242c2f520dc8b5e37a9f0f712d7d402630fbf38</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003059.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999885</mtime>
+    <size>56663</size>
+    <md5>ab2e2c40d27522ac605b2e3b9ad77f33</md5>
+    <crc32>f8e8b0fa</crc32>
+    <sha1>d9a1ca6308e4a7859cde0d32ef0282328d1eaffd</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999888</mtime>
+    <size>56118</size>
+    <md5>cf83cf2b7e92a257cf9ebcd9ff222b39</md5>
+    <crc32>43f7ac5f</crc32>
+    <sha1>0a0210411fddf18cce22693b53da23c5f11a52fb</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003176.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999891</mtime>
+    <size>68396</size>
+    <md5>72ef55d2f0d10e59427dce9ed8c2d388</md5>
+    <crc32>6354b6ba</crc32>
+    <sha1>1bea6ffbd8b025403648ffbd6bfa79241d8b1c51</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003235.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999893</mtime>
+    <size>65891</size>
+    <md5>e4ada546fcf214591401878c446373e1</md5>
+    <crc32>091d0e3d</crc32>
+    <sha1>74c4a5a2883b9fd21808f01b3322c557b04e18bd</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003299.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999896</mtime>
+    <size>68472</size>
+    <md5>dd9c4d86ac3004f0ea2d44237cd4abba</md5>
+    <crc32>f563c009</crc32>
+    <sha1>5acbd43982ffbcd61c83d0e6591d0e7821a0d7ad</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003358.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999899</mtime>
+    <size>66880</size>
+    <md5>7eefeae56d7bffc9ef7fff1f1dc7e36e</md5>
+    <crc32>c7c88bb5</crc32>
+    <sha1>980d7d6697bfa153742c892e7c51839ae3a58936</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003416.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999902</mtime>
+    <size>61544</size>
+    <md5>5016219ee4984cc1fd1205e21c71fcdb</md5>
+    <crc32>069d4e30</crc32>
+    <sha1>a83a4461fffacc4f31684f6dd0da71b93d3e6c01</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003475.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999905</mtime>
+    <size>36687</size>
+    <md5>7b154afebeb213140e038eb12ce7ada4</md5>
+    <crc32>3c86d988</crc32>
+    <sha1>307a12b335fe422b4dc1030108e624f1eab416fb</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999908</mtime>
+    <size>63174</size>
+    <md5>2b0743b3a27e384dd2806ec16b9e7748</md5>
+    <crc32>8801e277</crc32>
+    <sha1>efa49f390a6aa9ed15db0e87628981fc19fbc3fd</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003598.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999911</mtime>
+    <size>52070</size>
+    <md5>b26367a5cc3b3a047f6473ca84bdee45</md5>
+    <crc32>15ed006e</crc32>
+    <sha1>270030be2bdb5b214427655ffff4573dde51b1b7</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14.thumbs/Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps_003621.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lolita Fashion Tea Party 2018-04-14 Record 720p 30fps.mp4</original>
+    <mtime>1725999912</mtime>
+    <size>52248</size>
+    <md5>aea123b186e7abec52cb8e0313dee8bb</md5>
+    <crc32>f01d8d5c</crc32>
+    <sha1>7a27bf7834e8bb9ae89e0f55ed6fa37cc2ef6563</sha1>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14_archive.torrent" source="metadata">
+    <btih>a9abfda5bf6bed61bdc572c7458f86a276de2a4b</btih>
+    <mtime>1726029805</mtime>
+    <size>32537</size>
+    <md5>687f7bc9a9b2799b32a49127be57ed69</md5>
+    <crc32>676234b8</crc32>
+    <sha1>b287c4833bb4f000a459be16005754defc7af058</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7851a2068f2755f365881ca26c32445a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14_meta.sqlite" source="original">
+    <mtime>1725999209</mtime>
+    <size>49152</size>
+    <md5>52027f7bfccf082f5f3a715272131598</md5>
+    <crc32>c4609e3b</crc32>
+    <sha1>b2661a7a7c28ba221543ef60d622da6bfaff3a05</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="lolita-fashion-tea-party-2018-04-14_meta.xml" source="original">
+    <mtime>1726029796</mtime>
+    <size>5231</size>
+    <md5>a4094b8f32c5ae804cacdd74638a8bab</md5>
+    <crc32>be9348db</crc32>
+    <sha1>ad3da00051ce9afa87009ca4b82a284e5234b296</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

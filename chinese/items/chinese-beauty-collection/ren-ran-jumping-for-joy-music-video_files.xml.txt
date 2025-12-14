@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ren Ran. Jumping for Joy 1080p.mp4" source="original">
+    <mtime>1734944080</mtime>
+    <size>44579534</size>
+    <md5>502206290e7bd46b58648756c7cbe268</md5>
+    <crc32>54de4413</crc32>
+    <sha1>a88ae9c715ce52e62edebb235e27fec3caaacb50</sha1>
+    <format>MPEG4</format>
+    <length>229.53</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Ren Ran. Jumping for Joy 1728x1080 Lv 15 1p1 240_itemimage.png" source="original">
+    <mtime>1734943240</mtime>
+    <size>3180452</size>
+    <md5>53a5aa001816eec85dbb92a6e08333f3</md5>
+    <crc32>cc7f80bd</crc32>
+    <sha1>165e541719dc5f50a8b9f71a4637c5202a98a999</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ren Ran. Jumping for Joy 1728x1080.jpg" source="original">
+    <mtime>1734943258</mtime>
+    <size>405609</size>
+    <md5>102dc0753d8a35c917d09f1770e7c6f4</md5>
+    <crc32>da458304</crc32>
+    <sha1>9ad826949e085e08d972f6d9b8d1f5b7b26c0bc3</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Ren Ran. Jumping for Joy 1728x1080_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ren Ran. Jumping for Joy 1728x1080.jpg</original>
+    <mtime>1734944150</mtime>
+    <size>5602</size>
+    <md5>592e6ea048ba180372cf1f0c642c4c22</md5>
+    <crc32>7ad4d35a</crc32>
+    <sha1>1bd6d607aae8110b28fec430e6549350a9a0d5a1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1734943307</mtime>
+    <size>5715</size>
+    <md5>125c24cb9eb85b3cb1a346efa56f8b62</md5>
+    <crc32>b005af96</crc32>
+    <sha1>626373459c35696717ab28938cf7ec7405811462</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944112</mtime>
+    <size>16897</size>
+    <md5>6898763c579f68b9cb9e636b864c4d28</md5>
+    <crc32>3f371a76</crc32>
+    <sha1>22523fc14bb585e48fd865ab298bfc5ce4f4970d</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944115</mtime>
+    <size>14307</size>
+    <md5>2dadd88aaf1c87672d691a599392c9e0</md5>
+    <crc32>a8560710</crc32>
+    <sha1>c9fadb85e849b2fb88a719434991f712de5efba3</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944117</mtime>
+    <size>29411</size>
+    <md5>9dc0afbdb397b6dd811761b1a92faa8e</md5>
+    <crc32>a5de3f5f</crc32>
+    <sha1>7a022a2d66d8f5c5b61a94c47fad9bcce37a467a</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944120</mtime>
+    <size>78202</size>
+    <md5>de9cebe90452163bbec807b4d5c308a9</md5>
+    <crc32>8e9872b2</crc32>
+    <sha1>6d9ce6b0290ebddb94ebe784710d7c44b833e8a9</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944123</mtime>
+    <size>46740</size>
+    <md5>751b2403b0c47b67a0cad8e49d0d5c2c</md5>
+    <crc32>0031fac0</crc32>
+    <sha1>2f9d7c6765bb3fc06ab9731d3bc68a4eeec49fe0</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944126</mtime>
+    <size>15000</size>
+    <md5>35f76d46c7b4765dfd0e7cfd98bde515</md5>
+    <crc32>8af2edf6</crc32>
+    <sha1>5fa387413400996ff0c7170b4cf4e7d2fb99d2e8</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944129</mtime>
+    <size>31808</size>
+    <md5>1fbcc6abd49f5925b1176c685bf39141</md5>
+    <crc32>a1764aad</crc32>
+    <sha1>43d4a1ca1697cd9c8708a61b3730d935dcf14f47</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video.thumbs/Ren Ran. Jumping for Joy 1080p_000225.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ren Ran. Jumping for Joy 1080p.mp4</original>
+    <mtime>1734944131</mtime>
+    <size>85533</size>
+    <md5>7587270a36a07f64f9c60dac1798eba5</md5>
+    <crc32>e017a611</crc32>
+    <sha1>0ebb9b46f9d1a8fecf56e17a7eea4df7f3c5d8e2</sha1>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video_archive.torrent" source="metadata">
+    <btih>181e48f879937e585ef669b8c2623d08febf9f32</btih>
+    <mtime>1736559158</mtime>
+    <size>4473</size>
+    <md5>025337c9de5ea708539eefe339b886a8</md5>
+    <crc32>eec62b3a</crc32>
+    <sha1>186747084cc52a965bcedb126f45bf342eae9000</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1244ce900ed615aa48025e9dcb3e2b99</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video_meta.sqlite" source="original">
+    <mtime>1734944086</mtime>
+    <size>36864</size>
+    <md5>462946368d072d19189bed9b2e0ab3f4</md5>
+    <crc32>0c64a348</crc32>
+    <sha1>d8b6fe28a16a09f10a78e5ee640b5b17e20d3a11</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ren-ran-jumping-for-joy-music-video_meta.xml" source="original">
+    <mtime>1736559156</mtime>
+    <size>6006</size>
+    <md5>4ed33240ff5ff380a57432e4acf04bc4</md5>
+    <crc32>cf75d51f</crc32>
+    <sha1>a149e1cc3c0b5f4d96d3ce1e52d4085c4a8146a0</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

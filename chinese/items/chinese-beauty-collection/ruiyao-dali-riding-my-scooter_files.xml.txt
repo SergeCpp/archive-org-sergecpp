@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ruiyao. Dali. Riding My Scooter 1080p.mp4" source="original">
+    <mtime>1707219910</mtime>
+    <size>172314682</size>
+    <md5>1b1385b96eb089c567240a9785fe0d99</md5>
+    <crc32>0e6bd919</crc32>
+    <sha1>5f0570c904094f9b1c0d77f1f8dc5eb346992ab5</sha1>
+    <format>MPEG4</format>
+    <length>466.69</length>
+    <width>1862</width>
+    <height>1080</height>
+  </file>
+  <file name="Ruiyao. Dali. Riding My Scooter 3504x2190.png" source="original">
+    <mtime>1715689374</mtime>
+    <size>7058777</size>
+    <md5>d92340346ac2fd38d1367b3f8cb120cc</md5>
+    <crc32>52ca7b3d</crc32>
+    <sha1>dd0a08bb5ba1f96c48aa32b5a7208e6a1a054c06</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Ruiyao. Dali. Riding My Scooter 3504x2190_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ruiyao. Dali. Riding My Scooter 3504x2190.png</original>
+    <mtime>1715690047</mtime>
+    <size>8055</size>
+    <md5>9109712182fb6ce351f6140742e77d59</md5>
+    <crc32>a7659ca8</crc32>
+    <sha1>a2bc1ad78a54fdc2bff5c5df7ef087f8ae23c5df</sha1>
+  </file>
+  <file name="Ruiyao. Dali. Riding My Scooter 3560x2225.png" source="original">
+    <mtime>1715689418</mtime>
+    <size>7214063</size>
+    <md5>ec80ff9b6ddf793ea9a80723a4b5a383</md5>
+    <crc32>1468840d</crc32>
+    <sha1>2c335fba3da0d2261b4fdf1371e4310132607068</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Ruiyao. Dali. Riding My Scooter 3560x2225_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ruiyao. Dali. Riding My Scooter 3560x2225.png</original>
+    <mtime>1715690044</mtime>
+    <size>7908</size>
+    <md5>c0f527823bc4422f3aa9b842bc4487c9</md5>
+    <crc32>4b423001</crc32>
+    <sha1>38ffb27ea3d1f8d0f83d16ce6d1c1741ad33facd</sha1>
+  </file>
+  <file name="Ruiyao. Dali. Riding My Scooter 7120x4450.jpg" source="original">
+    <mtime>1715689433</mtime>
+    <size>2177608</size>
+    <md5>3ae4a5289af96392f26ccfa62e854fe7</md5>
+    <crc32>d5ce7691</crc32>
+    <sha1>f1fe416b34c3dfd5f778949c0eba26ffe74d45e9</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Ruiyao. Dali. Riding My Scooter 7120x4450_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Ruiyao. Dali. Riding My Scooter 7120x4450.jpg</original>
+    <mtime>1715690050</mtime>
+    <size>8226</size>
+    <md5>e4369803ad278040f825eefe0f1abfef</md5>
+    <crc32>3cf0d1a5</crc32>
+    <sha1>3388bf39d68f94963a39795ad19f2f61deed86c1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1715690780</mtime>
+    <size>12557</size>
+    <md5>c748baf5e8502cb39ed5981b53b8e3ae</md5>
+    <crc32>58f34956</crc32>
+    <sha1>d4aa08190545605b42d7eac37876902bce650f3a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220838</mtime>
+    <size>6851</size>
+    <md5>5e79eb5e7bab269522a266ec19f10062</md5>
+    <crc32>57899abe</crc32>
+    <sha1>8ab9194e2812103843074ffeb59bcb2786f08719</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220842</mtime>
+    <size>28395</size>
+    <md5>f07b711d04862d702e3bf391630f19e2</md5>
+    <crc32>1d1e211c</crc32>
+    <sha1>9059ad759cbce680fcaacd6c68157069bc19446b</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220847</mtime>
+    <size>96584</size>
+    <md5>b35a361341adb1cbc78a2445b0ad7579</md5>
+    <crc32>a4c93cfc</crc32>
+    <sha1>f1e97b3def7829872dff38c35074dfb4f5ca2660</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220852</mtime>
+    <size>40365</size>
+    <md5>2449d07f74e0449c32001b0b92aba98d</md5>
+    <crc32>d892ab43</crc32>
+    <sha1>99db07ae8e096aab764050d2a275a13e15867cfa</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220856</mtime>
+    <size>103902</size>
+    <md5>bd66b4dcb0ed5744697e6bf2af56ca99</md5>
+    <crc32>88480da0</crc32>
+    <sha1>0eed85c6833ac7d92c975a313e7687e9bce9aed9</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220861</mtime>
+    <size>82802</size>
+    <md5>cc4bf0fb1934bfbfbd46d9cecbc8e2cf</md5>
+    <crc32>93112d6b</crc32>
+    <sha1>fbdc8c64ed88f1cbd68e6a96d58878de0c4d34ea</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220866</mtime>
+    <size>65449</size>
+    <md5>675da0c7123b091ecc0f80d890466d74</md5>
+    <crc32>1fe28951</crc32>
+    <sha1>e532e714e18b9ed39ce8c1fbfd808523a6223485</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220871</mtime>
+    <size>77387</size>
+    <md5>df4c73cd8488957a75303a10407ad434</md5>
+    <crc32>e0eefd04</crc32>
+    <sha1>39eb8a4b4103b5c7c916cc9b12d4c7645750e498</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220875</mtime>
+    <size>89762</size>
+    <md5>10943fa5e2df033bfddf667d07e854ec</md5>
+    <crc32>400a72d9</crc32>
+    <sha1>3de98edd3a38dfdd3eec8e8e9f3131feecd7074e</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220879</mtime>
+    <size>79607</size>
+    <md5>b0429098bf03797132d92ca5764ada93</md5>
+    <crc32>c9de635b</crc32>
+    <sha1>58038aedb3ed985e82ef5eb25160de2d678c91a8</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220884</mtime>
+    <size>90767</size>
+    <md5>612c745d888b349bdfaf488f7c3a407a</md5>
+    <crc32>4d52fd10</crc32>
+    <sha1>047c141224d8f4da96e81238f1cf37f9dab55226</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220889</mtime>
+    <size>59482</size>
+    <md5>f489e0d606b4953326c93efb9cc63ea4</md5>
+    <crc32>18fe861d</crc32>
+    <sha1>4f5bc3e24fb58ef6ba7c7922d1f5e413970eab92</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220894</mtime>
+    <size>42814</size>
+    <md5>e1a1c735b71979e287eab8d99395664d</md5>
+    <crc32>77b5119f</crc32>
+    <sha1>a02dffd96735016acc0dc6490b65278cd1195d36</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220898</mtime>
+    <size>60272</size>
+    <md5>0a148657bb3f8bfdf5efdf67e68417c2</md5>
+    <crc32>609fb92d</crc32>
+    <sha1>f1a33271946e003fbb838111b6e49ae9e29ce78b</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220903</mtime>
+    <size>55476</size>
+    <md5>0c82796e6a74d7a4cff57a1b773caca1</md5>
+    <crc32>317ab18e</crc32>
+    <sha1>84487856f1dc2594c0a5d06ac0b44dddb9d47db4</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter.thumbs/Ruiyao. Dali. Riding My Scooter 1080p_000465.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Ruiyao. Dali. Riding My Scooter 1080p.mp4</original>
+    <mtime>1707220905</mtime>
+    <size>36414</size>
+    <md5>55ff8a66e2133d2f9d41deb5da91c5c2</md5>
+    <crc32>5371c69b</crc32>
+    <sha1>e14ad41760e5d097e317ac64e011671f00a0e61c</sha1>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter_archive.torrent" source="metadata">
+    <btih>2e014797132a7b9070ffc1cc6628814ed9d40cff</btih>
+    <mtime>1715690989</mtime>
+    <size>10417</size>
+    <md5>55d4e90e1caefcb927dfdd36643c5613</md5>
+    <crc32>b2340747</crc32>
+    <sha1>fb4aec4a7a581e8f13f7c0f4a46ddbd668d7cb2b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8f72e0b1c7493997c812502068208e34</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter_meta.sqlite" source="original">
+    <mtime>1715690985</mtime>
+    <size>36864</size>
+    <md5>ceb2b94fd91f850bcb1fda333c68c82b</md5>
+    <crc32>119e9056</crc32>
+    <sha1>6a8dd8c0ea2347e6e38ee2cce155a1ee7bdfede1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ruiyao-dali-riding-my-scooter_meta.xml" source="original">
+    <mtime>1715690752</mtime>
+    <size>1911</size>
+    <md5>187533cc701a53797eadf143b4eea32d</md5>
+    <crc32>3f438bcd</crc32>
+    <sha1>5b6e5989a167080a69887889b9f9f14ab8145d8f</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
