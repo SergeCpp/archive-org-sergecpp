@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Canon Alumni Association. Flower Festival 1080p 30fps.mp4" source="original">
+    <mtime>1700451255</mtime>
+    <size>43989471</size>
+    <md5>4a19d41cdb874d5351b701484c59db66</md5>
+    <crc32>991d23d9</crc32>
+    <sha1>69c6825156d907e465fdbc6bd8c23f4fb3b9a0d8</sha1>
+    <format>MPEG4</format>
+    <length>145.09</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Canon Alumni Association. Flower Festival 2160p 30fps.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Canon Alumni Association. Flower Festival 2160p 30fps.mp4</original>
+    <mtime>1694425807</mtime>
+    <size>14313270</size>
+    <md5>b8fba3b5bc5771fb6026ec0607abe2ac</md5>
+    <crc32>0319c4f8</crc32>
+    <sha1>611bce81d312f515c90308f9bf4770fc85dfb932</sha1>
+    <length>145.13</length>
+    <width>854</width>
+    <height>480</height>
+  </file>
+  <file name="Canon Alumni Association. Flower Festival 2160p 30fps.mp4" source="original">
+    <mtime>1694423894</mtime>
+    <size>85338912</size>
+    <md5>1f6176ed4790b70d89bf9ec14752ad92</md5>
+    <crc32>1a814374</crc32>
+    <sha1>83a8629a15b6858c6790d8f3338ee065f4276ba6</sha1>
+    <format>MPEG4</format>
+    <length>145.09</length>
+    <width>3840</width>
+    <height>2160</height>
+  </file>
+  <file name="Canon Alumni Association. Flower Festival 2272x1420.png" source="original">
+    <mtime>1716457258</mtime>
+    <size>4321114</size>
+    <md5>2226aa7306498e75650557a129c942e5</md5>
+    <crc32>607ca8b4</crc32>
+    <sha1>59375113317a0bc825a3fa88950d06b8e6cf61b6</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Canon Alumni Association. Flower Festival 2272x1420_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Canon Alumni Association. Flower Festival 2272x1420.png</original>
+    <mtime>1716457984</mtime>
+    <size>8139</size>
+    <md5>dd0fe9d06448acf0dd363eb3b45d5c56</md5>
+    <crc32>bf858af5</crc32>
+    <sha1>0359ccc052b107a618a55afb30ea2c8c1a41a9b5</sha1>
+  </file>
+  <file name="Canon Alumni Association. Flower Festival 2279x1424.jpg" source="original">
+    <mtime>1694423911</mtime>
+    <size>720840</size>
+    <md5>f759e7898d3f1eed6690216ee391c947</md5>
+    <crc32>2aeb11d7</crc32>
+    <sha1>2b17b2279966dfab4d2dfc85194f83fd1613a187</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Canon Alumni Association. Flower Festival 2279x1424_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Canon Alumni Association. Flower Festival 2279x1424.jpg</original>
+    <mtime>1694425912</mtime>
+    <size>8531</size>
+    <md5>d6dfe7e33fdf574a4276423d2e424672</md5>
+    <crc32>ae89eafb</crc32>
+    <sha1>8aaafde48e5ff2d754056fab8dd7247456afefe1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716459324</mtime>
+    <size>14509</size>
+    <md5>5fbf9dc763f257c69a27f6e1a61237d0</md5>
+    <crc32>7cb660e8</crc32>
+    <sha1>fc463221d5a107c009d1192966f61408377f294f</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 1080p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 1080p 30fps.mp4</original>
+    <mtime>1700451539</mtime>
+    <size>55259</size>
+    <md5>4dc61cd6eae1671af0e6b63285fc4e70</md5>
+    <crc32>29374acf</crc32>
+    <sha1>cde0b916365c9393b78f45522f4f36220c657352</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 1080p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 1080p 30fps.mp4</original>
+    <mtime>1700451547</mtime>
+    <size>30716</size>
+    <md5>5b7ffe556464cc1f44fff2d71826e3fe</md5>
+    <crc32>4d0f71a6</crc32>
+    <sha1>af3ad5af0952021a73e6b0e6de99fc91a553e9af</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 1080p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 1080p 30fps.mp4</original>
+    <mtime>1700451556</mtime>
+    <size>37520</size>
+    <md5>f0c5b957a4fac892f038902d9f812fef</md5>
+    <crc32>07b2fdbd</crc32>
+    <sha1>697a0bbf26231998b87bfb0e5b2cf0fc9e9591d7</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 1080p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 1080p 30fps.mp4</original>
+    <mtime>1700451565</mtime>
+    <size>41201</size>
+    <md5>95c8f2c15bc8011a496a69a9f9b7320a</md5>
+    <crc32>7bf3b958</crc32>
+    <sha1>5e183dc57c404c8397713d43f6b013044d5664a3</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 1080p 30fps_000140.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 1080p 30fps.mp4</original>
+    <mtime>1700451572</mtime>
+    <size>43087</size>
+    <md5>48aa2e8197f9600bc5ba5afc93e6ffd8</md5>
+    <crc32>6eae4e5c</crc32>
+    <sha1>9f4370fd60f8747fdff24c359d887a0cec5402d1</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 2160p 30fps_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 2160p 30fps.mp4</original>
+    <mtime>1694424774</mtime>
+    <size>56597</size>
+    <md5>cf2177ea36f6763c30dcdd46b800f0ee</md5>
+    <crc32>bf642192</crc32>
+    <sha1>bd453cbe58cc7aaa42b21007eaf0378ac5f331e8</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 2160p 30fps_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 2160p 30fps.mp4</original>
+    <mtime>1694424792</mtime>
+    <size>31280</size>
+    <md5>bba0e5936f4962c6a1f2fc4264f392e3</md5>
+    <crc32>34dee8dd</crc32>
+    <sha1>0d6a9b090490abaa1bb30ae3a0b7d990d4012136</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 2160p 30fps_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 2160p 30fps.mp4</original>
+    <mtime>1694424809</mtime>
+    <size>39072</size>
+    <md5>cf7c14fc62642e3c051d6b4f06d69e6a</md5>
+    <crc32>7bb9f567</crc32>
+    <sha1>9ab9345a3238bf268f753d42ecd373c8bbe51547</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 2160p 30fps_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 2160p 30fps.mp4</original>
+    <mtime>1694424826</mtime>
+    <size>41954</size>
+    <md5>9b2b8481b19cf68de132dd10ffef6955</md5>
+    <crc32>27e82ede</crc32>
+    <sha1>cb93cfdc072aaac3a057cd2b0da823762be5264f</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival.thumbs/Canon Alumni Association. Flower Festival 2160p 30fps_000140.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Canon Alumni Association. Flower Festival 2160p 30fps.mp4</original>
+    <mtime>1694424841</mtime>
+    <size>44331</size>
+    <md5>f00fbdf3aa9d7f10cb8bdc244cbf1637</md5>
+    <crc32>29da3fbd</crc32>
+    <sha1>101a885977bc5a4c0e46282eec384314e46f3222</sha1>
+  </file>
+  <file name="canon-alumni-association-flower-festival_archive.torrent" source="metadata">
+    <btih>973b8cbe7396a5318d873fbe5e5db0cb6ae3acc5</btih>
+    <mtime>1716459336</mtime>
+    <size>9054</size>
+    <md5>67d5e3cdd33a132238dce6d9fb968f94</md5>
+    <crc32>a98a7404</crc32>
+    <sha1>d84c26678e716ab5feda37f1297fe81b3195bb89</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="canon-alumni-association-flower-festival_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8f02724205b9bd36cc7b2d8921329a07</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="canon-alumni-association-flower-festival_meta.sqlite" source="original">
+    <mtime>1716457270</mtime>
+    <size>32768</size>
+    <md5>b0dd809c2ce9037521469d36d9f01310</md5>
+    <crc32>b6462f18</crc32>
+    <sha1>2ed04960a88ecfa2dcd0b83d9a7770f046950e02</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="canon-alumni-association-flower-festival_meta.xml" source="original">
+    <mtime>1716459303</mtime>
+    <size>2017</size>
+    <md5>098139bbbfab5f03ade7178320ce5e8b</md5>
+    <crc32>be19496d</crc32>
+    <sha1>54367edccc1eb42a281a95bdd6ea181383868345</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

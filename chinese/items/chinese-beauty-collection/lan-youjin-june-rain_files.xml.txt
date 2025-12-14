@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Lan Youjin. June Rain 1968x1230 Lv 5 250.png" source="original">
+    <mtime>1716703575</mtime>
+    <size>2234895</size>
+    <md5>f7f860720ab9642c1a0b7e779f1df664</md5>
+    <crc32>681448b6</crc32>
+    <sha1>2f7c0624b1dec9903278e2fad769dc55ad958ab4</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="Lan Youjin. June Rain 1968x1230 Lv 5 250_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lan Youjin. June Rain 1968x1230 Lv 5 250.png</original>
+    <mtime>1716703981</mtime>
+    <size>7202</size>
+    <md5>ace7af3de4300463d8b41035e067fc63</md5>
+    <crc32>cc52c7a3</crc32>
+    <sha1>70b1b3b3b6b18a92c4f919adf72ab003ea11b617</sha1>
+  </file>
+  <file name="Lan Youjin. June Rain 1968x1230.png" source="original">
+    <mtime>1716703581</mtime>
+    <size>2046140</size>
+    <md5>83e2444c0651a910416cf1233256c423</md5>
+    <crc32>f85acda6</crc32>
+    <sha1>32b8b608344474abc6d8904e49748cc567aae081</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Lan Youjin. June Rain 1968x1230_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lan Youjin. June Rain 1968x1230.png</original>
+    <mtime>1716703985</mtime>
+    <size>7124</size>
+    <md5>1995b2f1011aaa08899239862a3022e6</md5>
+    <crc32>0d6a7e2d</crc32>
+    <sha1>99184bd480da7caa6ba299b910744b251a5a3a3f</sha1>
+  </file>
+  <file name="Lan Youjin. June Rain 1979x1237.jpg" source="original">
+    <mtime>1694351953</mtime>
+    <size>441506</size>
+    <md5>29e2777014ac32af1bc80c91fae110ff</md5>
+    <crc32>fa36a5ec</crc32>
+    <sha1>8a68f112b12a04545d9c88a0a7ab21156ec0e5bb</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Lan Youjin. June Rain 1979x1237_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lan Youjin. June Rain 1979x1237.jpg</original>
+    <mtime>1694352684</mtime>
+    <size>7564</size>
+    <md5>558e38e6f9eb3b5e9c1a609ef994eda5</md5>
+    <crc32>e842ebf8</crc32>
+    <sha1>7a3eff811f732dd78749ba3beb938647ff9ff28d</sha1>
+  </file>
+  <file name="Lan Youjin. June Rain. YouTube 1080p.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>Lan Youjin. June Rain. YouTube 1080p.mp4</original>
+    <mtime>1700485956</mtime>
+    <size>49613495</size>
+    <md5>8b1f42d26bb5f6da8f966e16e0e81374</md5>
+    <crc32>72f2a3ee</crc32>
+    <sha1>5ba49d5572fdf5469ede1c0061813f1d17950486</sha1>
+    <length>142.13</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="Lan Youjin. June Rain. YouTube 1080p.mp4" source="original">
+    <mtime>1694447423</mtime>
+    <size>49613495</size>
+    <md5>f1d04807075a2354b88ad68a8456bcd7</md5>
+    <crc32>bff46855</crc32>
+    <sha1>398bcb26000d1b57e8b13d49d56c5797630c68f3</sha1>
+    <format>MPEG4</format>
+    <length>142.13</length>
+    <width>1920</width>
+    <height>1080</height>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716704389</mtime>
+    <size>10509</size>
+    <md5>912998e2b695af5aa96cdb209c09fd5c</md5>
+    <crc32>cd96ae3f</crc32>
+    <sha1>21d2464140ccd68147741850534b634d281415c4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="lan-youjin-june-rain.thumbs/Lan Youjin. June Rain. YouTube 1080p_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lan Youjin. June Rain. YouTube 1080p.mp4</original>
+    <mtime>1700485851</mtime>
+    <size>26512</size>
+    <md5>144ce28a2d4286945160e36d3ffbaf2f</md5>
+    <crc32>c1575326</crc32>
+    <sha1>8e912bff10a2c7f6b28762e13bd865620081aec1</sha1>
+  </file>
+  <file name="lan-youjin-june-rain.thumbs/Lan Youjin. June Rain. YouTube 1080p_000058.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lan Youjin. June Rain. YouTube 1080p.mp4</original>
+    <mtime>1700485864</mtime>
+    <size>33555</size>
+    <md5>ecea86783e6805254acc20f73a0d5c5b</md5>
+    <crc32>25d17a19</crc32>
+    <sha1>47b5c5ae613f00b24d48043634bb1e49f877dfc4</sha1>
+  </file>
+  <file name="lan-youjin-june-rain.thumbs/Lan Youjin. June Rain. YouTube 1080p_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lan Youjin. June Rain. YouTube 1080p.mp4</original>
+    <mtime>1700485878</mtime>
+    <size>42027</size>
+    <md5>0845d4fcaf8c0487103216b9f6c4e40c</md5>
+    <crc32>1f544c32</crc32>
+    <sha1>afbabee7481f4af485290b56617c8f45978ef196</sha1>
+  </file>
+  <file name="lan-youjin-june-rain.thumbs/Lan Youjin. June Rain. YouTube 1080p_000117.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lan Youjin. June Rain. YouTube 1080p.mp4</original>
+    <mtime>1700485892</mtime>
+    <size>37083</size>
+    <md5>19cf91d487f4c34e04349bcb19451c5b</md5>
+    <crc32>ad29bf35</crc32>
+    <sha1>564240b12f3c26d9e7e3628bb18b65e3e332d26e</sha1>
+  </file>
+  <file name="lan-youjin-june-rain.thumbs/Lan Youjin. June Rain. YouTube 1080p_000138.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Lan Youjin. June Rain. YouTube 1080p.mp4</original>
+    <mtime>1700485904</mtime>
+    <size>42582</size>
+    <md5>d3e190adccbbed0179e6e53ad1e619e4</md5>
+    <crc32>5af42123</crc32>
+    <sha1>535b8896fd86bde2b9f718fbbc2579d2d7ccc983</sha1>
+  </file>
+  <file name="lan-youjin-june-rain_archive.torrent" source="metadata">
+    <btih>2fe0ad3dd7645c182fad7d72a3140ccc84a2e09a</btih>
+    <mtime>1716704390</mtime>
+    <size>7251</size>
+    <md5>26ff2afa9e69aeef3c5d69fd5890ebce</md5>
+    <crc32>2ef41054</crc32>
+    <sha1>392348300f9fa5e0a1022eac0477be6790003c53</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="lan-youjin-june-rain_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>de4e23e7cd43466754fbfce041516a4f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="lan-youjin-june-rain_meta.sqlite" source="original">
+    <mtime>1716703584</mtime>
+    <size>32768</size>
+    <md5>2a9ca32b2ddac849e374fea8ce83ceff</md5>
+    <crc32>fb7c97b5</crc32>
+    <sha1>40a04c40577d6f85a1ab608f616f7836b1c072fe</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="lan-youjin-june-rain_meta.xml" source="original">
+    <mtime>1716704383</mtime>
+    <size>1843</size>
+    <md5>4b6bec8d62edf5ddbfb0302720f86f48</md5>
+    <crc32>b13885e4</crc32>
+    <sha1>f24abc5917053df1537047672a7fb6367368b1f2</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
