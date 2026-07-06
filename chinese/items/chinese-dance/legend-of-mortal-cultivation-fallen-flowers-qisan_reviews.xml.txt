@@ -18,8 +18,17 @@
     <createdate>2025-01-24 22:40:22</createdate>
     <reviewer_itemname>@j_j678</reviewer_itemname>
   </review>
+  <review>
+    <reviewtitle>Another Rabbit-hole of Beauty</reviewtitle>
+    <reviewbody>Beautiful woman dances beautifully. How much of my life the Chinese dance section of the archive will steal?</reviewbody>
+    <stars>0</stars>
+    <reviewer>Han Colo</reviewer>
+    <reviewdate>2026-06-23 20:33:19</reviewdate>
+    <createdate>2026-06-23 20:33:19</createdate>
+    <reviewer_itemname>@han_colo</reviewer_itemname>
+  </review>
   <info>
-    <num_reviews>2</num_reviews>
+    <num_reviews>3</num_reviews>
     <avg_rating>5.00</avg_rating>
   </info>
 </reviews>
